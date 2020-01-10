@@ -183,10 +183,10 @@ export class Course extends React.Component<CourseProps, CourseState> {
         detailPanel={rowData => {
           const lessonClassCode = rowData.lessonClassCode;
           const scoreData = this.ensureScoreDataMap(lessonClassCode);
-          console.log(lessonClassCode);
-          console.log(scoreData);
+          // console.log(lessonClassCode);
+          // console.log(scoreData);
           return (
-            <Lesson scores={scoreData}/>
+            <Lesson scores={scoreData} lessonClassCode={lessonClassCode}/>
           );
         }}
         onRowClick={(event, rowData, togglePanel) => togglePanel()}

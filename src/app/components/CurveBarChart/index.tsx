@@ -13,7 +13,9 @@ import {
   HoverState,
   ArgumentAxis,
   ValueAxis,
+  // Palette,
 } from '@devexpress/dx-react-chart';
+// import {schemePastel2} from 'd3-scale-chromatic';
 
 import {withStyles} from '@material-ui/styles';
 import _ from 'lodash';
@@ -55,6 +57,15 @@ const legendItemStyles = {
   item: {
     flexDirection: 'column',
   },
+};
+
+const colors = ['#fdca00', '#19335d'];
+
+const BarSeriesPointBase = ({index, color, ...restProps}) => {
+  color = colors[index % 2];
+  // @ts-ignore
+  return <BarSeries.Point index={index}
+                          color={color} {...restProps}/>;
 };
 
 const ChartRootBase = ({classes, ...restProps}) => (
@@ -133,7 +144,7 @@ export class CurveBarChart extends React.Component<CurveBarChartProps, CurveBarC
       const pointData = this.props.data[targetItem.point];
       const percentage = Math.round(
         pointData.count / this.state.totalCount * 10000) / 100;
-      console.log(targetItem);
+      // console.log(targetItem);
       return (
         <h3>
           {pointData.grade}: {percentage}%
@@ -151,7 +162,9 @@ export class CurveBarChart extends React.Component<CurveBarChartProps, CurveBarC
         <BarSeries
           valueField="count"
           argumentField="grade"
+          pointComponent={BarSeriesPointBase}
         />
+        {/*<Palette scheme={schemePastel2}/>*/}
         {
           // @ts-ignore
           <ArgumentAxis/>
