@@ -6,6 +6,7 @@ import {
   Paper,
 } from '@material-ui/core';
 import Header from 'app/components/Header';
+import Footer from 'app/components/Footer';
 
 import {
   withStyles,
@@ -59,6 +60,7 @@ class Root extends React.Component<RootProps, RootState> {
               <Grid container justify="center">
                 {this.props.children}
               </Grid>
+              <Footer/>
             </div>
           </Paper>
         </Container>

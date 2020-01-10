@@ -1,4 +1,4 @@
-// import {observable} from 'mobx';
+import {observable} from 'mobx';
 
 export class ScoreModel {
   readonly courseCode: string;
@@ -11,7 +11,10 @@ export class LessonModel {
   readonly courseCode: string;
   readonly lessonClassName: string;
   readonly termName: string;
+  readonly studentNum: number;
+  readonly scoreNum: number;
   readonly lecturers: string[];
+  @observable public lecturersStr?: string;
 }
 
 export class CourseModel {

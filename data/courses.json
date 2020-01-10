@@ -120,24 +120,24 @@
     "terms": "SU2018"
   },
   {
-    "courseCode": "VM645",
-    "courseName": "弹性波在固体中的传播",
-    "courseNameEn": "Wave Propagation in Elastic Solids",
-    "lessons": [
-      [
-        "VM645SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
     "courseCode": "VY202",
     "courseName": "旅行写作",
     "courseNameEn": "Travel Writing in Shanghai and Beyond",
     "lessons": [
       [
         "VY202SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM645",
+    "courseName": "弹性波在固体中的传播",
+    "courseNameEn": "Wave Propagation in Elastic Solids",
+    "lessons": [
+      [
+        "VM645SU2018",
         "SU2018"
       ]
     ],
@@ -1648,6 +1648,18 @@
     "terms": "FA2019"
   },
   {
+    "courseCode": "VY240",
+    "courseName": "诗歌概论",
+    "courseNameEn": "Introduction to Poetry ",
+    "lessons": [
+      [
+        "VY240SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
     "courseCode": "VM520",
     "courseName": "高等流体力学",
     "courseNameEn": "Advanced Fluid Mechanics",
@@ -1666,18 +1678,6 @@
       ]
     ],
     "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VY240",
-    "courseName": "诗歌概论",
-    "courseNameEn": "Introduction to Poetry ",
-    "lessons": [
-      [
-        "VY240SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
   },
   {
     "courseCode": "VR123",
@@ -2512,6 +2512,22 @@
     "terms": "FA2018"
   },
   {
+    "courseCode": "VZ032",
+    "courseName": "汉语三（下） ",
+    "courseNameEn": "Chinese Language (level 3 part 2)",
+    "lessons": [
+      [
+        "VZ032FA2018",
+        "FA2018"
+      ],
+      [
+        "VZ032FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
     "courseCode": "VV215",
     "courseName": "微积分（3）",
     "courseNameEn": "Calculus III",
@@ -2550,22 +2566,6 @@
       ]
     ],
     "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VZ032",
-    "courseName": "汉语三（下） ",
-    "courseNameEn": "Chinese Language (level 3 part 2)",
-    "lessons": [
-      [
-        "VZ032FA2018",
-        "FA2018"
-      ],
-      [
-        "VZ032FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
   },
   {
     "courseCode": "VM467",
@@ -4064,22 +4064,6 @@
     "terms": "SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020"
   },
   {
-    "courseCode": "VK250",
-    "courseName": "工程材料导论",
-    "courseNameEn": "Principles of Engineering Materials",
-    "lessons": [
-      [
-        "VK250SP2018",
-        "SP2018"
-      ],
-      [
-        "VK250SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SP2018, SP2019"
-  },
-  {
     "courseCode": "VE216",
     "courseName": "信号与系统处理",
     "courseNameEn": "Intro to Signals and Systems",
@@ -4122,6 +4106,22 @@
       ]
     ],
     "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VK250",
+    "courseName": "工程材料导论",
+    "courseNameEn": "Principles of Engineering Materials",
+    "lessons": [
+      [
+        "VK250SP2018",
+        "SP2018"
+      ],
+      [
+        "VK250SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SP2018, SP2019"
   },
   {
     "courseCode": "VE492",
@@ -5464,24 +5464,24 @@
     "terms": "FA2017"
   },
   {
-    "courseCode": "VP260",
-    "courseName": "强化物理（J类）（2）",
-    "courseNameEn": "Honors Physics Ⅱ",
+    "courseCode": "VX251",
+    "courseName": "品牌管理",
+    "courseNameEn": "Branding and Brand Management",
     "lessons": [
       [
-        "VP260FA2017",
-        "FA2017"
+        "VX251SP2018",
+        "SP2018"
       ],
       [
-        "VP260FA2018",
-        "FA2018"
+        "VX251SP2019",
+        "SP2019"
       ],
       [
-        "VP260FA2019",
-        "FA2019"
+        "VX251SP2020",
+        "SP2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019"
+    "terms": "SP2018, SP2019, SP2020"
   },
   {
     "courseCode": "VR238",
@@ -5516,24 +5516,24 @@
     "terms": "FA2017, FA2018, FA2019"
   },
   {
-    "courseCode": "VX251",
-    "courseName": "品牌管理",
-    "courseNameEn": "Branding and Brand Management",
+    "courseCode": "VP260",
+    "courseName": "强化物理（J类）（2）",
+    "courseNameEn": "Honors Physics Ⅱ",
     "lessons": [
       [
-        "VX251SP2018",
-        "SP2018"
+        "VP260FA2017",
+        "FA2017"
       ],
       [
-        "VX251SP2019",
-        "SP2019"
+        "VP260FA2018",
+        "FA2018"
       ],
       [
-        "VX251SP2020",
-        "SP2020"
+        "VP260FA2019",
+        "FA2019"
       ]
     ],
-    "terms": "SP2018, SP2019, SP2020"
+    "terms": "FA2017, FA2018, FA2019"
   },
   {
     "courseCode": "VV186",
