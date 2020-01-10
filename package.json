@@ -53,7 +53,7 @@
     "@material-ui/icons": "^4.5.1",
     "@types/lodash": "^4.14.145",
     "classnames": "^2.2.6",
-    "ji-grade-analysis-data": "link:../data",
+    "ji-grade-analysis-data": "link:./data",
     "lodash": "^4.17.15",
     "material-table": "^1.54.2",
     "mobx": "^5.8.0",
