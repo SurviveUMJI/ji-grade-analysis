@@ -14,7 +14,7 @@ export class Footer extends React.Component<FooterProps, FooterState> {
         <br/>
         <Grid container justify="flex-end">
           Powered by&nbsp;
-          <Link href="https://github.com/tc-imba"> tc-imba </Link>,
+          <Link href="https://github.com/tc-imba" target="_blank">tc-imba</Link>,
           Copyright 2019-2020
         </Grid>
       </footer>

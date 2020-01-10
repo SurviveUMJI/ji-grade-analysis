@@ -1,9 +1,14 @@
 import * as React from 'react';
 import {inject} from 'mobx-react';
 import {
+  FormControlLabel,
   // Tab,
   // Tabs,
   // Typography,
+  RadioGroup,
+  Radio,
+  Switch,
+  Grid,
   Paper,
 } from '@material-ui/core';
 import MaterialTable, {Column} from 'material-table';
@@ -25,6 +30,9 @@ export interface CourseProps {
 export interface CourseState {
   course: CourseModel;
   lessons: LessonModel[];
+  chartType: string;
+  hideUnknown: boolean;
+  hideZero: boolean;
   // lessonClassCode: string | boolean;
   // lesson: LessonModel | null;
 }
@@ -35,10 +43,6 @@ const grades = ['A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D', 'F'];
 export class Course extends React.Component<CourseProps, CourseState> {
   columns: Array<Column<LessonModel>>;
   scoreDataMap: Dictionary<ScoreData[]> = {};
-
-  // course: CourseModel;
-
-  // lessonsMap: Dictionary<string>;
 
   constructor(props: CourseProps, context: any) {
     super(props, context);
@@ -71,8 +75,9 @@ export class Course extends React.Component<CourseProps, CourseState> {
     this.state = {
       course: null,
       lessons: [],
-      // lessonClassCode: false,
-      // lesson: null,
+      chartType: 'bar',
+      hideUnknown: false,
+      hideZero: false,
     };
   }
 
@@ -88,14 +93,9 @@ export class Course extends React.Component<CourseProps, CourseState> {
         lessons.push(lesson);
       }
     });
-    // this.lessonsMap = _.fromPairs(this.course.lessons);
-    // const lessonClassCode = course.lessons.length ?
-    //   course.lessons[0][0] : false;
     this.setState({
       course: course,
       lessons: lessons,
-      // lessonClassCode: lessonClassCode,
-      // lesson: lessonClassCode ? this.getLesson(lessonClassCode) : null,
     });
   }
 
@@ -125,9 +125,9 @@ export class Course extends React.Component<CourseProps, CourseState> {
       });
     }
     if (studentNum > scoreNum) {
-      scoreData.push( {grade: 'Unknown', count: studentNum - scoreNum});
+      scoreData.push({grade: 'Unknown', count: studentNum - scoreNum});
     } else {
-      scoreData.push( {grade: 'Unknown', count: 0});
+      scoreData.push({grade: 'Unknown', count: 0});
     }
     this.scoreDataMap[lessonClassCode] = scoreData;
     return scoreData;
@@ -145,20 +145,23 @@ export class Course extends React.Component<CourseProps, CourseState> {
     }
   }
 
-  getLesson(lessonClassCode: string) {
-    const coursesStore = this.props[STORE_COURSES] as CoursesStore;
-    if (coursesStore.lessonsMap.hasOwnProperty(lessonClassCode)) {
-      return coursesStore.lessonsMap[lessonClassCode];
-    }
-    return null;
+  onChangeChartType(event: React.ChangeEvent<HTMLInputElement>) {
+    this.setState({
+      chartType: (event.target as HTMLInputElement).value,
+    });
   }
 
-  /*  handleChange(event: React.ChangeEvent<{}>, newValue: string) {
-      this.setState({
-        lessonClassCode: newValue,
-        lesson: this.getLesson(newValue),
-      });
-    };*/
+  onChangeHideUnknown(event: React.ChangeEvent<HTMLInputElement>) {
+    this.setState({
+      hideUnknown: event.target.checked,
+    });
+  }
+
+  onChangeHideZero(event: React.ChangeEvent<HTMLInputElement>) {
+    this.setState({
+      hideZero: event.target.checked,
+    });
+  }
 
   render() {
     let title = this.props.courseCode;
@@ -167,30 +170,78 @@ export class Course extends React.Component<CourseProps, CourseState> {
         this.state.course.courseName;
     }
     return (
-      <MaterialTable
-        title={title}
-        columns={this.columns}
-        data={this.state.lessons}
-        icons={icons}
-        options={{
-          pageSize: 10,
-          pageSizeOptions: [10, 25, 50, 100],
-        }}
-        style={{width: '100%'}}
-        components={{
-          Container: props => (<Paper elevation={0} {...props}></Paper>),
-        }}
-        detailPanel={rowData => {
-          const lessonClassCode = rowData.lessonClassCode;
-          const scoreData = this.ensureScoreDataMap(lessonClassCode);
-          // console.log(lessonClassCode);
-          // console.log(scoreData);
-          return (
-            <Lesson scores={scoreData} lessonClassCode={lessonClassCode}/>
-          );
-        }}
-        onRowClick={(event, rowData, togglePanel) => togglePanel()}
-      />
+      <React.Fragment>
+        <Grid container>
+          <RadioGroup value={this.state.chartType}
+                      onChange={this.onChangeChartType.bind(this)} row>
+            <FormControlLabel
+              value="bar"
+              control={<Radio color="secondary"/>}
+              label="Bar"
+              labelPlacement="bottom"
+            />
+            <FormControlLabel
+              value="line"
+              control={<Radio color="secondary"/>}
+              label="Line"
+              labelPlacement="bottom"
+            />
+            <FormControlLabel
+              value="pie"
+              control={<Radio color="secondary"/>}
+              label="Pie"
+              labelPlacement="bottom"
+            />
+          </RadioGroup>
+          <FormControlLabel
+            control={
+              <Switch
+                checked={this.state.hideUnknown}
+                onChange={this.onChangeHideUnknown.bind(this)}
+                color="secondary"
+              />
+            }
+            label="Hide Unknown"
+          />
+          <FormControlLabel
+            control={
+              <Switch
+                checked={this.state.hideZero}
+                onChange={this.onChangeHideZero.bind(this)}
+                color="secondary"
+              />
+            }
+            label="Hide Zero"
+          />
+        </Grid>
+        <MaterialTable
+          title={title}
+          columns={this.columns}
+          data={this.state.lessons}
+          icons={icons}
+          options={{
+            pageSize: 10,
+            pageSizeOptions: [10, 25, 50, 100],
+          }}
+          style={{width: '100%'}}
+          components={{
+            Container: props => (<Paper elevation={0} {...props}></Paper>),
+          }}
+          detailPanel={rowData => {
+            const lessonClassCode = rowData.lessonClassCode;
+            const scoreData = this.ensureScoreDataMap(lessonClassCode);
+            // console.log(lessonClassCode);
+            // console.log(scoreData);
+            return (
+              <Lesson scores={scoreData} lessonClassCode={lessonClassCode}
+                      chartType={this.state.chartType}
+                      hideUnknown={this.state.hideUnknown}
+                      hideZero={this.state.hideZero}/>
+            );
+          }}
+          onRowClick={(event, rowData, togglePanel) => togglePanel()}
+        />
+      </React.Fragment>
     );
   }
 }
