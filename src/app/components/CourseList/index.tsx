@@ -2,6 +2,7 @@ import * as React from 'react';
 import {
   // Divider,
   // TableHead,
+  Paper,
 } from '@material-ui/core';
 import MaterialTable, {Column} from 'material-table';
 
@@ -48,7 +49,7 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
   render() {
     const router = this.props[STORE_ROUTER] as RouterStore;
     return (
-      <div>
+      // <div>
         <MaterialTable
           title="Courses"
           columns={this.state.columns}
@@ -57,6 +58,9 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
           options={{
             pageSize: 10,
             pageSizeOptions: [10, 25, 50, 100],
+          }}
+          components={{
+            Container: props => (<Paper elevation={0} {...props}></Paper>)
           }}
           onRowClick={(event, rowData) => {
             console.log(rowData.courseCode);
@@ -68,7 +72,7 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
             }
           }}
         />
-      </div>
+      // </div>
     );
   }
 }

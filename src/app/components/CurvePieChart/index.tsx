@@ -8,7 +8,7 @@ import {
   Title,
 } from '@devexpress/dx-react-chart-material-ui';
 import {Animation, EventTracker, HoverState} from '@devexpress/dx-react-chart';
-import {withStyles} from '@material-ui/core/styles';
+import {withStyles} from '@material-ui/styles';
 import _ from 'lodash';
 
 import {STORE_COURSES} from 'app/constants';

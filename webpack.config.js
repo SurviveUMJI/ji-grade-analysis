@@ -12,6 +12,46 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var MiniCssExtractPlugin = require('mini-css-extract-plugin');
 var WebpackCleanupPlugin = require('webpack-cleanup-plugin');
 
+var cssModuleRegex = new RegExp(/\.module\.(less|css)$/);
+var loaderUtils = require("loader-utils");
+
+function getLocalIdent(loaderContext, localIdentName, localName, options) {
+
+  // return local name if it's a global css file
+  if (!cssModuleRegex.test(loaderContext.resourcePath)) {
+    return localName;
+  }
+
+  if (loaderContext.resourcePath.includes('node_modules')) {
+    return localName;
+  }
+
+  if (!options.context) {
+    // eslint-disable-next-line no-param-reassign
+    options.context = loaderContext.rootContext;
+  }
+
+  const request = path
+  .relative(options.context, loaderContext.resourcePath)
+  .replace(/\\/g, '/');
+
+  // eslint-disable-next-line no-param-reassign
+  options.content = `${options.hashPrefix + request}+${localName}`;
+
+  // eslint-disable-next-line no-param-reassign
+  localIdentName = localIdentName.replace(/\[local\]/gi, localName);
+
+  const hash = loaderUtils.interpolateName(
+    loaderContext,
+    localIdentName,
+    options
+  );
+
+  return hash
+  .replace(new RegExp('[^a-zA-Z0-9\\-_\u00A0-\uFFFF]', 'g'), '-')
+  .replace(/^((-?[0-9])|--)/, '_$1');
+}
+
 module.exports = {
   context: sourcePath,
   entry: {
@@ -58,7 +98,8 @@ module.exports = {
               importLoaders: 1,
               localIdentName: isProduction
                 ? '[hash:base64:5]'
-                : '[local]__[hash:base64:5]'
+                : '[local]__[hash:base64:5]',
+              getLocalIdent
             }
           },
           {

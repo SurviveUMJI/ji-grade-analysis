@@ -1,17 +1,19 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { Provider } from 'mobx-react';
-import { createHashHistory } from 'history';
-import { TodoModel } from 'app/models';
-import { createStores } from 'app/stores';
-import { App } from 'app';
+import {Provider} from 'mobx-react';
+
+import {createHashHistory} from 'history';
+import {TodoModel} from 'app/models';
+import {createStores} from 'app/stores';
+import {App} from 'app';
+
 
 import 'typeface-roboto';
 
 // default fixtures for TodoStore
 const defaultTodos = [
   new TodoModel('Use Mobx'),
-  new TodoModel('Use React', true)
+  new TodoModel('Use React', true),
 ];
 
 // prepare MobX stores
@@ -21,11 +23,10 @@ const rootStore = createStores(history, defaultTodos);
 // render react DOM
 ReactDOM.render(
   <Provider {...rootStore}>
-    <App history={history} />
+    <App history={history}/>
   </Provider>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
-
 
 /*
 <Container>
