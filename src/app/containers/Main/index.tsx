@@ -2,13 +2,14 @@ import * as React from 'react';
 
 import {inject, observer} from 'mobx-react';
 import {RouteComponentProps} from 'react-router';
-import {Link} from 'react-router-dom';
+import {Link as RouterLink} from 'react-router-dom';
 
 import {STORE_ROUTER} from 'app/constants';
 import {
   Button, Grid,
-  Typography,
+  Typography, Link,
 } from '@material-ui/core';
+import statsData from 'ji-grade-analysis-data/stats.json';
 
 export interface MainProps extends RouteComponentProps<any> {
 }
@@ -33,9 +34,15 @@ export class Main extends React.Component<MainProps, MainState> {
           sections and terms, aiming at forming a better
           and fairer GPA environment in JI.
         </Typography>
+        <Typography variant="h5" color="inherit" paragraph>
+          <Link color="secondary">{statsData.scores}</Link> score data
+          from <Link color="secondary">{statsData.lessons}</Link> classes
+          of <Link color="secondary">{statsData.courses}</Link> courses
+          have been analyzed.
+        </Typography>
         <Grid container justify="center">
           <Button variant="outlined" color="secondary" size="large"
-                  component={Link} to="/courses">
+                  component={RouterLink} to="/courses">
             Start Explore
           </Button>
         </Grid>

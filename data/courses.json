@@ -1,83 +1,1867 @@
 [
   {
-    "courseCode": "VE539",
-    "courseName": "激光原理",
-    "courseNameEn": "Lasers",
+    "courseCode": "PE001",
+    "courseName": "体育（1）",
+    "courseNameEn": "Physical Education I",
     "lessons": [
       [
-        "VE539",
-        "SU2017"
+        "PE001FA2017-010",
+        "FA2017-10"
       ],
       [
-        "VE539SU2019",
-        "SU2019"
+        "PE001FA2017-011",
+        "FA2017-11"
+      ],
+      [
+        "PE001FA2017-012",
+        "FA2017-12"
+      ],
+      [
+        "PE001FA2017-013",
+        "FA2017-13"
+      ],
+      [
+        "PE001FA2017-014",
+        "FA2017-14"
+      ],
+      [
+        "PE001FA2017-015",
+        "FA2017-15"
+      ],
+      [
+        "PE001FA2017-016",
+        "FA2017-16"
+      ],
+      [
+        "PE001FA2017-017",
+        "FA2017-17"
+      ],
+      [
+        "PE001FA2017-018",
+        "FA2017-18"
+      ],
+      [
+        "PE001FA2017-019",
+        "FA2017-19"
+      ],
+      [
+        "PE001FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "PE001FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "PE001FA2018-3",
+        "FA2018-3"
+      ],
+      [
+        "PE001FA2018-4",
+        "FA2018-4"
+      ],
+      [
+        "PE001FA2018-5",
+        "FA2018-5"
+      ],
+      [
+        "PE001FA2018-6",
+        "FA2018-6"
+      ],
+      [
+        "PE001FA2018-7",
+        "FA2018-7"
+      ],
+      [
+        "PE001FA2018-8",
+        "FA2018-8"
+      ],
+      [
+        "PE001FA2018-9",
+        "FA2018-9"
+      ],
+      [
+        "PE001FA2018-10",
+        "FA2018-10"
+      ],
+      [
+        "PE001FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "PE001FA2019-2",
+        "FA2019-2"
+      ],
+      [
+        "PE001FA2019-3",
+        "FA2019-3"
+      ],
+      [
+        "PE001FA2019-4",
+        "FA2019-4"
+      ],
+      [
+        "PE001FA2019-5",
+        "FA2019-5"
+      ],
+      [
+        "PE001FA2019-6",
+        "FA2019-6"
+      ],
+      [
+        "PE001FA2019-7",
+        "FA2019-7"
+      ],
+      [
+        "PE001FA2019-8",
+        "FA2019-8"
+      ],
+      [
+        "PE001FA2019-9",
+        "FA2019-9"
+      ],
+      [
+        "PE001FA2019-10",
+        "FA2019-10"
       ]
     ],
-    "terms": "SU2017, SU2019"
+    "terms": "FA2017, FA2018, FA2019"
   },
   {
-    "courseCode": "VR361",
-    "courseName": "哲学伦理学",
-    "courseNameEn": "Philosophical Ethics",
+    "courseCode": "PE002",
+    "courseName": "体育（2）",
+    "courseNameEn": "Physical Education II",
     "lessons": [
       [
-        "VR361SU2017",
-        "SU2017"
+        "PE002SP2018-019-1",
+        "SP2018-1"
+      ],
+      [
+        "PE002SP2018-019-2",
+        "SP2018-2"
+      ],
+      [
+        "PE002SP2018-011",
+        "SP2018-11"
+      ],
+      [
+        "PE002SP2018-012",
+        "SP2018-12"
+      ],
+      [
+        "PE002SP2018-013",
+        "SP2018-13"
+      ],
+      [
+        "PE002SP2018-014",
+        "SP2018-14"
+      ],
+      [
+        "PE002SP2018-015",
+        "SP2018-15"
+      ],
+      [
+        "PE002SP2018-016",
+        "SP2018-16"
+      ],
+      [
+        "PE002SP2018-017",
+        "SP2018-17"
+      ],
+      [
+        "PE002SP2018-018",
+        "SP2018-18"
+      ],
+      [
+        "PE002SP2018-020",
+        "SP2018-20"
+      ],
+      [
+        "PE002SP2019-18",
+        "SP2019-18"
+      ],
+      [
+        "PE002SP2019-19",
+        "SP2019-19"
+      ],
+      [
+        "PE002SP2019-20",
+        "SP2019-20"
+      ],
+      [
+        "PE002SP2019-21",
+        "SP2019-21"
+      ],
+      [
+        "PE002SP2019-27",
+        "SP2019-27"
+      ],
+      [
+        "PE002SP2019-28",
+        "SP2019-28"
+      ],
+      [
+        "PE002SP2019-29",
+        "SP2019-29"
+      ],
+      [
+        "PE002SP2019-30",
+        "SP2019-30"
+      ],
+      [
+        "PE002SP2019-31",
+        "SP2019-31"
+      ],
+      [
+        "PE002SP2019-35",
+        "SP2019-35"
+      ],
+      [
+        "PE002SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "PE002SP2020-2",
+        "SP2020-2"
+      ],
+      [
+        "PE002SP2020-3",
+        "SP2020-3"
+      ],
+      [
+        "PE002SP2020-4",
+        "SP2020-4"
+      ],
+      [
+        "PE002SP2020-5",
+        "SP2020-5"
+      ],
+      [
+        "PE002SP2020-6",
+        "SP2020-6"
+      ],
+      [
+        "PE002SP2020-7",
+        "SP2020-7"
+      ],
+      [
+        "PE002SP2020-8",
+        "SP2020-8"
+      ],
+      [
+        "PE002SP2020-9",
+        "SP2020-9"
+      ],
+      [
+        "PE002SP2020-10",
+        "SP2020-10"
       ]
     ],
-    "terms": "SU2017"
+    "terms": "SP2018, SP2019, SP2020"
   },
   {
-    "courseCode": "VE492",
-    "courseName": "人工智能导论",
-    "courseNameEn": "Intro to Artificial Intelligence",
+    "courseCode": "PE003",
+    "courseName": "体育（3）",
+    "courseNameEn": "Physical Education III",
     "lessons": [
       [
-        "VE492SP2018",
+        "PE003FA2017-010",
+        "FA2017-10"
+      ],
+      [
+        "PE003FA2017-012",
+        "FA2017-12"
+      ],
+      [
+        "PE003FA2017-015",
+        "FA2017-15"
+      ],
+      [
+        "PE003FA2017-017",
+        "FA2017-17"
+      ],
+      [
+        "PE003FA2017-018",
+        "FA2017-18"
+      ],
+      [
+        "PE003FA2017-022",
+        "FA2017-22"
+      ],
+      [
+        "PE003FA2017-024",
+        "FA2017-24"
+      ],
+      [
+        "PE003FA2017-027",
+        "FA2017-27"
+      ],
+      [
+        "PE003FA2017-029",
+        "FA2017-29"
+      ],
+      [
+        "PE003FA2017-032",
+        "FA2017-32"
+      ],
+      [
+        "PE003FA2017-033",
+        "FA2017-33"
+      ],
+      [
+        "PE003FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "PE003FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "PE003FA2018-3",
+        "FA2018-3"
+      ],
+      [
+        "PE003FA2018-4",
+        "FA2018-4"
+      ],
+      [
+        "PE003FA2018-5",
+        "FA2018-5"
+      ],
+      [
+        "PE003FA2018-6",
+        "FA2018-6"
+      ],
+      [
+        "PE003FA2018-7",
+        "FA2018-7"
+      ],
+      [
+        "PE003FA2018-8",
+        "FA2018-8"
+      ],
+      [
+        "PE003FA2018-9",
+        "FA2018-9"
+      ],
+      [
+        "PE003FA2018-10",
+        "FA2018-10"
+      ],
+      [
+        "PE003FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "PE003FA2019-2",
+        "FA2019-2"
+      ],
+      [
+        "PE003FA2019-3",
+        "FA2019-3"
+      ],
+      [
+        "PE003FA2019-4",
+        "FA2019-4"
+      ],
+      [
+        "PE003FA2019-5",
+        "FA2019-5"
+      ],
+      [
+        "PE003FA2019-6",
+        "FA2019-6"
+      ],
+      [
+        "PE003FA2019-7",
+        "FA2019-7"
+      ],
+      [
+        "PE003FA2019-8",
+        "FA2019-8"
+      ],
+      [
+        "PE003FA2019-9",
+        "FA2019-9"
+      ],
+      [
+        "PE003FA2019-10",
+        "FA2019-10"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "PE004",
+    "courseName": "体育（4）",
+    "courseNameEn": "Physical Education IV",
+    "lessons": [
+      [
+        "PE004SP2018-010",
+        "SP2018-10"
+      ],
+      [
+        "PE004SP2018-011",
+        "SP2018-11"
+      ],
+      [
+        "PE004SP2018-012",
+        "SP2018-12"
+      ],
+      [
+        "PE004SP2018-013",
+        "SP2018-13"
+      ],
+      [
+        "PE004SP2018-014",
+        "SP2018-14"
+      ],
+      [
+        "PE004SP2018-015",
+        "SP2018-15"
+      ],
+      [
+        "PE004SP2018-016",
+        "SP2018-16"
+      ],
+      [
+        "PE004SP2018-017",
+        "SP2018-17"
+      ],
+      [
+        "PE004SP2018-018",
+        "SP2018-18"
+      ],
+      [
+        "PE004SP2018-019",
+        "SP2018-19"
+      ],
+      [
+        "PE004SP2018-036",
+        "SP2018-36"
+      ],
+      [
+        "PE004SP2019-12",
+        "SP2019-12"
+      ],
+      [
+        "PE004SP2019-13",
+        "SP2019-13"
+      ],
+      [
+        "PE004SP2019-14",
+        "SP2019-14"
+      ],
+      [
+        "PE004SP2019-15",
+        "SP2019-15"
+      ],
+      [
+        "PE004SP2019-16",
+        "SP2019-16"
+      ],
+      [
+        "PE004SP2019-17",
+        "SP2019-17"
+      ],
+      [
+        "PE004SP2019-18",
+        "SP2019-18"
+      ],
+      [
+        "PE004SP2019-19",
+        "SP2019-19"
+      ],
+      [
+        "PE004SP2019-20",
+        "SP2019-20"
+      ],
+      [
+        "PE004SP2019-21",
+        "SP2019-21"
+      ],
+      [
+        "PE004SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "PE004SP2020-2",
+        "SP2020-2"
+      ],
+      [
+        "PE004SP2020-3",
+        "SP2020-3"
+      ],
+      [
+        "PE004SP2020-4",
+        "SP2020-4"
+      ],
+      [
+        "PE004SP2020-5",
+        "SP2020-5"
+      ],
+      [
+        "PE004SP2020-6",
+        "SP2020-6"
+      ],
+      [
+        "PE004SP2020-7",
+        "SP2020-7"
+      ],
+      [
+        "PE004SP2020-8",
+        "SP2020-8"
+      ],
+      [
+        "PE004SP2020-9",
+        "SP2020-9"
+      ],
+      [
+        "PE004SP2020-10",
+        "SP2020-10"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "TH000",
+    "courseName": "思想道德修养与法律基础",
+    "courseNameEn": "Morals and Ethics & Law Fundamentals",
+    "lessons": [
+      [
+        "TH000SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH000SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "TH000SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "TH000SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "TH000SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "TH000SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "TH004",
+    "courseName": "军事理论",
+    "courseNameEn": "Military Theory",
+    "lessons": [
+      [
+        "TH004SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH004SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "TH004SP2018-3",
+        "SP2018-3"
+      ],
+      [
+        "TH004SP2018-4",
+        "SP2018-4"
+      ],
+      [
+        "TH004SP2018-5",
+        "SP2018-5"
+      ],
+      [
+        "TH004SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "TH004SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "TH004SP2019-3",
+        "SP2019-3"
+      ],
+      [
+        "TH004SP2019-4",
+        "SP2019-4"
+      ],
+      [
+        "TH004SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "TH004SP2020-2",
+        "SP2020-2"
+      ],
+      [
+        "TH004SP2020-3",
+        "SP2020-3"
+      ],
+      [
+        "TH004SP2020-4",
+        "SP2020-4"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "TH007",
+    "courseName": "马克思主义基本原理",
+    "courseNameEn": "Marxism Basic Theory",
+    "lessons": [
+      [
+        "TH007SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH007SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "TH007SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "TH007SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "TH007SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "TH007SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "TH010",
+    "courseName": "军训",
+    "courseNameEn": "Military Training",
+    "lessons": [
+      [
+        "TH010SP2018",
         "SP2018"
       ],
       [
-        "VE492FA2019",
+        "TH010SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SP2018, SP2019"
+  },
+  {
+    "courseCode": "TH012",
+    "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
+    "courseNameEn": "Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics",
+    "lessons": [
+      [
+        "TH012SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH012SP2018-2",
+        "SP2018-2"
+      ]
+    ],
+    "terms": "SP2018"
+  },
+  {
+    "courseCode": "TH020",
+    "courseName": "形势与政策",
+    "courseNameEn": "Circumstance and Policy",
+    "lessons": [
+      [
+        "TH020FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "TH020FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "TH020SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH020SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "TH020FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "TH020FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "TH020SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "TH020SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "TH020FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "TH020FA2019-2",
+        "FA2019-2"
+      ],
+      [
+        "TH020SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "TH020SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "TH021",
+    "courseName": "中国近现代史纲要",
+    "courseNameEn": "Modern Chinese History",
+    "lessons": [
+      [
+        "TH021SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "TH021SP2018-2",
+        "SP2018-2"
+      ]
+    ],
+    "terms": "SP2018"
+  },
+  {
+    "courseCode": "TH028",
+    "courseName": "中国近代史纲要",
+    "courseNameEn": "Modern Chinese History",
+    "lessons": [
+      [
+        "TH028FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "TH028FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "TH028FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "TH028FA2019-2",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "TH029",
+    "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
+    "courseNameEn": "Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics",
+    "lessons": [
+      [
+        "TH029SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "TH029SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "TH029SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "TH029SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "SP2019, SP2020"
+  },
+  {
+    "courseCode": "VC209",
+    "courseName": "大学化学",
+    "courseNameEn": "Chemistry",
+    "lessons": [
+      [
+        "VC209FA2017",
+        "FA2017"
+      ],
+      [
+        "VC209FA2019",
         "FA2019"
       ]
     ],
-    "terms": "SP2018, FA2019"
+    "terms": "FA2017, FA2019"
   },
   {
-    "courseCode": "VV215",
-    "courseName": "微积分（3）",
-    "courseNameEn": "Calculus III",
+    "courseCode": "VC210",
+    "courseName": "大学化学（J类）",
+    "courseNameEn": "Chemistry",
     "lessons": [
       [
-        "VV215SU2017",
-        "SU2017"
+        "VC210FA2017-1",
+        "FA2017-1"
       ],
       [
-        "VV215SU2018",
+        "VC210FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VC210FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VC210FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VC210FA2019-1-Afternoon",
+        "FA2019-Afternoon"
+      ],
+      [
+        "VC210FA2019-2-Evening",
+        "FA2019-Evening"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VC211",
+    "courseName": "大学化学实验（J类）",
+    "courseNameEn": "Chemistry Lab",
+    "lessons": [
+      [
+        "VC211SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "VC211SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "VC211SP2018-3",
+        "SP2018-3"
+      ],
+      [
+        "VC211SP2018-4",
+        "SP2018-4"
+      ],
+      [
+        "VC211SP2018-5",
+        "SP2018-5"
+      ],
+      [
+        "VC211SP2018-6",
+        "SP2018-6"
+      ],
+      [
+        "VC211SP2018-7",
+        "SP2018-7"
+      ],
+      [
+        "VC211SP2018-8",
+        "SP2018-8"
+      ],
+      [
+        "VC211SP2018-9",
+        "SP2018-9"
+      ],
+      [
+        "VC211SP2018-10",
+        "SP2018-10"
+      ],
+      [
+        "VC211SP2018-11",
+        "SP2018-11"
+      ],
+      [
+        "VC211SP2018-12",
+        "SP2018-12"
+      ],
+      [
+        "VC211SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "VC211SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "VC211SP2019-3",
+        "SP2019-3"
+      ],
+      [
+        "VC211SP2019-4",
+        "SP2019-4"
+      ],
+      [
+        "VC211SP2019-5",
+        "SP2019-5"
+      ],
+      [
+        "VC211SP2019-6",
+        "SP2019-6"
+      ],
+      [
+        "VC211SP2019-7",
+        "SP2019-7"
+      ],
+      [
+        "VC211SP2019-8",
+        "SP2019-8"
+      ],
+      [
+        "VC211SP2019-9",
+        "SP2019-9"
+      ],
+      [
+        "VC211SP2019-10",
+        "SP2019-10"
+      ],
+      [
+        "VC211SP2019-11",
+        "SP2019-11"
+      ],
+      [
+        "VC211SP2019-12",
+        "SP2019-12"
+      ],
+      [
+        "VC211SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "VC211SP2020-2",
+        "SP2020-2"
+      ],
+      [
+        "VC211SP2020-3",
+        "SP2020-3"
+      ],
+      [
+        "VC211SP2020-4",
+        "SP2020-4"
+      ],
+      [
+        "VC211SP2020-5",
+        "SP2020-5"
+      ],
+      [
+        "VC211SP2020-6",
+        "SP2020-6"
+      ],
+      [
+        "VC211SP2020-7",
+        "SP2020-7"
+      ],
+      [
+        "VC211SP2020-8",
+        "SP2020-8"
+      ],
+      [
+        "VC211SP2020-9",
+        "SP2020-9"
+      ],
+      [
+        "VC211SP2020-10",
+        "SP2020-10"
+      ],
+      [
+        "VC211SP2020-11",
+        "SP2020-11"
+      ],
+      [
+        "VC211SP2020-12",
+        "SP2020-12"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VC301",
+    "courseName": "环境空气污染控制导论",
+    "courseNameEn": "Introduction to Environmental & Air Pollution Control",
+    "lessons": [
+      [
+        "VC301FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "FA2017"
+  },
+  {
+    "courseCode": "VE203",
+    "courseName": "离散数学（J类）",
+    "courseNameEn": "Discrete Mathematics",
+    "lessons": [
+      [
+        "VE203FA2017",
+        "FA2017"
+      ],
+      [
+        "VE203SU2018",
         "SU2018"
       ],
       [
-        "VV215SU2019",
+        "VE203FA2018",
+        "FA2018"
+      ],
+      [
+        "VE203SU2019",
+        "SU2019"
+      ],
+      [
+        "VE203FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE215",
+    "courseName": "电路设计导论",
+    "courseNameEn": "Intro to Circuits",
+    "lessons": [
+      [
+        "VE215FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VE215FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VE215FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VE215FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VE215FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE216",
+    "courseName": "信号与系统处理",
+    "courseNameEn": "Intro to Signals and Systems",
+    "lessons": [
+      [
+        "VE216SU2017",
+        "SU2017"
+      ],
+      [
+        "VE216SP2018",
+        "SP2018"
+      ],
+      [
+        "VE216SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "VE216SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "VE216SP2018-3",
+        "SP2018-3"
+      ],
+      [
+        "VE216SU2018",
+        "SU2018"
+      ],
+      [
+        "VE216SP2019",
+        "SP2019"
+      ],
+      [
+        "VE216SU2019",
+        "SU2019"
+      ],
+      [
+        "VE216SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VE230",
+    "courseName": "电磁学（J类）（1）",
+    "courseNameEn": "Electromagnetics I",
+    "lessons": [
+      [
+        "VE230SU2017",
+        "SU2017"
+      ],
+      [
+        "VE230FA2017",
+        "FA2017"
+      ],
+      [
+        "VE230SU2018",
+        "SU2018"
+      ],
+      [
+        "VE230FA2018",
+        "FA2018"
+      ],
+      [
+        "VE230SU2019",
+        "SU2019"
+      ],
+      [
+        "VE230FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE270",
+    "courseName": "逻辑设计导论",
+    "courseNameEn": "Introduction to Logic Design",
+    "lessons": [
+      [
+        "VE270SU2017",
+        "SU2017"
+      ],
+      [
+        "VE270FA2017",
+        "FA2017"
+      ],
+      [
+        "VE270SU2018",
+        "SU2018"
+      ],
+      [
+        "VE270FA2018",
+        "FA2018"
+      ],
+      [
+        "VE270FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VE270FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VE270FA2018-3",
+        "FA2018-3"
+      ],
+      [
+        "VE270SU2019",
+        "SU2019"
+      ],
+      [
+        "VE270FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE280",
+    "courseName": "程序设计与数据结构",
+    "courseNameEn": "Programming & Elem. Data Structures",
+    "lessons": [
+      [
+        "VE280SU2017",
+        "SU2017"
+      ],
+      [
+        "VE280SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VE280SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VE280SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VE280SU2019-2",
+        "SU2019-2"
+      ],
+      [
+        "VE280FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE281",
+    "courseName": "数据结构与算法（J类）",
+    "courseNameEn": "Data Structures and Algorithms",
+    "lessons": [
+      [
+        "VE281FA2017",
+        "FA2017"
+      ],
+      [
+        "VE281FA2018",
+        "FA2018"
+      ],
+      [
+        "VE281FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE300",
+    "courseName": "科技写作与交流",
+    "courseNameEn": "TechComm",
+    "lessons": [
+      [
+        "VE300SU2017-1",
+        "SU2017-1"
+      ],
+      [
+        "VE300SU2017-2",
+        "SU2017-2"
+      ],
+      [
+        "VE300SU2017-3",
+        "SU2017-3"
+      ],
+      [
+        "VE300SU2017-4",
+        "SU2017-4"
+      ],
+      [
+        "VE300FA2017",
+        "FA2017"
+      ],
+      [
+        "VE300SP2018-1",
+        "SP2018-1"
+      ],
+      [
+        "VE300SP2018-2",
+        "SP2018-2"
+      ],
+      [
+        "VE300SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VE300SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VE300FA2018",
+        "FA2018"
+      ],
+      [
+        "VE300SP2019",
+        "SP2019"
+      ],
+      [
+        "VE300SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VE300SU2019-2",
+        "SU2019-2"
+      ],
+      [
+        "VE300SU2019-3",
+        "SU2019-3"
+      ],
+      [
+        "VE300SU2019-4",
+        "SU2019-4"
+      ],
+      [
+        "VE300FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VE300FA2019-2",
+        "FA2019-2"
+      ],
+      [
+        "VE300FA2019-3",
+        "FA2019-3"
+      ],
+      [
+        "VE300SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "VE300SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VE311",
+    "courseName": "电子电路",
+    "courseNameEn": "Electronic Circuits",
+    "lessons": [
+      [
+        "VE311SU2017",
+        "SU2017"
+      ],
+      [
+        "VE311SU2018",
+        "SU2018"
+      ],
+      [
+        "VE311FA2018",
+        "FA2018"
+      ],
+      [
+        "VE311SU2019",
+        "SU2019"
+      ],
+      [
+        "VE311FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE312",
+    "courseName": "数字集成电路",
+    "courseNameEn": "Digital Integrated Circuits",
+    "lessons": [
+      [
+        "VE312SU2017",
+        "SU2017"
+      ],
+      [
+        "VE312FA2017",
+        "FA2017"
+      ],
+      [
+        "VE312FA2018",
+        "FA2018"
+      ],
+      [
+        "VE312FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE320",
+    "courseName": "半导体器件导论",
+    "courseNameEn": "Intro to Semiconductor Devices",
+    "lessons": [
+      [
+        "VE320SU2017",
+        "SU2017"
+      ],
+      [
+        "VE320SU2018",
+        "SU2018"
+      ],
+      [
+        "VE320SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VE320SU2019-2",
+        "SU2019-2"
+      ],
+      [
+        "VE320FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE334",
+    "courseName": "光学原理",
+    "courseNameEn": "Principles of Optics",
+    "lessons": [
+      [
+        "VE334FA2017",
+        "FA2017"
+      ],
+      [
+        "VE334FA2018",
+        "FA2018"
+      ],
+      [
+        "VE334FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE370",
+    "courseName": "计算机组成件导论",
+    "courseNameEn": "Intro to Computer Organization",
+    "lessons": [
+      [
+        "VE370FA2017",
+        "FA2017"
+      ],
+      [
+        "VE370FA2018",
+        "FA2018"
+      ],
+      [
+        "VE370SU2019",
+        "SU2019"
+      ],
+      [
+        "VE370FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE373",
+    "courseName": "基于微处理器的系统设计",
+    "courseNameEn": "Design of Microprocessor Based Systems",
+    "lessons": [
+      [
+        "VE373SU2017",
+        "SU2017"
+      ],
+      [
+        "VE373SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VE401",
+    "courseName": "工程概率方法",
+    "courseNameEn": "Probabilistic Methods in Eng.",
+    "lessons": [
+      [
+        "VE401SU2017",
+        "SU2017"
+      ],
+      [
+        "VE401SP2018",
+        "SP2018"
+      ],
+      [
+        "VE401SU2018",
+        "SU2018"
+      ],
+      [
+        "VE401SP2019",
+        "SP2019"
+      ],
+      [
+        "VE401SU2019",
+        "SU2019"
+      ],
+      [
+        "VE401SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VE406",
+    "courseName": "应用回归分析与R语言",
+    "courseNameEn": "Applied Regression Analysis using R",
+    "lessons": [
+      [
+        "VE406SU2018",
+        "SU2018"
+      ],
+      [
+        "VE406FA2018",
+        "FA2018"
+      ],
+      [
+        "VE406FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2018, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE413",
+    "courseName": "单片集成放大器电路设计",
+    "courseNameEn": "Monolithic Amplifier Circuits",
+    "lessons": [
+      [
+        "VE413FA2017",
+        "FA2017"
+      ],
+      [
+        "VE413FA2018",
+        "FA2018"
+      ],
+      [
+        "VE413FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE414",
+    "courseName": "贝叶斯分析",
+    "courseNameEn": "Bayesian Analysis",
+    "lessons": [
+      [
+        "VE414SU2019",
+        "SU2019"
+      ],
+      [
+        "VE414FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE415",
+    "courseName": "微电子机械系统导论",
+    "courseNameEn": "Introduction to MEMS",
+    "lessons": [
+      [
+        "VE415SU2018",
+        "SU2018"
+      ],
+      [
+        "VE415SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VE420",
+    "courseName": "智能器件物理原理",
+    "courseNameEn": "Physical Principles Underlying Smart Devices",
+    "lessons": [
+      [
+        "VE420SU2017",
+        "SU2017"
+      ],
+      [
+        "VE420SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VE434",
+    "courseName": "光子学导论",
+    "courseNameEn": "Principles of Photonics",
+    "lessons": [
+      [
+        "VE434SU2017",
+        "SU2017"
+      ],
+      [
+        "VE434FA2017",
+        "FA2017"
+      ],
+      [
+        "VE434SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018"
+  },
+  {
+    "courseCode": "VE438",
+    "courseName": "激光与光学实验",
+    "courseNameEn": "Advanced Lasers and Optics Laboratory",
+    "lessons": [
+      [
+        "VE438SU2017",
+        "SU2017"
+      ],
+      [
+        "VE438SU2018",
+        "SU2018"
+      ],
+      [
+        "VE438SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2017, SU2018, SU2019"
   },
   {
-    "courseCode": "VZ032",
-    "courseName": "汉语三（下） ",
-    "courseNameEn": "Chinese Language (level 3 part 2)",
+    "courseCode": "VE445",
+    "courseName": "机器学习导论",
+    "courseNameEn": "Introduction to Machine Learning",
     "lessons": [
       [
-        "VZ032FA2018",
-        "FA2018"
+        "VE445SP2019",
+        "SP2019"
       ],
       [
-        "VZ032FA2019",
+        "VE445FA2019",
         "FA2019"
       ]
     ],
-    "terms": "FA2018, FA2019"
+    "terms": "SP2019, FA2019"
+  },
+  {
+    "courseCode": "VE449",
+    "courseName": "面向创业者的移动应用程序开发",
+    "courseNameEn": "Mobile Applications for Entrepreneurs",
+    "lessons": [
+      [
+        "VE449FA2017",
+        "FA2017"
+      ],
+      [
+        "VE449FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2017, FA2018"
+  },
+  {
+    "courseCode": "VE450",
+    "courseName": "系统设计与实现",
+    "courseNameEn": "Major Design Experience(MDE)",
+    "lessons": [
+      [
+        "VE450SU2017",
+        "SU2017"
+      ],
+      [
+        "VE450FA2017",
+        "FA2017"
+      ],
+      [
+        "VE450SU2018",
+        "SU2018"
+      ],
+      [
+        "VE450FA2018",
+        "FA2018"
+      ],
+      [
+        "VE450SU2019",
+        "SU2019"
+      ],
+      [
+        "VE450FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VE451",
+    "courseName": "数字信号处理与分析",
+    "courseNameEn": "Digital Signal Processing and Analysis",
+    "lessons": [
+      [
+        "VE451SU2018",
+        "SU2018"
+      ],
+      [
+        "VE451SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VE455",
+    "courseName": "数字通信信号与系统",
+    "courseNameEn": "Digital Communication Signals & Systems",
+    "lessons": [
+      [
+        "VE455FA2017",
+        "FA2017"
+      ],
+      [
+        "VE455FA2018",
+        "FA2018"
+      ],
+      [
+        "VE455FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE458",
+    "courseName": "生物医学仪器与设计",
+    "courseNameEn": "Biomedical Intrumentation and Design",
+    "lessons": [
+      [
+        "VE458FA2017",
+        "FA2017"
+      ],
+      [
+        "VE458FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2017, FA2018"
+  },
+  {
+    "courseCode": "VE460",
+    "courseName": "控制系统分析与设计",
+    "courseNameEn": "Control Systems Analysis and Design",
+    "lessons": [
+      [
+        "VE460FA2017",
+        "FA2017"
+      ],
+      [
+        "VE460SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "FA2017, SU2019"
+  },
+  {
+    "courseCode": "VE472",
+    "courseName": "大数据分析及工具",
+    "courseNameEn": "Methods and Tools for Big Data",
+    "lessons": [
+      [
+        "VE472SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VE475",
+    "courseName": "密码学导论",
+    "courseNameEn": "Introduction to Cryptography",
+    "lessons": [
+      [
+        "VE475SU2017",
+        "SU2017"
+      ],
+      [
+        "VE475SU2018",
+        "SU2018"
+      ],
+      [
+        "VE475SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VE477",
+    "courseName": "算法导论",
+    "courseNameEn": "Introduction to Algorithms",
+    "lessons": [
+      [
+        "VE477FA2017",
+        "FA2017"
+      ],
+      [
+        "VE477FA2018",
+        "FA2018"
+      ],
+      [
+        "VE477FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE482",
+    "courseName": "操作系统导论",
+    "courseNameEn": "Introduction to Operating Systems",
+    "lessons": [
+      [
+        "VE482FA2017",
+        "FA2017"
+      ],
+      [
+        "VE482FA2018",
+        "FA2018"
+      ],
+      [
+        "VE482FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE488",
+    "courseName": "数据挖掘与机器学习",
+    "courseNameEn": "Data Mining and Machine Learning",
+    "lessons": [
+      [
+        "VE488SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VE489",
+    "courseName": "计算机网络",
+    "courseNameEn": "Computer Networks",
+    "lessons": [
+      [
+        "VE489SU2017",
+        "SU2017"
+      ],
+      [
+        "VE489SU2018",
+        "SU2018"
+      ],
+      [
+        "VE489SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
   },
   {
     "courseCode": "VE490",
@@ -124,40 +1908,20 @@
     "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
   },
   {
-    "courseCode": "VM552",
-    "courseName": "机电一体化",
-    "courseNameEn": "Mechatronic Systems Design",
+    "courseCode": "VE492",
+    "courseName": "人工智能导论",
+    "courseNameEn": "Intro to Artificial Intelligence",
     "lessons": [
       [
-        "VM552",
-        "SU2017"
+        "VE492SP2018",
+        "SP2018"
       ],
       [
-        "VM552SU2018",
-        "SU2018"
-      ],
-      [
-        "VM552SU2019",
-        "SU2019"
+        "VE492FA2019",
+        "FA2019"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VM509",
-    "courseName": "电池材料的基础与应用",
-    "courseNameEn": "Battery Materials: Fundamentals and Applications",
-    "lessons": [
-      [
-        "VM509SU2018",
-        "SU2018"
-      ],
-      [
-        "VM509SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2018, SU2019"
+    "terms": "SP2018, FA2019"
   },
   {
     "courseCode": "VE496",
@@ -208,52 +1972,856 @@
     "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SP2020"
   },
   {
-    "courseCode": "VZ003",
-    "courseName": "汉语（3）",
-    "courseNameEn": "Chinese Ⅲ",
+    "courseCode": "VE501",
+    "courseName": "随机过程（J类）",
+    "courseNameEn": "Probability and Random Processes",
     "lessons": [
       [
-        "VZ003SU2017",
-        "SU2017"
-      ],
-      [
-        "VZ003FA2017",
+        "VE501FA2017",
         "FA2017"
       ],
       [
-        "VZ003SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018"
-  },
-  {
-    "courseCode": "VE320",
-    "courseName": "半导体器件导论",
-    "courseNameEn": "Intro to Semiconductor Devices",
-    "lessons": [
-      [
-        "VE320SU2017",
-        "SU2017"
+        "VE501FA2018",
+        "FA2018"
       ],
       [
-        "VE320SU2018",
-        "SU2018"
-      ],
-      [
-        "VE320SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VE320SU2019-2",
-        "SU2019-2"
-      ],
-      [
-        "VE320FA2019",
+        "VE501FA2019",
         "FA2019"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019, FA2019"
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE504",
+    "courseName": "固体物理学",
+    "courseNameEn": "Solid State Physics",
+    "lessons": [
+      [
+        "VE504FA2017",
+        "FA2017"
+      ],
+      [
+        "VE504FA2018",
+        "FA2018"
+      ],
+      [
+        "VE504FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE507",
+    "courseName": " 半导体光电材料",
+    "courseNameEn": "Semiconductor Optoelectronic Materials ",
+    "lessons": [
+      [
+        "VE507",
+        "SU2017"
+      ],
+      [
+        "VE507SU2018",
+        "SU2018"
+      ],
+      [
+        "VE507FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018, FA2018"
+  },
+  {
+    "courseCode": "VE508",
+    "courseName": "非线性光学与超快光学",
+    "courseNameEn": "Nonlinear and Ultrafast Optics",
+    "lessons": [
+      [
+        "VE508SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VE509",
+    "courseName": "半导体物理",
+    "courseNameEn": "Semiconductor Physics",
+    "lessons": [
+      [
+        "VE509SU2018",
+        "SU2018"
+      ],
+      [
+        "VE509FA2018",
+        "FA2018"
+      ],
+      [
+        "VE509FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2018, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE527",
+    "courseName": " 集成电路的计算机辅助设计",
+    "courseNameEn": "Computer Aided Design of Integrated Circuits",
+    "lessons": [
+      [
+        "VE527",
+        "SU2017"
+      ],
+      [
+        "VE527FA2017",
+        "FA2017"
+      ],
+      [
+        "VE527FA2018",
+        "FA2018"
+      ],
+      [
+        "VE527FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE530",
+    "courseName": "电磁理论 I",
+    "courseNameEn": "Electromagnetic Theory I",
+    "lessons": [
+      [
+        "VE530FA2017",
+        "FA2017"
+      ],
+      [
+        "VE530FA2018",
+        "FA2018"
+      ],
+      [
+        "VE530FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE534",
+    "courseName": "光学与光子学",
+    "courseNameEn": "Optics and Photonics",
+    "lessons": [
+      [
+        "VE534FA2017",
+        "FA2017"
+      ],
+      [
+        "VE534FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2017, FA2018"
+  },
+  {
+    "courseCode": "VE538",
+    "courseName": "晶体中的光波",
+    "courseNameEn": "Optical Waves in Crystals",
+    "lessons": [
+      [
+        "VE538SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VE539",
+    "courseName": "激光原理",
+    "courseNameEn": "Lasers",
+    "lessons": [
+      [
+        "VE539",
+        "SU2017"
+      ],
+      [
+        "VE539SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2019"
+  },
+  {
+    "courseCode": "VE540",
+    "courseName": "应用量子力学 I",
+    "courseNameEn": "Applied Quantum Mechanics I",
+    "lessons": [
+      [
+        "VE540FA2017",
+        "FA2017"
+      ],
+      [
+        "VE540FA2018",
+        "FA2018"
+      ],
+      [
+        "VE540FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VE550",
+    "courseName": "信息论",
+    "courseNameEn": "Information Theory",
+    "lessons": [
+      [
+        "VE550FA2017",
+        "FA2017"
+      ],
+      [
+        "VE550FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2019"
+  },
+  {
+    "courseCode": "VE552",
+    "courseName": "光纤光学与生医光学",
+    "courseNameEn": "Fiber Optics and Biomedical Optics",
+    "lessons": [
+      [
+        "VE552",
+        "SU2017"
+      ],
+      [
+        "VE552SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2019"
+  },
+  {
+    "courseCode": "VE556",
+    "courseName": "图像处理",
+    "courseNameEn": "Image Processing",
+    "lessons": [
+      [
+        "VE556FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VE562",
+    "courseName": "非线性系统与控制",
+    "courseNameEn": "Nonlinear Systems and Control",
+    "lessons": [
+      [
+        "VE562SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SP2019"
+  },
+  {
+    "courseCode": "VE572",
+    "courseName": "大数据分析及工具",
+    "courseNameEn": "Methods and Tools for Big Data",
+    "lessons": [
+      [
+        "VE572SU2018",
+        "SU2018"
+      ],
+      [
+        "VE572SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VE581",
+    "courseName": "面向视觉识别的卷积神经网络",
+    "courseNameEn": "Convolutional Neural Networks for Visual Recognition",
+    "lessons": [
+      [
+        "VE581SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VE593",
+    "courseName": "人工智能理论与应用",
+    "courseNameEn": "Problem solving with AI techniques",
+    "lessons": [
+      [
+        "VE593FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VE655",
+    "courseName": "无线通信理论",
+    "courseNameEn": "Wireless Communication Theory",
+    "lessons": [
+      [
+        "VE655FA2017",
+        "FA2017"
+      ],
+      [
+        "VE655FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2019"
+  },
+  {
+    "courseCode": "VE662",
+    "courseName": "控制前沿选讲",
+    "courseNameEn": "Advanced Topics in Controls",
+    "lessons": [
+      [
+        "Ve662SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2020"
+  },
+  {
+    "courseCode": "VE663",
+    "courseName": "控制前沿选讲 II",
+    "courseNameEn": "Advanced topics in control II",
+    "lessons": [
+      [
+        "VE663SP2018",
+        "SP2018"
+      ]
+    ],
+    "terms": "SP2018"
+  },
+  {
+    "courseCode": "VE666",
+    "courseName": "毫米波与太赫兹无线通信",
+    "courseNameEn": "Millimeter-wave and Terahertz Wireless Communications",
+    "lessons": [
+      [
+        "VE666FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VE689",
+    "courseName": "无线网络",
+    "courseNameEn": "Wireless Network",
+    "lessons": [
+      [
+        "Ve689FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VG100",
+    "courseName": "工程导论",
+    "courseNameEn": "Intro to Engineering",
+    "lessons": [
+      [
+        "VG100SU2017-1",
+        "SU2017-1"
+      ],
+      [
+        "VG100SU2017-2",
+        "SU2017-2"
+      ],
+      [
+        "VG100SU2017-3",
+        "SU2017-3"
+      ],
+      [
+        "VG100FA2017",
+        "FA2017"
+      ],
+      [
+        "VG100SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VG100SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VG100SU2018-3",
+        "SU2018-3"
+      ],
+      [
+        "VG100FA2018",
+        "FA2018"
+      ],
+      [
+        "VG100SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VG100SU2019-2",
+        "SU2019-2"
+      ],
+      [
+        "VG100SU2019-3",
+        "SU2019-3"
+      ],
+      [
+        "VG100FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VG101",
+    "courseName": "计算机导论",
+    "courseNameEn": "Intro to Computers & Programming",
+    "lessons": [
+      [
+        "VG101SU2017",
+        "SU2017"
+      ],
+      [
+        "VG101FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VG101FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VG101SU2018",
+        "SU2018"
+      ],
+      [
+        "VG101FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VG101FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VG101SU2019",
+        "SU2019"
+      ],
+      [
+        "VG101FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VG101FA2019-2",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VG441",
+    "courseName": "供应链管理",
+    "courseNameEn": "Supply Chain Management",
+    "lessons": [
+      [
+        "VG441SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VG450",
+    "courseName": "跨境跨学科设计项目（1）",
+    "courseNameEn": "Global Multidisciplinary Design Project I",
+    "lessons": [
+      [
+        "VG450FA2017",
+        "FA2017"
+      ],
+      [
+        "VG450FA2018",
+        "FA2018"
+      ],
+      [
+        "VG450FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VG450FA2019-2",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VG451",
+    "courseName": "跨境跨学科设计项目（2）",
+    "courseNameEn": "Global Multidisciplinary Design Project II",
+    "lessons": [
+      [
+        "VG451SP2018",
+        "SP2018"
+      ],
+      [
+        "VG451SP2019",
+        "SP2019"
+      ],
+      [
+        "VG451SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VG496",
+    "courseName": "职业道德与工程规范",
+    "courseNameEn": "Professional Ethics",
+    "lessons": [
+      [
+        "VG496SU2017-1-1",
+        "SU2017-1"
+      ],
+      [
+        "VG496SU2017-1-2",
+        "SU2017-2"
+      ],
+      [
+        "VG496FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VG496FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VG496SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VG496SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VG496SU2018-3",
+        "SU2018-3"
+      ],
+      [
+        "VG496FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VG496FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VG496SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VG496SU2019-2",
+        "SU2019-2"
+      ],
+      [
+        "VG496SU2019-3",
+        "SU2019-3"
+      ],
+      [
+        "VG496FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VG496FA2019-2",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VG500",
+    "courseName": "科技写作",
+    "courseNameEn": "Technical Communication",
+    "lessons": [
+      [
+        "VG500FA2017",
+        "FA2017"
+      ],
+      [
+        "VG500SP2018",
+        "SP2018"
+      ],
+      [
+        "VG500FA2018",
+        "FA2018"
+      ],
+      [
+        "VG500SP2019",
+        "SP2019"
+      ],
+      [
+        "VG500FA2019",
+        "FA2019"
+      ],
+      [
+        "VG500SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "VG500SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VG501",
+    "courseName": "研究生科技写作导论",
+    "courseNameEn": "Introduction to Graduate Technical Communication",
+    "lessons": [
+      [
+        "VG501FA2019-1  Michele Campbell",
+        "FA2019-1"
+      ],
+      [
+        "VG501FA2019-2 Nathaniel Murray",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "FA2019"
+  },
+  {
+    "courseCode": "VK250",
+    "courseName": "工程材料导论",
+    "courseNameEn": "Principles of Engineering Materials",
+    "lessons": [
+      [
+        "VK250SP2018",
+        "SP2018"
+      ],
+      [
+        "VK250SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SP2018, SP2019"
+  },
+  {
+    "courseCode": "VM010",
+    "courseName": "金工实习",
+    "courseNameEn": "Machineshop Training",
+    "lessons": [
+      [
+        "VM010SU2017",
+        "SU2017"
+      ],
+      [
+        "VM010SU2018",
+        "SU2018"
+      ],
+      [
+        "VM010SP2019",
+        "SP2019"
+      ],
+      [
+        "VM010SU2019",
+        "SU2019"
+      ],
+      [
+        "VM010SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VM020",
+    "courseName": "金工实习（1）",
+    "courseNameEn": "Machineshop Training Ⅰ",
+    "lessons": [
+      [
+        "VM020FA2017",
+        "FA2017"
+      ],
+      [
+        "VM020SP2018",
+        "SP2018"
+      ],
+      [
+        "VM020FA2018",
+        "FA2018"
+      ],
+      [
+        "VM020SP2019",
+        "SP2019"
+      ],
+      [
+        "VM020FA2019",
+        "FA2019"
+      ],
+      [
+        "VM020SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VM211",
+    "courseName": "固体力学",
+    "courseNameEn": "Intro to Solid Mechanics",
+    "lessons": [
+      [
+        "VM211FA2017",
+        "FA2017"
+      ],
+      [
+        "VM211SP2018",
+        "SP2018"
+      ],
+      [
+        "VM211FA2018",
+        "FA2018"
+      ],
+      [
+        "VM211SP2019",
+        "SP2019"
+      ],
+      [
+        "VM211SU2019",
+        "SU2019"
+      ],
+      [
+        "VM211FA2019",
+        "FA2019"
+      ],
+      [
+        "VM211SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VM235",
+    "courseName": "工程热力学（J类）（1）",
+    "courseNameEn": "Thermodynamics",
+    "lessons": [
+      [
+        "VM235SU2017",
+        "SU2017"
+      ],
+      [
+        "VM235FA2017",
+        "FA2017"
+      ],
+      [
+        "VM235SU2018",
+        "SU2018"
+      ],
+      [
+        "VM235FA2018",
+        "FA2018"
+      ],
+      [
+        "VM235SU2019",
+        "SU2019"
+      ],
+      [
+        "VM235FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VM240",
+    "courseName": "动力学与振动导论",
+    "courseNameEn": "Intro to Dynamics and Vibrations",
+    "lessons": [
+      [
+        "VM240SU2017",
+        "SU2017"
+      ],
+      [
+        "VM240SP2018",
+        "SP2018"
+      ],
+      [
+        "VM240SU2018",
+        "SU2018"
+      ],
+      [
+        "VM240SP2019",
+        "SP2019"
+      ],
+      [
+        "VM240SU2019",
+        "SU2019"
+      ],
+      [
+        "VM240SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VM250",
+    "courseName": "设计与制造（J类）（1）",
+    "courseNameEn": "Design and Manufacturing I",
+    "lessons": [
+      [
+        "VM250SU2017",
+        "SU2017"
+      ],
+      [
+        "VM250SP2018",
+        "SP2018"
+      ],
+      [
+        "VM250SU2018",
+        "SU2018"
+      ],
+      [
+        "VM250SP2019",
+        "SP2019"
+      ],
+      [
+        "VM250SU2019",
+        "SU2019"
+      ],
+      [
+        "VM250SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VM305",
+    "courseName": "机械工程中的有限元导论",
+    "courseNameEn": "Introduction to Finite Elements in Mechanical Engineering",
+    "lessons": [
+      [
+        "VM305SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
   },
   {
     "courseCode": "VM311",
@@ -276,12 +2844,1276 @@
     "terms": "FA2017, FA2018, FA2019"
   },
   {
-    "courseCode": "VY298",
-    "courseName": "英国文学概述",
-    "courseNameEn": "Introduction to British Literature",
+    "courseCode": "VM320",
+    "courseName": "流体力学（J类）",
+    "courseNameEn": "Fluid Mechanics I",
     "lessons": [
       [
-        "VY298SU2019",
+        "VM320SU2017",
+        "SU2017"
+      ],
+      [
+        "VM320FA2017",
+        "FA2017"
+      ],
+      [
+        "VM320SU2018",
+        "SU2018"
+      ],
+      [
+        "VM320FA2018",
+        "FA2018"
+      ],
+      [
+        "VM320SU2019",
+        "SU2019"
+      ],
+      [
+        "VM320FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VM335",
+    "courseName": "传热学（J类）",
+    "courseNameEn": "Heat Transfer",
+    "lessons": [
+      [
+        "VM335SU2017",
+        "SU2017"
+      ],
+      [
+        "VM335SU2018",
+        "SU2018"
+      ],
+      [
+        "VM335SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM350",
+    "courseName": "设计与制造（J类）（2）",
+    "courseNameEn": "Design and Manufacturing II",
+    "lessons": [
+      [
+        "VM350SU2017",
+        "SU2017"
+      ],
+      [
+        "VM350SU2018",
+        "SU2018"
+      ],
+      [
+        "VM350SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM360",
+    "courseName": "动态系统建模分析与控制",
+    "courseNameEn": "Modeling, Analysis and Control of Dynamic Systems",
+    "lessons": [
+      [
+        "VM360SU2017",
+        "SU2017"
+      ],
+      [
+        "VM360SU2018",
+        "SU2018"
+      ],
+      [
+        "VM360SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM382",
+    "courseName": "材料机械性能（J类）",
+    "courseNameEn": "Mechanical Behavior of Materials",
+    "lessons": [
+      [
+        "VM382FA2017",
+        "FA2017"
+      ],
+      [
+        "VM382SP2018",
+        "SP2018"
+      ],
+      [
+        "VM382FA2018",
+        "FA2018"
+      ],
+      [
+        "VM382SP2019",
+        "SP2019"
+      ],
+      [
+        "VM382FA2019",
+        "FA2019"
+      ],
+      [
+        "VM382SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VM384",
+    "courseName": "工程项目管理",
+    "courseNameEn": "Engineering Project Management",
+    "lessons": [
+      [
+        "VM384SU2017",
+        "SU2017"
+      ],
+      [
+        "VM384SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VM395",
+    "courseName": "实验一",
+    "courseNameEn": "Laboratory I",
+    "lessons": [
+      [
+        "VM395SU2017",
+        "SU2017"
+      ],
+      [
+        "VM395FA2017",
+        "FA2017"
+      ],
+      [
+        "VM395SU2018",
+        "SU2018"
+      ],
+      [
+        "VM395FA2018",
+        "FA2018"
+      ],
+      [
+        "VM395FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VM395FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VM395SU2019",
+        "SU2019"
+      ],
+      [
+        "VM395FA2019",
+        "FA2019"
+      ],
+      [
+        "VM395FA2019-Lab S1",
+        "FA2019-Lab S1"
+      ],
+      [
+        "VM395FA2019-Lab S2",
+        "FA2019-Lab S2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VM405",
+    "courseName": "机械工程中的有限元",
+    "courseNameEn": "Finite Elements in Mechanical Engineering",
+    "lessons": [
+      [
+        "VM405SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VM412",
+    "courseName": "高级材料力学",
+    "courseNameEn": "Advanced Strength of Materials",
+    "lessons": [
+      [
+        "VM412SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VM414",
+    "courseName": "现代质量工程",
+    "courseNameEn": "Advanced Quality Engineering ",
+    "lessons": [
+      [
+        "VM414SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM421",
+    "courseName": "热流体系统设计",
+    "courseNameEn": "Thermal Fluids Systems Design",
+    "lessons": [
+      [
+        "VM421SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM432",
+    "courseName": "燃烧学",
+    "courseNameEn": "Combustion",
+    "lessons": [
+      [
+        "VM432FA2018",
+        "FA2018"
+      ],
+      [
+        "VM432FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM434",
+    "courseName": "能源转换材料",
+    "courseNameEn": "Materials for Energy Conversion",
+    "lessons": [
+      [
+        "VM434FA2017",
+        "FA2017"
+      ],
+      [
+        "VM434FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2017, FA2018"
+  },
+  {
+    "courseCode": "VM450",
+    "courseName": "设计与制造（3）",
+    "courseNameEn": "Design and Manufacturing III",
+    "lessons": [
+      [
+        "VM450SU2017",
+        "SU2017"
+      ],
+      [
+        "VM450FA2017",
+        "FA2017"
+      ],
+      [
+        "VM450SU2018",
+        "SU2018"
+      ],
+      [
+        "VM450FA2018",
+        "FA2018"
+      ],
+      [
+        "VM450SU2019",
+        "SU2019"
+      ],
+      [
+        "VM450FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VM455",
+    "courseName": "数据驱动工程设计导论",
+    "courseNameEn": "Introduction to Data-driven Engineering Design",
+    "lessons": [
+      [
+        "VM455FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019"
+  },
+  {
+    "courseCode": "VM458",
+    "courseName": "汽车工程",
+    "courseNameEn": "Automotive Engineering",
+    "lessons": [
+      [
+        "VM458SU2018",
+        "SU2018"
+      ],
+      [
+        "VM458SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM461",
+    "courseName": "自动控制（J类）",
+    "courseNameEn": "Automatic Control",
+    "lessons": [
+      [
+        "VM461FA2017",
+        "FA2017"
+      ],
+      [
+        "VM461FA2018",
+        "FA2018"
+      ],
+      [
+        "VM461FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM466",
+    "courseName": "统计质量控制",
+    "courseNameEn": "Statistical Quality Control",
+    "lessons": [
+      [
+        "VM466SU2018",
+        "SU2018"
+      ],
+      [
+        "VM466SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM467",
+    "courseName": "机器人学导论",
+    "courseNameEn": "Introduction to Robotics",
+    "lessons": [
+      [
+        "VM467SU2017",
+        "SU2017"
+      ],
+      [
+        "VM467SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VM490",
+    "courseName": "本科生科研项目",
+    "courseNameEn": "Undergraduate Research",
+    "lessons": [
+      [
+        "VM490SU2017",
+        "SU2017"
+      ],
+      [
+        "VM490FA2017",
+        "FA2017"
+      ],
+      [
+        "VM490SP2018",
+        "SP2018"
+      ],
+      [
+        "VM490SU2018",
+        "SU2018"
+      ],
+      [
+        "VM490FA2018",
+        "FA2018"
+      ],
+      [
+        "VM490SP2019",
+        "SP2019"
+      ],
+      [
+        "VM490SU2019",
+        "SU2019"
+      ],
+      [
+        "VM490FA2019",
+        "FA2019"
+      ],
+      [
+        "VM490SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VM495",
+    "courseName": "实验二",
+    "courseNameEn": "Laboratory II",
+    "lessons": [
+      [
+        "VM495SU2017",
+        "SU2017"
+      ],
+      [
+        "VM495FA2017",
+        "FA2017"
+      ],
+      [
+        "VM495SU2018",
+        "SU2018"
+      ],
+      [
+        "VM495FA2018",
+        "FA2018"
+      ],
+      [
+        "VM495SU2019",
+        "SU2019"
+      ],
+      [
+        "VM495FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+  },
+  {
+    "courseCode": "VM508",
+    "courseName": "软物质物理导论",
+    "courseNameEn": "Introduction to Soft Matter Physics",
+    "lessons": [
+      [
+        "VM508SU2018",
+        "SU2018"
+      ],
+      [
+        "VM508FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "SU2018, FA2018"
+  },
+  {
+    "courseCode": "VM509",
+    "courseName": "电池材料的基础与应用",
+    "courseNameEn": "Battery Materials: Fundamentals and Applications",
+    "lessons": [
+      [
+        "VM509SU2018",
+        "SU2018"
+      ],
+      [
+        "VM509SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM511",
+    "courseName": "固体力学原理",
+    "courseNameEn": "Foundation of Solid Mechanics",
+    "lessons": [
+      [
+        "VM511SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM512",
+    "courseName": "弹性力学",
+    "courseNameEn": "Theory of Elasticity",
+    "lessons": [
+      [
+        "VM512FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VM513",
+    "courseName": "连续介质力学",
+    "courseNameEn": "Continuum Mechanics",
+    "lessons": [
+      [
+        "VM513FA2018",
+        "FA2018"
+      ],
+      [
+        "VM513FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM514",
+    "courseName": "非线性断裂力学",
+    "courseNameEn": "Non-Linear Fracture Mechanics",
+    "lessons": [
+      [
+        "VM514",
+        "SU2017"
+      ],
+      [
+        "VM514SU2018",
+        "SU2018"
+      ],
+      [
+        "VM514SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM517",
+    "courseName": "高分子力学性能",
+    "courseNameEn": "Mechanical Properties of Polymers",
+    "lessons": [
+      [
+        "VM517",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VM518",
+    "courseName": "复合材料高级力学",
+    "courseNameEn": "Advanced Mechanics of Composite Materials",
+    "lessons": [
+      [
+        "VM518FA2017",
+        "FA2017"
+      ],
+      [
+        "VM518FA2018",
+        "FA2018"
+      ],
+      [
+        "VM518FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM520",
+    "courseName": "高等流体力学",
+    "courseNameEn": "Advanced Fluid Mechanics",
+    "lessons": [
+      [
+        "VM520FA2017",
+        "FA2017"
+      ],
+      [
+        "VM520FA2018",
+        "FA2018"
+      ],
+      [
+        "VM520FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM523",
+    "courseName": "计算流体力学",
+    "courseNameEn": "Computational  Fluid Dynamics",
+    "lessons": [
+      [
+        "VM523FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "FA2017"
+  },
+  {
+    "courseCode": "VM524",
+    "courseName": "湍流",
+    "courseNameEn": "Turbulence",
+    "lessons": [
+      [
+        "VM524SU2018",
+        "SU2018"
+      ],
+      [
+        "VM524FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "SU2018, FA2018"
+  },
+  {
+    "courseCode": "VM530",
+    "courseName": "高等传热学",
+    "courseNameEn": "Advanced Heat Transfer",
+    "lessons": [
+      [
+        "VM530",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VM531",
+    "courseName": "高等传热学（导热和辐射）",
+    "courseNameEn": "Advanced Conduction and Radiation Heat Transfer",
+    "lessons": [
+      [
+        "VM531FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VM532",
+    "courseName": "高等对流传热",
+    "courseNameEn": "Advanced Convection",
+    "lessons": [
+      [
+        "VM532SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM541",
+    "courseName": "机械振动",
+    "courseNameEn": "Mechanical Vibrations",
+    "lessons": [
+      [
+        "VM541FA2017",
+        "FA2017"
+      ],
+      [
+        "VM541SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "FA2017, SU2019"
+  },
+  {
+    "courseCode": "VM543",
+    "courseName": "分析动力学",
+    "courseNameEn": "Analytical Dynamics",
+    "lessons": [
+      [
+        "VM543SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM552",
+    "courseName": "机电一体化",
+    "courseNameEn": "Mechatronic Systems Design",
+    "lessons": [
+      [
+        "VM552",
+        "SU2017"
+      ],
+      [
+        "VM552SU2018",
+        "SU2018"
+      ],
+      [
+        "VM552SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VM555",
+    "courseName": "工程优化",
+    "courseNameEn": "Engineering Optimization",
+    "lessons": [
+      [
+        "VM555FA2018",
+        "FA2018"
+      ],
+      [
+        "VM555FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VM559",
+    "courseName": "纳米技术基础",
+    "courseNameEn": "Foundations of Nanotechnology",
+    "lessons": [
+      [
+        "VM559SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VM565",
+    "courseName": "材料结构、物理与化学表征",
+    "courseNameEn": "Structural, Physical and Chemical Characterization of Materials",
+    "lessons": [
+      [
+        "VM565FA2017",
+        "FA2017"
+      ],
+      [
+        "VM565FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2019"
+  },
+  {
+    "courseCode": "VM583",
+    "courseName": " 制造过程与系统",
+    "courseNameEn": "Manufacturing Processes and  Systems",
+    "lessons": [
+      [
+        "VM583",
+        "SU2017"
+      ],
+      [
+        "VM583SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VM645",
+    "courseName": "弹性波在固体中的传播",
+    "courseNameEn": "Wave Propagation in Elastic Solids",
+    "lessons": [
+      [
+        "VM645SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VM660",
+    "courseName": "工程决策",
+    "courseNameEn": "Engineering Decision Making",
+    "lessons": [
+      [
+        "VM660FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "FA2017"
+  },
+  {
+    "courseCode": "VP140",
+    "courseName": "普通物理（1）",
+    "courseNameEn": "Physics I",
+    "lessons": [
+      [
+        "VP140SU2017",
+        "SU2017"
+      ],
+      [
+        "VP140SU2018",
+        "SU2018"
+      ],
+      [
+        "VP140SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VP141",
+    "courseName": "普通物理实验（1）",
+    "courseNameEn": "Physics Lab I",
+    "lessons": [
+      [
+        "VP141SU2017",
+        "SU2017"
+      ],
+      [
+        "VP141SU2018",
+        "SU2018"
+      ],
+      [
+        "VP141SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VP160",
+    "courseName": "强化物理（J类）（1）",
+    "courseNameEn": "Honors Physics I",
+    "lessons": [
+      [
+        "VP160SU2017",
+        "SU2017"
+      ],
+      [
+        "VP160SU2018",
+        "SU2018"
+      ],
+      [
+        "VP160SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VP240",
+    "courseName": "普通物理（2）",
+    "courseNameEn": "Physics II",
+    "lessons": [
+      [
+        "VP240FA2017",
+        "FA2017"
+      ],
+      [
+        "VP240FA2018",
+        "FA2018"
+      ],
+      [
+        "VP240FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VP240FA2019-2",
+        "FA2019-2"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VP241",
+    "courseName": "普通物理实验（2）",
+    "courseNameEn": "Physics Lab II",
+    "lessons": [
+      [
+        "VP241FA2017",
+        "FA2017"
+      ],
+      [
+        "VP241FA2018",
+        "FA2018"
+      ],
+      [
+        "VP241FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VP260",
+    "courseName": "强化物理（J类）（2）",
+    "courseNameEn": "Honors Physics Ⅱ",
+    "lessons": [
+      [
+        "VP260FA2017",
+        "FA2017"
+      ],
+      [
+        "VP260FA2018",
+        "FA2018"
+      ],
+      [
+        "VP260FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VP390",
+    "courseName": "现代物理",
+    "courseNameEn": "Modern Physics",
+    "lessons": [
+      [
+        "VP390SU2017",
+        "SU2017"
+      ],
+      [
+        "VP390SU2018",
+        "SU2018"
+      ],
+      [
+        "VP390SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VR101",
+    "courseName": "政治理论概论",
+    "courseNameEn": "Introduction to Political Theory",
+    "lessons": [
+      [
+        "VR101SU2017",
+        "SU2017"
+      ],
+      [
+        "VR101SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VR102",
+    "courseName": "全球视野中的中国历史",
+    "courseNameEn": "Chinese History in Global Perspective",
+    "lessons": [
+      [
+        "VR102FA2017",
+        "FA2017"
+      ],
+      [
+        "VR102SP2018",
+        "SP2018"
+      ],
+      [
+        "VR102SU2018",
+        "SU2018"
+      ],
+      [
+        "VR102FA2018",
+        "FA2018"
+      ],
+      [
+        "VR102SP2019",
+        "SP2019"
+      ],
+      [
+        "VR102SU2019",
+        "SU2019"
+      ],
+      [
+        "VR102FA2019",
+        "FA2019"
+      ],
+      [
+        "VR102SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VR112",
+    "courseName": "语言学导论",
+    "courseNameEn": "Introduction to Language and Linguistics",
+    "lessons": [
+      [
+        "VR112SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VR120",
+    "courseName": "希腊悲剧",
+    "courseNameEn": "Greek Tragedy",
+    "lessons": [
+      [
+        "VR220SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR121",
+    "courseName": "可持续发展心理学",
+    "courseNameEn": "The Psychology of Sustainability",
+    "lessons": [
+      [
+        "VR121SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR123",
+    "courseName": "从小说到电影",
+    "courseNameEn": "Novel into Film ",
+    "lessons": [
+      [
+        "VR123SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR124",
+    "courseName": "西方小说里的时尚与女性主义",
+    "courseNameEn": "Fashion, Fiction and Feminism",
+    "lessons": [
+      [
+        "VR124SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR140",
+    "courseName": "比较政府与政治",
+    "courseNameEn": "Comparative Governments and Politics",
+    "lessons": [
+      [
+        "VR140FA2017",
+        "FA2017"
+      ],
+      [
+        "VR140SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "FA2017, SU2019"
+  },
+  {
+    "courseCode": "VR150",
+    "courseName": "德国文化",
+    "courseNameEn": "German Culture",
+    "lessons": [
+      [
+        "VR150SU2017",
+        "SU2017"
+      ],
+      [
+        "VR150FA2017",
+        "FA2017"
+      ],
+      [
+        "VR150SP2018",
+        "SP2018"
+      ],
+      [
+        "VR150SU2018",
+        "SU2018"
+      ],
+      [
+        "VR150SP2019",
+        "SP2019"
+      ],
+      [
+        "VR150FA2019",
+        "FA2019"
+      ],
+      [
+        "VR150SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VR160",
+    "courseName": "国际政治导论",
+    "courseNameEn": "Introduction to World Politics",
+    "lessons": [
+      [
+        "VR160SU2017",
+        "SU2017"
+      ],
+      [
+        "VR160SP2018",
+        "SP2018"
+      ],
+      [
+        "VR160SP2019",
+        "SP2019"
+      ],
+      [
+        "VR160SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2017, SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VR203",
+    "courseName": "现代东亚的饮食与历史变迁",
+    "courseNameEn": "Food in Modern East Asian History",
+    "lessons": [
+      [
+        "VR203SU2017",
+        "SU2017"
+      ],
+      [
+        "VR203FA2018",
+        "FA2018"
+      ],
+      [
+        "VR203SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SU2017, FA2018, SP2019"
+  },
+  {
+    "courseCode": "VR206",
+    "courseName": "近代早期的中国与世界",
+    "courseNameEn": "China in the Early Modern World",
+    "lessons": [
+      [
+        "VR206SU2017",
+        "SU2017"
+      ],
+      [
+        "VR206FA2017",
+        "FA2017"
+      ],
+      [
+        "VR206SP2018",
+        "SP2018"
+      ],
+      [
+        "VR206SU2018",
+        "SU2018"
+      ],
+      [
+        "VR206FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2019"
+  },
+  {
+    "courseCode": "VR207",
+    "courseName": "日本近现代史",
+    "courseNameEn": "History of Modern Japan",
+    "lessons": [
+      [
+        "VR207SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2020"
+  },
+  {
+    "courseCode": "VR208",
+    "courseName": "企业与自然环境",
+    "courseNameEn": "Business and Natural Environment",
+    "lessons": [
+      [
+        "VR208SU2017",
+        "SU2017"
+      ],
+      [
+        "VR208SU2018",
+        "SU2018"
+      ],
+      [
+        "VR208SP2019",
+        "SP2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SP2019"
+  },
+  {
+    "courseCode": "VR209",
+    "courseName": "全球视野下科学医学之兴起",
+    "courseNameEn": "The rise of scientific medicine: a global perspective",
+    "lessons": [
+      [
+        "VR209SP2019",
+        "SP2019"
+      ],
+      [
+        "VR209SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2019, SP2020"
+  },
+  {
+    "courseCode": "VR222",
+    "courseName": "世界文学名著",
+    "courseNameEn": "Great Books in World Literature",
+    "lessons": [
+      [
+        "VR222SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2018"
+  },
+  {
+    "courseCode": "VR223",
+    "courseName": "天方夜谭与英国文学",
+    "courseNameEn": "Arabian Nights in British Literature",
+    "lessons": [
+      [
+        "VR223SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR236",
+    "courseName": "电影艺术与历史",
+    "courseNameEn": "Film Art and History",
+    "lessons": [
+      [
+        "VR236SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR238",
+    "courseName": "十九世纪的英帝国与“非正式”帝国主义",
+    "courseNameEn": "British Empire and “Informal” Imperialism in the Nineteenth-Century",
+    "lessons": [
+      [
+        "VR238SU2019",
         "SU2019"
       ]
     ],
@@ -298,6 +4130,1202 @@
       ]
     ],
     "terms": "FA2017"
+  },
+  {
+    "courseCode": "VR242",
+    "courseName": "幸福和人生的意义",
+    "courseNameEn": "Happiness and the Meaning of Life",
+    "lessons": [
+      [
+        "VR242SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR246",
+    "courseName": "漫画与视觉文学概论",
+    "courseNameEn": "Introduction to Comics and Graphic Novels ",
+    "lessons": [
+      [
+        "VR246SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR251",
+    "courseName": "美学",
+    "courseNameEn": "Aesthetics",
+    "lessons": [
+      [
+        "VR251SU2017",
+        "SU2017"
+      ],
+      [
+        "VR251FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "SU2017, FA2017"
+  },
+  {
+    "courseCode": "VR253",
+    "courseName": "文化与科技",
+    "courseNameEn": "Culture, Technology and Silicon Valley",
+    "lessons": [
+      [
+        "VR253SP2018",
+        "SP2018"
+      ],
+      [
+        "VR253SP2019",
+        "SP2019"
+      ],
+      [
+        "VR253SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VR255",
+    "courseName": "数字摄影技术",
+    "courseNameEn": "Digital Photography",
+    "lessons": [
+      [
+        "VR255SP2019",
+        "SP2019"
+      ],
+      [
+        "VR255SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2019, SP2020"
+  },
+  {
+    "courseCode": "VR258",
+    "courseName": "中国对外关系史",
+    "courseNameEn": "The History of Modern China’s Foreign Relations ",
+    "lessons": [
+      [
+        "VR258SU2019",
+        "SU2019"
+      ],
+      [
+        "VR258SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2019, SP2020"
+  },
+  {
+    "courseCode": "VR259",
+    "courseName": "记忆：理解20世纪中国史的新路径",
+    "courseNameEn": "Memory: A New Approach to China’s 20th Century History ",
+    "lessons": [
+      [
+        "VR259SP2019",
+        "SP2019"
+      ],
+      [
+        "VR259SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2019, SP2020"
+  },
+  {
+    "courseCode": "VR265",
+    "courseName": "中国哲学导论：通过古代中国了解当代",
+    "courseNameEn": "Introduction to Chinese Philosophy: Understanding Contemporary through Ancient China ",
+    "lessons": [
+      [
+        "VR265FA2018",
+        "FA2018"
+      ],
+      [
+        "VR265FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VR276",
+    "courseName": "存在主义与文学",
+    "courseNameEn": "Existentialism & Literature",
+    "lessons": [
+      [
+        "VR276SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR280",
+    "courseName": "中国现代文学概述",
+    "courseNameEn": "Introduction to Modern Chinese Literature",
+    "lessons": [
+      [
+        "VR280SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR291",
+    "courseName": "奇幻文学的另类世界想象",
+    "courseNameEn": "The Otherworlds of Fantasy ",
+    "lessons": [
+      [
+        "VR291SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR292",
+    "courseName": "爱情文学",
+    "courseNameEn": "Literature of Love",
+    "lessons": [
+      [
+        "VR292SU2017",
+        "SU2017"
+      ],
+      [
+        "VR292SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2019"
+  },
+  {
+    "courseCode": "VR301",
+    "courseName": "社会学原理与问题",
+    "courseNameEn": "Sociological Principles and Problems",
+    "lessons": [
+      [
+        "VR300SU2017",
+        "SU2017"
+      ],
+      [
+        "VR301SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VR309",
+    "courseName": "从帝国到民族国家：全球史上的中国，欧洲，拉丁美洲",
+    "courseNameEn": "From Empires to Nation-States: China, Europe and Latin America in Global History",
+    "lessons": [
+      [
+        "VR309FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019"
+  },
+  {
+    "courseCode": "VR318",
+    "courseName": "科幻小说",
+    "courseNameEn": "Science Fiction",
+    "lessons": [
+      [
+        "VR318SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR333",
+    "courseName": "电影中的人工智能",
+    "courseNameEn": "Artificial Intelligence in Film",
+    "lessons": [
+      [
+        "VR333SP2018",
+        "SP2018"
+      ]
+    ],
+    "terms": "SP2018"
+  },
+  {
+    "courseCode": "VR340",
+    "courseName": "莎士比亚研究",
+    "courseNameEn": "Shakespeare Studies ",
+    "lessons": [
+      [
+        "VR340SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR361",
+    "courseName": "哲学伦理学",
+    "courseNameEn": "Philosophical Ethics",
+    "lessons": [
+      [
+        "VR361SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR363",
+    "courseName": "当代中国电影中的中国社会",
+    "courseNameEn": "Chinese Society in Contemporary Chinese Cinema",
+    "lessons": [
+      [
+        "VR363SU2017",
+        "SU2017"
+      ]
+    ],
+    "terms": "SU2017"
+  },
+  {
+    "courseCode": "VR364",
+    "courseName": "文学中的人与环境",
+    "courseNameEn": "Literature and the Environment ",
+    "lessons": [
+      [
+        "VR364SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VR369",
+    "courseName": "国际经济关系",
+    "courseNameEn": "Politics of International Economic Relations",
+    "lessons": [
+      [
+        "VR369FA2017",
+        "FA2017"
+      ],
+      [
+        "VR369FA2018",
+        "FA2018"
+      ],
+      [
+        "VR369FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VR381",
+    "courseName": "社会科学研究设计",
+    "courseNameEn": "Introduction to Social Science Research Design",
+    "lessons": [
+      [
+        "VR381SU2018",
+        "SU2018"
+      ],
+      [
+        "VR381SU2019",
+        "SU2019"
+      ],
+      [
+        "VR381SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SU2018, SU2019, SP2020"
+  },
+  {
+    "courseCode": "VV115",
+    "courseName": "微积分（1）",
+    "courseNameEn": "Calculus Ⅰ",
+    "lessons": [
+      [
+        "VV115FA2017",
+        "FA2017"
+      ],
+      [
+        "VV115FA2018",
+        "FA2018"
+      ],
+      [
+        "VV115FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV116",
+    "courseName": "微积分（2）",
+    "courseNameEn": "Calculus Ⅱ",
+    "lessons": [
+      [
+        "VV116SP2018",
+        "SP2018"
+      ],
+      [
+        "VV116SP2019",
+        "SP2019"
+      ],
+      [
+        "VV116SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VV156",
+    "courseName": "高等数学A1",
+    "courseNameEn": "Honors Calculus II",
+    "lessons": [
+      [
+        "VV156FA2017",
+        "FA2017"
+      ],
+      [
+        "VV156FA2018",
+        "FA2018"
+      ],
+      [
+        "VV156FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV186",
+    "courseName": "高等数学B1",
+    "courseNameEn": "Honors Mathematics II",
+    "lessons": [
+      [
+        "VV186FA2017",
+        "FA2017"
+      ],
+      [
+        "VV186FA2018",
+        "FA2018"
+      ],
+      [
+        "VV186FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV214",
+    "courseName": "线性代数",
+    "courseNameEn": "Linear Algebra",
+    "lessons": [
+      [
+        "VV214SU2017",
+        "SU2017"
+      ],
+      [
+        "VV214SU2018",
+        "SU2018"
+      ],
+      [
+        "VV214SP2019",
+        "SP2019"
+      ],
+      [
+        "VV214SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SP2019, SU2019"
+  },
+  {
+    "courseCode": "VV215",
+    "courseName": "微积分（3）",
+    "courseNameEn": "Calculus III",
+    "lessons": [
+      [
+        "VV215SU2017",
+        "SU2017"
+      ],
+      [
+        "VV215SU2018",
+        "SU2018"
+      ],
+      [
+        "VV215SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VV216",
+    "courseName": "微分方程",
+    "courseNameEn": "Calculus IV",
+    "lessons": [
+      [
+        "VV216FA2017",
+        "FA2017"
+      ],
+      [
+        "VV216FA2018",
+        "FA2018"
+      ],
+      [
+        "VV216FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV255",
+    "courseName": "高等数学A2",
+    "courseNameEn": "Honors Calculus III",
+    "lessons": [
+      [
+        "VV255SU2017",
+        "SU2017"
+      ],
+      [
+        "VV255SU2018",
+        "SU2018"
+      ],
+      [
+        "VV255SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VV256",
+    "courseName": "线性代数和微分方程A",
+    "courseNameEn": "Honors Calculus IV",
+    "lessons": [
+      [
+        "VV256FA2017",
+        "FA2017"
+      ],
+      [
+        "VV256FA2018",
+        "FA2018"
+      ],
+      [
+        "VV256FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV285",
+    "courseName": "高等数学B2",
+    "courseNameEn": "Honors Mathematics III",
+    "lessons": [
+      [
+        "VV285SU2017",
+        "SU2017"
+      ],
+      [
+        "VV285SU2018",
+        "SU2018"
+      ],
+      [
+        "VV285SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VV286",
+    "courseName": "线性代数和微分方程B",
+    "courseNameEn": "Honors Mathematics IV",
+    "lessons": [
+      [
+        "VV286FA2017",
+        "FA2017"
+      ],
+      [
+        "VV286FA2018",
+        "FA2018"
+      ],
+      [
+        "VV286FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV417",
+    "courseName": "线性代数",
+    "courseNameEn": "Linear Algebra",
+    "lessons": [
+      [
+        "VV417FA2018",
+        "FA2018"
+      ],
+      [
+        "VV417FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV454",
+    "courseName": "工程数学B",
+    "courseNameEn": "Boundary Value Problems for Partial Differential Equations",
+    "lessons": [
+      [
+        "VV454SP2018",
+        "SP2018"
+      ],
+      [
+        "VV454SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SP2018, SU2019"
+  },
+  {
+    "courseCode": "VV471",
+    "courseName": "数值计算B",
+    "courseNameEn": "Introduction to Numerical Methods",
+    "lessons": [
+      [
+        "VV471SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2019"
+  },
+  {
+    "courseCode": "VV556",
+    "courseName": "应用数学方法（1）",
+    "courseNameEn": "Methods of Applied Math I",
+    "lessons": [
+      [
+        "VV556FA2017",
+        "FA2017"
+      ],
+      [
+        "VV556FA2018",
+        "FA2018"
+      ],
+      [
+        "VV556FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VV557",
+    "courseName": "应用数学分析方法II",
+    "courseNameEn": "Methods of Applied Math Ⅱ",
+    "lessons": [
+      [
+        "VV557SP2018",
+        "SP2018"
+      ],
+      [
+        "VV557SP2019",
+        "SP2019"
+      ],
+      [
+        "VV557SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VV570",
+    "courseName": "工程数值分析",
+    "courseNameEn": "Introduction to Engineering  Numerical Analysis",
+    "lessons": [
+      [
+        "VV570",
+        "SU2017"
+      ],
+      [
+        "VV570SU2018",
+        "SU2018"
+      ],
+      [
+        "VV570FA2018",
+        "FA2018"
+      ],
+      [
+        "VV570FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VW110",
+    "courseName": "德语（1）",
+    "courseNameEn": "German I",
+    "lessons": [
+      [
+        "VW110SU2017-1",
+        "SU2017-1"
+      ],
+      [
+        "VW110SU2017-2",
+        "SU2017-2"
+      ],
+      [
+        "VW110FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VW110FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VW110SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VW110SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VW110FA2018",
+        "FA2018"
+      ],
+      [
+        "VW110SP2019",
+        "SP2019"
+      ],
+      [
+        "VW110FA2019",
+        "FA2019"
+      ],
+      [
+        "VW110SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "VW110SP2020-2",
+        "SP2020-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VW111",
+    "courseName": "德语（2）",
+    "courseNameEn": "German II",
+    "lessons": [
+      [
+        "VW111SU2017",
+        "SU2017"
+      ],
+      [
+        "VW111FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VW111FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VW111SP2018",
+        "SP2018"
+      ],
+      [
+        "VW111SU2018-1",
+        "SU2018-1"
+      ],
+      [
+        "VW111SU2018-2",
+        "SU2018-2"
+      ],
+      [
+        "VW111FA2018",
+        "FA2018"
+      ],
+      [
+        "VW111SP2019-1",
+        "SP2019-1"
+      ],
+      [
+        "VW111SP2019-2",
+        "SP2019-2"
+      ],
+      [
+        "VW111SP2019-3",
+        "SP2019-3"
+      ],
+      [
+        "VW111FA2019",
+        "FA2019"
+      ],
+      [
+        "VW111SP2020-1",
+        "SP2020-1"
+      ],
+      [
+        "VW111SP2020-2",
+        "SP2020-2"
+      ],
+      [
+        "VW111SP2020-3",
+        "SP2020-3"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020"
+  },
+  {
+    "courseCode": "VW210",
+    "courseName": "德语（3）",
+    "courseNameEn": "German III",
+    "lessons": [
+      [
+        "VW210SU2017",
+        "SU2017"
+      ],
+      [
+        "VW210FA2017",
+        "FA2017"
+      ],
+      [
+        "VW210SP2018",
+        "SP2018"
+      ],
+      [
+        "VW210SU2018",
+        "SU2018"
+      ],
+      [
+        "VW210FA2018",
+        "FA2018"
+      ],
+      [
+        "VW210SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VW210SU2019-2",
+        "SU2019-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019"
+  },
+  {
+    "courseCode": "VW211",
+    "courseName": "德语（4）",
+    "courseNameEn": "German IV",
+    "lessons": [
+      [
+        "VW211SU2017",
+        "SU2017"
+      ],
+      [
+        "VW211FA2017",
+        "FA2017"
+      ],
+      [
+        "VW211SP2018",
+        "SP2018"
+      ],
+      [
+        "VW211SU2018",
+        "SU2018"
+      ],
+      [
+        "VW211FA2018",
+        "FA2018"
+      ],
+      [
+        "VW211SU2019-1",
+        "SU2019-1"
+      ],
+      [
+        "VW211SU2019-2",
+        "SU2019-2"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019"
+  },
+  {
+    "courseCode": "VW310",
+    "courseName": "德语（5）",
+    "courseNameEn": "German V",
+    "lessons": [
+      [
+        "VW310FA2018",
+        "FA2018"
+      ],
+      [
+        "VW310FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2018, FA2019"
+  },
+  {
+    "courseCode": "VW311",
+    "courseName": "德语（6）",
+    "courseNameEn": "German VI ",
+    "lessons": [
+      [
+        "VW311SP2019",
+        "SP2019"
+      ],
+      [
+        "VW311SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2019, SP2020"
+  },
+  {
+    "courseCode": "VX250",
+    "courseName": "商务交流",
+    "courseNameEn": "Business Communications",
+    "lessons": [
+      [
+        "VX250SU2017",
+        "SU2017"
+      ],
+      [
+        "VX250SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, SU2018"
+  },
+  {
+    "courseCode": "VX251",
+    "courseName": "品牌管理",
+    "courseNameEn": "Branding and Brand Management",
+    "lessons": [
+      [
+        "VX251SP2018",
+        "SP2018"
+      ],
+      [
+        "VX251SP2019",
+        "SP2019"
+      ],
+      [
+        "VX251SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VX351",
+    "courseName": "品牌管理（高级）",
+    "courseNameEn": "Advanced Branding and Brand Management",
+    "lessons": [
+      [
+        "VX351SU2017",
+        "SU2017"
+      ],
+      [
+        "VX351SU2018",
+        "SU2018"
+      ],
+      [
+        "VX351SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VX402",
+    "courseName": "商业管理",
+    "courseNameEn": "Managing a Business",
+    "lessons": [
+      [
+        "VX402SU2017",
+        "SU2017"
+      ],
+      [
+        "VX402SU2018",
+        "SU2018"
+      ],
+      [
+        "VX402SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VX420",
+    "courseName": "创业管理",
+    "courseNameEn": "Business Basics for Entrepreneurs",
+    "lessons": [
+      [
+        "VX420SU2017",
+        "SU2017"
+      ],
+      [
+        "VX420SU2018",
+        "SU2018"
+      ],
+      [
+        "VX420SU2019",
+        "SU2019"
+      ]
+    ],
+    "terms": "SU2017, SU2018, SU2019"
+  },
+  {
+    "courseCode": "VX422",
+    "courseName": "电子商务管理",
+    "courseNameEn": "E-Business Management",
+    "lessons": [
+      [
+        "VX422FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "FA2017"
+  },
+  {
+    "courseCode": "VX423",
+    "courseName": "企业创新",
+    "courseNameEn": "Intrapreneurship",
+    "lessons": [
+      [
+        "VX423SP2018",
+        "SP2018"
+      ],
+      [
+        "VX423SP2019",
+        "SP2019"
+      ],
+      [
+        "VX423SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2018, SP2019, SP2020"
+  },
+  {
+    "courseCode": "VX425",
+    "courseName": "技术创业",
+    "courseNameEn": "Technology Entrepreneurship ",
+    "lessons": [
+      [
+        "VX425FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019"
+  },
+  {
+    "courseCode": "VX440",
+    "courseName": "社会企业导论",
+    "courseNameEn": "Introduction to Social Entrepreneurship",
+    "lessons": [
+      [
+        "VX440SP2018",
+        "SP2018"
+      ],
+      [
+        "VX440FA2018",
+        "FA2018"
+      ],
+      [
+        "VX440FA2019",
+        "FA2019"
+      ]
+    ],
+    "terms": "SP2018, FA2018, FA2019"
+  },
+  {
+    "courseCode": "VY100",
+    "courseName": "综合英语（J类）",
+    "courseNameEn": "Academic Writing Ⅰ",
+    "lessons": [
+      [
+        "VY100FA2017-1",
+        "FA2017-1"
+      ],
+      [
+        "VY100FA2017-2",
+        "FA2017-2"
+      ],
+      [
+        "VY100FA2017-3",
+        "FA2017-3"
+      ],
+      [
+        "VY100FA2017-4",
+        "FA2017-4"
+      ],
+      [
+        "VY100FA2017-5",
+        "FA2017-5"
+      ],
+      [
+        "VY100FA2017-6",
+        "FA2017-6"
+      ],
+      [
+        "VY100FA2017-7",
+        "FA2017-7"
+      ],
+      [
+        "VY100FA2017-8",
+        "FA2017-8"
+      ],
+      [
+        "VY100FA2017-9",
+        "FA2017-9"
+      ],
+      [
+        "VY100FA2017-10",
+        "FA2017-10"
+      ],
+      [
+        "VY100FA2017-11",
+        "FA2017-11"
+      ],
+      [
+        "VY100FA2017-12",
+        "FA2017-12"
+      ],
+      [
+        "VY100FA2018-1",
+        "FA2018-1"
+      ],
+      [
+        "VY100FA2018-2",
+        "FA2018-2"
+      ],
+      [
+        "VY100FA2018-3",
+        "FA2018-3"
+      ],
+      [
+        "VY100FA2018-4",
+        "FA2018-4"
+      ],
+      [
+        "VY100FA2018-5",
+        "FA2018-5"
+      ],
+      [
+        "VY100FA2018-6",
+        "FA2018-6"
+      ],
+      [
+        "VY100FA2018-7",
+        "FA2018-7"
+      ],
+      [
+        "VY100FA2018-8",
+        "FA2018-8"
+      ],
+      [
+        "VY100FA2018-9",
+        "FA2018-9"
+      ],
+      [
+        "VY100FA2018-10",
+        "FA2018-10"
+      ],
+      [
+        "VY100FA2018-11",
+        "FA2018-11"
+      ],
+      [
+        "VY100FA2018-12",
+        "FA2018-12"
+      ],
+      [
+        "VY100FA2019-1",
+        "FA2019-1"
+      ],
+      [
+        "VY100FA2019-2",
+        "FA2019-2"
+      ],
+      [
+        "VY100FA2019-3",
+        "FA2019-3"
+      ],
+      [
+        "VY100FA2019-4",
+        "FA2019-4"
+      ],
+      [
+        "VY100FA2019-5",
+        "FA2019-5"
+      ],
+      [
+        "VY100FA2019-6",
+        "FA2019-6"
+      ],
+      [
+        "VY100FA2019-7",
+        "FA2019-7"
+      ],
+      [
+        "VY100FA2019-8",
+        "FA2019-8"
+      ],
+      [
+        "VY100FA2019-9",
+        "FA2019-9"
+      ],
+      [
+        "VY100FA2019-10",
+        "FA2019-10"
+      ],
+      [
+        "VY100FA2019-11",
+        "FA2019-11"
+      ],
+      [
+        "VY100FA2019-12",
+        "FA2019-12"
+      ],
+      [
+        "VY100FA2019-13",
+        "FA2019-13"
+      ],
+      [
+        "VY100FA2019-14",
+        "FA2019-14"
+      ],
+      [
+        "VY100FA2019-15",
+        "FA2019-15"
+      ],
+      [
+        "VY100FA2019-16",
+        "FA2019-16"
+      ]
+    ],
+    "terms": "FA2017, FA2018, FA2019"
   },
   {
     "courseCode": "VY200",
@@ -488,900 +5516,16 @@
     "terms": "SP2018, SP2019, SP2020"
   },
   {
-    "courseCode": "VE472",
-    "courseName": "大数据分析及工具",
-    "courseNameEn": "Methods and Tools for Big Data",
+    "courseCode": "VY202",
+    "courseName": "旅行写作",
+    "courseNameEn": "Travel Writing in Shanghai and Beyond",
     "lessons": [
       [
-        "VE472SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VM531",
-    "courseName": "高等传热学（导热和辐射）",
-    "courseNameEn": "Advanced Conduction and Radiation Heat Transfer",
-    "lessons": [
-      [
-        "VM531FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VM520",
-    "courseName": "高等流体力学",
-    "courseNameEn": "Advanced Fluid Mechanics",
-    "lessons": [
-      [
-        "VM520FA2017",
-        "FA2017"
-      ],
-      [
-        "VM520FA2018",
-        "FA2018"
-      ],
-      [
-        "VM520FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM555",
-    "courseName": "工程优化",
-    "courseNameEn": "Engineering Optimization",
-    "lessons": [
-      [
-        "VM555FA2018",
-        "FA2018"
-      ],
-      [
-        "VM555FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE475",
-    "courseName": "密码学导论",
-    "courseNameEn": "Introduction to Cryptography",
-    "lessons": [
-      [
-        "VE475SU2017",
-        "SU2017"
-      ],
-      [
-        "VE475SU2018",
-        "SU2018"
-      ],
-      [
-        "VE475SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VE270",
-    "courseName": "逻辑设计导论",
-    "courseNameEn": "Introduction to Logic Design",
-    "lessons": [
-      [
-        "VE270SU2017",
-        "SU2017"
-      ],
-      [
-        "VE270FA2017",
-        "FA2017"
-      ],
-      [
-        "VE270SU2018",
-        "SU2018"
-      ],
-      [
-        "VE270FA2018",
-        "FA2018"
-      ],
-      [
-        "VE270FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VE270FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VE270FA2018-3",
-        "FA2018-3"
-      ],
-      [
-        "VE270SU2019",
-        "SU2019"
-      ],
-      [
-        "VE270FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VE280",
-    "courseName": "程序设计与数据结构",
-    "courseNameEn": "Programming & Elem. Data Structures",
-    "lessons": [
-      [
-        "VE280SU2017",
-        "SU2017"
-      ],
-      [
-        "VE280SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VE280SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VE280SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VE280SU2019-2",
-        "SU2019-2"
-      ],
-      [
-        "VE280FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VV256",
-    "courseName": "线性代数和微分方程A",
-    "courseNameEn": "Honors Calculus IV",
-    "lessons": [
-      [
-        "VV256FA2017",
-        "FA2017"
-      ],
-      [
-        "VV256FA2018",
-        "FA2018"
-      ],
-      [
-        "VV256FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR140",
-    "courseName": "比较政府与政治",
-    "courseNameEn": "Comparative Governments and Politics",
-    "lessons": [
-      [
-        "VR140FA2017",
-        "FA2017"
-      ],
-      [
-        "VR140SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "FA2017, SU2019"
-  },
-  {
-    "courseCode": "VR265",
-    "courseName": "中国哲学导论：通过古代中国了解当代",
-    "courseNameEn": "Introduction to Chinese Philosophy: Understanding Contemporary through Ancient China ",
-    "lessons": [
-      [
-        "VR265FA2018",
-        "FA2018"
-      ],
-      [
-        "VR265FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM450",
-    "courseName": "设计与制造（3）",
-    "courseNameEn": "Design and Manufacturing III",
-    "lessons": [
-      [
-        "VM450SU2017",
-        "SU2017"
-      ],
-      [
-        "VM450FA2017",
-        "FA2017"
-      ],
-      [
-        "VM450SU2018",
-        "SU2018"
-      ],
-      [
-        "VM450FA2018",
-        "FA2018"
-      ],
-      [
-        "VM450SU2019",
-        "SU2019"
-      ],
-      [
-        "VM450FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VM360",
-    "courseName": "动态系统建模分析与控制",
-    "courseNameEn": "Modeling, Analysis and Control of Dynamic Systems",
-    "lessons": [
-      [
-        "VM360SU2017",
-        "SU2017"
-      ],
-      [
-        "VM360SU2018",
-        "SU2018"
-      ],
-      [
-        "VM360SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VV286",
-    "courseName": "线性代数和微分方程B",
-    "courseNameEn": "Honors Mathematics IV",
-    "lessons": [
-      [
-        "VV286FA2017",
-        "FA2017"
-      ],
-      [
-        "VV286FA2018",
-        "FA2018"
-      ],
-      [
-        "VV286FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VX402",
-    "courseName": "商业管理",
-    "courseNameEn": "Managing a Business",
-    "lessons": [
-      [
-        "VX402SU2017",
-        "SU2017"
-      ],
-      [
-        "VX402SU2018",
-        "SU2018"
-      ],
-      [
-        "VX402SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VR150",
-    "courseName": "德国文化",
-    "courseNameEn": "German Culture",
-    "lessons": [
-      [
-        "VR150SU2017",
-        "SU2017"
-      ],
-      [
-        "VR150FA2017",
-        "FA2017"
-      ],
-      [
-        "VR150SP2018",
-        "SP2018"
-      ],
-      [
-        "VR150SU2018",
-        "SU2018"
-      ],
-      [
-        "VR150SP2019",
-        "SP2019"
-      ],
-      [
-        "VR150FA2019",
-        "FA2019"
-      ],
-      [
-        "VR150SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VM532",
-    "courseName": "高等对流传热",
-    "courseNameEn": "Advanced Convection",
-    "lessons": [
-      [
-        "VM532SU2018",
+        "VY202SU2018",
         "SU2018"
       ]
     ],
     "terms": "SU2018"
-  },
-  {
-    "courseCode": "VV454",
-    "courseName": "工程数学B",
-    "courseNameEn": "Boundary Value Problems for Partial Differential Equations",
-    "lessons": [
-      [
-        "VV454SP2018",
-        "SP2018"
-      ],
-      [
-        "VV454SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SP2018, SU2019"
-  },
-  {
-    "courseCode": "TH020",
-    "courseName": "形势与政策",
-    "courseNameEn": "Circumstance and Policy",
-    "lessons": [
-      [
-        "TH020FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "TH020FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "TH020SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH020SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "TH020FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "TH020FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "TH020SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "TH020SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "TH020FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "TH020FA2019-2",
-        "FA2019-2"
-      ],
-      [
-        "TH020SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "TH020SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VC210",
-    "courseName": "大学化学（J类）",
-    "courseNameEn": "Chemistry",
-    "lessons": [
-      [
-        "VC210FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VC210FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VC210FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VC210FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VC210FA2019-1-Afternoon",
-        "FA2019-Afternoon"
-      ],
-      [
-        "VC210FA2019-2-Evening",
-        "FA2019-Evening"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "PE002",
-    "courseName": "体育（2）",
-    "courseNameEn": "Physical Education II",
-    "lessons": [
-      [
-        "PE002SP2018-019-1",
-        "SP2018-1"
-      ],
-      [
-        "PE002SP2018-019-2",
-        "SP2018-2"
-      ],
-      [
-        "PE002SP2018-011",
-        "SP2018-11"
-      ],
-      [
-        "PE002SP2018-012",
-        "SP2018-12"
-      ],
-      [
-        "PE002SP2018-013",
-        "SP2018-13"
-      ],
-      [
-        "PE002SP2018-014",
-        "SP2018-14"
-      ],
-      [
-        "PE002SP2018-015",
-        "SP2018-15"
-      ],
-      [
-        "PE002SP2018-016",
-        "SP2018-16"
-      ],
-      [
-        "PE002SP2018-017",
-        "SP2018-17"
-      ],
-      [
-        "PE002SP2018-018",
-        "SP2018-18"
-      ],
-      [
-        "PE002SP2018-020",
-        "SP2018-20"
-      ],
-      [
-        "PE002SP2019-18",
-        "SP2019-18"
-      ],
-      [
-        "PE002SP2019-19",
-        "SP2019-19"
-      ],
-      [
-        "PE002SP2019-20",
-        "SP2019-20"
-      ],
-      [
-        "PE002SP2019-21",
-        "SP2019-21"
-      ],
-      [
-        "PE002SP2019-27",
-        "SP2019-27"
-      ],
-      [
-        "PE002SP2019-28",
-        "SP2019-28"
-      ],
-      [
-        "PE002SP2019-29",
-        "SP2019-29"
-      ],
-      [
-        "PE002SP2019-30",
-        "SP2019-30"
-      ],
-      [
-        "PE002SP2019-31",
-        "SP2019-31"
-      ],
-      [
-        "PE002SP2019-35",
-        "SP2019-35"
-      ],
-      [
-        "PE002SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "PE002SP2020-2",
-        "SP2020-2"
-      ],
-      [
-        "PE002SP2020-3",
-        "SP2020-3"
-      ],
-      [
-        "PE002SP2020-4",
-        "SP2020-4"
-      ],
-      [
-        "PE002SP2020-5",
-        "SP2020-5"
-      ],
-      [
-        "PE002SP2020-6",
-        "SP2020-6"
-      ],
-      [
-        "PE002SP2020-7",
-        "SP2020-7"
-      ],
-      [
-        "PE002SP2020-8",
-        "SP2020-8"
-      ],
-      [
-        "PE002SP2020-9",
-        "SP2020-9"
-      ],
-      [
-        "PE002SP2020-10",
-        "SP2020-10"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VW311",
-    "courseName": "德语（6）",
-    "courseNameEn": "German VI ",
-    "lessons": [
-      [
-        "VW311SP2019",
-        "SP2019"
-      ],
-      [
-        "VW311SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VM495",
-    "courseName": "实验二",
-    "courseNameEn": "Laboratory II",
-    "lessons": [
-      [
-        "VM495SU2017",
-        "SU2017"
-      ],
-      [
-        "VM495FA2017",
-        "FA2017"
-      ],
-      [
-        "VM495SU2018",
-        "SU2018"
-      ],
-      [
-        "VM495FA2018",
-        "FA2018"
-      ],
-      [
-        "VM495SU2019",
-        "SU2019"
-      ],
-      [
-        "VM495FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VY240",
-    "courseName": "诗歌概论",
-    "courseNameEn": "Introduction to Poetry ",
-    "lessons": [
-      [
-        "VY240SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VG100",
-    "courseName": "工程导论",
-    "courseNameEn": "Intro to Engineering",
-    "lessons": [
-      [
-        "VG100SU2017-1",
-        "SU2017-1"
-      ],
-      [
-        "VG100SU2017-2",
-        "SU2017-2"
-      ],
-      [
-        "VG100SU2017-3",
-        "SU2017-3"
-      ],
-      [
-        "VG100FA2017",
-        "FA2017"
-      ],
-      [
-        "VG100SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VG100SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VG100SU2018-3",
-        "SU2018-3"
-      ],
-      [
-        "VG100FA2018",
-        "FA2018"
-      ],
-      [
-        "VG100SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VG100SU2019-2",
-        "SU2019-2"
-      ],
-      [
-        "VG100SU2019-3",
-        "SU2019-3"
-      ],
-      [
-        "VG100FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VE460",
-    "courseName": "控制系统分析与设计",
-    "courseNameEn": "Control Systems Analysis and Design",
-    "lessons": [
-      [
-        "VE460FA2017",
-        "FA2017"
-      ],
-      [
-        "VE460SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "FA2017, SU2019"
-  },
-  {
-    "courseCode": "VE230",
-    "courseName": "电磁学（J类）（1）",
-    "courseNameEn": "Electromagnetics I",
-    "lessons": [
-      [
-        "VE230SU2017",
-        "SU2017"
-      ],
-      [
-        "VE230FA2017",
-        "FA2017"
-      ],
-      [
-        "VE230SU2018",
-        "SU2018"
-      ],
-      [
-        "VE230FA2018",
-        "FA2018"
-      ],
-      [
-        "VE230SU2019",
-        "SU2019"
-      ],
-      [
-        "VE230FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VR222",
-    "courseName": "世界文学名著",
-    "courseNameEn": "Great Books in World Literature",
-    "lessons": [
-      [
-        "VR222SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VM421",
-    "courseName": "热流体系统设计",
-    "courseNameEn": "Thermal Fluids Systems Design",
-    "lessons": [
-      [
-        "VM421SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VM559",
-    "courseName": "纳米技术基础",
-    "courseNameEn": "Foundations of Nanotechnology",
-    "lessons": [
-      [
-        "VM559SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VX250",
-    "courseName": "商务交流",
-    "courseNameEn": "Business Communications",
-    "lessons": [
-      [
-        "VX250SU2017",
-        "SU2017"
-      ],
-      [
-        "VX250SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VR123",
-    "courseName": "从小说到电影",
-    "courseNameEn": "Novel into Film ",
-    "lessons": [
-      [
-        "VR123SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VE477",
-    "courseName": "算法导论",
-    "courseNameEn": "Introduction to Algorithms",
-    "lessons": [
-      [
-        "VE477FA2017",
-        "FA2017"
-      ],
-      [
-        "VE477FA2018",
-        "FA2018"
-      ],
-      [
-        "VE477FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "TH007",
-    "courseName": "马克思主义基本原理",
-    "courseNameEn": "Marxism Basic Theory",
-    "lessons": [
-      [
-        "TH007SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH007SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "TH007SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "TH007SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "TH007SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "TH007SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VM384",
-    "courseName": "工程项目管理",
-    "courseNameEn": "Engineering Project Management",
-    "lessons": [
-      [
-        "VM384SU2017",
-        "SU2017"
-      ],
-      [
-        "VM384SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VR258",
-    "courseName": "中国对外关系史",
-    "courseNameEn": "The History of Modern China’s Foreign Relations ",
-    "lessons": [
-      [
-        "VR258SU2019",
-        "SU2019"
-      ],
-      [
-        "VR258SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2019, SP2020"
   },
   {
     "courseCode": "VY203",
@@ -1396,1808 +5540,124 @@
     "terms": "SU2018"
   },
   {
-    "courseCode": "VM511",
-    "courseName": "固体力学原理",
-    "courseNameEn": "Foundation of Solid Mechanics",
+    "courseCode": "VY223",
+    "courseName": "创意写作",
+    "courseNameEn": "Creative Writing",
     "lessons": [
       [
-        "VM511SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VE334",
-    "courseName": "光学原理",
-    "courseNameEn": "Principles of Optics",
-    "lessons": [
-      [
-        "VE334FA2017",
-        "FA2017"
-      ],
-      [
-        "VE334FA2018",
-        "FA2018"
-      ],
-      [
-        "VE334FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VP390",
-    "courseName": "现代物理",
-    "courseNameEn": "Modern Physics",
-    "lessons": [
-      [
-        "VP390SU2017",
+        "VY223SU2017",
         "SU2017"
       ],
       [
-        "VP390SU2018",
+        "VY223SU2018",
         "SU2018"
       ],
       [
-        "VP390SU2019",
+        "VY223SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2017, SU2018, SU2019"
   },
   {
-    "courseCode": "TH012",
-    "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
-    "courseNameEn": "Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics",
+    "courseCode": "VY230",
+    "courseName": "英文短篇小说导读",
+    "courseNameEn": "Introduction to Short Story and Novel",
     "lessons": [
       [
-        "TH012SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH012SP2018-2",
-        "SP2018-2"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "VR208",
-    "courseName": "企业与自然环境",
-    "courseNameEn": "Business and Natural Environment",
-    "lessons": [
-      [
-        "VR208SU2017",
-        "SU2017"
-      ],
-      [
-        "VR208SU2018",
+        "VY230SU2018",
         "SU2018"
       ],
       [
-        "VR208SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SP2019"
-  },
-  {
-    "courseCode": "VR276",
-    "courseName": "存在主义与文学",
-    "courseNameEn": "Existentialism & Literature",
-    "lessons": [
-      [
-        "VR276SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "PE001",
-    "courseName": "体育（1）",
-    "courseNameEn": "Physical Education I",
-    "lessons": [
-      [
-        "PE001FA2017-010",
-        "FA2017-10"
-      ],
-      [
-        "PE001FA2017-011",
-        "FA2017-11"
-      ],
-      [
-        "PE001FA2017-012",
-        "FA2017-12"
-      ],
-      [
-        "PE001FA2017-013",
-        "FA2017-13"
-      ],
-      [
-        "PE001FA2017-014",
-        "FA2017-14"
-      ],
-      [
-        "PE001FA2017-015",
-        "FA2017-15"
-      ],
-      [
-        "PE001FA2017-016",
-        "FA2017-16"
-      ],
-      [
-        "PE001FA2017-017",
-        "FA2017-17"
-      ],
-      [
-        "PE001FA2017-018",
-        "FA2017-18"
-      ],
-      [
-        "PE001FA2017-019",
-        "FA2017-19"
-      ],
-      [
-        "PE001FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "PE001FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "PE001FA2018-3",
-        "FA2018-3"
-      ],
-      [
-        "PE001FA2018-4",
-        "FA2018-4"
-      ],
-      [
-        "PE001FA2018-5",
-        "FA2018-5"
-      ],
-      [
-        "PE001FA2018-6",
-        "FA2018-6"
-      ],
-      [
-        "PE001FA2018-7",
-        "FA2018-7"
-      ],
-      [
-        "PE001FA2018-8",
-        "FA2018-8"
-      ],
-      [
-        "PE001FA2018-9",
-        "FA2018-9"
-      ],
-      [
-        "PE001FA2018-10",
-        "FA2018-10"
-      ],
-      [
-        "PE001FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "PE001FA2019-2",
-        "FA2019-2"
-      ],
-      [
-        "PE001FA2019-3",
-        "FA2019-3"
-      ],
-      [
-        "PE001FA2019-4",
-        "FA2019-4"
-      ],
-      [
-        "PE001FA2019-5",
-        "FA2019-5"
-      ],
-      [
-        "PE001FA2019-6",
-        "FA2019-6"
-      ],
-      [
-        "PE001FA2019-7",
-        "FA2019-7"
-      ],
-      [
-        "PE001FA2019-8",
-        "FA2019-8"
-      ],
-      [
-        "PE001FA2019-9",
-        "FA2019-9"
-      ],
-      [
-        "PE001FA2019-10",
-        "FA2019-10"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM395",
-    "courseName": "实验一",
-    "courseNameEn": "Laboratory I",
-    "lessons": [
-      [
-        "VM395SU2017",
-        "SU2017"
-      ],
-      [
-        "VM395FA2017",
-        "FA2017"
-      ],
-      [
-        "VM395SU2018",
-        "SU2018"
-      ],
-      [
-        "VM395FA2018",
-        "FA2018"
-      ],
-      [
-        "VM395FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VM395FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VM395SU2019",
-        "SU2019"
-      ],
-      [
-        "VM395FA2019",
-        "FA2019"
-      ],
-      [
-        "VM395FA2019-Lab S1",
-        "FA2019-Lab S1"
-      ],
-      [
-        "VM395FA2019-Lab S2",
-        "FA2019-Lab S2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VM543",
-    "courseName": "分析动力学",
-    "courseNameEn": "Analytical Dynamics",
-    "lessons": [
-      [
-        "VM543SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VM335",
-    "courseName": "传热学（J类）",
-    "courseNameEn": "Heat Transfer",
-    "lessons": [
-      [
-        "VM335SU2017",
-        "SU2017"
-      ],
-      [
-        "VM335SU2018",
-        "SU2018"
-      ],
-      [
-        "VM335SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VM458",
-    "courseName": "汽车工程",
-    "courseNameEn": "Automotive Engineering",
-    "lessons": [
-      [
-        "VM458SU2018",
-        "SU2018"
-      ],
-      [
-        "VM458SU2019",
+        "VY230SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2018, SU2019"
   },
   {
-    "courseCode": "VV417",
-    "courseName": "线性代数",
-    "courseNameEn": "Linear Algebra",
+    "courseCode": "VY240",
+    "courseName": "诗歌概论",
+    "courseNameEn": "Introduction to Poetry ",
     "lessons": [
       [
-        "VV417FA2018",
-        "FA2018"
-      ],
-      [
-        "VV417FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VG500",
-    "courseName": "科技写作",
-    "courseNameEn": "Technical Communication",
-    "lessons": [
-      [
-        "VG500FA2017",
-        "FA2017"
-      ],
-      [
-        "VG500SP2018",
-        "SP2018"
-      ],
-      [
-        "VG500FA2018",
-        "FA2018"
-      ],
-      [
-        "VG500SP2019",
-        "SP2019"
-      ],
-      [
-        "VG500FA2019",
-        "FA2019"
-      ],
-      [
-        "VG500SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "VG500SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VE455",
-    "courseName": "数字通信信号与系统",
-    "courseNameEn": "Digital Communication Signals & Systems",
-    "lessons": [
-      [
-        "VE455FA2017",
-        "FA2017"
-      ],
-      [
-        "VE455FA2018",
-        "FA2018"
-      ],
-      [
-        "VE455FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VZ051",
-    "courseName": "汉语五（上）",
-    "courseNameEn": "Chinese Language (level 5 part 1) ",
-    "lessons": [
-      [
-        "VZ051FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VX422",
-    "courseName": "电子商务管理",
-    "courseNameEn": "E-Business Management",
-    "lessons": [
-      [
-        "VX422FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "FA2017"
-  },
-  {
-    "courseCode": "VE556",
-    "courseName": "图像处理",
-    "courseNameEn": "Image Processing",
-    "lessons": [
-      [
-        "VE556FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VE540",
-    "courseName": "应用量子力学 I",
-    "courseNameEn": "Applied Quantum Mechanics I",
-    "lessons": [
-      [
-        "VE540FA2017",
-        "FA2017"
-      ],
-      [
-        "VE540FA2018",
-        "FA2018"
-      ],
-      [
-        "VE540FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM466",
-    "courseName": "统计质量控制",
-    "courseNameEn": "Statistical Quality Control",
-    "lessons": [
-      [
-        "VM466SU2018",
-        "SU2018"
-      ],
-      [
-        "VM466SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2018, SU2019"
-  },
-  {
-    "courseCode": "VC209",
-    "courseName": "大学化学",
-    "courseNameEn": "Chemistry",
-    "lessons": [
-      [
-        "VC209FA2017",
-        "FA2017"
-      ],
-      [
-        "VC209FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2019"
-  },
-  {
-    "courseCode": "VE406",
-    "courseName": "应用回归分析与R语言",
-    "courseNameEn": "Applied Regression Analysis using R",
-    "lessons": [
-      [
-        "VE406SU2018",
-        "SU2018"
-      ],
-      [
-        "VE406FA2018",
-        "FA2018"
-      ],
-      [
-        "VE406FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2018, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE666",
-    "courseName": "毫米波与太赫兹无线通信",
-    "courseNameEn": "Millimeter-wave and Terahertz Wireless Communications",
-    "lessons": [
-      [
-        "VE666FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VE445",
-    "courseName": "机器学习导论",
-    "courseNameEn": "Introduction to Machine Learning",
-    "lessons": [
-      [
-        "VE445SP2019",
-        "SP2019"
-      ],
-      [
-        "VE445FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SP2019, FA2019"
-  },
-  {
-    "courseCode": "TH021",
-    "courseName": "中国近现代史纲要",
-    "courseNameEn": "Modern Chinese History",
-    "lessons": [
-      [
-        "TH021SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH021SP2018-2",
-        "SP2018-2"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "VE689",
-    "courseName": "无线网络",
-    "courseNameEn": "Wireless Network",
-    "lessons": [
-      [
-        "Ve689FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VV556",
-    "courseName": "应用数学方法（1）",
-    "courseNameEn": "Methods of Applied Math I",
-    "lessons": [
-      [
-        "VV556FA2017",
-        "FA2017"
-      ],
-      [
-        "VV556FA2018",
-        "FA2018"
-      ],
-      [
-        "VV556FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR203",
-    "courseName": "现代东亚的饮食与历史变迁",
-    "courseNameEn": "Food in Modern East Asian History",
-    "lessons": [
-      [
-        "VR203SU2017",
-        "SU2017"
-      ],
-      [
-        "VR203FA2018",
-        "FA2018"
-      ],
-      [
-        "VR203SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SU2017, FA2018, SP2019"
-  },
-  {
-    "courseCode": "VE581",
-    "courseName": "面向视觉识别的卷积神经网络",
-    "courseNameEn": "Convolutional Neural Networks for Visual Recognition",
-    "lessons": [
-      [
-        "VE581SU2019",
+        "VY240SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2019"
   },
   {
-    "courseCode": "VE458",
-    "courseName": "生物医学仪器与设计",
-    "courseNameEn": "Biomedical Intrumentation and Design",
+    "courseCode": "VY298",
+    "courseName": "英国文学概述",
+    "courseNameEn": "Introduction to British Literature",
     "lessons": [
       [
-        "VE458FA2017",
-        "FA2017"
-      ],
-      [
-        "VE458FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2017, FA2018"
-  },
-  {
-    "courseCode": "VW111",
-    "courseName": "德语（2）",
-    "courseNameEn": "German II",
-    "lessons": [
-      [
-        "VW111SU2017",
-        "SU2017"
-      ],
-      [
-        "VW111FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VW111FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VW111SP2018",
-        "SP2018"
-      ],
-      [
-        "VW111SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VW111SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VW111FA2018",
-        "FA2018"
-      ],
-      [
-        "VW111SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "VW111SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "VW111SP2019-3",
-        "SP2019-3"
-      ],
-      [
-        "VW111FA2019",
-        "FA2019"
-      ],
-      [
-        "VW111SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "VW111SP2020-2",
-        "SP2020-2"
-      ],
-      [
-        "VW111SP2020-3",
-        "SP2020-3"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VX351",
-    "courseName": "品牌管理（高级）",
-    "courseNameEn": "Advanced Branding and Brand Management",
-    "lessons": [
-      [
-        "VX351SU2017",
-        "SU2017"
-      ],
-      [
-        "VX351SU2018",
-        "SU2018"
-      ],
-      [
-        "VX351SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VV216",
-    "courseName": "微分方程",
-    "courseNameEn": "Calculus IV",
-    "lessons": [
-      [
-        "VV216FA2017",
-        "FA2017"
-      ],
-      [
-        "VV216FA2018",
-        "FA2018"
-      ],
-      [
-        "VV216FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VC301",
-    "courseName": "环境空气污染控制导论",
-    "courseNameEn": "Introduction to Environmental & Air Pollution Control",
-    "lessons": [
-      [
-        "VC301FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "FA2017"
-  },
-  {
-    "courseCode": "VM517",
-    "courseName": "高分子力学性能",
-    "courseNameEn": "Mechanical Properties of Polymers",
-    "lessons": [
-      [
-        "VM517",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VM240",
-    "courseName": "动力学与振动导论",
-    "courseNameEn": "Intro to Dynamics and Vibrations",
-    "lessons": [
-      [
-        "VM240SU2017",
-        "SU2017"
-      ],
-      [
-        "VM240SP2018",
-        "SP2018"
-      ],
-      [
-        "VM240SU2018",
-        "SU2018"
-      ],
-      [
-        "VM240SP2019",
-        "SP2019"
-      ],
-      [
-        "VM240SU2019",
-        "SU2019"
-      ],
-      [
-        "VM240SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
-  },
-  {
-    "courseCode": "VM250",
-    "courseName": "设计与制造（J类）（1）",
-    "courseNameEn": "Design and Manufacturing I",
-    "lessons": [
-      [
-        "VM250SU2017",
-        "SU2017"
-      ],
-      [
-        "VM250SP2018",
-        "SP2018"
-      ],
-      [
-        "VM250SU2018",
-        "SU2018"
-      ],
-      [
-        "VM250SP2019",
-        "SP2019"
-      ],
-      [
-        "VM250SU2019",
-        "SU2019"
-      ],
-      [
-        "VM250SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
-  },
-  {
-    "courseCode": "VE415",
-    "courseName": "微电子机械系统导论",
-    "courseNameEn": "Introduction to MEMS",
-    "lessons": [
-      [
-        "VE415SU2018",
-        "SU2018"
-      ],
-      [
-        "VE415SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2018, SU2019"
-  },
-  {
-    "courseCode": "VM513",
-    "courseName": "连续介质力学",
-    "courseNameEn": "Continuum Mechanics",
-    "lessons": [
-      [
-        "VM513FA2018",
-        "FA2018"
-      ],
-      [
-        "VM513FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE413",
-    "courseName": "单片集成放大器电路设计",
-    "courseNameEn": "Monolithic Amplifier Circuits",
-    "lessons": [
-      [
-        "VE413FA2017",
-        "FA2017"
-      ],
-      [
-        "VE413FA2018",
-        "FA2018"
-      ],
-      [
-        "VE413FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM235",
-    "courseName": "工程热力学（J类）（1）",
-    "courseNameEn": "Thermodynamics",
-    "lessons": [
-      [
-        "VM235SU2017",
-        "SU2017"
-      ],
-      [
-        "VM235FA2017",
-        "FA2017"
-      ],
-      [
-        "VM235SU2018",
-        "SU2018"
-      ],
-      [
-        "VM235FA2018",
-        "FA2018"
-      ],
-      [
-        "VM235SU2019",
-        "SU2019"
-      ],
-      [
-        "VM235FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VM405",
-    "courseName": "机械工程中的有限元",
-    "courseNameEn": "Finite Elements in Mechanical Engineering",
-    "lessons": [
-      [
-        "VM405SU2019",
+        "VY298SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2019"
   },
   {
-    "courseCode": "VZ200",
-    "courseName": "汉语综合课（2）",
-    "courseNameEn": "Comprehensive Chinese II",
+    "courseCode": "VZ002",
+    "courseName": "汉语（2）",
+    "courseNameEn": "Chinese Ⅱ",
     "lessons": [
       [
-        "VZ200SU2017",
+        "VZ002FA2017",
+        "FA2017"
+      ]
+    ],
+    "terms": "FA2017"
+  },
+  {
+    "courseCode": "VZ003",
+    "courseName": "汉语（3）",
+    "courseNameEn": "Chinese Ⅲ",
+    "lessons": [
+      [
+        "VZ003SU2017",
         "SU2017"
       ],
       [
-        "VZ200FA2017",
+        "VZ003FA2017",
         "FA2017"
       ],
       [
-        "VZ200SU2018",
+        "VZ003SU2018",
         "SU2018"
       ]
     ],
     "terms": "SU2017, FA2017, SU2018"
   },
   {
-    "courseCode": "VV285",
-    "courseName": "高等数学B2",
-    "courseNameEn": "Honors Mathematics III",
+    "courseCode": "VZ011",
+    "courseName": "汉语一（上）",
+    "courseNameEn": "Chinese Language (level 1 part 1)",
     "lessons": [
       [
-        "VV285SU2017",
-        "SU2017"
-      ],
-      [
-        "VV285SU2018",
-        "SU2018"
-      ],
-      [
-        "VV285SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VM305",
-    "courseName": "机械工程中的有限元导论",
-    "courseNameEn": "Introduction to Finite Elements in Mechanical Engineering",
-    "lessons": [
-      [
-        "VM305SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VE527",
-    "courseName": " 集成电路的计算机辅助设计",
-    "courseNameEn": "Computer Aided Design of Integrated Circuits",
-    "lessons": [
-      [
-        "VE527",
-        "SU2017"
-      ],
-      [
-        "VE527FA2017",
-        "FA2017"
-      ],
-      [
-        "VE527FA2018",
+        "VZ011FA2018",
         "FA2018"
       ],
       [
-        "VE527FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE550",
-    "courseName": "信息论",
-    "courseNameEn": "Information Theory",
-    "lessons": [
-      [
-        "VE550FA2017",
-        "FA2017"
-      ],
-      [
-        "VE550FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2019"
-  },
-  {
-    "courseCode": "VR363",
-    "courseName": "当代中国电影中的中国社会",
-    "courseNameEn": "Chinese Society in Contemporary Chinese Cinema",
-    "lessons": [
-      [
-        "VR363SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VR121",
-    "courseName": "可持续发展心理学",
-    "courseNameEn": "The Psychology of Sustainability",
-    "lessons": [
-      [
-        "VR121SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VR301",
-    "courseName": "社会学原理与问题",
-    "courseNameEn": "Sociological Principles and Problems",
-    "lessons": [
-      [
-        "VR300SU2017",
-        "SU2017"
-      ],
-      [
-        "VR301SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "TH004",
-    "courseName": "军事理论",
-    "courseNameEn": "Military Theory",
-    "lessons": [
-      [
-        "TH004SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH004SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "TH004SP2018-3",
-        "SP2018-3"
-      ],
-      [
-        "TH004SP2018-4",
-        "SP2018-4"
-      ],
-      [
-        "TH004SP2018-5",
-        "SP2018-5"
-      ],
-      [
-        "TH004SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "TH004SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "TH004SP2019-3",
-        "SP2019-3"
-      ],
-      [
-        "TH004SP2019-4",
-        "SP2019-4"
-      ],
-      [
-        "TH004SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "TH004SP2020-2",
-        "SP2020-2"
-      ],
-      [
-        "TH004SP2020-3",
-        "SP2020-3"
-      ],
-      [
-        "TH004SP2020-4",
-        "SP2020-4"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VE401",
-    "courseName": "工程概率方法",
-    "courseNameEn": "Probabilistic Methods in Eng.",
-    "lessons": [
-      [
-        "VE401SU2017",
-        "SU2017"
-      ],
-      [
-        "VE401SP2018",
-        "SP2018"
-      ],
-      [
-        "VE401SU2018",
-        "SU2018"
-      ],
-      [
-        "VE401SP2019",
-        "SP2019"
-      ],
-      [
-        "VE401SU2019",
+        "VZ011SU2019",
         "SU2019"
       ],
       [
-        "VE401SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
-  },
-  {
-    "courseCode": "VM432",
-    "courseName": "燃烧学",
-    "courseNameEn": "Combustion",
-    "lessons": [
-      [
-        "VM432FA2018",
-        "FA2018"
-      ],
-      [
-        "VM432FA2019",
+        "VZ011FA2019",
         "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE552",
-    "courseName": "光纤光学与生医光学",
-    "courseNameEn": "Fiber Optics and Biomedical Optics",
-    "lessons": [
-      [
-        "VE552",
-        "SU2017"
       ],
       [
-        "VE552SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2019"
-  },
-  {
-    "courseCode": "PE003",
-    "courseName": "体育（3）",
-    "courseNameEn": "Physical Education III",
-    "lessons": [
-      [
-        "PE003FA2017-010",
-        "FA2017-10"
-      ],
-      [
-        "PE003FA2017-012",
-        "FA2017-12"
-      ],
-      [
-        "PE003FA2017-015",
-        "FA2017-15"
-      ],
-      [
-        "PE003FA2017-017",
-        "FA2017-17"
-      ],
-      [
-        "PE003FA2017-018",
-        "FA2017-18"
-      ],
-      [
-        "PE003FA2017-022",
-        "FA2017-22"
-      ],
-      [
-        "PE003FA2017-024",
-        "FA2017-24"
-      ],
-      [
-        "PE003FA2017-027",
-        "FA2017-27"
-      ],
-      [
-        "PE003FA2017-029",
-        "FA2017-29"
-      ],
-      [
-        "PE003FA2017-032",
-        "FA2017-32"
-      ],
-      [
-        "PE003FA2017-033",
-        "FA2017-33"
-      ],
-      [
-        "PE003FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "PE003FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "PE003FA2018-3",
-        "FA2018-3"
-      ],
-      [
-        "PE003FA2018-4",
-        "FA2018-4"
-      ],
-      [
-        "PE003FA2018-5",
-        "FA2018-5"
-      ],
-      [
-        "PE003FA2018-6",
-        "FA2018-6"
-      ],
-      [
-        "PE003FA2018-7",
-        "FA2018-7"
-      ],
-      [
-        "PE003FA2018-8",
-        "FA2018-8"
-      ],
-      [
-        "PE003FA2018-9",
-        "FA2018-9"
-      ],
-      [
-        "PE003FA2018-10",
-        "FA2018-10"
-      ],
-      [
-        "PE003FA2019-1",
+        "VZ011FA2019-1",
         "FA2019-1"
       ],
       [
-        "PE003FA2019-2",
+        "VZ011FA2019-2",
         "FA2019-2"
-      ],
-      [
-        "PE003FA2019-3",
-        "FA2019-3"
-      ],
-      [
-        "PE003FA2019-4",
-        "FA2019-4"
-      ],
-      [
-        "PE003FA2019-5",
-        "FA2019-5"
-      ],
-      [
-        "PE003FA2019-6",
-        "FA2019-6"
-      ],
-      [
-        "PE003FA2019-7",
-        "FA2019-7"
-      ],
-      [
-        "PE003FA2019-8",
-        "FA2019-8"
-      ],
-      [
-        "PE003FA2019-9",
-        "FA2019-9"
-      ],
-      [
-        "PE003FA2019-10",
-        "FA2019-10"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE501",
-    "courseName": "随机过程（J类）",
-    "courseNameEn": "Probability and Random Processes",
-    "lessons": [
-      [
-        "VE501FA2017",
-        "FA2017"
-      ],
-      [
-        "VE501FA2018",
-        "FA2018"
-      ],
-      [
-        "VE501FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE662",
-    "courseName": "控制前沿选讲",
-    "courseNameEn": "Advanced Topics in Controls",
-    "lessons": [
-      [
-        "Ve662SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2020"
-  },
-  {
-    "courseCode": "VE370",
-    "courseName": "计算机组成件导论",
-    "courseNameEn": "Intro to Computer Organization",
-    "lessons": [
-      [
-        "VE370FA2017",
-        "FA2017"
-      ],
-      [
-        "VE370FA2018",
-        "FA2018"
-      ],
-      [
-        "VE370SU2019",
-        "SU2019"
-      ],
-      [
-        "VE370FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VM455",
-    "courseName": "数据驱动工程设计导论",
-    "courseNameEn": "Introduction to Data-driven Engineering Design",
-    "lessons": [
-      [
-        "VM455FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2019"
-  },
-  {
-    "courseCode": "VM412",
-    "courseName": "高级材料力学",
-    "courseNameEn": "Advanced Strength of Materials",
-    "lessons": [
-      [
-        "VM412SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VE655",
-    "courseName": "无线通信理论",
-    "courseNameEn": "Wireless Communication Theory",
-    "lessons": [
-      [
-        "VE655FA2017",
-        "FA2017"
-      ],
-      [
-        "VE655FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2019"
-  },
-  {
-    "courseCode": "VX425",
-    "courseName": "技术创业",
-    "courseNameEn": "Technology Entrepreneurship ",
-    "lessons": [
-      [
-        "VX425FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2019"
-  },
-  {
-    "courseCode": "VV471",
-    "courseName": "数值计算B",
-    "courseNameEn": "Introduction to Numerical Methods",
-    "lessons": [
-      [
-        "VV471SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VR160",
-    "courseName": "国际政治导论",
-    "courseNameEn": "Introduction to World Politics",
-    "lessons": [
-      [
-        "VR160SU2017",
-        "SU2017"
-      ],
-      [
-        "VR160SP2018",
-        "SP2018"
-      ],
-      [
-        "VR160SP2019",
-        "SP2019"
-      ],
-      [
-        "VR160SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VR340",
-    "courseName": "莎士比亚研究",
-    "courseNameEn": "Shakespeare Studies ",
-    "lessons": [
-      [
-        "VR340SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VM530",
-    "courseName": "高等传热学",
-    "courseNameEn": "Advanced Heat Transfer",
-    "lessons": [
-      [
-        "VM530",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VM523",
-    "courseName": "计算流体力学",
-    "courseNameEn": "Computational  Fluid Dynamics",
-    "lessons": [
-      [
-        "VM523FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "FA2017"
-  },
-  {
-    "courseCode": "VM565",
-    "courseName": "材料结构、物理与化学表征",
-    "courseNameEn": "Structural, Physical and Chemical Characterization of Materials",
-    "lessons": [
-      [
-        "VM565FA2017",
-        "FA2017"
-      ],
-      [
-        "VM565FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2019"
-  },
-  {
-    "courseCode": "VV557",
-    "courseName": "应用数学分析方法II",
-    "courseNameEn": "Methods of Applied Math Ⅱ",
-    "lessons": [
-      [
-        "VV557SP2018",
-        "SP2018"
-      ],
-      [
-        "VV557SP2019",
-        "SP2019"
-      ],
-      [
-        "VV557SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VM524",
-    "courseName": "湍流",
-    "courseNameEn": "Turbulence",
-    "lessons": [
-      [
-        "VM524SU2018",
-        "SU2018"
-      ],
-      [
-        "VM524FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "SU2018, FA2018"
-  },
-  {
-    "courseCode": "VZ022",
-    "courseName": "汉语二（下）",
-    "courseNameEn": "Chinese Language (level 2 part 2)",
-    "lessons": [
-      [
-        "VZ022FA2018",
-        "FA2018"
-      ],
-      [
-        "VZ022SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "FA2018, SU2019"
-  },
-  {
-    "courseCode": "VZ052",
-    "courseName": "汉语五（下）",
-    "courseNameEn": "Chinese Language (level 5 part 2)",
-    "lessons": [
-      [
-        "VZ052FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VP140",
-    "courseName": "普通物理（1）",
-    "courseNameEn": "Physics I",
-    "lessons": [
-      [
-        "VP140SU2017",
-        "SU2017"
-      ],
-      [
-        "VP140SU2018",
-        "SU2018"
-      ],
-      [
-        "VP140SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VZ104",
-    "courseName": "汉语概论",
-    "courseNameEn": "Introduction to Chinese Language",
-    "lessons": [
-      [
-        "VZ104SU2017",
-        "SU2017"
-      ],
-      [
-        "VZ104FA2017",
-        "FA2017"
-      ],
-      [
-        "VZ104SP2018",
-        "SP2018"
-      ],
-      [
-        "VZ104SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018"
-  },
-  {
-    "courseCode": "VR124",
-    "courseName": "西方小说里的时尚与女性主义",
-    "courseNameEn": "Fashion, Fiction and Feminism",
-    "lessons": [
-      [
-        "VR124SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VP260",
-    "courseName": "强化物理（J类）（2）",
-    "courseNameEn": "Honors Physics Ⅱ",
-    "lessons": [
-      [
-        "VP260FA2017",
-        "FA2017"
-      ],
-      [
-        "VP260FA2018",
-        "FA2018"
-      ],
-      [
-        "VP260FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE530",
-    "courseName": "电磁理论 I",
-    "courseNameEn": "Electromagnetic Theory I",
-    "lessons": [
-      [
-        "VE530FA2017",
-        "FA2017"
-      ],
-      [
-        "VE530FA2018",
-        "FA2018"
-      ],
-      [
-        "VE530FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE300",
-    "courseName": "科技写作与交流",
-    "courseNameEn": "TechComm",
-    "lessons": [
-      [
-        "VE300SU2017-1",
-        "SU2017-1"
-      ],
-      [
-        "VE300SU2017-2",
-        "SU2017-2"
-      ],
-      [
-        "VE300SU2017-3",
-        "SU2017-3"
-      ],
-      [
-        "VE300SU2017-4",
-        "SU2017-4"
-      ],
-      [
-        "VE300FA2017",
-        "FA2017"
-      ],
-      [
-        "VE300SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "VE300SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "VE300SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VE300SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VE300FA2018",
-        "FA2018"
-      ],
-      [
-        "VE300SP2019",
-        "SP2019"
-      ],
-      [
-        "VE300SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VE300SU2019-2",
-        "SU2019-2"
-      ],
-      [
-        "VE300SU2019-3",
-        "SU2019-3"
-      ],
-      [
-        "VE300SU2019-4",
-        "SU2019-4"
-      ],
-      [
-        "VE300FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VE300FA2019-2",
-        "FA2019-2"
-      ],
-      [
-        "VE300FA2019-3",
-        "FA2019-3"
-      ],
-      [
-        "VE300SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "VE300SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VE593",
-    "courseName": "人工智能理论与应用",
-    "courseNameEn": "Problem solving with AI techniques",
-    "lessons": [
-      [
-        "VE593FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VR251",
-    "courseName": "美学",
-    "courseNameEn": "Aesthetics",
-    "lessons": [
-      [
-        "VR251SU2017",
-        "SU2017"
-      ],
-      [
-        "VR251FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "SU2017, FA2017"
-  },
-  {
-    "courseCode": "VM010",
-    "courseName": "金工实习",
-    "courseNameEn": "Machineshop Training",
-    "lessons": [
-      [
-        "VM010SU2017",
-        "SU2017"
-      ],
-      [
-        "VM010SU2018",
-        "SU2018"
-      ],
-      [
-        "VM010SP2019",
-        "SP2019"
-      ],
-      [
-        "VM010SU2019",
-        "SU2019"
-      ],
-      [
-        "VM010SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SP2019, SU2019, SP2020"
+    "terms": "FA2018, SU2019, FA2019"
   },
   {
     "courseCode": "VZ012",
@@ -3228,376 +5688,40 @@
     "terms": "FA2018, SP2019, SU2019, FA2019, SP2020"
   },
   {
-    "courseCode": "VE312",
-    "courseName": "数字集成电路",
-    "courseNameEn": "Digital Integrated Circuits",
+    "courseCode": "VZ021",
+    "courseName": "汉语二（上）",
+    "courseNameEn": "Chinese Language (level 2 part 1)",
     "lessons": [
       [
-        "VE312SU2017",
-        "SU2017"
-      ],
-      [
-        "VE312FA2017",
-        "FA2017"
-      ],
-      [
-        "VE312FA2018",
+        "VZ021FA2018",
         "FA2018"
       ],
       [
-        "VE312FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "TH029",
-    "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
-    "courseNameEn": "Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics",
-    "lessons": [
-      [
-        "TH029SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "TH029SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "TH029SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "TH029SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VV186",
-    "courseName": "高等数学B1",
-    "courseNameEn": "Honors Mathematics II",
-    "lessons": [
-      [
-        "VV186FA2017",
-        "FA2017"
-      ],
-      [
-        "VV186FA2018",
-        "FA2018"
-      ],
-      [
-        "VV186FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE216",
-    "courseName": "信号与系统处理",
-    "courseNameEn": "Intro to Signals and Systems",
-    "lessons": [
-      [
-        "VE216SU2017",
-        "SU2017"
-      ],
-      [
-        "VE216SP2018",
-        "SP2018"
-      ],
-      [
-        "VE216SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "VE216SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "VE216SP2018-3",
-        "SP2018-3"
-      ],
-      [
-        "VE216SU2018",
-        "SU2018"
-      ],
-      [
-        "VE216SP2019",
+        "VZ021SP2019",
         "SP2019"
       ],
       [
-        "VE216SU2019",
-        "SU2019"
-      ],
-      [
-        "VE216SP2020",
+        "VZ021SP2020",
         "SP2020"
       ]
     ],
-    "terms": "SU2017, SP2018, SU2018, SP2019, SU2019, SP2020"
+    "terms": "FA2018, SP2019, SP2020"
   },
   {
-    "courseCode": "VR309",
-    "courseName": "从帝国到民族国家：全球史上的中国，欧洲，拉丁美洲",
-    "courseNameEn": "From Empires to Nation-States: China, Europe and Latin America in Global History",
+    "courseCode": "VZ022",
+    "courseName": "汉语二（下）",
+    "courseNameEn": "Chinese Language (level 2 part 2)",
     "lessons": [
       [
-        "VR309FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2019"
-  },
-  {
-    "courseCode": "VE504",
-    "courseName": "固体物理学",
-    "courseNameEn": "Solid State Physics",
-    "lessons": [
-      [
-        "VE504FA2017",
-        "FA2017"
-      ],
-      [
-        "VE504FA2018",
+        "VZ022FA2018",
         "FA2018"
       ],
       [
-        "VE504FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE451",
-    "courseName": "数字信号处理与分析",
-    "courseNameEn": "Digital Signal Processing and Analysis",
-    "lessons": [
-      [
-        "VE451SU2018",
-        "SU2018"
-      ],
-      [
-        "VE451SU2019",
+        "VZ022SU2019",
         "SU2019"
       ]
     ],
-    "terms": "SU2018, SU2019"
-  },
-  {
-    "courseCode": "VE482",
-    "courseName": "操作系统导论",
-    "courseNameEn": "Introduction to Operating Systems",
-    "lessons": [
-      [
-        "VE482FA2017",
-        "FA2017"
-      ],
-      [
-        "VE482FA2018",
-        "FA2018"
-      ],
-      [
-        "VE482FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VX251",
-    "courseName": "品牌管理",
-    "courseNameEn": "Branding and Brand Management",
-    "lessons": [
-      [
-        "VX251SP2018",
-        "SP2018"
-      ],
-      [
-        "VX251SP2019",
-        "SP2019"
-      ],
-      [
-        "VX251SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VP241",
-    "courseName": "普通物理实验（2）",
-    "courseNameEn": "Physics Lab II",
-    "lessons": [
-      [
-        "VP241FA2017",
-        "FA2017"
-      ],
-      [
-        "VP241FA2018",
-        "FA2018"
-      ],
-      [
-        "VP241FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM514",
-    "courseName": "非线性断裂力学",
-    "courseNameEn": "Non-Linear Fracture Mechanics",
-    "lessons": [
-      [
-        "VM514",
-        "SU2017"
-      ],
-      [
-        "VM514SU2018",
-        "SU2018"
-      ],
-      [
-        "VM514SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VE572",
-    "courseName": "大数据分析及工具",
-    "courseNameEn": "Methods and Tools for Big Data",
-    "lessons": [
-      [
-        "VE572SU2018",
-        "SU2018"
-      ],
-      [
-        "VE572SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2018, SU2019"
-  },
-  {
-    "courseCode": "VR333",
-    "courseName": "电影中的人工智能",
-    "courseNameEn": "Artificial Intelligence in Film",
-    "lessons": [
-      [
-        "VR333SP2018",
-        "SP2018"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "TH010",
-    "courseName": "军训",
-    "courseNameEn": "Military Training",
-    "lessons": [
-      [
-        "TH010SP2018",
-        "SP2018"
-      ],
-      [
-        "TH010SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SP2018, SP2019"
-  },
-  {
-    "courseCode": "VE508",
-    "courseName": "非线性光学与超快光学",
-    "courseNameEn": "Nonlinear and Ultrafast Optics",
-    "lessons": [
-      [
-        "VE508SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VE562",
-    "courseName": "非线性系统与控制",
-    "courseNameEn": "Nonlinear Systems and Control",
-    "lessons": [
-      [
-        "VE562SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SP2019"
-  },
-  {
-    "courseCode": "VG101",
-    "courseName": "计算机导论",
-    "courseNameEn": "Intro to Computers & Programming",
-    "lessons": [
-      [
-        "VG101SU2017",
-        "SU2017"
-      ],
-      [
-        "VG101FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VG101FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VG101SU2018",
-        "SU2018"
-      ],
-      [
-        "VG101FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VG101FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VG101SU2019",
-        "SU2019"
-      ],
-      [
-        "VG101FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VG101FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VP141",
-    "courseName": "普通物理实验（1）",
-    "courseNameEn": "Physics Lab I",
-    "lessons": [
-      [
-        "VP141SU2017",
-        "SU2017"
-      ],
-      [
-        "VP141SU2018",
-        "SU2018"
-      ],
-      [
-        "VP141SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
+    "terms": "FA2018, SU2019"
   },
   {
     "courseCode": "VZ031",
@@ -3620,464 +5744,44 @@
     "terms": "FA2018, SU2019, FA2019"
   },
   {
-    "courseCode": "VM320",
-    "courseName": "流体力学（J类）",
-    "courseNameEn": "Fluid Mechanics I",
+    "courseCode": "VZ032",
+    "courseName": "汉语三（下） ",
+    "courseNameEn": "Chinese Language (level 3 part 2)",
     "lessons": [
       [
-        "VM320SU2017",
-        "SU2017"
-      ],
-      [
-        "VM320FA2017",
-        "FA2017"
-      ],
-      [
-        "VM320SU2018",
-        "SU2018"
-      ],
-      [
-        "VM320FA2018",
+        "VZ032FA2018",
         "FA2018"
       ],
       [
-        "VM320SU2019",
-        "SU2019"
-      ],
-      [
-        "VM320FA2019",
+        "VZ032FA2019",
         "FA2019"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
+    "terms": "FA2018, FA2019"
   },
   {
-    "courseCode": "VE663",
-    "courseName": "控制前沿选讲 II",
-    "courseNameEn": "Advanced topics in control II",
+    "courseCode": "VZ051",
+    "courseName": "汉语五（上）",
+    "courseNameEn": "Chinese Language (level 5 part 1) ",
     "lessons": [
       [
-        "VE663SP2018",
-        "SP2018"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "VV115",
-    "courseName": "微积分（1）",
-    "courseNameEn": "Calculus Ⅰ",
-    "lessons": [
-      [
-        "VV115FA2017",
-        "FA2017"
-      ],
-      [
-        "VV115FA2018",
-        "FA2018"
-      ],
-      [
-        "VV115FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VX423",
-    "courseName": "企业创新",
-    "courseNameEn": "Intrapreneurship",
-    "lessons": [
-      [
-        "VX423SP2018",
-        "SP2018"
-      ],
-      [
-        "VX423SP2019",
-        "SP2019"
-      ],
-      [
-        "VX423SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VR206",
-    "courseName": "近代早期的中国与世界",
-    "courseNameEn": "China in the Early Modern World",
-    "lessons": [
-      [
-        "VR206SU2017",
-        "SU2017"
-      ],
-      [
-        "VR206FA2017",
-        "FA2017"
-      ],
-      [
-        "VR206SP2018",
-        "SP2018"
-      ],
-      [
-        "VR206SU2018",
-        "SU2018"
-      ],
-      [
-        "VR206FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2019"
-  },
-  {
-    "courseCode": "VY223",
-    "courseName": "创意写作",
-    "courseNameEn": "Creative Writing",
-    "lessons": [
-      [
-        "VY223SU2017",
-        "SU2017"
-      ],
-      [
-        "VY223SU2018",
-        "SU2018"
-      ],
-      [
-        "VY223SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VE414",
-    "courseName": "贝叶斯分析",
-    "courseNameEn": "Bayesian Analysis",
-    "lessons": [
-      [
-        "VE414SU2019",
-        "SU2019"
-      ],
-      [
-        "VE414FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2019, FA2019"
-  },
-  {
-    "courseCode": "VR369",
-    "courseName": "国际经济关系",
-    "courseNameEn": "Politics of International Economic Relations",
-    "lessons": [
-      [
-        "VR369FA2017",
-        "FA2017"
-      ],
-      [
-        "VR369FA2018",
-        "FA2018"
-      ],
-      [
-        "VR369FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR364",
-    "courseName": "文学中的人与环境",
-    "courseNameEn": "Literature and the Environment ",
-    "lessons": [
-      [
-        "VR364SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VZ300",
-    "courseName": "汉语综合课（3）",
-    "courseNameEn": "Comprehensive Chinese III",
-    "lessons": [
-      [
-        "VZ300SP2018",
-        "SP2018"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "VR101",
-    "courseName": "政治理论概论",
-    "courseNameEn": "Introduction to Political Theory",
-    "lessons": [
-      [
-        "VR101SU2017",
-        "SU2017"
-      ],
-      [
-        "VR101SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VR292",
-    "courseName": "爱情文学",
-    "courseNameEn": "Literature of Love",
-    "lessons": [
-      [
-        "VR292SU2017",
-        "SU2017"
-      ],
-      [
-        "VR292SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2019"
-  },
-  {
-    "courseCode": "VR112",
-    "courseName": "语言学导论",
-    "courseNameEn": "Introduction to Language and Linguistics",
-    "lessons": [
-      [
-        "VR112SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VZ021",
-    "courseName": "汉语二（上）",
-    "courseNameEn": "Chinese Language (level 2 part 1)",
-    "lessons": [
-      [
-        "VZ021FA2018",
-        "FA2018"
-      ],
-      [
-        "VZ021SP2019",
-        "SP2019"
-      ],
-      [
-        "VZ021SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "FA2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VV156",
-    "courseName": "高等数学A1",
-    "courseNameEn": "Honors Calculus II",
-    "lessons": [
-      [
-        "VV156FA2017",
-        "FA2017"
-      ],
-      [
-        "VV156FA2018",
-        "FA2018"
-      ],
-      [
-        "VV156FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM583",
-    "courseName": " 制造过程与系统",
-    "courseNameEn": "Manufacturing Processes and  Systems",
-    "lessons": [
-      [
-        "VM583",
-        "SU2017"
-      ],
-      [
-        "VM583SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VE438",
-    "courseName": "激光与光学实验",
-    "courseNameEn": "Advanced Lasers and Optics Laboratory",
-    "lessons": [
-      [
-        "VE438SU2017",
-        "SU2017"
-      ],
-      [
-        "VE438SU2018",
-        "SU2018"
-      ],
-      [
-        "VE438SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VR238",
-    "courseName": "十九世纪的英帝国与“非正式”帝国主义",
-    "courseNameEn": "British Empire and “Informal” Imperialism in the Nineteenth-Century",
-    "lessons": [
-      [
-        "VR238SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VE420",
-    "courseName": "智能器件物理原理",
-    "courseNameEn": "Physical Principles Underlying Smart Devices",
-    "lessons": [
-      [
-        "VE420SU2017",
-        "SU2017"
-      ],
-      [
-        "VE420SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VR209",
-    "courseName": "全球视野下科学医学之兴起",
-    "courseNameEn": "The rise of scientific medicine: a global perspective",
-    "lessons": [
-      [
-        "VR209SP2019",
-        "SP2019"
-      ],
-      [
-        "VR209SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VW211",
-    "courseName": "德语（4）",
-    "courseNameEn": "German IV",
-    "lessons": [
-      [
-        "VW211SU2017",
-        "SU2017"
-      ],
-      [
-        "VW211FA2017",
-        "FA2017"
-      ],
-      [
-        "VW211SP2018",
-        "SP2018"
-      ],
-      [
-        "VW211SU2018",
-        "SU2018"
-      ],
-      [
-        "VW211FA2018",
-        "FA2018"
-      ],
-      [
-        "VW211SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VW211SU2019-2",
-        "SU2019-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019"
-  },
-  {
-    "courseCode": "VE203",
-    "courseName": "离散数学（J类）",
-    "courseNameEn": "Discrete Mathematics",
-    "lessons": [
-      [
-        "VE203FA2017",
-        "FA2017"
-      ],
-      [
-        "VE203SU2018",
-        "SU2018"
-      ],
-      [
-        "VE203FA2018",
-        "FA2018"
-      ],
-      [
-        "VE203SU2019",
-        "SU2019"
-      ],
-      [
-        "VE203FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VR223",
-    "courseName": "天方夜谭与英国文学",
-    "courseNameEn": "Arabian Nights in British Literature",
-    "lessons": [
-      [
-        "VR223SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VY202",
-    "courseName": "旅行写作",
-    "courseNameEn": "Travel Writing in Shanghai and Beyond",
-    "lessons": [
-      [
-        "VY202SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VM508",
-    "courseName": "软物质物理导论",
-    "courseNameEn": "Introduction to Soft Matter Physics",
-    "lessons": [
-      [
-        "VM508SU2018",
-        "SU2018"
-      ],
-      [
-        "VM508FA2018",
+        "VZ051FA2018",
         "FA2018"
       ]
     ],
-    "terms": "SU2018, FA2018"
+    "terms": "FA2018"
+  },
+  {
+    "courseCode": "VZ052",
+    "courseName": "汉语五（下）",
+    "courseNameEn": "Chinese Language (level 5 part 2)",
+    "lessons": [
+      [
+        "VZ052FA2018",
+        "FA2018"
+      ]
+    ],
+    "terms": "FA2018"
   },
   {
     "courseCode": "VZ102",
@@ -4120,84 +5824,84 @@
     "terms": "SU2017, FA2017, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
   },
   {
-    "courseCode": "VE215",
-    "courseName": "电路设计导论",
-    "courseNameEn": "Intro to Circuits",
+    "courseCode": "VZ104",
+    "courseName": "汉语概论",
+    "courseNameEn": "Introduction to Chinese Language",
     "lessons": [
       [
-        "VE215FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VE215FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VE215FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VE215FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VE215FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR120",
-    "courseName": "希腊悲剧",
-    "courseNameEn": "Greek Tragedy",
-    "lessons": [
-      [
-        "VR220SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VM645",
-    "courseName": "弹性波在固体中的传播",
-    "courseNameEn": "Wave Propagation in Elastic Solids",
-    "lessons": [
-      [
-        "VM645SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VE373",
-    "courseName": "基于微处理器的系统设计",
-    "courseNameEn": "Design of Microprocessor Based Systems",
-    "lessons": [
-      [
-        "VE373SU2017",
+        "VZ104SU2017",
         "SU2017"
       ],
       [
-        "VE373SU2018",
+        "VZ104FA2017",
+        "FA2017"
+      ],
+      [
+        "VZ104SP2018",
+        "SP2018"
+      ],
+      [
+        "VZ104SU2018",
         "SU2018"
       ]
     ],
-    "terms": "SU2017, SU2018"
+    "terms": "SU2017, FA2017, SP2018, SU2018"
   },
   {
-    "courseCode": "VR291",
-    "courseName": "奇幻文学的另类世界想象",
-    "courseNameEn": "The Otherworlds of Fantasy ",
+    "courseCode": "VZ200",
+    "courseName": "汉语综合课（2）",
+    "courseNameEn": "Comprehensive Chinese II",
     "lessons": [
       [
-        "VR291SU2019",
+        "VZ200SU2017",
+        "SU2017"
+      ],
+      [
+        "VZ200FA2017",
+        "FA2017"
+      ],
+      [
+        "VZ200SU2018",
+        "SU2018"
+      ]
+    ],
+    "terms": "SU2017, FA2017, SU2018"
+  },
+  {
+    "courseCode": "VZ300",
+    "courseName": "汉语综合课（3）",
+    "courseNameEn": "Comprehensive Chinese III",
+    "lessons": [
+      [
+        "VZ300SP2018",
+        "SP2018"
+      ]
+    ],
+    "terms": "SP2018"
+  },
+  {
+    "courseCode": "Vm505",
+    "courseName": "计算力学基础",
+    "courseNameEn": "Finite Element Methods",
+    "lessons": [
+      [
+        "Vm505SU2019",
         "SU2019"
       ]
     ],
     "terms": "SU2019"
+  },
+  {
+    "courseCode": "XP000",
+    "courseName": "通识教育实践活动",
+    "courseNameEn": "General Education Practice",
+    "lessons": [
+      [
+        "XP000SP2018",
+        "SP2018"
+      ]
+    ],
+    "terms": "SP2018"
   },
   {
     "courseCode": "XP004",
@@ -4214,1709 +5918,5 @@
       ]
     ],
     "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VG496",
-    "courseName": "职业道德与工程规范",
-    "courseNameEn": "Professional Ethics",
-    "lessons": [
-      [
-        "VG496SU2017-1-1",
-        "SU2017-1"
-      ],
-      [
-        "VG496SU2017-1-2",
-        "SU2017-2"
-      ],
-      [
-        "VG496FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VG496FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VG496SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VG496SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VG496SU2018-3",
-        "SU2018-3"
-      ],
-      [
-        "VG496FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VG496FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VG496SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VG496SU2019-2",
-        "SU2019-2"
-      ],
-      [
-        "VG496SU2019-3",
-        "SU2019-3"
-      ],
-      [
-        "VG496FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VG496FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VR102",
-    "courseName": "全球视野中的中国历史",
-    "courseNameEn": "Chinese History in Global Perspective",
-    "lessons": [
-      [
-        "VR102FA2017",
-        "FA2017"
-      ],
-      [
-        "VR102SP2018",
-        "SP2018"
-      ],
-      [
-        "VR102SU2018",
-        "SU2018"
-      ],
-      [
-        "VR102FA2018",
-        "FA2018"
-      ],
-      [
-        "VR102SP2019",
-        "SP2019"
-      ],
-      [
-        "VR102SU2019",
-        "SU2019"
-      ],
-      [
-        "VR102FA2019",
-        "FA2019"
-      ],
-      [
-        "VR102SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VV214",
-    "courseName": "线性代数",
-    "courseNameEn": "Linear Algebra",
-    "lessons": [
-      [
-        "VV214SU2017",
-        "SU2017"
-      ],
-      [
-        "VV214SU2018",
-        "SU2018"
-      ],
-      [
-        "VV214SP2019",
-        "SP2019"
-      ],
-      [
-        "VV214SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SP2019, SU2019"
-  },
-  {
-    "courseCode": "VM467",
-    "courseName": "机器人学导论",
-    "courseNameEn": "Introduction to Robotics",
-    "lessons": [
-      [
-        "VM467SU2017",
-        "SU2017"
-      ],
-      [
-        "VM467SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018"
-  },
-  {
-    "courseCode": "VM020",
-    "courseName": "金工实习（1）",
-    "courseNameEn": "Machineshop Training Ⅰ",
-    "lessons": [
-      [
-        "VM020FA2017",
-        "FA2017"
-      ],
-      [
-        "VM020SP2018",
-        "SP2018"
-      ],
-      [
-        "VM020FA2018",
-        "FA2018"
-      ],
-      [
-        "VM020SP2019",
-        "SP2019"
-      ],
-      [
-        "VM020FA2019",
-        "FA2019"
-      ],
-      [
-        "VM020SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VM350",
-    "courseName": "设计与制造（J类）（2）",
-    "courseNameEn": "Design and Manufacturing II",
-    "lessons": [
-      [
-        "VM350SU2017",
-        "SU2017"
-      ],
-      [
-        "VM350SU2018",
-        "SU2018"
-      ],
-      [
-        "VM350SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VW110",
-    "courseName": "德语（1）",
-    "courseNameEn": "German I",
-    "lessons": [
-      [
-        "VW110SU2017-1",
-        "SU2017-1"
-      ],
-      [
-        "VW110SU2017-2",
-        "SU2017-2"
-      ],
-      [
-        "VW110FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VW110FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VW110SU2018-1",
-        "SU2018-1"
-      ],
-      [
-        "VW110SU2018-2",
-        "SU2018-2"
-      ],
-      [
-        "VW110FA2018",
-        "FA2018"
-      ],
-      [
-        "VW110SP2019",
-        "SP2019"
-      ],
-      [
-        "VW110FA2019",
-        "FA2019"
-      ],
-      [
-        "VW110SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "VW110SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VC211",
-    "courseName": "大学化学实验（J类）",
-    "courseNameEn": "Chemistry Lab",
-    "lessons": [
-      [
-        "VC211SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "VC211SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "VC211SP2018-3",
-        "SP2018-3"
-      ],
-      [
-        "VC211SP2018-4",
-        "SP2018-4"
-      ],
-      [
-        "VC211SP2018-5",
-        "SP2018-5"
-      ],
-      [
-        "VC211SP2018-6",
-        "SP2018-6"
-      ],
-      [
-        "VC211SP2018-7",
-        "SP2018-7"
-      ],
-      [
-        "VC211SP2018-8",
-        "SP2018-8"
-      ],
-      [
-        "VC211SP2018-9",
-        "SP2018-9"
-      ],
-      [
-        "VC211SP2018-10",
-        "SP2018-10"
-      ],
-      [
-        "VC211SP2018-11",
-        "SP2018-11"
-      ],
-      [
-        "VC211SP2018-12",
-        "SP2018-12"
-      ],
-      [
-        "VC211SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "VC211SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "VC211SP2019-3",
-        "SP2019-3"
-      ],
-      [
-        "VC211SP2019-4",
-        "SP2019-4"
-      ],
-      [
-        "VC211SP2019-5",
-        "SP2019-5"
-      ],
-      [
-        "VC211SP2019-6",
-        "SP2019-6"
-      ],
-      [
-        "VC211SP2019-7",
-        "SP2019-7"
-      ],
-      [
-        "VC211SP2019-8",
-        "SP2019-8"
-      ],
-      [
-        "VC211SP2019-9",
-        "SP2019-9"
-      ],
-      [
-        "VC211SP2019-10",
-        "SP2019-10"
-      ],
-      [
-        "VC211SP2019-11",
-        "SP2019-11"
-      ],
-      [
-        "VC211SP2019-12",
-        "SP2019-12"
-      ],
-      [
-        "VC211SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "VC211SP2020-2",
-        "SP2020-2"
-      ],
-      [
-        "VC211SP2020-3",
-        "SP2020-3"
-      ],
-      [
-        "VC211SP2020-4",
-        "SP2020-4"
-      ],
-      [
-        "VC211SP2020-5",
-        "SP2020-5"
-      ],
-      [
-        "VC211SP2020-6",
-        "SP2020-6"
-      ],
-      [
-        "VC211SP2020-7",
-        "SP2020-7"
-      ],
-      [
-        "VC211SP2020-8",
-        "SP2020-8"
-      ],
-      [
-        "VC211SP2020-9",
-        "SP2020-9"
-      ],
-      [
-        "VC211SP2020-10",
-        "SP2020-10"
-      ],
-      [
-        "VC211SP2020-11",
-        "SP2020-11"
-      ],
-      [
-        "VC211SP2020-12",
-        "SP2020-12"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VR253",
-    "courseName": "文化与科技",
-    "courseNameEn": "Culture, Technology and Silicon Valley",
-    "lessons": [
-      [
-        "VR253SP2018",
-        "SP2018"
-      ],
-      [
-        "VR253SP2019",
-        "SP2019"
-      ],
-      [
-        "VR253SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "PE004",
-    "courseName": "体育（4）",
-    "courseNameEn": "Physical Education IV",
-    "lessons": [
-      [
-        "PE004SP2018-010",
-        "SP2018-10"
-      ],
-      [
-        "PE004SP2018-011",
-        "SP2018-11"
-      ],
-      [
-        "PE004SP2018-012",
-        "SP2018-12"
-      ],
-      [
-        "PE004SP2018-013",
-        "SP2018-13"
-      ],
-      [
-        "PE004SP2018-014",
-        "SP2018-14"
-      ],
-      [
-        "PE004SP2018-015",
-        "SP2018-15"
-      ],
-      [
-        "PE004SP2018-016",
-        "SP2018-16"
-      ],
-      [
-        "PE004SP2018-017",
-        "SP2018-17"
-      ],
-      [
-        "PE004SP2018-018",
-        "SP2018-18"
-      ],
-      [
-        "PE004SP2018-019",
-        "SP2018-19"
-      ],
-      [
-        "PE004SP2018-036",
-        "SP2018-36"
-      ],
-      [
-        "PE004SP2019-12",
-        "SP2019-12"
-      ],
-      [
-        "PE004SP2019-13",
-        "SP2019-13"
-      ],
-      [
-        "PE004SP2019-14",
-        "SP2019-14"
-      ],
-      [
-        "PE004SP2019-15",
-        "SP2019-15"
-      ],
-      [
-        "PE004SP2019-16",
-        "SP2019-16"
-      ],
-      [
-        "PE004SP2019-17",
-        "SP2019-17"
-      ],
-      [
-        "PE004SP2019-18",
-        "SP2019-18"
-      ],
-      [
-        "PE004SP2019-19",
-        "SP2019-19"
-      ],
-      [
-        "PE004SP2019-20",
-        "SP2019-20"
-      ],
-      [
-        "PE004SP2019-21",
-        "SP2019-21"
-      ],
-      [
-        "PE004SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "PE004SP2020-2",
-        "SP2020-2"
-      ],
-      [
-        "PE004SP2020-3",
-        "SP2020-3"
-      ],
-      [
-        "PE004SP2020-4",
-        "SP2020-4"
-      ],
-      [
-        "PE004SP2020-5",
-        "SP2020-5"
-      ],
-      [
-        "PE004SP2020-6",
-        "SP2020-6"
-      ],
-      [
-        "PE004SP2020-7",
-        "SP2020-7"
-      ],
-      [
-        "PE004SP2020-8",
-        "SP2020-8"
-      ],
-      [
-        "PE004SP2020-9",
-        "SP2020-9"
-      ],
-      [
-        "PE004SP2020-10",
-        "SP2020-10"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VK250",
-    "courseName": "工程材料导论",
-    "courseNameEn": "Principles of Engineering Materials",
-    "lessons": [
-      [
-        "VK250SP2018",
-        "SP2018"
-      ],
-      [
-        "VK250SP2019",
-        "SP2019"
-      ]
-    ],
-    "terms": "SP2018, SP2019"
-  },
-  {
-    "courseCode": "VE534",
-    "courseName": "光学与光子学",
-    "courseNameEn": "Optics and Photonics",
-    "lessons": [
-      [
-        "VE534FA2017",
-        "FA2017"
-      ],
-      [
-        "VE534FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2017, FA2018"
-  },
-  {
-    "courseCode": "VM660",
-    "courseName": "工程决策",
-    "courseNameEn": "Engineering Decision Making",
-    "lessons": [
-      [
-        "VM660FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "FA2017"
-  },
-  {
-    "courseCode": "VM541",
-    "courseName": "机械振动",
-    "courseNameEn": "Mechanical Vibrations",
-    "lessons": [
-      [
-        "VM541FA2017",
-        "FA2017"
-      ],
-      [
-        "VM541SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "FA2017, SU2019"
-  },
-  {
-    "courseCode": "VR242",
-    "courseName": "幸福和人生的意义",
-    "courseNameEn": "Happiness and the Meaning of Life",
-    "lessons": [
-      [
-        "VR242SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VR236",
-    "courseName": "电影艺术与历史",
-    "courseNameEn": "Film Art and History",
-    "lessons": [
-      [
-        "VR236SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "VE507",
-    "courseName": " 半导体光电材料",
-    "courseNameEn": "Semiconductor Optoelectronic Materials ",
-    "lessons": [
-      [
-        "VE507",
-        "SU2017"
-      ],
-      [
-        "VE507SU2018",
-        "SU2018"
-      ],
-      [
-        "VE507FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "SU2017, SU2018, FA2018"
-  },
-  {
-    "courseCode": "VR280",
-    "courseName": "中国现代文学概述",
-    "courseNameEn": "Introduction to Modern Chinese Literature",
-    "lessons": [
-      [
-        "VR280SU2017",
-        "SU2017"
-      ]
-    ],
-    "terms": "SU2017"
-  },
-  {
-    "courseCode": "TH000",
-    "courseName": "思想道德修养与法律基础",
-    "courseNameEn": "Morals and Ethics & Law Fundamentals",
-    "lessons": [
-      [
-        "TH000SP2018-1",
-        "SP2018-1"
-      ],
-      [
-        "TH000SP2018-2",
-        "SP2018-2"
-      ],
-      [
-        "TH000SP2019-1",
-        "SP2019-1"
-      ],
-      [
-        "TH000SP2019-2",
-        "SP2019-2"
-      ],
-      [
-        "TH000SP2020-1",
-        "SP2020-1"
-      ],
-      [
-        "TH000SP2020-2",
-        "SP2020-2"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VX420",
-    "courseName": "创业管理",
-    "courseNameEn": "Business Basics for Entrepreneurs",
-    "lessons": [
-      [
-        "VX420SU2017",
-        "SU2017"
-      ],
-      [
-        "VX420SU2018",
-        "SU2018"
-      ],
-      [
-        "VX420SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VX440",
-    "courseName": "社会企业导论",
-    "courseNameEn": "Introduction to Social Entrepreneurship",
-    "lessons": [
-      [
-        "VX440SP2018",
-        "SP2018"
-      ],
-      [
-        "VX440FA2018",
-        "FA2018"
-      ],
-      [
-        "VX440FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SP2018, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE449",
-    "courseName": "面向创业者的移动应用程序开发",
-    "courseNameEn": "Mobile Applications for Entrepreneurs",
-    "lessons": [
-      [
-        "VE449FA2017",
-        "FA2017"
-      ],
-      [
-        "VE449FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2017, FA2018"
-  },
-  {
-    "courseCode": "VR259",
-    "courseName": "记忆：理解20世纪中国史的新路径",
-    "courseNameEn": "Memory: A New Approach to China’s 20th Century History ",
-    "lessons": [
-      [
-        "VR259SP2019",
-        "SP2019"
-      ],
-      [
-        "VR259SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VM518",
-    "courseName": "复合材料高级力学",
-    "courseNameEn": "Advanced Mechanics of Composite Materials",
-    "lessons": [
-      [
-        "VM518FA2017",
-        "FA2017"
-      ],
-      [
-        "VM518FA2018",
-        "FA2018"
-      ],
-      [
-        "VM518FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE509",
-    "courseName": "半导体物理",
-    "courseNameEn": "Semiconductor Physics",
-    "lessons": [
-      [
-        "VE509SU2018",
-        "SU2018"
-      ],
-      [
-        "VE509FA2018",
-        "FA2018"
-      ],
-      [
-        "VE509FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2018, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR246",
-    "courseName": "漫画与视觉文学概论",
-    "courseNameEn": "Introduction to Comics and Graphic Novels ",
-    "lessons": [
-      [
-        "VR246SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VG451",
-    "courseName": "跨境跨学科设计项目（2）",
-    "courseNameEn": "Global Multidisciplinary Design Project II",
-    "lessons": [
-      [
-        "VG451SP2018",
-        "SP2018"
-      ],
-      [
-        "VG451SP2019",
-        "SP2019"
-      ],
-      [
-        "VG451SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VE489",
-    "courseName": "计算机网络",
-    "courseNameEn": "Computer Networks",
-    "lessons": [
-      [
-        "VE489SU2017",
-        "SU2017"
-      ],
-      [
-        "VE489SU2018",
-        "SU2018"
-      ],
-      [
-        "VE489SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VY230",
-    "courseName": "英文短篇小说导读",
-    "courseNameEn": "Introduction to Short Story and Novel",
-    "lessons": [
-      [
-        "VY230SU2018",
-        "SU2018"
-      ],
-      [
-        "VY230SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2018, SU2019"
-  },
-  {
-    "courseCode": "VE434",
-    "courseName": "光子学导论",
-    "courseNameEn": "Principles of Photonics",
-    "lessons": [
-      [
-        "VE434SU2017",
-        "SU2017"
-      ],
-      [
-        "VE434FA2017",
-        "FA2017"
-      ],
-      [
-        "VE434SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018"
-  },
-  {
-    "courseCode": "VE538",
-    "courseName": "晶体中的光波",
-    "courseNameEn": "Optical Waves in Crystals",
-    "lessons": [
-      [
-        "VE538SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VV570",
-    "courseName": "工程数值分析",
-    "courseNameEn": "Introduction to Engineering  Numerical Analysis",
-    "lessons": [
-      [
-        "VV570",
-        "SU2017"
-      ],
-      [
-        "VV570SU2018",
-        "SU2018"
-      ],
-      [
-        "VV570FA2018",
-        "FA2018"
-      ],
-      [
-        "VV570FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR381",
-    "courseName": "社会科学研究设计",
-    "courseNameEn": "Introduction to Social Science Research Design",
-    "lessons": [
-      [
-        "VR381SU2018",
-        "SU2018"
-      ],
-      [
-        "VR381SU2019",
-        "SU2019"
-      ],
-      [
-        "VR381SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2018, SU2019, SP2020"
-  },
-  {
-    "courseCode": "VV255",
-    "courseName": "高等数学A2",
-    "courseNameEn": "Honors Calculus III",
-    "lessons": [
-      [
-        "VV255SU2017",
-        "SU2017"
-      ],
-      [
-        "VV255SU2018",
-        "SU2018"
-      ],
-      [
-        "VV255SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VR207",
-    "courseName": "日本近现代史",
-    "courseNameEn": "History of Modern Japan",
-    "lessons": [
-      [
-        "VR207SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2020"
-  },
-  {
-    "courseCode": "VE488",
-    "courseName": "数据挖掘与机器学习",
-    "courseNameEn": "Data Mining and Machine Learning",
-    "lessons": [
-      [
-        "VE488SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "XP000",
-    "courseName": "通识教育实践活动",
-    "courseNameEn": "General Education Practice",
-    "lessons": [
-      [
-        "XP000SP2018",
-        "SP2018"
-      ]
-    ],
-    "terms": "SP2018"
-  },
-  {
-    "courseCode": "VG450",
-    "courseName": "跨境跨学科设计项目（1）",
-    "courseNameEn": "Global Multidisciplinary Design Project I",
-    "lessons": [
-      [
-        "VG450FA2017",
-        "FA2017"
-      ],
-      [
-        "VG450FA2018",
-        "FA2018"
-      ],
-      [
-        "VG450FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VG450FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VR318",
-    "courseName": "科幻小说",
-    "courseNameEn": "Science Fiction",
-    "lessons": [
-      [
-        "VR318SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "TH028",
-    "courseName": "中国近代史纲要",
-    "courseNameEn": "Modern Chinese History",
-    "lessons": [
-      [
-        "TH028FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "TH028FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "TH028FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "TH028FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM434",
-    "courseName": "能源转换材料",
-    "courseNameEn": "Materials for Energy Conversion",
-    "lessons": [
-      [
-        "VM434FA2017",
-        "FA2017"
-      ],
-      [
-        "VM434FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2017, FA2018"
-  },
-  {
-    "courseCode": "VR255",
-    "courseName": "数字摄影技术",
-    "courseNameEn": "Digital Photography",
-    "lessons": [
-      [
-        "VR255SP2019",
-        "SP2019"
-      ],
-      [
-        "VR255SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2019, SP2020"
-  },
-  {
-    "courseCode": "VZ002",
-    "courseName": "汉语（2）",
-    "courseNameEn": "Chinese Ⅱ",
-    "lessons": [
-      [
-        "VZ002FA2017",
-        "FA2017"
-      ]
-    ],
-    "terms": "FA2017"
-  },
-  {
-    "courseCode": "VM512",
-    "courseName": "弹性力学",
-    "courseNameEn": "Theory of Elasticity",
-    "lessons": [
-      [
-        "VM512FA2018",
-        "FA2018"
-      ]
-    ],
-    "terms": "FA2018"
-  },
-  {
-    "courseCode": "VM490",
-    "courseName": "本科生科研项目",
-    "courseNameEn": "Undergraduate Research",
-    "lessons": [
-      [
-        "VM490SU2017",
-        "SU2017"
-      ],
-      [
-        "VM490FA2017",
-        "FA2017"
-      ],
-      [
-        "VM490SP2018",
-        "SP2018"
-      ],
-      [
-        "VM490SU2018",
-        "SU2018"
-      ],
-      [
-        "VM490FA2018",
-        "FA2018"
-      ],
-      [
-        "VM490SP2019",
-        "SP2019"
-      ],
-      [
-        "VM490SU2019",
-        "SU2019"
-      ],
-      [
-        "VM490FA2019",
-        "FA2019"
-      ],
-      [
-        "VM490SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VV116",
-    "courseName": "微积分（2）",
-    "courseNameEn": "Calculus Ⅱ",
-    "lessons": [
-      [
-        "VV116SP2018",
-        "SP2018"
-      ],
-      [
-        "VV116SP2019",
-        "SP2019"
-      ],
-      [
-        "VV116SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "SP2018, SP2019, SP2020"
-  },
-  {
-    "courseCode": "VM211",
-    "courseName": "固体力学",
-    "courseNameEn": "Intro to Solid Mechanics",
-    "lessons": [
-      [
-        "VM211FA2017",
-        "FA2017"
-      ],
-      [
-        "VM211SP2018",
-        "SP2018"
-      ],
-      [
-        "VM211FA2018",
-        "FA2018"
-      ],
-      [
-        "VM211SP2019",
-        "SP2019"
-      ],
-      [
-        "VM211SU2019",
-        "SU2019"
-      ],
-      [
-        "VM211FA2019",
-        "FA2019"
-      ],
-      [
-        "VM211SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "Vm505",
-    "courseName": "计算力学基础",
-    "courseNameEn": "Finite Element Methods",
-    "lessons": [
-      [
-        "Vm505SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VP240",
-    "courseName": "普通物理（2）",
-    "courseNameEn": "Physics II",
-    "lessons": [
-      [
-        "VP240FA2017",
-        "FA2017"
-      ],
-      [
-        "VP240FA2018",
-        "FA2018"
-      ],
-      [
-        "VP240FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VP240FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VW310",
-    "courseName": "德语（5）",
-    "courseNameEn": "German V",
-    "lessons": [
-      [
-        "VW310FA2018",
-        "FA2018"
-      ],
-      [
-        "VW310FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2018, FA2019"
-  },
-  {
-    "courseCode": "VZ011",
-    "courseName": "汉语一（上）",
-    "courseNameEn": "Chinese Language (level 1 part 1)",
-    "lessons": [
-      [
-        "VZ011FA2018",
-        "FA2018"
-      ],
-      [
-        "VZ011SU2019",
-        "SU2019"
-      ],
-      [
-        "VZ011FA2019",
-        "FA2019"
-      ],
-      [
-        "VZ011FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VZ011FA2019-2",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VM414",
-    "courseName": "现代质量工程",
-    "courseNameEn": "Advanced Quality Engineering ",
-    "lessons": [
-      [
-        "VM414SU2018",
-        "SU2018"
-      ]
-    ],
-    "terms": "SU2018"
-  },
-  {
-    "courseCode": "VG501",
-    "courseName": "研究生科技写作导论",
-    "courseNameEn": "Introduction to Graduate Technical Communication",
-    "lessons": [
-      [
-        "VG501FA2019-1  Michele Campbell",
-        "FA2019-1"
-      ],
-      [
-        "VG501FA2019-2 Nathaniel Murray",
-        "FA2019-2"
-      ]
-    ],
-    "terms": "FA2019"
-  },
-  {
-    "courseCode": "VY100",
-    "courseName": "综合英语（J类）",
-    "courseNameEn": "Academic Writing Ⅰ",
-    "lessons": [
-      [
-        "VY100FA2017-1",
-        "FA2017-1"
-      ],
-      [
-        "VY100FA2017-2",
-        "FA2017-2"
-      ],
-      [
-        "VY100FA2017-3",
-        "FA2017-3"
-      ],
-      [
-        "VY100FA2017-4",
-        "FA2017-4"
-      ],
-      [
-        "VY100FA2017-5",
-        "FA2017-5"
-      ],
-      [
-        "VY100FA2017-6",
-        "FA2017-6"
-      ],
-      [
-        "VY100FA2017-7",
-        "FA2017-7"
-      ],
-      [
-        "VY100FA2017-8",
-        "FA2017-8"
-      ],
-      [
-        "VY100FA2017-9",
-        "FA2017-9"
-      ],
-      [
-        "VY100FA2017-10",
-        "FA2017-10"
-      ],
-      [
-        "VY100FA2017-11",
-        "FA2017-11"
-      ],
-      [
-        "VY100FA2017-12",
-        "FA2017-12"
-      ],
-      [
-        "VY100FA2018-1",
-        "FA2018-1"
-      ],
-      [
-        "VY100FA2018-2",
-        "FA2018-2"
-      ],
-      [
-        "VY100FA2018-3",
-        "FA2018-3"
-      ],
-      [
-        "VY100FA2018-4",
-        "FA2018-4"
-      ],
-      [
-        "VY100FA2018-5",
-        "FA2018-5"
-      ],
-      [
-        "VY100FA2018-6",
-        "FA2018-6"
-      ],
-      [
-        "VY100FA2018-7",
-        "FA2018-7"
-      ],
-      [
-        "VY100FA2018-8",
-        "FA2018-8"
-      ],
-      [
-        "VY100FA2018-9",
-        "FA2018-9"
-      ],
-      [
-        "VY100FA2018-10",
-        "FA2018-10"
-      ],
-      [
-        "VY100FA2018-11",
-        "FA2018-11"
-      ],
-      [
-        "VY100FA2018-12",
-        "FA2018-12"
-      ],
-      [
-        "VY100FA2019-1",
-        "FA2019-1"
-      ],
-      [
-        "VY100FA2019-2",
-        "FA2019-2"
-      ],
-      [
-        "VY100FA2019-3",
-        "FA2019-3"
-      ],
-      [
-        "VY100FA2019-4",
-        "FA2019-4"
-      ],
-      [
-        "VY100FA2019-5",
-        "FA2019-5"
-      ],
-      [
-        "VY100FA2019-6",
-        "FA2019-6"
-      ],
-      [
-        "VY100FA2019-7",
-        "FA2019-7"
-      ],
-      [
-        "VY100FA2019-8",
-        "FA2019-8"
-      ],
-      [
-        "VY100FA2019-9",
-        "FA2019-9"
-      ],
-      [
-        "VY100FA2019-10",
-        "FA2019-10"
-      ],
-      [
-        "VY100FA2019-11",
-        "FA2019-11"
-      ],
-      [
-        "VY100FA2019-12",
-        "FA2019-12"
-      ],
-      [
-        "VY100FA2019-13",
-        "FA2019-13"
-      ],
-      [
-        "VY100FA2019-14",
-        "FA2019-14"
-      ],
-      [
-        "VY100FA2019-15",
-        "FA2019-15"
-      ],
-      [
-        "VY100FA2019-16",
-        "FA2019-16"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VM382",
-    "courseName": "材料机械性能（J类）",
-    "courseNameEn": "Mechanical Behavior of Materials",
-    "lessons": [
-      [
-        "VM382FA2017",
-        "FA2017"
-      ],
-      [
-        "VM382SP2018",
-        "SP2018"
-      ],
-      [
-        "VM382FA2018",
-        "FA2018"
-      ],
-      [
-        "VM382SP2019",
-        "SP2019"
-      ],
-      [
-        "VM382FA2019",
-        "FA2019"
-      ],
-      [
-        "VM382SP2020",
-        "SP2020"
-      ]
-    ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020"
-  },
-  {
-    "courseCode": "VM461",
-    "courseName": "自动控制（J类）",
-    "courseNameEn": "Automatic Control",
-    "lessons": [
-      [
-        "VM461FA2017",
-        "FA2017"
-      ],
-      [
-        "VM461FA2018",
-        "FA2018"
-      ],
-      [
-        "VM461FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VE281",
-    "courseName": "数据结构与算法（J类）",
-    "courseNameEn": "Data Structures and Algorithms",
-    "lessons": [
-      [
-        "VE281FA2017",
-        "FA2017"
-      ],
-      [
-        "VE281FA2018",
-        "FA2018"
-      ],
-      [
-        "VE281FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "FA2017, FA2018, FA2019"
-  },
-  {
-    "courseCode": "VP160",
-    "courseName": "强化物理（J类）（1）",
-    "courseNameEn": "Honors Physics I",
-    "lessons": [
-      [
-        "VP160SU2017",
-        "SU2017"
-      ],
-      [
-        "VP160SU2018",
-        "SU2018"
-      ],
-      [
-        "VP160SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, SU2019"
-  },
-  {
-    "courseCode": "VG441",
-    "courseName": "供应链管理",
-    "courseNameEn": "Supply Chain Management",
-    "lessons": [
-      [
-        "VG441SU2019",
-        "SU2019"
-      ]
-    ],
-    "terms": "SU2019"
-  },
-  {
-    "courseCode": "VE450",
-    "courseName": "系统设计与实现",
-    "courseNameEn": "Major Design Experience(MDE)",
-    "lessons": [
-      [
-        "VE450SU2017",
-        "SU2017"
-      ],
-      [
-        "VE450FA2017",
-        "FA2017"
-      ],
-      [
-        "VE450SU2018",
-        "SU2018"
-      ],
-      [
-        "VE450FA2018",
-        "FA2018"
-      ],
-      [
-        "VE450SU2019",
-        "SU2019"
-      ],
-      [
-        "VE450FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019"
-  },
-  {
-    "courseCode": "VW210",
-    "courseName": "德语（3）",
-    "courseNameEn": "German III",
-    "lessons": [
-      [
-        "VW210SU2017",
-        "SU2017"
-      ],
-      [
-        "VW210FA2017",
-        "FA2017"
-      ],
-      [
-        "VW210SP2018",
-        "SP2018"
-      ],
-      [
-        "VW210SU2018",
-        "SU2018"
-      ],
-      [
-        "VW210FA2018",
-        "FA2018"
-      ],
-      [
-        "VW210SU2019-1",
-        "SU2019-1"
-      ],
-      [
-        "VW210SU2019-2",
-        "SU2019-2"
-      ]
-    ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019"
-  },
-  {
-    "courseCode": "VE311",
-    "courseName": "电子电路",
-    "courseNameEn": "Electronic Circuits",
-    "lessons": [
-      [
-        "VE311SU2017",
-        "SU2017"
-      ],
-      [
-        "VE311SU2018",
-        "SU2018"
-      ],
-      [
-        "VE311FA2018",
-        "FA2018"
-      ],
-      [
-        "VE311SU2019",
-        "SU2019"
-      ],
-      [
-        "VE311FA2019",
-        "FA2019"
-      ]
-    ],
-    "terms": "SU2017, SU2018, FA2018, SU2019, FA2019"
   }
 ]
