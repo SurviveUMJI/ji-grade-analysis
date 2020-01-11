@@ -82,12 +82,18 @@ module.exports = {
             loader: 'babel-loader',
             options: { plugins: ['react-hot-loader/babel'] }
           },
-          'ts-loader'
+          {
+            loader: 'ts-loader',
+            options: {
+              "allowTsInNodeModules": true,
+            }
+          },
+          // 'ts-loader'
         ].filter(Boolean)
       },
       // css
       {
-        test: /\.css$/,
+        test: /\.(css|less)$/,
         use: [
           isProduction ? MiniCssExtractPlugin.loader : 'style-loader',
           {

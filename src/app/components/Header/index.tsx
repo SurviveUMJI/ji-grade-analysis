@@ -3,8 +3,8 @@ import {
   Grid,
   Typography,
 } from '@material-ui/core';
-import GitHubButton from 'react-github-button';
-import 'react-github-button/assets/style.css';
+import {GitHubButton, GitHubButtonProvider} from 'react-github-button';
+import 'react-github-button/assets/style.less';
 
 export interface HeaderProps {
   namespace: string;
@@ -26,23 +26,20 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
             UM-SJTU JI Grade Analysis
           </Typography>
         </Grid>
-        <Grid container justify="flex-end" spacing={1}>
-          <Grid item>
-          <GitHubButton type="stargazers" size="large"
-                        namespace={this.props.namespace}
-                        repo={this.props.repo}/>
+        <GitHubButtonProvider namespace={this.props.namespace}
+                              repo={this.props.repo}>
+          <Grid container justify="flex-end" spacing={1}>
+            <Grid item>
+              <GitHubButton type="stargazers" size="large"/>
+            </Grid>
+            <Grid item>
+              <GitHubButton type="watchers" size="large"/>
+            </Grid>
+            <Grid item>
+              <GitHubButton type="forks" size="large"/>
+            </Grid>
           </Grid>
-          <Grid item>
-          <GitHubButton type="watchers" size="large"
-                        namespace={this.props.namespace}
-                        repo={this.props.repo}/>
-          </Grid>
-          <Grid item>
-          <GitHubButton type="forks" size="large"
-                        namespace={this.props.namespace}
-                        repo={this.props.repo}/>
-          </Grid>
-        </Grid>
+        </GitHubButtonProvider>
       </div>
     );
   }
