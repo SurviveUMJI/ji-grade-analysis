@@ -1,5 +1,3932 @@
 [
   {
+    "courseCode": "AC300",
+    "lessonClassCode": "AC300FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  },
+  {
+    "courseCode": "AC311",
+    "lessonClassCode": "AC311SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD114",
+    "lessonClassCode": "AD114FA2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD114",
+    "lessonClassCode": "AD114SP2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD115",
+    "lessonClassCode": "AD115FA2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD223",
+    "lessonClassCode": "AD223SP2018-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "AD224",
+    "lessonClassCode": "AD224SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "AD229",
+    "lessonClassCode": "AD229SP2018-*",
+    "scores": [
+      0,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "AD301",
+    "lessonClassCode": "AD301FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD903",
+    "lessonClassCode": "AD903SP2018-*",
+    "scores": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AD903",
+    "lessonClassCode": "AD903SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM001",
+    "lessonClassCode": "AM001SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM007",
+    "lessonClassCode": "AM007SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM007",
+    "lessonClassCode": "AM007SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM016",
+    "lessonClassCode": "AM016SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM030",
+    "lessonClassCode": "AM030SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM061",
+    "lessonClassCode": "AM061SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM062",
+    "lessonClassCode": "AM062FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "AM062",
+    "lessonClassCode": "AM062SP2019-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM070",
+    "lessonClassCode": "AM070SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AM922",
+    "lessonClassCode": "AM922SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AR904",
+    "lessonClassCode": "AR904SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AU004",
+    "lessonClassCode": "AU004SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AU326",
+    "lessonClassCode": "AU326FA2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AU420",
+    "lessonClassCode": "AU420FA2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AV001",
+    "lessonClassCode": "AV001SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AV001",
+    "lessonClassCode": "AV001SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "AV012",
+    "lessonClassCode": "AV012SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI001",
+    "lessonClassCode": "BI001FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI001",
+    "lessonClassCode": "BI001SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI022",
+    "lessonClassCode": "BI022SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI296",
+    "lessonClassCode": "BI296SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI902",
+    "lessonClassCode": "BI902SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI907",
+    "lessonClassCode": "BI907SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BI915",
+    "lessonClassCode": "BI915SP2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BM023",
+    "lessonClassCode": "BM023SP2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BM901",
+    "lessonClassCode": "BM901SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BM904",
+    "lessonClassCode": "BM904SP2019-*",
+    "scores": [
+      0,
+      1,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU007",
+    "lessonClassCode": "BU007SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013SP2018-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU100",
+    "lessonClassCode": "BU100SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU100",
+    "lessonClassCode": "BU100SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU104",
+    "lessonClassCode": "BU104FA2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU105",
+    "lessonClassCode": "BU105SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU200",
+    "lessonClassCode": "BU200SP2018-*",
+    "scores": [
+      0,
+      6,
+      2,
+      7,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      6
+    ]
+  },
+  {
+    "courseCode": "BU304",
+    "lessonClassCode": "BU304SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU311",
+    "lessonClassCode": "BU311FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "BU320",
+    "lessonClassCode": "BU320FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "BU352",
+    "lessonClassCode": "BU352FA2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU354",
+    "lessonClassCode": "BU354SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU426",
+    "lessonClassCode": "BU426SP2018-*",
+    "scores": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CA001",
+    "lessonClassCode": "CA001FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CA002",
+    "lessonClassCode": "CA002FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CA901",
+    "lessonClassCode": "CA901FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CA901",
+    "lessonClassCode": "CA901FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH107",
+    "lessonClassCode": "CH107SU2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH192",
+    "lessonClassCode": "CH192SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH208",
+    "lessonClassCode": "CH208SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH209",
+    "lessonClassCode": "CH209SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH210",
+    "lessonClassCode": "CH210FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "CH213",
+    "lessonClassCode": "CH213SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH215",
+    "lessonClassCode": "CH215FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "CH216",
+    "lessonClassCode": "CH216FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "CH219",
+    "lessonClassCode": "CH219SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH304",
+    "lessonClassCode": "CH304FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "CL002",
+    "lessonClassCode": "CL002SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CL010",
+    "lessonClassCode": "CL010SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CL011",
+    "lessonClassCode": "CL011SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CL024",
+    "lessonClassCode": "CL024SP2019-*",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CL101",
+    "lessonClassCode": "CL101FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "CS022",
+    "lessonClassCode": "CS022SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "CS214",
+    "lessonClassCode": "CS214SP2018-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CS214",
+    "lessonClassCode": "CS214SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CS385",
+    "lessonClassCode": "CS385SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CS420",
+    "lessonClassCode": "CS420SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CS430",
+    "lessonClassCode": "CS430SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CS902",
+    "lessonClassCode": "CS902SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001FA2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SP2019-*",
+    "scores": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SU2017-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR002",
+    "lessonClassCode": "DR002SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EC007",
+    "lessonClassCode": "EC007SP2018-*",
+    "scores": [
+      0,
+      2,
+      8,
+      4,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      8
+    ]
+  },
+  {
+    "courseCode": "EC011",
+    "lessonClassCode": "EC011SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EC100",
+    "lessonClassCode": "EC100SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EC311",
+    "lessonClassCode": "EC311SP2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EC313",
+    "lessonClassCode": "EC313FA2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "EC905",
+    "lessonClassCode": "EC905SP2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EE311",
+    "lessonClassCode": "EE311FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EE312",
+    "lessonClassCode": "EE312SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EE359",
+    "lessonClassCode": "EE359SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EI339",
+    "lessonClassCode": "EI339FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "EI901",
+    "lessonClassCode": "EI901SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EM151",
+    "lessonClassCode": "EM151SP2016-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN025",
+    "lessonClassCode": "EN025FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN025",
+    "lessonClassCode": "EN025FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN026",
+    "lessonClassCode": "EN026SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN026",
+    "lessonClassCode": "EN026SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN053",
+    "lessonClassCode": "EN053SP2018-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN100",
+    "lessonClassCode": "EN100SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN105",
+    "lessonClassCode": "EN105FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN118",
+    "lessonClassCode": "EN118FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN119",
+    "lessonClassCode": "EN119SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN121",
+    "lessonClassCode": "EN121FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN122",
+    "lessonClassCode": "EN122SU2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN127",
+    "lessonClassCode": "EN127SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN128",
+    "lessonClassCode": "EN128FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN129",
+    "lessonClassCode": "EN129SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN132",
+    "lessonClassCode": "EN132FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN214",
+    "lessonClassCode": "EN214SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN228",
+    "lessonClassCode": "EN228SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN229",
+    "lessonClassCode": "EN229SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN309",
+    "lessonClassCode": "EN309FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315FA2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315SP2019-*",
+    "scores": [
+      0,
+      1,
+      2,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "EN329",
+    "lessonClassCode": "EN329FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN330",
+    "lessonClassCode": "EN330SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN347",
+    "lessonClassCode": "EN347FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN358",
+    "lessonClassCode": "EN358FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN903",
+    "lessonClassCode": "EN903SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN904",
+    "lessonClassCode": "EN904SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EN904",
+    "lessonClassCode": "EN904SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "EV040",
+    "lessonClassCode": "EV040SP2019-*",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FI005",
+    "lessonClassCode": "FI005FA2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FI453",
+    "lessonClassCode": "FI453FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FO201",
+    "lessonClassCode": "FO201SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "FO202",
+    "lessonClassCode": "FO202SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "FR201",
+    "lessonClassCode": "FR201SP2018-*",
+    "scores": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "FR202",
+    "lessonClassCode": "FR202SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "FT026",
+    "lessonClassCode": "FT026SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT100",
+    "lessonClassCode": "FT100SU2017-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT101",
+    "lessonClassCode": "FT101FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT102",
+    "lessonClassCode": "FT102SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT108",
+    "lessonClassCode": "FT108FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT206",
+    "lessonClassCode": "FT206SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "FT207",
+    "lessonClassCode": "FT207SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "FT209",
+    "lessonClassCode": "FT209FA2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT210",
+    "lessonClassCode": "FT210SU2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT215",
+    "lessonClassCode": "FT215SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT303",
+    "lessonClassCode": "FT303FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT304",
+    "lessonClassCode": "FT304SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT305",
+    "lessonClassCode": "FT305SP2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "FT342",
+    "lessonClassCode": "FT342FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "GA407",
+    "lessonClassCode": "GA407FA2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "GA901",
+    "lessonClassCode": "GA901FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "GA901",
+    "lessonClassCode": "GA901SP2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI050",
+    "lessonClassCode": "HI050SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "HI102",
+    "lessonClassCode": "HI102SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI210",
+    "lessonClassCode": "HI210SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI211",
+    "lessonClassCode": "HI211SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "HI214",
+    "lessonClassCode": "HI214SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI215",
+    "lessonClassCode": "HI215SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI217",
+    "lessonClassCode": "HI217SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI219",
+    "lessonClassCode": "HI219FA2018-*",
+    "scores": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HI903",
+    "lessonClassCode": "HI903SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ID100",
+    "lessonClassCode": "ID100SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ID204",
+    "lessonClassCode": "ID204FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ID301",
+    "lessonClassCode": "ID301FA2018-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IO005",
+    "lessonClassCode": "IO005SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IS206",
+    "lessonClassCode": "IS206SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IS214",
+    "lessonClassCode": "IS214SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IS305",
+    "lessonClassCode": "IS305SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IS407",
+    "lessonClassCode": "IS407FA2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JA012",
+    "lessonClassCode": "JA012SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JA212",
+    "lessonClassCode": "JA212SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "JA213",
+    "lessonClassCode": "JA213SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "JC001",
+    "lessonClassCode": "JC001SU2017-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC105",
+    "lessonClassCode": "JC105SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC112",
+    "lessonClassCode": "JC112SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC203",
+    "lessonClassCode": "JC203SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC203",
+    "lessonClassCode": "JC203SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC216",
+    "lessonClassCode": "JC216SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC331",
+    "lessonClassCode": "JC331SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC903",
+    "lessonClassCode": "JC903SP2018-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "JC903",
+    "lessonClassCode": "JC903SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "LA100",
+    "lessonClassCode": "LA100SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "courseCode": "LA107",
+    "lessonClassCode": "LA107SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "LA108",
+    "lessonClassCode": "LA108SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "LA200",
+    "lessonClassCode": "LA200FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "LA330",
+    "lessonClassCode": "LA330FA2018-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "LA346",
+    "lessonClassCode": "LA346FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "LA925",
+    "lessonClassCode": "LA925SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA000",
+    "lessonClassCode": "MA000FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA009",
+    "lessonClassCode": "MA009SU2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077FA2015-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA080",
+    "lessonClassCode": "MA080FA2015-*",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA081",
+    "lessonClassCode": "MA081SP2016-*",
+    "scores": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA194",
+    "lessonClassCode": "MA194SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA203",
+    "lessonClassCode": "MA203FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "MA209",
+    "lessonClassCode": "MA209SP2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA210",
+    "lessonClassCode": "MA210SP2018-*",
+    "scores": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA312",
+    "lessonClassCode": "MA312FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "MA316",
+    "lessonClassCode": "MA316FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "MA317",
+    "lessonClassCode": "MA317FA2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "MA902",
+    "lessonClassCode": "MA902SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MA908",
+    "lessonClassCode": "MA908SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME001",
+    "lessonClassCode": "ME001FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME011",
+    "lessonClassCode": "ME011SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME034",
+    "lessonClassCode": "ME034SP2019-*",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME045",
+    "lessonClassCode": "ME045SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME069",
+    "lessonClassCode": "ME069SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME113",
+    "lessonClassCode": "ME113FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME115",
+    "lessonClassCode": "ME115SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME205",
+    "lessonClassCode": "ME205FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME351",
+    "lessonClassCode": "ME351SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME351",
+    "lessonClassCode": "ME351SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME901",
+    "lessonClassCode": "ME901SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME907",
+    "lessonClassCode": "ME907SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "ME908",
+    "lessonClassCode": "ME908SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MR429",
+    "lessonClassCode": "MR429SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MT017",
+    "lessonClassCode": "MT017SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU201",
+    "lessonClassCode": "MU201SP2018-*",
+    "scores": [
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "MU202",
+    "lessonClassCode": "MU202SP2018-*",
+    "scores": [
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "MU300",
+    "lessonClassCode": "MU300FA2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU301",
+    "lessonClassCode": "MU301FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU302",
+    "lessonClassCode": "MU302FA2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901FA2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901SP2019-*",
+    "scores": [
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "MU902",
+    "lessonClassCode": "MU902SP2019-*",
+    "scores": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "NU403",
+    "lessonClassCode": "NU403SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2014-*",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2015-*",
+    "scores": [
+      0,
+      4,
+      3,
+      5,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2016-*",
+    "scores": [
+      9,
+      34,
+      78,
+      69,
+      47,
+      36,
+      6,
+      8,
+      4,
+      5,
+      3
+    ]
+  },
+  {
     "courseCode": "PE001",
     "lessonClassCode": "PE001FA2017-010",
     "scores": [
@@ -336,6 +4263,40 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2015-*",
+    "scores": [
+      1,
+      3,
+      1,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2016-*",
+    "scores": [
+      1,
+      6,
+      1,
+      1,
+      1,
+      5,
+      0,
+      0,
+      0,
+      1,
       0
     ]
   },
@@ -697,6 +4658,57 @@
     ]
   },
   {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SU2017-*",
+    "scores": [
+      5,
+      66,
+      84,
+      122,
+      13,
+      7,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2015-*",
+    "scores": [
+      1,
+      0,
+      2,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2016-*",
+    "scores": [
+      0,
+      6,
+      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "PE003",
     "lessonClassCode": "PE003FA2017-010",
     "scores": [
@@ -1047,6 +5059,23 @@
       2,
       0,
       0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2016-*",
+    "scores": [
+      2,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -1411,6 +5440,805 @@
     ]
   },
   {
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SU2017-*",
+    "scores": [
+      0,
+      6,
+      4,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE005",
+    "lessonClassCode": "PE005SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PH001",
+    "lessonClassCode": "PH001SP2016-*",
+    "scores": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PH015",
+    "lessonClassCode": "PH015SP2019-*",
+    "scores": [
+      0,
+      0,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PH028",
+    "lessonClassCode": "PH028SP2016-*",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PH100",
+    "lessonClassCode": "PH100SP2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL021",
+    "lessonClassCode": "PL021SP2018-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL026",
+    "lessonClassCode": "PL026SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL026",
+    "lessonClassCode": "PL026SP2019-*",
+    "scores": [
+      1,
+      0,
+      4,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL027",
+    "lessonClassCode": "PL027SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL028",
+    "lessonClassCode": "PL028SP2019-*",
+    "scores": [
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PO012",
+    "lessonClassCode": "PO012SP2019-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PO013",
+    "lessonClassCode": "PO013SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PO202",
+    "lessonClassCode": "PO202SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PS906",
+    "lessonClassCode": "PS906SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PS906",
+    "lessonClassCode": "PS906SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PS907",
+    "lessonClassCode": "PS907SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PU050",
+    "lessonClassCode": "PU050SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PU086",
+    "lessonClassCode": "PU086SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PU230",
+    "lessonClassCode": "PU230SP2018-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PU914",
+    "lessonClassCode": "PU914SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SA001",
+    "lessonClassCode": "SA001FA2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SE223",
+    "lessonClassCode": "SE223SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SE228",
+    "lessonClassCode": "SE228SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SE315",
+    "lessonClassCode": "SE315SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SE341",
+    "lessonClassCode": "SE341SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SE347",
+    "lessonClassCode": "SE347SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "SE353",
+    "lessonClassCode": "SE353SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO004",
+    "lessonClassCode": "SO004FA2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO018",
+    "lessonClassCode": "SO018SP2019-*",
+    "scores": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO074",
+    "lessonClassCode": "SO074SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO074",
+    "lessonClassCode": "SO074SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO077",
+    "lessonClassCode": "SO077SP2019-*",
+    "scores": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO078",
+    "lessonClassCode": "SO078SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO904",
+    "lessonClassCode": "SO904SU2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO906",
+    "lessonClassCode": "SO906SP2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO936",
+    "lessonClassCode": "SO936SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SO936",
+    "lessonClassCode": "SO936SP2018-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "SP062",
+    "lessonClassCode": "SP062FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP154",
+    "lessonClassCode": "SP154SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP180",
+    "lessonClassCode": "SP180FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP180",
+    "lessonClassCode": "SP180FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP190",
+    "lessonClassCode": "SP190SU2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP219",
+    "lessonClassCode": "SP219FA2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "SP234",
+    "lessonClassCode": "SP234SP2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2015-*",
+    "scores": [
+      0,
+      1,
+      5,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2016-*",
+    "scores": [
+      2,
+      4,
+      6,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TH000",
     "lessonClassCode": "TH000SP2018-1",
     "scores": [
@@ -1475,6 +6303,91 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SU2017-*",
+    "scores": [
+      5,
+      28,
+      66,
+      123,
+      56,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2019-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      4,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2016-*",
+    "scores": [
+      0,
+      3,
+      0,
+      5,
+      5,
+      2,
+      0,
+      0,
+      0,
+      1,
       0
     ]
   },
@@ -1632,6 +6545,40 @@
     ]
   },
   {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SU2017-*",
+    "scores": [
+      1,
+      22,
+      91,
+      86,
+      60,
+      23,
+      5,
+      3,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      3,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TH007",
     "lessonClassCode": "TH007SP2018-1",
     "scores": [
@@ -1700,6 +6647,159 @@
     ]
   },
   {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SU2017-*",
+    "scores": [
+      0,
+      1,
+      3,
+      5,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2014-*",
+    "scores": [
+      0,
+      3,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2015-*",
+    "scores": [
+      3,
+      9,
+      6,
+      3,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2016-*",
+    "scores": [
+      1,
+      8,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2015-*",
+    "scores": [
+      0,
+      1,
+      6,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2016-*",
+    "scores": [
+      5,
+      7,
+      10,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2017-*",
+    "scores": [
+      0,
+      5,
+      4,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SP2015-*",
+    "scores": [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SP2016-*",
+    "scores": [
+      0,
+      0,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TH010",
     "lessonClassCode": "TH010SP2018",
     "scores": [
@@ -1710,6 +6810,40 @@
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SU2017-*",
+    "scores": [
+      0,
+      0,
+      293,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH012",
+    "lessonClassCode": "TH012SP2016-*",
+    "scores": [
+      0,
+      3,
+      2,
+      1,
+      2,
+      0,
+      1,
       0,
       0,
       0,
@@ -1744,6 +6878,40 @@
       25,
       3,
       1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH012",
+    "lessonClassCode": "TH012SU2017-*",
+    "scores": [
+      0,
+      2,
+      2,
+      4,
+      2,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020FA2016-*",
+    "scores": [
+      18,
+      135,
+      118,
+      10,
+      13,
+      2,
+      0,
       0,
       0,
       0,
@@ -1820,6 +6988,23 @@
   },
   {
     "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2017-*",
+    "scores": [
+      0,
+      91,
+      167,
+      16,
+      11,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH020",
     "lessonClassCode": "TH020SP2018-1",
     "scores": [
       0,
@@ -1887,6 +7072,91 @@
     ]
   },
   {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SU2017-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021FA2015-*",
+    "scores": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021FA2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SP2015-*",
+    "scores": [
+      0,
+      0,
+      2,
+      5,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SP2016-*",
+    "scores": [
+      1,
+      3,
+      3,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TH021",
     "lessonClassCode": "TH021SP2018-1",
     "scores": [
@@ -1918,6 +7188,23 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SU2017-*",
+    "scores": [
+      0,
+      25,
+      130,
+      125,
+      7,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -1989,6 +7276,23 @@
     ]
   },
   {
+    "courseCode": "TH028",
+    "lessonClassCode": "TH028SP2019-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TH029",
     "lessonClassCode": "TH029SP2019-1",
     "scores": [
@@ -2023,6 +7327,40 @@
     ]
   },
   {
+    "courseCode": "TY002",
+    "lessonClassCode": "TY002SP2019-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TY003",
+    "lessonClassCode": "TY003SP2018-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VC209",
     "lessonClassCode": "VC209FA2017",
     "scores": [
@@ -2054,6 +7392,57 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2014-*",
+    "scores": [
+      1,
+      3,
+      2,
+      1,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2015-*",
+    "scores": [
+      2,
+      0,
+      4,
+      1,
+      3,
+      3,
+      0,
+      0,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2016-*",
+    "scores": [
+      5,
+      40,
+      40,
+      102,
+      52,
+      39,
+      11,
+      6,
+      10,
+      1,
+      0
     ]
   },
   {
@@ -2156,6 +7545,57 @@
       6,
       5,
       4
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2015-*",
+    "scores": [
+      0,
+      3,
+      1,
+      1,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2016-*",
+    "scores": [
+      3,
+      1,
+      3,
+      4,
+      2,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2017-*",
+    "scores": [
+      16,
+      55,
+      66,
+      69,
+      53,
+      27,
+      10,
+      6,
+      5,
+      0,
+      0
     ]
   },
   {
@@ -2568,6 +8008,40 @@
   },
   {
     "courseCode": "VE203",
+    "lessonClassCode": "VE203FA2015-*",
+    "scores": [
+      0,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203FA2016-*",
+    "scores": [
+      2,
+      1,
+      2,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE203",
     "lessonClassCode": "VE203FA2017",
     "scores": [
       7,
@@ -2653,6 +8127,57 @@
   },
   {
     "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2015-*",
+    "scores": [
+      0,
+      3,
+      3,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2016-*",
+    "scores": [
+      1,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE215",
     "lessonClassCode": "VE215FA2017-1",
     "scores": [
       21,
@@ -2734,6 +8259,57 @@
       9,
       4,
       2
+    ]
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2016-*",
+    "scores": [
+      0,
+      1,
+      3,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
     ]
   },
   {
@@ -2925,6 +8501,23 @@
   },
   {
     "courseCode": "VE230",
+    "lessonClassCode": "VE230SP2016-*",
+    "scores": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE230",
     "lessonClassCode": "VE230SU2017",
     "scores": [
       0,
@@ -3078,6 +8671,40 @@
   },
   {
     "courseCode": "VE270",
+    "lessonClassCode": "VE270SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      2,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VE270",
+    "lessonClassCode": "VE270SP2016-*",
+    "scores": [
+      0,
+      3,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE270",
     "lessonClassCode": "VE270SU2017",
     "scores": [
       0,
@@ -3142,6 +8769,40 @@
       1,
       2,
       2
+    ]
+  },
+  {
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      2,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280SP2016-*",
+    "scores": [
+      1,
+      4,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3227,6 +8888,40 @@
       4,
       4,
       5
+    ]
+  },
+  {
+    "courseCode": "VE281",
+    "lessonClassCode": "VE281FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE281",
+    "lessonClassCode": "VE281FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3358,6 +9053,23 @@
       3,
       2,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2016-*",
+    "scores": [
+      0,
+      1,
+      1,
+      2,
+      1,
+      1,
       0,
       0,
       0,
@@ -3622,6 +9334,23 @@
   },
   {
     "courseCode": "VE311",
+    "lessonClassCode": "VE311SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE311",
     "lessonClassCode": "VE311SU2017",
     "scores": [
       0,
@@ -3741,6 +9470,23 @@
   },
   {
     "courseCode": "VE320",
+    "lessonClassCode": "VE320SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE320",
     "lessonClassCode": "VE320SU2018",
     "scores": [
       0,
@@ -3792,6 +9538,23 @@
   },
   {
     "courseCode": "VE334",
+    "lessonClassCode": "VE334FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE334",
     "lessonClassCode": "VE334FA2017",
     "scores": [
       0,
@@ -3839,6 +9602,23 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "VE370",
+    "lessonClassCode": "VE370FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -3907,6 +9687,57 @@
       2,
       1,
       4
+    ]
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      2,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2017-*",
+    "scores": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4200,6 +10031,23 @@
   },
   {
     "courseCode": "VE450",
+    "lessonClassCode": "VE450FA2014-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE450",
     "lessonClassCode": "VE450FA2018",
     "scores": [
       0,
@@ -4415,6 +10263,23 @@
       1,
       0,
       1,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE475",
+    "lessonClassCode": "VE475SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       1
     ]
@@ -4896,6 +10761,74 @@
     ]
   },
   {
+    "courseCode": "VF457",
+    "lessonClassCode": "VF457SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2014-*",
+    "scores": [
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2015-*",
+    "scores": [
+      0,
+      0,
+      3,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2016-*",
+    "scores": [
+      21,
+      30,
+      37,
+      1,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VG100",
     "lessonClassCode": "VG100FA2017",
     "scores": [
@@ -4944,6 +10877,40 @@
       0,
       3,
       2
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SP2015-*",
+    "scores": [
+      1,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SP2016-*",
+    "scores": [
+      1,
+      0,
+      2,
+      3,
+      0,
+      0,
+      4,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5101,6 +11068,57 @@
   },
   {
     "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2014-*",
+    "scores": [
+      0,
+      0,
+      2,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2015-*",
+    "scores": [
+      0,
+      2,
+      3,
+      1,
+      1,
+      1,
+      2,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2016-*",
+    "scores": [
+      10,
+      20,
+      50,
+      35,
+      33,
+      34,
+      10,
+      11,
+      2,
+      5,
+      1
+    ]
+  },
+  {
+    "courseCode": "VG101",
     "lessonClassCode": "VG101FA2017-1",
     "scores": [
       8,
@@ -5199,6 +11217,40 @@
       2,
       1,
       5
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101SP2015-*",
+    "scores": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      1,
+      2,
+      0,
+      0
     ]
   },
   {
@@ -5492,6 +11544,40 @@
   },
   {
     "courseCode": "VK250",
+    "lessonClassCode": "VK250SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VK250",
+    "lessonClassCode": "VK250SP2017-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VK250",
     "lessonClassCode": "VK250SP2018",
     "scores": [
       0,
@@ -5521,6 +11607,23 @@
       3,
       4,
       2,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM010",
+    "lessonClassCode": "VM010SP2015-*",
+    "scores": [
+      2,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   },
@@ -5594,6 +11697,23 @@
   },
   {
     "courseCode": "VM020",
+    "lessonClassCode": "VM020FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM020",
     "lessonClassCode": "VM020FA2017",
     "scores": [
       0,
@@ -5628,6 +11748,40 @@
   },
   {
     "courseCode": "VM020",
+    "lessonClassCode": "VM020SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM020",
+    "lessonClassCode": "VM020SP2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM020",
     "lessonClassCode": "VM020SP2018",
     "scores": [
       0,
@@ -5657,6 +11811,57 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2015-*",
+    "scores": [
+      3,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2016-*",
+    "scores": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
       0
     ]
   },
@@ -5713,6 +11918,23 @@
   },
   {
     "courseCode": "VM211",
+    "lessonClassCode": "VM211SP2017-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM211",
     "lessonClassCode": "VM211SP2018",
     "scores": [
       2,
@@ -5742,6 +11964,23 @@
       0,
       0,
       1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1
     ]
   },
@@ -5798,6 +12037,40 @@
   },
   {
     "courseCode": "VM235",
+    "lessonClassCode": "VM235SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      3,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235SP2016-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM235",
     "lessonClassCode": "VM235SU2017",
     "scores": [
       0,
@@ -5845,6 +12118,57 @@
       3,
       0,
       9
+    ]
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2016-*",
+    "scores": [
+      1,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -5929,6 +12253,57 @@
       2,
       3,
       1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2016-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2017-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   },
@@ -6087,6 +12462,23 @@
   },
   {
     "courseCode": "VM320",
+    "lessonClassCode": "VM320FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM320",
     "lessonClassCode": "VM320FA2017",
     "scores": [
       0,
@@ -6168,6 +12560,23 @@
       2,
       0,
       4
+    ]
+  },
+  {
+    "courseCode": "VM335",
+    "lessonClassCode": "VM335SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6257,6 +12666,23 @@
   },
   {
     "courseCode": "VM360",
+    "lessonClassCode": "VM360SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VM360",
     "lessonClassCode": "VM360SU2017",
     "scores": [
       0,
@@ -6304,6 +12730,23 @@
       1,
       1,
       2
+    ]
+  },
+  {
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -6359,6 +12802,40 @@
   },
   {
     "courseCode": "VM382",
+    "lessonClassCode": "VM382SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382SP2017-*",
+    "scores": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM382",
     "lessonClassCode": "VM382SP2018",
     "scores": [
       0,
@@ -6388,6 +12865,23 @@
       0,
       1,
       1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM395",
+    "lessonClassCode": "VM395FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   },
@@ -6495,6 +12989,23 @@
   },
   {
     "courseCode": "VM395",
+    "lessonClassCode": "VM395SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM395",
     "lessonClassCode": "VM395SU2017",
     "scores": [
       0,
@@ -6579,6 +13090,23 @@
     ]
   },
   {
+    "courseCode": "VM433",
+    "lessonClassCode": "VM433FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VM434",
     "lessonClassCode": "VM434FA2017",
     "scores": [
@@ -6610,6 +13138,23 @@
       1,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VM450",
+    "lessonClassCode": "VM450FA2014-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -6665,6 +13210,23 @@
   },
   {
     "courseCode": "VM458",
+    "lessonClassCode": "VM458FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM458",
     "lessonClassCode": "VM458SU2019",
     "scores": [
       1,
@@ -6674,6 +13236,23 @@
       2,
       1,
       3,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM461",
+    "lessonClassCode": "VM461FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       0,
       0,
@@ -6818,6 +13397,23 @@
   },
   {
     "courseCode": "VM495",
+    "lessonClassCode": "VM495FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM495",
     "lessonClassCode": "VM495FA2018",
     "scores": [
       0,
@@ -6920,6 +13516,40 @@
   },
   {
     "courseCode": "VP140",
+    "lessonClassCode": "VP140SP2015-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP140",
+    "lessonClassCode": "VP140SP2016-*",
+    "scores": [
+      1,
+      1,
+      2,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP140",
     "lessonClassCode": "VP140SU2017",
     "scores": [
       4,
@@ -6967,6 +13597,40 @@
       7,
       9,
       2
+    ]
+  },
+  {
+    "courseCode": "VP141",
+    "lessonClassCode": "VP141FA2015-*",
+    "scores": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP141",
+    "lessonClassCode": "VP141SP2016-*",
+    "scores": [
+      1,
+      4,
+      1,
+      1,
+      2,
+      4,
+      2,
+      1,
+      1,
+      0,
+      0
     ]
   },
   {
@@ -7022,6 +13686,40 @@
   },
   {
     "courseCode": "VP160",
+    "lessonClassCode": "VP160SP2015-*",
+    "scores": [
+      0,
+      2,
+      2,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP160",
+    "lessonClassCode": "VP160SP2016-*",
+    "scores": [
+      0,
+      1,
+      1,
+      2,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP160",
     "lessonClassCode": "VP160SU2017",
     "scores": [
       3,
@@ -7068,6 +13766,40 @@
       5,
       4,
       3,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP240",
+    "lessonClassCode": "VP240FA2015-*",
+    "scores": [
+      3,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP240",
+    "lessonClassCode": "VP240FA2016-*",
+    "scores": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      3,
+      3,
+      0,
       1
     ]
   },
@@ -7141,6 +13873,40 @@
   },
   {
     "courseCode": "VP241",
+    "lessonClassCode": "VP241FA2015-*",
+    "scores": [
+      1,
+      1,
+      4,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP241",
+    "lessonClassCode": "VP241FA2016-*",
+    "scores": [
+      3,
+      1,
+      3,
+      1,
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP241",
     "lessonClassCode": "VP241FA2017",
     "scores": [
       19,
@@ -7192,6 +13958,40 @@
   },
   {
     "courseCode": "VP260",
+    "lessonClassCode": "VP260FA2015-*",
+    "scores": [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP260",
+    "lessonClassCode": "VP260FA2016-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP260",
     "lessonClassCode": "VP260FA2017",
     "scores": [
       8,
@@ -7239,6 +14039,23 @@
       2,
       1,
       2
+    ]
+  },
+  {
+    "courseCode": "VP390",
+    "lessonClassCode": "VP390SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -7498,6 +14315,23 @@
   },
   {
     "courseCode": "VR140",
+    "lessonClassCode": "VR140FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VR140",
     "lessonClassCode": "VR140FA2017",
     "scores": [
       0,
@@ -7509,6 +14343,40 @@
       0,
       0,
       1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR140",
+    "lessonClassCode": "VR140SP2016-*",
+    "scores": [
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR140",
+    "lessonClassCode": "VR140SP2017-*",
+    "scores": [
+      0,
+      4,
+      6,
+      6,
+      3,
+      2,
+      1,
+      0,
+      0,
       0,
       0
     ]
@@ -7684,6 +14552,23 @@
     ]
   },
   {
+    "courseCode": "VR201",
+    "lessonClassCode": "VR201SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR203",
     "lessonClassCode": "VR203FA2018",
     "scores": [
@@ -7692,6 +14577,23 @@
       2,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR203",
+    "lessonClassCode": "VR203SP2017-*",
+    "scores": [
+      0,
+      0,
+      6,
+      6,
+      3,
       0,
       0,
       0,
@@ -7753,6 +14655,23 @@
   },
   {
     "courseCode": "VR206",
+    "lessonClassCode": "VR206SP2017-*",
+    "scores": [
+      0,
+      2,
+      6,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR206",
     "lessonClassCode": "VR206SP2018",
     "scores": [
       0,
@@ -7796,6 +14715,40 @@
       1,
       0,
       1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR208",
+    "lessonClassCode": "VR208FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR208",
+    "lessonClassCode": "VR208SP2015-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -7956,6 +14909,40 @@
     ]
   },
   {
+    "courseCode": "VR239",
+    "lessonClassCode": "VR239SP2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR241",
+    "lessonClassCode": "VR241FA2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR241",
     "lessonClassCode": "VR241FA2017",
     "scores": [
@@ -7973,6 +14960,23 @@
     ]
   },
   {
+    "courseCode": "VR241",
+    "lessonClassCode": "VR241SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR242",
     "lessonClassCode": "VR242SU2019",
     "scores": [
@@ -7984,6 +14988,23 @@
       1,
       0,
       0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR245",
+    "lessonClassCode": "VR245SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0
@@ -8008,12 +15029,46 @@
   },
   {
     "courseCode": "VR251",
+    "lessonClassCode": "VR251SP2016-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR251",
     "lessonClassCode": "VR251SU2017",
     "scores": [
       0,
       2,
       1,
       3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR253",
+    "lessonClassCode": "VR253SP2017-*",
+    "scores": [
+      5,
+      7,
+      8,
+      0,
       0,
       0,
       0,
@@ -8109,6 +15164,91 @@
     ]
   },
   {
+    "courseCode": "VR261",
+    "lessonClassCode": "VR261SP2016-*",
+    "scores": [
+      0,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR262",
+    "lessonClassCode": "VR262SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR262",
+    "lessonClassCode": "VR262SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR263",
+    "lessonClassCode": "VR263SP2016-*",
+    "scores": [
+      0,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR264",
+    "lessonClassCode": "VR264SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR265",
     "lessonClassCode": "VR265FA2018",
     "scores": [
@@ -8143,6 +15283,40 @@
     ]
   },
   {
+    "courseCode": "VR275",
+    "lessonClassCode": "VR275SP2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR275",
+    "lessonClassCode": "VR275SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR276",
     "lessonClassCode": "VR276SU2017",
     "scores": [
@@ -8150,6 +15324,57 @@
       2,
       4,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280FA2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280SP2016-*",
+    "scores": [
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280SP2017-*",
+    "scores": [
+      5,
+      4,
+      1,
+      0,
       0,
       0,
       0,
@@ -8262,6 +15487,23 @@
     ]
   },
   {
+    "courseCode": "VR310",
+    "lessonClassCode": "VR310SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR318",
     "lessonClassCode": "VR318SU2019",
     "scores": [
@@ -8314,12 +15556,131 @@
   },
   {
     "courseCode": "VR361",
+    "lessonClassCode": "VR361SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      7,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR361",
+    "lessonClassCode": "VR361SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR361",
     "lessonClassCode": "VR361SU2017",
     "scores": [
       0,
       4,
       6,
       4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363FA2014-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363FA2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2016-*",
+    "scores": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2017-*",
+    "scores": [
+      0,
+      2,
+      0,
+      0,
       0,
       0,
       0,
@@ -8415,6 +15776,74 @@
     ]
   },
   {
+    "courseCode": "VR369",
+    "lessonClassCode": "VR369SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR380",
+    "lessonClassCode": "VR380SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VR380",
+    "lessonClassCode": "VR380SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR381",
+    "lessonClassCode": "VR381SP2017-*",
+    "scores": [
+      0,
+      5,
+      2,
+      7,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR381",
     "lessonClassCode": "VR381SU2018",
     "scores": [
@@ -8444,6 +15873,23 @@
       0,
       2,
       0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV115",
+    "lessonClassCode": "VV115FA2016-*",
+    "scores": [
+      2,
+      1,
+      2,
+      4,
+      1,
+      0,
+      0,
+      1,
+      1,
       0,
       0
     ]
@@ -8501,6 +15947,23 @@
   },
   {
     "courseCode": "VV116",
+    "lessonClassCode": "VV116SP2017-*",
+    "scores": [
+      1,
+      2,
+      2,
+      0,
+      2,
+      3,
+      2,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV116",
     "lessonClassCode": "VV116SP2018",
     "scores": [
       1,
@@ -8531,6 +15994,91 @@
       1,
       3,
       1
+    ]
+  },
+  {
+    "courseCode": "VV155",
+    "lessonClassCode": "VV155FA2014-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV155",
+    "lessonClassCode": "VV155FA2015-*",
+    "scores": [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2014-*",
+    "scores": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2015-*",
+    "scores": [
+      0,
+      2,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2016-*",
+    "scores": [
+      5,
+      11,
+      20,
+      54,
+      39,
+      18,
+      8,
+      7,
+      3,
+      2,
+      0
     ]
   },
   {
@@ -8585,6 +16133,91 @@
     ]
   },
   {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156SP2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2014-*",
+    "scores": [
+      1,
+      1,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2015-*",
+    "scores": [
+      0,
+      1,
+      3,
+      3,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2016-*",
+    "scores": [
+      9,
+      18,
+      20,
+      26,
+      18,
+      18,
+      13,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VV186",
     "lessonClassCode": "VV186FA2017",
     "scores": [
@@ -8633,6 +16266,40 @@
       3,
       1,
       2
+    ]
+  },
+  {
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2015-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      3,
+      4,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2016-*",
+    "scores": [
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8756,6 +16423,23 @@
   },
   {
     "courseCode": "VV216",
+    "lessonClassCode": "VV216FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV216",
     "lessonClassCode": "VV216FA2017",
     "scores": [
       2,
@@ -8803,6 +16487,40 @@
       2,
       1,
       0
+    ]
+  },
+  {
+    "courseCode": "VV255",
+    "lessonClassCode": "VV255SP2015-*",
+    "scores": [
+      1,
+      1,
+      2,
+      1,
+      0,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VV255",
+    "lessonClassCode": "VV255SP2016-*",
+    "scores": [
+      2,
+      0,
+      2,
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      1
     ]
   },
   {
@@ -8858,6 +16576,40 @@
   },
   {
     "courseCode": "VV256",
+    "lessonClassCode": "VV256FA2015-*",
+    "scores": [
+      0,
+      4,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV256",
+    "lessonClassCode": "VV256FA2016-*",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV256",
     "lessonClassCode": "VV256FA2017",
     "scores": [
       6,
@@ -8909,6 +16661,40 @@
   },
   {
     "courseCode": "VV285",
+    "lessonClassCode": "VV285SP2015-*",
+    "scores": [
+      0,
+      1,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VV285",
+    "lessonClassCode": "VV285SP2016-*",
+    "scores": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VV285",
     "lessonClassCode": "VV285SU2017",
     "scores": [
       8,
@@ -8956,6 +16742,40 @@
       2,
       2,
       5
+    ]
+  },
+  {
+    "courseCode": "VV286",
+    "lessonClassCode": "VV286FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV286",
+    "lessonClassCode": "VV286FA2016-*",
+    "scores": [
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -9129,6 +16949,40 @@
     ]
   },
   {
+    "courseCode": "VW100",
+    "lessonClassCode": "VW100FA2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110FA2016-*",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VW110",
     "lessonClassCode": "VW110FA2018",
     "scores": [
@@ -9266,6 +17120,23 @@
   },
   {
     "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2017-*",
+    "scores": [
+      0,
+      3,
+      2,
+      11,
+      5,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW111",
     "lessonClassCode": "VW111SP2018",
     "scores": [
       2,
@@ -9375,6 +17246,23 @@
       3,
       4,
       5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW200",
+    "lessonClassCode": "VW200FA2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      1,
       0,
       0,
       0,
@@ -9605,6 +17493,40 @@
     ]
   },
   {
+    "courseCode": "VX203",
+    "lessonClassCode": "VX203SP2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX203",
+    "lessonClassCode": "VX203SP2017-*",
+    "scores": [
+      3,
+      16,
+      6,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VX250",
     "lessonClassCode": "VX250SU2017",
     "scores": [
@@ -9640,6 +17562,23 @@
   },
   {
     "courseCode": "VX251",
+    "lessonClassCode": "VX251SP2017-*",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX251",
     "lessonClassCode": "VX251SP2018",
     "scores": [
       1,
@@ -9665,6 +17604,23 @@
       13,
       3,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX310",
+    "lessonClassCode": "VX310SP2017-*",
+    "scores": [
+      0,
+      1,
+      5,
+      5,
+      5,
+      1,
       0,
       0,
       0,
@@ -9724,6 +17680,23 @@
     ]
   },
   {
+    "courseCode": "VX401",
+    "lessonClassCode": "VX401FA2014-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VX402",
     "lessonClassCode": "VX402SU2018",
     "scores": [
@@ -9755,6 +17728,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VX420",
+    "lessonClassCode": "VX420SP2015-*",
+    "scores": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -9809,6 +17799,23 @@
     ]
   },
   {
+    "courseCode": "VX421",
+    "lessonClassCode": "VX421FA2014-*",
+    "scores": [
+      0,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VX422",
     "lessonClassCode": "VX422FA2017",
     "scores": [
@@ -9817,6 +17824,23 @@
       0,
       1,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX422",
+    "lessonClassCode": "VX422SP2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
       0,
       0,
       0,
@@ -9905,6 +17929,57 @@
       1,
       0,
       0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2014-*",
+    "scores": [
+      0,
+      1,
+      2,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2015-*",
+    "scores": [
+      1,
+      3,
+      4,
+      5,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2016-*",
+    "scores": [
+      2,
+      38,
+      89,
+      93,
+      54,
+      24,
+      3,
+      2,
       0,
       0,
       0
@@ -10592,6 +18667,57 @@
   },
   {
     "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2015-*",
+    "scores": [
+      0,
+      2,
+      4,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2016-*",
+    "scores": [
+      2,
+      1,
+      7,
+      3,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2017-*",
+    "scores": [
+      19,
+      68,
+      99,
+      70,
+      38,
+      11,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
     "lessonClassCode": "VY200SP2018-1",
     "scores": [
       0,
@@ -11084,6 +19210,40 @@
     ]
   },
   {
+    "courseCode": "VY201",
+    "lessonClassCode": "VY201SP2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY223",
+    "lessonClassCode": "VY223SP2015-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VY223",
     "lessonClassCode": "VY223SU2017",
     "scores": [
@@ -11127,6 +19287,23 @@
       4,
       2,
       1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY230",
+    "lessonClassCode": "VY230SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -11187,6 +19364,23 @@
   },
   {
     "courseCode": "VY298",
+    "lessonClassCode": "VY298SP2015-*",
+    "scores": [
+      0,
+      1,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY298",
     "lessonClassCode": "VY298SU2019",
     "scores": [
       0,
@@ -11197,6 +19391,125 @@
       2,
       0,
       1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY325",
+    "lessonClassCode": "VY325SP2015-*",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ001",
+    "lessonClassCode": "VZ001FA2014-*",
+    "scores": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VZ002",
+    "lessonClassCode": "VZ002SP2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ002",
+    "lessonClassCode": "VZ002SP2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003FA2016-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003SP2015-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003SP2016-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0
@@ -11476,6 +19789,40 @@
   },
   {
     "courseCode": "VZ102",
+    "lessonClassCode": "VZ102FA2015-*",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ102",
+    "lessonClassCode": "VZ102FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ102",
     "lessonClassCode": "VZ102FA2017",
     "scores": [
       0,
@@ -11501,6 +19848,23 @@
       2,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ102",
+    "lessonClassCode": "VZ102SP2015-*",
+    "scores": [
+      0,
+      6,
+      5,
+      2,
+      0,
+      0,
       0,
       0,
       0,
@@ -11561,6 +19925,23 @@
   },
   {
     "courseCode": "VZ104",
+    "lessonClassCode": "VZ104SP2015-*",
+    "scores": [
+      0,
+      4,
+      4,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ104",
     "lessonClassCode": "VZ104SP2018",
     "scores": [
       6,
@@ -11577,12 +19958,131 @@
     ]
   },
   {
+    "courseCode": "VZ200",
+    "lessonClassCode": "VZ200FA2015-*",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ200",
+    "lessonClassCode": "VZ200FA2016-*",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VZ300",
     "lessonClassCode": "VZ300SP2018",
     "scores": [
       2,
       4,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "WA901",
+    "lessonClassCode": "WA901SP2019-*",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SP2015-*",
+    "scores": [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SP2016-*",
+    "scores": [
+      0,
+      0,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SU2017-*",
+    "scores": [
+      0,
+      0,
+      299,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "XP004",
+    "lessonClassCode": "XP004SP2018-*",
+    "scores": [
+      0,
+      0,
+      299,
       0,
       0,
       0,

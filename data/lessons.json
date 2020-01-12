@@ -1,5 +1,473 @@
 [
   {
+    "courseCode": "AC300",
+    "lessonClassCode": "AC300FA2018-*",
+    "lessonClassName": "会计学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 11
+  },
+  {
+    "courseCode": "AC311",
+    "lessonClassCode": "AC311SP2019-*",
+    "lessonClassName": "会计学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AD114",
+    "lessonClassCode": "AD114FA2018-*",
+    "lessonClassName": "摄影基础（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AD114",
+    "lessonClassCode": "AD114SP2019-*",
+    "lessonClassName": "摄影基础（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AD115",
+    "lessonClassCode": "AD115FA2016-*",
+    "lessonClassName": "摄影基础（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AD223",
+    "lessonClassCode": "AD223SP2018-*",
+    "lessonClassName": "立体构成 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "AD224",
+    "lessonClassCode": "AD224SP2018-*",
+    "lessonClassName": "色彩构成 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AD229",
+    "lessonClassCode": "AD229SP2018-*",
+    "lessonClassName": "平面构成 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "AD301",
+    "lessonClassCode": "AD301FA2018-*",
+    "lessonClassName": "表现技法 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AD903",
+    "lessonClassCode": "AD903SP2018-*",
+    "lessonClassName": "广告的力量 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AD903",
+    "lessonClassCode": "AD903SP2019-*",
+    "lessonClassName": "广告的力量 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM001",
+    "lessonClassCode": "AM001SP2018-*",
+    "lessonClassName": "管理基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM007",
+    "lessonClassCode": "AM007SP2016-*",
+    "lessonClassName": "电子商务基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM007",
+    "lessonClassCode": "AM007SP2019-*",
+    "lessonClassName": "电子商务基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AM016",
+    "lessonClassCode": "AM016SP2019-*",
+    "lessonClassName": "网络环境下的文科信息检索 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM030",
+    "lessonClassCode": "AM030SP2015-*",
+    "lessonClassName": "国学与领导力发展 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM061",
+    "lessonClassCode": "AM061SU2017-*",
+    "lessonClassName": "领导学(A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM062",
+    "lessonClassCode": "AM062FA2018-*",
+    "lessonClassName": "消费者行为学（A） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AM062",
+    "lessonClassCode": "AM062SP2019-*",
+    "lessonClassName": "消费者行为学（A） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AM070",
+    "lessonClassCode": "AM070SP2018-*",
+    "lessonClassName": "电子商务：创新与战略 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AM922",
+    "lessonClassCode": "AM922SU2017-*",
+    "lessonClassName": "创业基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AR904",
+    "lessonClassCode": "AR904SP2019-*",
+    "lessonClassName": "图像遗产与中国古代艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AU004",
+    "lessonClassCode": "AU004SP2019-*",
+    "lessonClassName": "灰色系统理论及应用 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AU326",
+    "lessonClassCode": "AU326FA2018-*",
+    "lessonClassName": "数字图像处理基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AU420",
+    "lessonClassCode": "AU420FA2019-*",
+    "lessonClassName": "JAVA语言 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "AV001",
+    "lessonClassCode": "AV001SP2018-*",
+    "lessonClassName": "航空航天概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AV001",
+    "lessonClassCode": "AV001SP2019-*",
+    "lessonClassName": "航空航天概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "AV012",
+    "lessonClassCode": "AV012SP2016-*",
+    "lessonClassName": "力学改变生活 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI001",
+    "lessonClassCode": "BI001FA2016-*",
+    "lessonClassName": "生命科学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI001",
+    "lessonClassCode": "BI001SP2018-*",
+    "lessonClassName": "生命科学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI022",
+    "lessonClassCode": "BI022SP2019-*",
+    "lessonClassName": "生命科学发展史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI296",
+    "lessonClassCode": "BI296SP2018-*",
+    "lessonClassName": "Linux操作系统与Shell开发的理论与实践 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI902",
+    "lessonClassCode": "BI902SP2019-*",
+    "lessonClassName": "生命伦理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI907",
+    "lessonClassCode": "BI907SP2019-*",
+    "lessonClassName": "基因与人 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BI915",
+    "lessonClassCode": "BI915SP2019-*",
+    "lessonClassName": "微生物的世界 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "BM023",
+    "lessonClassCode": "BM023SP2018-*",
+    "lessonClassName": "人工智能和医学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BM901",
+    "lessonClassCode": "BM901SP2019-*",
+    "lessonClassName": "中医药与中华传统文化 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BM904",
+    "lessonClassCode": "BM904SP2019-*",
+    "lessonClassName": "性与健康 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "BU007",
+    "lessonClassCode": "BU007SP2019-*",
+    "lessonClassName": "技术经济学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013SP2018-*",
+    "lessonClassName": "品牌审美与管理----F1超跑和法国红酒 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013SP2019-*",
+    "lessonClassName": "品牌审美与管理----F1超跑和法国红酒 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "BU100",
+    "lessonClassCode": "BU100SP2018-*",
+    "lessonClassName": "管理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU100",
+    "lessonClassCode": "BU100SP2019-*",
+    "lessonClassName": "管理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "BU104",
+    "lessonClassCode": "BU104FA2017-*",
+    "lessonClassName": "营销导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU105",
+    "lessonClassCode": "BU105SP2018-*",
+    "lessonClassName": "市场营销理论与实务 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU200",
+    "lessonClassCode": "BU200SP2018-*",
+    "lessonClassName": "管理学原理（C类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 23
+  },
+  {
+    "courseCode": "BU304",
+    "lessonClassCode": "BU304SP2019-*",
+    "lessonClassName": "新产品管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU311",
+    "lessonClassCode": "BU311FA2018-*",
+    "lessonClassName": "市场营销学（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "BU320",
+    "lessonClassCode": "BU320FA2018-*",
+    "lessonClassName": "项目管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU352",
+    "lessonClassCode": "BU352FA2018-*",
+    "lessonClassName": "技术创新管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "BU354",
+    "lessonClassCode": "BU354SP2019-*",
+    "lessonClassName": "质量管理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "BU426",
+    "lessonClassCode": "BU426SP2018-*",
+    "lessonClassName": "创业机会识别 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
     "courseCode": "C032702",
     "lessonClassCode": "C032702SU2017",
     "lessonClassName": "计算智能SU2017",
@@ -7,6 +475,285 @@
     "termName": "SU2017",
     "lecturers": [],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "CA001",
+    "lessonClassCode": "CA001FA2015-*",
+    "lessonClassName": "大学化学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CA002",
+    "lessonClassCode": "CA002FA2015-*",
+    "lessonClassName": "大学化学实验 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CA901",
+    "lessonClassCode": "CA901FA2015-*",
+    "lessonClassName": "大学化学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CA901",
+    "lessonClassCode": "CA901FA2016-*",
+    "lessonClassName": "大学化学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH107",
+    "lessonClassCode": "CH107SU2017-*",
+    "lessonClassName": "中外文学史（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "CH192",
+    "lessonClassCode": "CH192SP2019-*",
+    "lessonClassName": "汉语应用文写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "CH208",
+    "lessonClassCode": "CH208SP2018-*",
+    "lessonClassName": "中国古代文学史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH209",
+    "lessonClassCode": "CH209SP2018-*",
+    "lessonClassName": "中国历代文学作品选读 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH210",
+    "lessonClassCode": "CH210FA2018-*",
+    "lessonClassName": "中国现当代文学史 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH213",
+    "lessonClassCode": "CH213SP2018-*",
+    "lessonClassName": "外国文学史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH215",
+    "lessonClassCode": "CH215FA2018-*",
+    "lessonClassName": "中国文学批评史 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH216",
+    "lessonClassCode": "CH216FA2018-*",
+    "lessonClassName": "文学概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH219",
+    "lessonClassCode": "CH219SP2018-*",
+    "lessonClassName": "中国现代文学作品选读 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CH304",
+    "lessonClassCode": "CH304FA2018-*",
+    "lessonClassName": "《论语》、《孟子》选讲 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CL002",
+    "lessonClassCode": "CL002SP2019-*",
+    "lessonClassName": "西方宗教文化概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CL010",
+    "lessonClassCode": "CL010SP2018-*",
+    "lessonClassName": "韩国道德教育文化漫谈 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CL011",
+    "lessonClassCode": "CL011SP2019-*",
+    "lessonClassName": "文学与文化 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CL024",
+    "lessonClassCode": "CL024SP2019-*",
+    "lessonClassName": "日本民俗文化专题 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "CL101",
+    "lessonClassCode": "CL101FA2018-*",
+    "lessonClassName": "现代汉语 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CS022",
+    "lessonClassCode": "CS022SP2019-*",
+    "lessonClassName": "数据库原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "CS214",
+    "lessonClassCode": "CS214SP2018-*",
+    "lessonClassName": "算法与复杂性 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "CS214",
+    "lessonClassCode": "CS214SP2019-*",
+    "lessonClassName": "算法与复杂性 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CS385",
+    "lessonClassCode": "CS385SP2019-*",
+    "lessonClassName": "机器学习 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CS420",
+    "lessonClassCode": "CS420SP2019-*",
+    "lessonClassName": "机器学习 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CS430",
+    "lessonClassCode": "CS430SP2019-*",
+    "lessonClassName": "数据结构B (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "CS902",
+    "lessonClassCode": "CS902SP2016-*",
+    "lessonClassName": "程序设计思想与方法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001FA2018-*",
+    "lessonClassName": "书法艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SP2018-*",
+    "lessonClassName": "书法艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SP2019-*",
+    "lessonClassName": "书法艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001SU2017-*",
+    "lessonClassName": "书法艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "DR002",
+    "lessonClassCode": "DR002SP2019-*",
+    "lessonClassName": "篆刻艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "Dr. KaiFu Li speech ticket ",
@@ -18,6 +765,60 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "EC007",
+    "lessonClassCode": "EC007SP2018-*",
+    "lessonClassName": "宏微观经济学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 25
+  },
+  {
+    "courseCode": "EC011",
+    "lessonClassCode": "EC011SP2018-*",
+    "lessonClassName": "宏观经济学（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EC100",
+    "lessonClassCode": "EC100SP2019-*",
+    "lessonClassName": "经济学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EC311",
+    "lessonClassCode": "EC311SP2019-*",
+    "lessonClassName": "中级宏观经济学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EC313",
+    "lessonClassCode": "EC313FA2018-*",
+    "lessonClassName": "统计学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "EC905",
+    "lessonClassCode": "EC905SP2018-*",
+    "lessonClassName": "媒体创意经济 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "ECE",
     "lessonClassCode": "ECEFA2018",
     "lessonClassName": "电子与计算机工程FA2018",
@@ -27,6 +828,1149 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "EE311",
+    "lessonClassCode": "EE311FA2018-*",
+    "lessonClassName": "数据库（C类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EE312",
+    "lessonClassCode": "EE312SP2019-*",
+    "lessonClassName": "软件工程（C类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EE359",
+    "lessonClassCode": "EE359SP2019-*",
+    "lessonClassName": "数据挖掘技术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EI339",
+    "lessonClassCode": "EI339FA2018-*",
+    "lessonClassName": "人工智能 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EI901",
+    "lessonClassCode": "EI901SP2018-*",
+    "lessonClassName": "工程实践与科技创新I (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EM151",
+    "lessonClassCode": "EM151SP2016-*",
+    "lessonClassName": "理论力学（C类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EN025",
+    "lessonClassCode": "EN025FA2015-*",
+    "lessonClassName": "大学基础英语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EN025",
+    "lessonClassCode": "EN025FA2016-*",
+    "lessonClassName": "大学基础英语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN026",
+    "lessonClassCode": "EN026SP2016-*",
+    "lessonClassName": "大学基础英语（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EN026",
+    "lessonClassCode": "EN026SU2017-*",
+    "lessonClassName": "大学基础英语（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN053",
+    "lessonClassCode": "EN053SP2018-*",
+    "lessonClassName": "走进英语电影的语言与文化世界 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EN100",
+    "lessonClassCode": "EN100SU2017-*",
+    "lessonClassName": "语法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN105",
+    "lessonClassCode": "EN105FA2016-*",
+    "lessonClassName": "英语语音学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN118",
+    "lessonClassCode": "EN118FA2016-*",
+    "lessonClassName": "法语二外（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN119",
+    "lessonClassCode": "EN119SU2017-*",
+    "lessonClassName": "法语二外（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN121",
+    "lessonClassCode": "EN121FA2016-*",
+    "lessonClassName": "英语国家概况 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN122",
+    "lessonClassCode": "EN122SU2017-*",
+    "lessonClassName": "英语演讲与辩论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN127",
+    "lessonClassCode": "EN127SU2017-*",
+    "lessonClassName": "跨文化交际 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN128",
+    "lessonClassCode": "EN128FA2016-*",
+    "lessonClassName": "高级英语阅读（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN129",
+    "lessonClassCode": "EN129SU2017-*",
+    "lessonClassName": "高级英语阅读（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN132",
+    "lessonClassCode": "EN132FA2016-*",
+    "lessonClassName": "高级英语口语 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN214",
+    "lessonClassCode": "EN214SP2018-*",
+    "lessonClassName": "英语精读（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EN228",
+    "lessonClassCode": "EN228SP2018-*",
+    "lessonClassName": "翻译批评与赏析 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "EN229",
+    "lessonClassCode": "EN229SP2018-*",
+    "lessonClassName": "英语视听说（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EN309",
+    "lessonClassCode": "EN309FA2018-*",
+    "lessonClassName": "英语精读（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315FA2019-*",
+    "lessonClassName": "商务英语沟通 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315SP2018-*",
+    "lessonClassName": "商务英语沟通 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EN315",
+    "lessonClassCode": "EN315SP2019-*",
+    "lessonClassName": "商务英语沟通 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "EN329",
+    "lessonClassCode": "EN329FA2016-*",
+    "lessonClassName": "高级英语视听（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN330",
+    "lessonClassCode": "EN330SU2017-*",
+    "lessonClassName": "高级英语视听（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN347",
+    "lessonClassCode": "EN347FA2018-*",
+    "lessonClassName": "英语视听说（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN358",
+    "lessonClassCode": "EN358FA2018-*",
+    "lessonClassName": "语言学概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN903",
+    "lessonClassCode": "EN903SP2018-*",
+    "lessonClassName": "英语公众演讲 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN904",
+    "lessonClassCode": "EN904SP2018-*",
+    "lessonClassName": "莎士比亚戏剧赏析 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "EN904",
+    "lessonClassCode": "EN904SP2019-*",
+    "lessonClassName": "莎士比亚戏剧赏析 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "EV040",
+    "lessonClassCode": "EV040SP2019-*",
+    "lessonClassName": "全球变化下的自然和生态 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "FI005",
+    "lessonClassCode": "FI005FA2019-*",
+    "lessonClassName": "货币金融学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FI453",
+    "lessonClassCode": "FI453FA2018-*",
+    "lessonClassName": "证券投资分析 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FO201",
+    "lessonClassCode": "FO201SP2018-*",
+    "lessonClassName": "基础德语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "FO202",
+    "lessonClassCode": "FO202SP2018-*",
+    "lessonClassName": "德语视听说（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "FR201",
+    "lessonClassCode": "FR201SP2018-*",
+    "lessonClassName": "基础法语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "FR202",
+    "lessonClassCode": "FR202SP2018-*",
+    "lessonClassName": "法语听力（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "FT026",
+    "lessonClassCode": "FT026SP2019-*",
+    "lessonClassName": "影视艺术学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT100",
+    "lessonClassCode": "FT100SU2017-*",
+    "lessonClassName": "中外影视史（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT101",
+    "lessonClassCode": "FT101FA2016-*",
+    "lessonClassName": "影视精品赏析（1-1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT102",
+    "lessonClassCode": "FT102SU2017-*",
+    "lessonClassName": "影视精品赏析（1-2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT108",
+    "lessonClassCode": "FT108FA2016-*",
+    "lessonClassName": "影视艺术导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT206",
+    "lessonClassCode": "FT206SP2018-*",
+    "lessonClassName": "动画概论(B类) (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "FT207",
+    "lessonClassCode": "FT207SP2018-*",
+    "lessonClassName": "动画造型概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "FT209",
+    "lessonClassCode": "FT209FA2017-*",
+    "lessonClassName": "影视精品赏析（1－3） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT210",
+    "lessonClassCode": "FT210SU2017-*",
+    "lessonClassName": "视听语言 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT215",
+    "lessonClassCode": "FT215SP2019-*",
+    "lessonClassName": "影视精品赏析（2-1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT303",
+    "lessonClassCode": "FT303FA2018-*",
+    "lessonClassName": "动画编剧 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT304",
+    "lessonClassCode": "FT304SP2018-*",
+    "lessonClassName": "影视音乐与音效 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT305",
+    "lessonClassCode": "FT305SP2018-*",
+    "lessonClassName": "二维动画创作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "FT342",
+    "lessonClassCode": "FT342FA2018-*",
+    "lessonClassName": "动画场景设计 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "GA407",
+    "lessonClassCode": "GA407FA2019-*",
+    "lessonClassName": "花卉应用学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "GA901",
+    "lessonClassCode": "GA901FA2015-*",
+    "lessonClassName": "与风景的对话:中外园林艺术欣赏 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "GA901",
+    "lessonClassCode": "GA901SP2019-*",
+    "lessonClassName": "与风景的对话:中外园林艺术欣赏 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI050",
+    "lessonClassCode": "HI050SP2019-*",
+    "lessonClassName": "佛教史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI102",
+    "lessonClassCode": "HI102SP2019-*",
+    "lessonClassName": "科学技术史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI210",
+    "lessonClassCode": "HI210SP2018-*",
+    "lessonClassName": "世界古代史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI211",
+    "lessonClassCode": "HI211SP2018-*",
+    "lessonClassName": "中国古代史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "HI214",
+    "lessonClassCode": "HI214SP2019-*",
+    "lessonClassName": "中国现代史专题研究 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI215",
+    "lessonClassCode": "HI215SP2018-*",
+    "lessonClassName": "中国对外关系史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "HI217",
+    "lessonClassCode": "HI217SP2019-*",
+    "lessonClassName": "历史文献学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "HI219",
+    "lessonClassCode": "HI219FA2018-*",
+    "lessonClassName": "中国文化史 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "HI903",
+    "lessonClassCode": "HI903SP2018-*",
+    "lessonClassName": "美国的文化与历史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ID100",
+    "lessonClassCode": "ID100SP2018-*",
+    "lessonClassName": "机械设计原理（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ID204",
+    "lessonClassCode": "ID204FA2018-*",
+    "lessonClassName": "人机工程学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "ID301",
+    "lessonClassCode": "ID301FA2018-*",
+    "lessonClassName": "产品设计初步 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "IO005",
+    "lessonClassCode": "IO005SP2019-*",
+    "lessonClassName": "系统建模方法与应用 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "IS206",
+    "lessonClassCode": "IS206SP2019-*",
+    "lessonClassName": "操作系统（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "IS214",
+    "lessonClassCode": "IS214SP2019-*",
+    "lessonClassName": "数据库原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "IS305",
+    "lessonClassCode": "IS305SP2019-*",
+    "lessonClassName": "应用软件课程设计 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "IS407",
+    "lessonClassCode": "IS407FA2019-*",
+    "lessonClassName": "现代密码学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001FA2018-*",
+    "lessonClassName": "基础日语(上) (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001SP2018-*",
+    "lessonClassName": "基础日语(上) (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JA001",
+    "lessonClassCode": "JA001SP2019-*",
+    "lessonClassName": "基础日语(上) (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "JA012",
+    "lessonClassCode": "JA012SP2019-*",
+    "lessonClassName": "基础日语(（Ⅲ） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JA212",
+    "lessonClassCode": "JA212SP2018-*",
+    "lessonClassName": "日语精读（M类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JA213",
+    "lessonClassCode": "JA213SP2018-*",
+    "lessonClassName": "日语视听说（M类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC001",
+    "lessonClassCode": "JC001SU2017-*",
+    "lessonClassName": "传播学导论（A类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC105",
+    "lessonClassCode": "JC105SU2017-*",
+    "lessonClassName": "采访与写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC112",
+    "lessonClassCode": "JC112SP2016-*",
+    "lessonClassName": "新闻学导论（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC203",
+    "lessonClassCode": "JC203SP2016-*",
+    "lessonClassName": "中外新闻史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC203",
+    "lessonClassCode": "JC203SU2017-*",
+    "lessonClassName": "中外新闻史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC216",
+    "lessonClassCode": "JC216SU2017-*",
+    "lessonClassName": "电视摄像 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC331",
+    "lessonClassCode": "JC331SP2016-*",
+    "lessonClassName": "媒介批评 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "JC903",
+    "lessonClassCode": "JC903SP2018-*",
+    "lessonClassName": "美学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "JC903",
+    "lessonClassCode": "JC903SP2019-*",
+    "lessonClassName": "美学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "LA100",
+    "lessonClassCode": "LA100SP2018-*",
+    "lessonClassName": "法理学（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "LA107",
+    "lessonClassCode": "LA107SP2018-*",
+    "lessonClassName": "宪法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "LA108",
+    "lessonClassCode": "LA108SP2018-*",
+    "lessonClassName": "民法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "LA200",
+    "lessonClassCode": "LA200FA2018-*",
+    "lessonClassName": "商法 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "LA330",
+    "lessonClassCode": "LA330FA2018-*",
+    "lessonClassName": "经济法 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "LA346",
+    "lessonClassCode": "LA346FA2018-*",
+    "lessonClassName": "行政法与行政诉讼法 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "LA925",
+    "lessonClassCode": "LA925SP2019-*",
+    "lessonClassName": "经济全球化与中国的崛起 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MA000",
+    "lessonClassCode": "MA000FA2016-*",
+    "lessonClassName": "大学文科数学（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA009",
+    "lessonClassCode": "MA009SU2017-*",
+    "lessonClassName": "大学文科数学（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077FA2015-*",
+    "lessonClassName": "线性代数（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077FA2018-*",
+    "lessonClassName": "线性代数（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MA077",
+    "lessonClassCode": "MA077SP2016-*",
+    "lessonClassName": "线性代数（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MA080",
+    "lessonClassCode": "MA080FA2015-*",
+    "lessonClassName": "高等数学（A）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "MA081",
+    "lessonClassCode": "MA081SP2016-*",
+    "lessonClassName": "高等数学（A）（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "MA194",
+    "lessonClassCode": "MA194SP2019-*",
+    "lessonClassName": "桥牌与博弈论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MA203",
+    "lessonClassCode": "MA203FA2018-*",
+    "lessonClassName": "数值分析 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA209",
+    "lessonClassCode": "MA209SP2018-*",
+    "lessonClassName": "数学分析（D类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "MA210",
+    "lessonClassCode": "MA210SP2018-*",
+    "lessonClassName": "高等代数 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "MA312",
+    "lessonClassCode": "MA312FA2018-*",
+    "lessonClassName": "运筹学（C类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "MA316",
+    "lessonClassCode": "MA316FA2018-*",
+    "lessonClassName": "数学分析（D类）（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA317",
+    "lessonClassCode": "MA317FA2018-*",
+    "lessonClassName": "常微分方程 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "MA902",
+    "lessonClassCode": "MA902SP2019-*",
+    "lessonClassName": "统计原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MA908",
+    "lessonClassCode": "MA908SP2019-*",
+    "lessonClassName": "数学的天空 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME001",
+    "lessonClassCode": "ME001FA2015-*",
+    "lessonClassName": "工程图学（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "ME011",
+    "lessonClassCode": "ME011SP2016-*",
+    "lessonClassName": "机器人设计与制作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME034",
+    "lessonClassCode": "ME034SP2019-*",
+    "lessonClassName": "ME034 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "ME045",
+    "lessonClassCode": "ME045SP2018-*",
+    "lessonClassName": "航模技术与实践 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME069",
+    "lessonClassCode": "ME069SP2019-*",
+    "lessonClassName": "偷师大自然－－动物仿生学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME113",
+    "lessonClassCode": "ME113FA2015-*",
+    "lessonClassName": "C++程序设计与实践 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME115",
+    "lessonClassCode": "ME115SP2016-*",
+    "lessonClassName": "机械与动力工程前沿 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME205",
+    "lessonClassCode": "ME205FA2015-*",
+    "lessonClassName": "工程学导论（B类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME351",
+    "lessonClassCode": "ME351SP2016-*",
+    "lessonClassName": "工程应用软件(1) (CAD-UG) (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME351",
+    "lessonClassCode": "ME351SP2019-*",
+    "lessonClassName": "工程应用软件(1) (CAD-UG) (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "ME901",
+    "lessonClassCode": "ME901SP2018-*",
+    "lessonClassName": "工程技术探究 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME907",
+    "lessonClassCode": "ME907SP2019-*",
+    "lessonClassName": "工程心理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "ME908",
+    "lessonClassCode": "ME908SU2017-*",
+    "lessonClassName": "机器的征途：空天科技 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "ME",
     "lessonClassCode": "MEFA2018",
     "lessonClassName": "机械工程FA2018",
@@ -34,6 +1978,141 @@
     "termName": "FA2018",
     "lecturers": [],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "MR429",
+    "lessonClassCode": "MR429SP2019-*",
+    "lessonClassName": "MEMS技术导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MT017",
+    "lessonClassCode": "MT017SP2019-*",
+    "lessonClassName": "绿色材料与绿色能源 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU201",
+    "lessonClassCode": "MU201SP2018-*",
+    "lessonClassName": "试唱练耳 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "MU202",
+    "lessonClassCode": "MU202SP2018-*",
+    "lessonClassName": "音乐理论基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "MU300",
+    "lessonClassCode": "MU300FA2018-*",
+    "lessonClassName": "通俗音乐概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU301",
+    "lessonClassCode": "MU301FA2018-*",
+    "lessonClassName": "音乐作品分析 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU302",
+    "lessonClassCode": "MU302FA2018-*",
+    "lessonClassName": "作曲技术理论（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901FA2017-*",
+    "lessonClassName": "交响音乐鉴赏 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901SP2016-*",
+    "lessonClassName": "交响音乐鉴赏 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "MU901",
+    "lessonClassCode": "MU901SP2019-*",
+    "lessonClassName": "交响音乐鉴赏 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "MU902",
+    "lessonClassCode": "MU902SP2019-*",
+    "lessonClassName": "中西乐理及其应用 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "NU403",
+    "lessonClassCode": "NU403SU2017-*",
+    "lessonClassName": "先进核能系统 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2014-*",
+    "lessonClassName": "体育（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2015-*",
+    "lessonClassName": "体育（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2016-*",
+    "lessonClassName": "体育（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 299
   },
   {
     "courseCode": "PE001",
@@ -364,6 +2443,24 @@
       "孙涵"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2015-*",
+    "lessonClassName": "体育（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2016-*",
+    "lessonClassName": "体育（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 16
   },
   {
     "courseCode": "PE002",
@@ -705,6 +2802,33 @@
       " 姚武"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SU2017-*",
+    "lessonClassName": "体育（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 299
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2015-*",
+    "lessonClassName": "体育（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2016-*",
+    "lessonClassName": "体育（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 16
   },
   {
     "courseCode": "PE003",
@@ -1049,6 +3173,15 @@
   },
   {
     "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2016-*",
+    "lessonClassName": "体育（4） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "PE004",
     "lessonClassCode": "PE004SP2018-010",
     "lessonClassName": "体育（4）大二男生排球上午",
     "studentNum": 27,
@@ -1389,6 +3522,429 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SU2017-*",
+    "lessonClassName": "体育（4） (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 15
+  },
+  {
+    "courseCode": "PE005",
+    "lessonClassCode": "PE005SP2018-*",
+    "lessonClassName": "体育（5） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PH001",
+    "lessonClassCode": "PH001SP2016-*",
+    "lessonClassName": "大学物理（A类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "PH015",
+    "lessonClassCode": "PH015SP2019-*",
+    "lessonClassName": "宝玉石鉴定法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "PH028",
+    "lessonClassCode": "PH028SP2016-*",
+    "lessonClassName": "大学物理实验（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "PH100",
+    "lessonClassCode": "PH100SP2016-*",
+    "lessonClassName": "强化物理（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PL021",
+    "lessonClassCode": "PL021SP2018-*",
+    "lessonClassName": "花卉艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PL026",
+    "lessonClassCode": "PL026SP2016-*",
+    "lessonClassName": "葡萄与葡萄酒文化 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PL026",
+    "lessonClassCode": "PL026SP2019-*",
+    "lessonClassName": "葡萄与葡萄酒文化 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "PL027",
+    "lessonClassCode": "PL027SP2019-*",
+    "lessonClassName": "园艺与文化 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PL028",
+    "lessonClassCode": "PL028SP2019-*",
+    "lessonClassName": "芳香疗法与身心健康 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "PO012",
+    "lessonClassCode": "PO012SP2019-*",
+    "lessonClassName": "新能源发电技术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PO013",
+    "lessonClassCode": "PO013SP2016-*",
+    "lessonClassName": "新能源技术及应用 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PO202",
+    "lessonClassCode": "PO202SP2019-*",
+    "lessonClassName": "能源与可持续发展 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PS906",
+    "lessonClassCode": "PS906SP2019-*",
+    "lessonClassName": "大学生健康心理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PS906",
+    "lessonClassCode": "PS906SU2017-*",
+    "lessonClassName": "大学生健康心理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PS907",
+    "lessonClassCode": "PS907SP2019-*",
+    "lessonClassName": "积极心理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PU050",
+    "lessonClassCode": "PU050SP2019-*",
+    "lessonClassName": "国际关系学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PU086",
+    "lessonClassCode": "PU086SP2019-*",
+    "lessonClassName": "西方政治学入门 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "PU230",
+    "lessonClassCode": "PU230SP2018-*",
+    "lessonClassName": "公共经济学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "PU914",
+    "lessonClassCode": "PU914SP2016-*",
+    "lessonClassName": "当代中国外交 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SA001",
+    "lessonClassCode": "SA001FA2019-*",
+    "lessonClassName": "梵语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SE223",
+    "lessonClassCode": "SE223SP2018-*",
+    "lessonClassName": "数据库原理与技术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "SE228",
+    "lessonClassCode": "SE228SP2019-*",
+    "lessonClassName": "Web开发技术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "SE315",
+    "lessonClassCode": "SE315SP2019-*",
+    "lessonClassName": "操作系统 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SE341",
+    "lessonClassCode": "SE341SP2019-*",
+    "lessonClassName": "游戏设计与开发 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SE347",
+    "lessonClassCode": "SE347SP2019-*",
+    "lessonClassName": "分布式系统 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "SE353",
+    "lessonClassCode": "SE353SP2019-*",
+    "lessonClassName": "程序分析与验证 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO004",
+    "lessonClassCode": "SO004FA2019-*",
+    "lessonClassName": "情感心理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO018",
+    "lessonClassCode": "SO018SP2019-*",
+    "lessonClassName": "心理自助 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "SO074",
+    "lessonClassCode": "SO074SP2016-*",
+    "lessonClassName": "科幻作品与科学外史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO074",
+    "lessonClassCode": "SO074SP2019-*",
+    "lessonClassName": "科幻作品与科学外史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "SO077",
+    "lessonClassCode": "SO077SP2019-*",
+    "lessonClassName": "战后日本社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "SO078",
+    "lessonClassCode": "SO078SP2019-*",
+    "lessonClassName": "卓越领导力：成功人生之道 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO904",
+    "lessonClassCode": "SO904SU2017-*",
+    "lessonClassName": "古希腊文明演绎 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO906",
+    "lessonClassCode": "SO906SP2019-*",
+    "lessonClassName": "台湾研究 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO936",
+    "lessonClassCode": "SO936SP2016-*",
+    "lessonClassName": "职业生涯发展与规划 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SO936",
+    "lessonClassCode": "SO936SP2018-*",
+    "lessonClassName": "职业生涯发展与规划 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP062",
+    "lessonClassCode": "SP062FA2015-*",
+    "lessonClassName": "航空航天技术历史与展望 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP154",
+    "lessonClassCode": "SP154SP2016-*",
+    "lessonClassName": "纳米科技与未来世界 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP180",
+    "lessonClassCode": "SP180FA2015-*",
+    "lessonClassName": "现代车辆新技术及发展趋势 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP180",
+    "lessonClassCode": "SP180FA2016-*",
+    "lessonClassName": "现代车辆新技术及发展趋势 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP190",
+    "lessonClassCode": "SP190SU2017-*",
+    "lessonClassName": "绝对零度的奇迹：超流与超导 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP219",
+    "lessonClassCode": "SP219FA2015-*",
+    "lessonClassName": "二氧化碳资源化利用技术进展 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "SP234",
+    "lessonClassCode": "SP234SP2015-*",
+    "lessonClassName": "车联网与智慧城市 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2015-*",
+    "lessonClassName": "思想道德修养与法律基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2016-*",
+    "lessonClassName": "思想道德修养与法律基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
     "courseCode": "TH000",
     "lessonClassCode": "TH000SP2018-1",
     "lessonClassName": "思想道德修养与法律基础SP2018-1",
@@ -1453,6 +4009,51 @@
       "杨卫华"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SU2017-*",
+    "lessonClassName": "思想道德修养与法律基础 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 293
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2015-*",
+    "lessonClassName": "军事理论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2019-*",
+    "lessonClassName": "军事理论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2015-*",
+    "lessonClassName": "军事理论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2016-*",
+    "lessonClassName": "军事理论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 16
   },
   {
     "courseCode": "TH004",
@@ -1598,6 +4199,24 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SU2017-*",
+    "lessonClassName": "军事理论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 293
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2016-*",
+    "lessonClassName": "马克思主义基本原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
     "courseCode": "TH007",
     "lessonClassCode": "TH007SP2018-1",
     "lessonClassName": "马克思主义基本原理SP2018-1",
@@ -1664,6 +4283,87 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SU2017-*",
+    "lessonClassName": "马克思主义基本原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 14
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2014-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2015-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 26
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009FA2016-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 13
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2015-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2016-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 26
+  },
+  {
+    "courseCode": "TH009",
+    "lessonClassCode": "TH009SP2017-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 12
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SP2015-*",
+    "lessonClassName": "军训 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SP2016-*",
+    "lessonClassName": "军训 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
     "courseCode": "TH010",
     "lessonClassCode": "TH010SP2018",
     "lessonClassName": "军训SP2018",
@@ -1680,6 +4380,24 @@
     "termName": "SP2019",
     "lecturers": [],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SU2017-*",
+    "lessonClassName": "军训 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 293
+  },
+  {
+    "courseCode": "TH012",
+    "lessonClassCode": "TH012SP2016-*",
+    "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 9
   },
   {
     "courseCode": "TH012",
@@ -1702,6 +4420,24 @@
       "陈鹏"
     ],
     "scoreNum": 146
+  },
+  {
+    "courseCode": "TH012",
+    "lessonClassCode": "TH012SU2017-*",
+    "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 14
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020FA2016-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 296
   },
   {
     "courseCode": "TH020",
@@ -1771,6 +4507,15 @@
   },
   {
     "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2017-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 294
+  },
+  {
+    "courseCode": "TH020",
     "lessonClassCode": "TH020SP2018-1",
     "lessonClassName": "形势与政策SP2018（2016级）",
     "studentNum": 295,
@@ -1836,6 +4581,51 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SU2017-*",
+    "lessonClassName": "形势与政策 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021FA2015-*",
+    "lessonClassName": "中国近现代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021FA2016-*",
+    "lessonClassName": "中国近现代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SP2015-*",
+    "lessonClassName": "中国近现代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SP2016-*",
+    "lessonClassName": "中国近现代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 14
+  },
+  {
     "courseCode": "TH021",
     "lessonClassCode": "TH021SP2018-1",
     "lessonClassName": "中国近现代史纲要SP2018-1",
@@ -1856,6 +4646,15 @@
       "王春英"
     ],
     "scoreNum": 145
+  },
+  {
+    "courseCode": "TH021",
+    "lessonClassCode": "TH021SU2017-*",
+    "lessonClassName": "中国近现代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 291
   },
   {
     "courseCode": "TH028",
@@ -1902,6 +4701,15 @@
     "scoreNum": 144
   },
   {
+    "courseCode": "TH028",
+    "lessonClassCode": "TH028SP2019-*",
+    "lessonClassName": "中国近代史纲要 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "TH029",
     "lessonClassCode": "TH029SP2019-1",
     "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2019-S1 Qingqiao Huang",
@@ -1946,6 +4754,24 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "TY002",
+    "lessonClassCode": "TY002SP2019-*",
+    "lessonClassName": "“UTJS”体验式教育----大学生演讲与沟通技能训练 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "TY003",
+    "lessonClassCode": "TY003SP2018-*",
+    "lessonClassName": "\"UTJS\"体验式教育－－大学生团队沟通与合作技能 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VC209",
     "lessonClassCode": "VC209FA2017",
     "lessonClassName": "大学化学FA2017",
@@ -1966,6 +4792,33 @@
       "Ting Sun"
     ],
     "scoreNum": 21
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2014-*",
+    "lessonClassName": "大学化学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2015-*",
+    "lessonClassName": "大学化学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2016-*",
+    "lessonClassName": "大学化学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 306
   },
   {
     "courseCode": "VC210",
@@ -2034,6 +4887,33 @@
       "薄首行"
     ],
     "scoreNum": 137
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2015-*",
+    "lessonClassName": "大学化学实验（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2016-*",
+    "lessonClassName": "大学化学实验（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 16
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2017-*",
+    "lessonClassName": "大学化学实验（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 307
   },
   {
     "courseCode": "VC211",
@@ -2704,6 +5584,24 @@
   },
   {
     "courseCode": "VE203",
+    "lessonClassCode": "VE203FA2015-*",
+    "lessonClassName": "离散数学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203FA2016-*",
+    "lessonClassName": "离散数学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VE203",
     "lessonClassCode": "VE203FA2017",
     "lessonClassName": "离散数学（J类）FA2017",
     "studentNum": 147,
@@ -2759,6 +5657,33 @@
   },
   {
     "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2014-*",
+    "lessonClassName": "电路设计导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2015-*",
+    "lessonClassName": "电路设计导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2016-*",
+    "lessonClassName": "电路设计导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 11
+  },
+  {
+    "courseCode": "VE215",
     "lessonClassCode": "VE215FA2017-1",
     "lessonClassName": "电路设计导论FA2017-1",
     "studentNum": 181,
@@ -2811,6 +5736,33 @@
       "陈松良"
     ],
     "scoreNum": 286
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2015-*",
+    "lessonClassName": "信号与系统处理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2016-*",
+    "lessonClassName": "信号与系统处理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2017-*",
+    "lessonClassName": "信号与系统处理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 6
   },
   {
     "courseCode": "VE216",
@@ -2940,6 +5892,15 @@
   },
   {
     "courseCode": "VE230",
+    "lessonClassCode": "VE230SP2016-*",
+    "lessonClassName": "电磁学（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VE230",
     "lessonClassCode": "VE230SU2017",
     "lessonClassName": "VE230",
     "studentNum": 103,
@@ -3039,6 +6000,24 @@
   },
   {
     "courseCode": "VE270",
+    "lessonClassCode": "VE270SP2015-*",
+    "lessonClassName": "逻辑设计导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "VE270",
+    "lessonClassCode": "VE270SP2016-*",
+    "lessonClassName": "逻辑设计导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "VE270",
     "lessonClassCode": "VE270SU2017",
     "lessonClassName": "VE270",
     "studentNum": 218,
@@ -3080,6 +6059,24 @@
       "钱炜慷"
     ],
     "scoreNum": 40
+  },
+  {
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280SP2015-*",
+    "lessonClassName": "程序设计与数据结构 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280SP2016-*",
+    "lessonClassName": "程序设计与数据结构 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 7
   },
   {
     "courseCode": "VE280",
@@ -3135,6 +6132,24 @@
       "钱炜慷"
     ],
     "scoreNum": 150
+  },
+  {
+    "courseCode": "VE281",
+    "lessonClassCode": "VE281FA2014-*",
+    "lessonClassName": "数据结构与算法（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE281",
+    "lessonClassCode": "VE281FA2016-*",
+    "lessonClassName": "数据结构与算法（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VE281",
@@ -3223,6 +6238,15 @@
       "Nathaniel Murray"
     ],
     "scoreNum": 14
+  },
+  {
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2016-*",
+    "lessonClassName": "科技写作与交流 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 6
   },
   {
     "courseCode": "VE300",
@@ -3413,6 +6437,15 @@
   },
   {
     "courseCode": "VE311",
+    "lessonClassCode": "VE311SP2016-*",
+    "lessonClassName": "电子电路 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE311",
     "lessonClassCode": "VE311SU2017",
     "lessonClassName": "VE311",
     "studentNum": 142,
@@ -3501,6 +6534,15 @@
   },
   {
     "courseCode": "VE320",
+    "lessonClassCode": "VE320SP2015-*",
+    "lessonClassName": "半导体器件导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE320",
     "lessonClassCode": "VE320SU2017",
     "lessonClassName": "VE320",
     "studentNum": 171,
@@ -3545,6 +6587,15 @@
   },
   {
     "courseCode": "VE334",
+    "lessonClassCode": "VE334FA2014-*",
+    "lessonClassName": "光学原理 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE334",
     "lessonClassCode": "VE334FA2017",
     "lessonClassName": "光学原理FA2017",
     "studentNum": 19,
@@ -3575,6 +6626,15 @@
       "吴继刚"
     ],
     "scoreNum": 19
+  },
+  {
+    "courseCode": "VE370",
+    "lessonClassCode": "VE370FA2016-*",
+    "lessonClassName": "计算机组成件导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VE370",
@@ -3641,6 +6701,33 @@
       "郑刚"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2015-*",
+    "lessonClassName": "工程概率方法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2016-*",
+    "lessonClassName": "工程概率方法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2017-*",
+    "lessonClassName": "工程概率方法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 4
   },
   {
     "courseCode": "VE401",
@@ -3950,6 +7037,15 @@
   },
   {
     "courseCode": "VE450",
+    "lessonClassCode": "VE450FA2014-*",
+    "lessonClassName": "系统设计与实现 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VE450",
     "lessonClassCode": "VE450FA2017",
     "lessonClassName": "系统设计与实现FA2017",
     "studentNum": 66,
@@ -4133,6 +7229,15 @@
       "Manuel Charlemagne"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VE475",
+    "lessonClassCode": "VE475SP2015-*",
+    "lessonClassName": "密码学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VE475",
@@ -4997,6 +8102,42 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VF457",
+    "lessonClassCode": "VF457SP2015-*",
+    "lessonClassName": "VF457 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2014-*",
+    "lessonClassName": "工程导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2015-*",
+    "lessonClassName": "工程导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2016-*",
+    "lessonClassName": "工程导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 94
+  },
+  {
     "courseCode": "VG100",
     "lessonClassCode": "VG100FA2017",
     "lessonClassName": "工程导论FA2017",
@@ -5031,6 +8172,24 @@
       "Irene Wei"
     ],
     "scoreNum": 98
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SP2015-*",
+    "lessonClassName": "工程导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SP2016-*",
+    "lessonClassName": "工程导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 11
   },
   {
     "courseCode": "VG100",
@@ -5142,6 +8301,33 @@
   },
   {
     "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2014-*",
+    "lessonClassName": "计算机导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2015-*",
+    "lessonClassName": "计算机导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 11
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2016-*",
+    "lessonClassName": "计算机导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 211
+  },
+  {
+    "courseCode": "VG101",
     "lessonClassCode": "VG101FA2017-1",
     "lessonClassName": "计算机导论FA2017-1",
     "studentNum": 114,
@@ -5205,6 +8391,24 @@
       "吴继刚"
     ],
     "scoreNum": 111
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101SP2015-*",
+    "lessonClassName": "计算机导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101SP2016-*",
+    "lessonClassName": "计算机导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 6
   },
   {
     "courseCode": "VG101",
@@ -5583,6 +8787,24 @@
   },
   {
     "courseCode": "VK250",
+    "lessonClassCode": "VK250SP2016-*",
+    "lessonClassName": "工程材料导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VK250",
+    "lessonClassCode": "VK250SP2017-*",
+    "lessonClassName": "工程材料导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VK250",
     "lessonClassCode": "VK250SP2018",
     "lessonClassName": "工程材料导论SP2018",
     "studentNum": 17,
@@ -5602,6 +8824,15 @@
       "陈倩栎"
     ],
     "scoreNum": 22
+  },
+  {
+    "courseCode": "VM010",
+    "lessonClassCode": "VM010SP2015-*",
+    "lessonClassName": "金工实习 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 6
   },
   {
     "courseCode": "VM010",
@@ -5660,6 +8891,15 @@
   },
   {
     "courseCode": "VM020",
+    "lessonClassCode": "VM020FA2016-*",
+    "lessonClassName": "金工实习（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VM020",
     "lessonClassCode": "VM020FA2017",
     "lessonClassName": "金工实习（1）FA2017",
     "studentNum": 25,
@@ -5690,6 +8930,24 @@
       "陶波"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VM020",
+    "lessonClassCode": "VM020SP2016-*",
+    "lessonClassName": "金工实习（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VM020",
+    "lessonClassCode": "VM020SP2017-*",
+    "lessonClassName": "金工实习（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VM020",
@@ -5726,6 +8984,33 @@
   },
   {
     "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2014-*",
+    "lessonClassName": "固体力学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2015-*",
+    "lessonClassName": "固体力学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2016-*",
+    "lessonClassName": "固体力学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VM211",
     "lessonClassCode": "VM211FA2017",
     "lessonClassName": "固体力学FA2017",
     "studentNum": 53,
@@ -5756,6 +9041,15 @@
       "申岩峰"
     ],
     "scoreNum": 67
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211SP2017-*",
+    "lessonClassName": "固体力学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM211",
@@ -5803,6 +9097,15 @@
   },
   {
     "courseCode": "VM235",
+    "lessonClassCode": "VM235FA2016-*",
+    "lessonClassName": "工程热力学（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VM235",
     "lessonClassCode": "VM235FA2017",
     "lessonClassName": "工程热力学（J类）（1）FA2017",
     "studentNum": 39,
@@ -5836,6 +9139,24 @@
   },
   {
     "courseCode": "VM235",
+    "lessonClassCode": "VM235SP2015-*",
+    "lessonClassName": "工程热力学（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235SP2016-*",
+    "lessonClassName": "工程热力学（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VM235",
     "lessonClassCode": "VM235SU2017",
     "lessonClassName": "VM235",
     "studentNum": 32,
@@ -5866,6 +9187,33 @@
       "Morteza Eslamian"
     ],
     "scoreNum": 32
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2015-*",
+    "lessonClassName": "动力学与振动导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2016-*",
+    "lessonClassName": "动力学与振动导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2017-*",
+    "lessonClassName": "动力学与振动导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM240",
@@ -5933,6 +9281,33 @@
       "Roberto DUGNANI"
     ],
     "scoreNum": 30
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2015-*",
+    "lessonClassName": "设计与制造（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2016-*",
+    "lessonClassName": "设计与制造（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2017-*",
+    "lessonClassName": "设计与制造（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM250",
@@ -6046,6 +9421,15 @@
   },
   {
     "courseCode": "VM320",
+    "lessonClassCode": "VM320FA2014-*",
+    "lessonClassName": "流体力学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VM320",
     "lessonClassCode": "VM320FA2017",
     "lessonClassName": "流体力学（J类）FA2017",
     "studentNum": 48,
@@ -6109,6 +9493,15 @@
       "Kenneth Grant Powell"
     ],
     "scoreNum": 39
+  },
+  {
+    "courseCode": "VM335",
+    "lessonClassCode": "VM335SP2015-*",
+    "lessonClassName": "传热学（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM335",
@@ -6178,6 +9571,15 @@
   },
   {
     "courseCode": "VM360",
+    "lessonClassCode": "VM360SP2015-*",
+    "lessonClassName": "动态系统建模分析与控制 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VM360",
     "lessonClassCode": "VM360SU2017",
     "lessonClassName": "VM360",
     "studentNum": 54,
@@ -6211,6 +9613,15 @@
   },
   {
     "courseCode": "VM382",
+    "lessonClassCode": "VM382FA2014-*",
+    "lessonClassName": "材料机械性能（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VM382",
     "lessonClassCode": "VM382FA2017",
     "lessonClassName": "材料机械性能（J类）FA2017",
     "studentNum": 46,
@@ -6241,6 +9652,24 @@
       "朱虹"
     ],
     "scoreNum": 41
+  },
+  {
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382SP2016-*",
+    "lessonClassName": "材料机械性能（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382SP2017-*",
+    "lessonClassName": "材料机械性能（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VM382",
@@ -6296,6 +9725,15 @@
       "Thomas Hamade"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VM395",
+    "lessonClassCode": "VM395FA2014-*",
+    "lessonClassName": "实验一 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM395",
@@ -6372,6 +9810,15 @@
     "termName": "FA2019",
     "lecturers": [],
     "scoreNum": 18
+  },
+  {
+    "courseCode": "VM395",
+    "lessonClassCode": "VM395SP2015-*",
+    "lessonClassName": "实验一 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM395",
@@ -6476,6 +9923,15 @@
     "scoreNum": 1
   },
   {
+    "courseCode": "VM433",
+    "lessonClassCode": "VM433FA2014-*",
+    "lessonClassName": "先进能源系统 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
     "courseCode": "VM434",
     "lessonClassCode": "VM434FA2017",
     "lessonClassName": "能源转换材料FA2017",
@@ -6496,6 +9952,15 @@
       "陈倩栎"
     ],
     "scoreNum": 6
+  },
+  {
+    "courseCode": "VM450",
+    "lessonClassCode": "VM450FA2014-*",
+    "lessonClassName": "设计与制造（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VM450",
@@ -6584,6 +10049,15 @@
   },
   {
     "courseCode": "VM458",
+    "lessonClassCode": "VM458FA2014-*",
+    "lessonClassName": "汽车工程 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VM458",
     "lessonClassCode": "VM458SU2018",
     "lessonClassName": "汽车工程SU2018",
     "studentNum": 26,
@@ -6603,6 +10077,15 @@
       "孔令逊"
     ],
     "scoreNum": 19
+  },
+  {
+    "courseCode": "VM461",
+    "lessonClassCode": "VM461FA2014-*",
+    "lessonClassName": "自动控制（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM461",
@@ -6761,6 +10244,15 @@
     "termName": "SU2019",
     "lecturers": [],
     "scoreNum": 7
+  },
+  {
+    "courseCode": "VM495",
+    "lessonClassCode": "VM495FA2014-*",
+    "lessonClassName": "实验二 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VM495",
@@ -7258,6 +10750,24 @@
   },
   {
     "courseCode": "VP140",
+    "lessonClassCode": "VP140SP2015-*",
+    "lessonClassName": "普通物理（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VP140",
+    "lessonClassCode": "VP140SP2016-*",
+    "lessonClassName": "普通物理（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "VP140",
     "lessonClassCode": "VP140SU2017",
     "lessonClassName": "VP140",
     "studentNum": 158,
@@ -7288,6 +10798,24 @@
       "Mateusz Krzyzosiak"
     ],
     "scoreNum": 227
+  },
+  {
+    "courseCode": "VP141",
+    "lessonClassCode": "VP141FA2015-*",
+    "lessonClassName": "普通物理实验（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VP141",
+    "lessonClassCode": "VP141SP2016-*",
+    "lessonClassName": "普通物理实验（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 17
   },
   {
     "courseCode": "VP141",
@@ -7324,6 +10852,24 @@
   },
   {
     "courseCode": "VP160",
+    "lessonClassCode": "VP160SP2015-*",
+    "lessonClassName": "强化物理（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VP160",
+    "lessonClassCode": "VP160SP2016-*",
+    "lessonClassName": "强化物理（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "VP160",
     "lessonClassCode": "VP160SU2017",
     "lessonClassName": "VP160",
     "studentNum": 160,
@@ -7354,6 +10900,24 @@
       "Mateusz Krzyzosiak"
     ],
     "scoreNum": 91
+  },
+  {
+    "courseCode": "VP240",
+    "lessonClassCode": "VP240FA2015-*",
+    "lessonClassName": "普通物理（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VP240",
+    "lessonClassCode": "VP240FA2016-*",
+    "lessonClassName": "普通物理（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 13
   },
   {
     "courseCode": "VP240",
@@ -7401,6 +10965,24 @@
   },
   {
     "courseCode": "VP241",
+    "lessonClassCode": "VP241FA2015-*",
+    "lessonClassName": "普通物理实验（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VP241",
+    "lessonClassCode": "VP241FA2016-*",
+    "lessonClassName": "普通物理实验（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 16
+  },
+  {
+    "courseCode": "VP241",
     "lessonClassCode": "VP241FA2017",
     "lessonClassName": "普通物理实验（2）FA2017",
     "studentNum": 316,
@@ -7434,6 +11016,24 @@
   },
   {
     "courseCode": "VP260",
+    "lessonClassCode": "VP260FA2015-*",
+    "lessonClassName": "强化物理（J类）（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VP260",
+    "lessonClassCode": "VP260FA2016-*",
+    "lessonClassName": "强化物理（J类）（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VP260",
     "lessonClassCode": "VP260FA2017",
     "lessonClassName": "强化物理（J类）（2）FA2017",
     "studentNum": 139,
@@ -7464,6 +11064,15 @@
       "Mateusz Krzyzosiak"
     ],
     "scoreNum": 85
+  },
+  {
+    "courseCode": "VP390",
+    "lessonClassCode": "VP390SP2015-*",
+    "lessonClassName": "现代物理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VP390",
@@ -7654,6 +11263,15 @@
   },
   {
     "courseCode": "VR140",
+    "lessonClassCode": "VR140FA2014-*",
+    "lessonClassName": "比较政府与政治 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR140",
     "lessonClassCode": "VR140FA2017",
     "lessonClassName": "比较政府与政治FA2017",
     "studentNum": 22,
@@ -7662,6 +11280,24 @@
       "Soong Chul Ro"
     ],
     "scoreNum": 1
+  },
+  {
+    "courseCode": "VR140",
+    "lessonClassCode": "VR140SP2016-*",
+    "lessonClassName": "比较政府与政治 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VR140",
+    "lessonClassCode": "VR140SP2017-*",
+    "lessonClassName": "比较政府与政治 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 22
   },
   {
     "courseCode": "VR140",
@@ -7796,6 +11432,15 @@
     "scoreNum": 9
   },
   {
+    "courseCode": "VR201",
+    "lessonClassCode": "VR201SP2016-*",
+    "lessonClassName": "当代文化中的沃尔特迪士尼 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
     "courseCode": "VR203",
     "lessonClassCode": "VR203FA2018",
     "lessonClassName": "现代东亚的饮食与历史变迁FA2018",
@@ -7805,6 +11450,15 @@
       "徐彤"
     ],
     "scoreNum": 4
+  },
+  {
+    "courseCode": "VR203",
+    "lessonClassCode": "VR203SP2017-*",
+    "lessonClassName": "现代东亚的饮食与历史变迁 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 15
   },
   {
     "courseCode": "VR203",
@@ -7852,6 +11506,15 @@
   },
   {
     "courseCode": "VR206",
+    "lessonClassCode": "VR206SP2017-*",
+    "lessonClassName": "近代早期的中国与世界 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 12
+  },
+  {
+    "courseCode": "VR206",
     "lessonClassCode": "VR206SP2018",
     "lessonClassName": "近代早期的中国与世界SP2018",
     "studentNum": 33,
@@ -7893,6 +11556,24 @@
       "许珩"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VR208",
+    "lessonClassCode": "VR208FA2016-*",
+    "lessonClassName": "企业与自然环境 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR208",
+    "lessonClassCode": "VR208SP2015-*",
+    "lessonClassName": "企业与自然环境 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VR208",
@@ -8005,6 +11686,24 @@
     "scoreNum": 45
   },
   {
+    "courseCode": "VR239",
+    "lessonClassCode": "VR239SP2016-*",
+    "lessonClassName": "儿童文学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR241",
+    "lessonClassCode": "VR241FA2016-*",
+    "lessonClassName": "比较文学：童话与民间故事探索 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
     "courseCode": "VR241",
     "lessonClassCode": "VR241FA2017",
     "lessonClassName": "比较文学：童话与民间故事探索FA2017",
@@ -8016,6 +11715,15 @@
     "scoreNum": 3
   },
   {
+    "courseCode": "VR241",
+    "lessonClassCode": "VR241SP2015-*",
+    "lessonClassName": "比较文学：童话与民间故事探索 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VR242",
     "lessonClassCode": "VR242SU2019",
     "lessonClassName": "幸福和人生的意义SU2019",
@@ -8025,6 +11733,15 @@
       "Amalia Jiva"
     ],
     "scoreNum": 27
+  },
+  {
+    "courseCode": "VR245",
+    "lessonClassCode": "VR245SP2016-*",
+    "lessonClassName": "戏剧概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VR246",
@@ -8050,6 +11767,15 @@
   },
   {
     "courseCode": "VR251",
+    "lessonClassCode": "VR251SP2016-*",
+    "lessonClassName": "美学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VR251",
     "lessonClassCode": "VR251SU2017",
     "lessonClassName": "VR251",
     "studentNum": 24,
@@ -8058,6 +11784,15 @@
       "Amalia Jiva"
     ],
     "scoreNum": 6
+  },
+  {
+    "courseCode": "VR253",
+    "lessonClassCode": "VR253SP2017-*",
+    "lessonClassName": "文化与科技 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 20
   },
   {
     "courseCode": "VR253",
@@ -8159,6 +11894,51 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VR261",
+    "lessonClassCode": "VR261SP2016-*",
+    "lessonClassName": "现代美国的诞生 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VR262",
+    "lessonClassCode": "VR262SP2015-*",
+    "lessonClassName": "宗教哲学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR262",
+    "lessonClassCode": "VR262SP2016-*",
+    "lessonClassName": "宗教哲学导论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR263",
+    "lessonClassCode": "VR263SP2016-*",
+    "lessonClassName": "二战后的美国 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VR264",
+    "lessonClassCode": "VR264SP2015-*",
+    "lessonClassName": "美国世纪：1898年后的美国 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VR265",
     "lessonClassCode": "VR265FA2018",
     "lessonClassName": "中国哲学导论：通过古代中国了解当代FA2018",
@@ -8181,6 +11961,24 @@
     "scoreNum": 26
   },
   {
+    "courseCode": "VR275",
+    "lessonClassCode": "VR275SP2015-*",
+    "lessonClassName": "西方思想发展 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VR275",
+    "lessonClassCode": "VR275SP2016-*",
+    "lessonClassName": "西方思想发展 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VR276",
     "lessonClassCode": "VR276SU2017",
     "lessonClassName": "VR276",
@@ -8190,6 +11988,33 @@
       "Amalia Jiva"
     ],
     "scoreNum": 8
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280FA2016-*",
+    "lessonClassName": "中国现代文学概述 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280SP2016-*",
+    "lessonClassName": "中国现代文学概述 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VR280",
+    "lessonClassCode": "VR280SP2017-*",
+    "lessonClassName": "中国现代文学概述 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 10
   },
   {
     "courseCode": "VR280",
@@ -8269,6 +12094,15 @@
     "scoreNum": 12
   },
   {
+    "courseCode": "VR310",
+    "lessonClassCode": "VR310SP2015-*",
+    "lessonClassName": "美国思想史 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VR318",
     "lessonClassCode": "VR318SU2019",
     "lessonClassName": "科幻小说SU2019",
@@ -8303,6 +12137,24 @@
   },
   {
     "courseCode": "VR361",
+    "lessonClassCode": "VR361SP2015-*",
+    "lessonClassName": "哲学伦理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 12
+  },
+  {
+    "courseCode": "VR361",
+    "lessonClassCode": "VR361SP2016-*",
+    "lessonClassName": "哲学伦理学 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VR361",
     "lessonClassCode": "VR361SU2017",
     "lessonClassName": "VR361",
     "studentNum": 34,
@@ -8311,6 +12163,51 @@
       "Rockwell Clancy"
     ],
     "scoreNum": 14
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363FA2014-*",
+    "lessonClassName": "当代中国电影中的中国社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363FA2016-*",
+    "lessonClassName": "当代中国电影中的中国社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2015-*",
+    "lessonClassName": "当代中国电影中的中国社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2016-*",
+    "lessonClassName": "当代中国电影中的中国社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VR363",
+    "lessonClassCode": "VR363SP2017-*",
+    "lessonClassName": "当代中国电影中的中国社会 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VR363",
@@ -8368,6 +12265,42 @@
     "scoreNum": 20
   },
   {
+    "courseCode": "VR369",
+    "lessonClassCode": "VR369SP2015-*",
+    "lessonClassName": "国际经济关系 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VR380",
+    "lessonClassCode": "VR380SP2015-*",
+    "lessonClassName": "亚洲研究 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VR380",
+    "lessonClassCode": "VR380SP2016-*",
+    "lessonClassName": "亚洲研究 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VR381",
+    "lessonClassCode": "VR381SP2017-*",
+    "lessonClassName": "社会科学研究设计 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 20
+  },
+  {
     "courseCode": "VR381",
     "lessonClassCode": "VR381SP2020",
     "lessonClassName": "社会科学研究设计SP2020",
@@ -8399,6 +12332,15 @@
       "Soong Chul Ro"
     ],
     "scoreNum": 34
+  },
+  {
+    "courseCode": "VV115",
+    "lessonClassCode": "VV115FA2016-*",
+    "lessonClassName": "微积分（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 12
   },
   {
     "courseCode": "VV115",
@@ -8435,6 +12377,15 @@
   },
   {
     "courseCode": "VV116",
+    "lessonClassCode": "VV116SP2017-*",
+    "lessonClassName": "微积分（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 13
+  },
+  {
+    "courseCode": "VV116",
     "lessonClassCode": "VV116SP2018",
     "lessonClassName": "微积分（2）SP2018",
     "studentNum": 24,
@@ -8465,6 +12416,51 @@
       "\tOLGA DANILKINA"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VV155",
+    "lessonClassCode": "VV155FA2014-*",
+    "lessonClassName": "大学基础数学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VV155",
+    "lessonClassCode": "VV155FA2015-*",
+    "lessonClassName": "大学基础数学 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 3
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2014-*",
+    "lessonClassName": "高等数学A1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2015-*",
+    "lessonClassName": "高等数学A1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 5
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2016-*",
+    "lessonClassName": "高等数学A1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 167
   },
   {
     "courseCode": "VV156",
@@ -8500,6 +12496,51 @@
     "scoreNum": 113
   },
   {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156SP2015-*",
+    "lessonClassName": "高等数学A1 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VV156",
+    "lessonClassCode": "VV156SP2016-*",
+    "lessonClassName": "高等数学A1 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2014-*",
+    "lessonClassName": "高等数学B1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2015-*",
+    "lessonClassName": "高等数学B1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2016-*",
+    "lessonClassName": "高等数学B1 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 127
+  },
+  {
     "courseCode": "VV186",
     "lessonClassCode": "VV186FA2017",
     "lessonClassName": "高等数学B1FA2017",
@@ -8531,6 +12572,24 @@
       "Horst Hohberger"
     ],
     "scoreNum": 183
+  },
+  {
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2015-*",
+    "lessonClassName": "线性代数 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 13
+  },
+  {
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2016-*",
+    "lessonClassName": "线性代数 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 4
   },
   {
     "courseCode": "VV214",
@@ -8611,6 +12670,15 @@
   },
   {
     "courseCode": "VV216",
+    "lessonClassCode": "VV216FA2016-*",
+    "lessonClassName": "微分方程 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VV216",
     "lessonClassCode": "VV216FA2017",
     "lessonClassName": "微分方程FA2017",
     "studentNum": 17,
@@ -8641,6 +12709,24 @@
       "ZACHIRI MCKENZI"
     ],
     "scoreNum": 16
+  },
+  {
+    "courseCode": "VV255",
+    "lessonClassCode": "VV255SP2015-*",
+    "lessonClassName": "高等数学A2 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 12
+  },
+  {
+    "courseCode": "VV255",
+    "lessonClassCode": "VV255SP2016-*",
+    "lessonClassName": "高等数学A2 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 10
   },
   {
     "courseCode": "VV255",
@@ -8677,6 +12763,24 @@
   },
   {
     "courseCode": "VV256",
+    "lessonClassCode": "VV256FA2015-*",
+    "lessonClassName": "线性代数和微分方程A (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VV256",
+    "lessonClassCode": "VV256FA2016-*",
+    "lessonClassName": "线性代数和微分方程A (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "VV256",
     "lessonClassCode": "VV256FA2017",
     "lessonClassName": "线性代数和微分方程AFA2017",
     "studentNum": 209,
@@ -8710,6 +12814,24 @@
   },
   {
     "courseCode": "VV285",
+    "lessonClassCode": "VV285SP2015-*",
+    "lessonClassName": "高等数学B2 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VV285",
+    "lessonClassCode": "VV285SP2016-*",
+    "lessonClassName": "高等数学B2 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VV285",
     "lessonClassCode": "VV285SU2017",
     "lessonClassName": "VV285",
     "studentNum": 95,
@@ -8740,6 +12862,24 @@
       "Horst Hohberger"
     ],
     "scoreNum": 172
+  },
+  {
+    "courseCode": "VV286",
+    "lessonClassCode": "VV286FA2015-*",
+    "lessonClassName": "线性代数和微分方程B (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
+    "courseCode": "VV286",
+    "lessonClassCode": "VV286FA2016-*",
+    "lessonClassName": "线性代数和微分方程B (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 5
   },
   {
     "courseCode": "VV286",
@@ -8943,6 +13083,24 @@
     "scoreNum": 3
   },
   {
+    "courseCode": "VW100",
+    "lessonClassCode": "VW100FA2015-*",
+    "lessonClassName": "德语（J类）（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110FA2016-*",
+    "lessonClassName": "德语（1） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VW110",
     "lessonClassCode": "VW110FA2017-1",
     "lessonClassName": "德语（1）FA2017-1",
@@ -9105,6 +13263,15 @@
   },
   {
     "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2017-*",
+    "lessonClassName": "德语（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 22
+  },
+  {
+    "courseCode": "VW111",
     "lessonClassCode": "VW111SP2018",
     "lessonClassName": "德语（2）SP2018",
     "studentNum": 23,
@@ -9212,6 +13379,15 @@
       "Quanbo Xie"
     ],
     "scoreNum": 17
+  },
+  {
+    "courseCode": "VW200",
+    "lessonClassCode": "VW200FA2015-*",
+    "lessonClassName": "德语（J类）（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VW210",
@@ -9406,6 +13582,24 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VX203",
+    "lessonClassCode": "VX203SP2016-*",
+    "lessonClassName": "领导力与管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VX203",
+    "lessonClassCode": "VX203SP2017-*",
+    "lessonClassName": "领导力与管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 30
+  },
+  {
     "courseCode": "VX250",
     "lessonClassCode": "VX250SU2017",
     "lessonClassName": "VX250",
@@ -9426,6 +13620,15 @@
       "Irene Wei"
     ],
     "scoreNum": 27
+  },
+  {
+    "courseCode": "VX251",
+    "lessonClassCode": "VX251SP2017-*",
+    "lessonClassName": "品牌管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 2
   },
   {
     "courseCode": "VX251",
@@ -9461,6 +13664,15 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VX310",
+    "lessonClassCode": "VX310SP2017-*",
+    "lessonClassName": "人际沟通：社会和跨文化沟通技巧 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
     "courseCode": "VX351",
     "lessonClassCode": "VX351SU2017",
     "lessonClassName": "VX351",
@@ -9492,6 +13704,15 @@
       "李杰"
     ],
     "scoreNum": 19
+  },
+  {
+    "courseCode": "VX401",
+    "lessonClassCode": "VX401FA2014-*",
+    "lessonClassName": "VX401 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VX402",
@@ -9528,6 +13749,15 @@
   },
   {
     "courseCode": "VX420",
+    "lessonClassCode": "VX420SP2015-*",
+    "lessonClassName": "创业管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 7
+  },
+  {
+    "courseCode": "VX420",
     "lessonClassCode": "VX420SU2017",
     "lessonClassName": "VX420",
     "studentNum": 32,
@@ -9560,6 +13790,15 @@
     "scoreNum": 38
   },
   {
+    "courseCode": "VX421",
+    "lessonClassCode": "VX421FA2014-*",
+    "lessonClassName": "VX421 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 4
+  },
+  {
     "courseCode": "VX422",
     "lessonClassCode": "VX422FA2017",
     "lessonClassName": "电子商务管理FA2017",
@@ -9569,6 +13808,15 @@
       "Pradeep Ray"
     ],
     "scoreNum": 2
+  },
+  {
+    "courseCode": "VX422",
+    "lessonClassCode": "VX422SP2016-*",
+    "lessonClassName": "电子商务管理 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VX423",
@@ -9646,6 +13894,33 @@
       "Soong Chul Ro"
     ],
     "scoreNum": 10
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2014-*",
+    "lessonClassName": "综合英语（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 9
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2015-*",
+    "lessonClassName": "综合英语（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 16
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2016-*",
+    "lessonClassName": "综合英语（J类） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 305
   },
   {
     "courseCode": "VY100",
@@ -10086,6 +14361,33 @@
       "Matthew Risling"
     ],
     "scoreNum": 12
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2015-*",
+    "lessonClassName": "英语写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 10
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2016-*",
+    "lessonClassName": "英语写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 16
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2017-*",
+    "lessonClassName": "英语写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "lecturers": [],
+    "scoreNum": 307
   },
   {
     "courseCode": "VY200",
@@ -10579,6 +14881,15 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VY201",
+    "lessonClassCode": "VY201SP2016-*",
+    "lessonClassName": "英语在公共场合的应用 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VY202",
     "lessonClassCode": "VY202SU2018",
     "lessonClassName": "旅行写作SU2018",
@@ -10599,6 +14910,15 @@
       "Michael Theodore Luongo"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VY223",
+    "lessonClassCode": "VY223SP2015-*",
+    "lessonClassName": "创意写作 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VY223",
@@ -10635,6 +14955,15 @@
   },
   {
     "courseCode": "VY230",
+    "lessonClassCode": "VY230SP2015-*",
+    "lessonClassName": "英文短篇小说导读 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VY230",
     "lessonClassCode": "VY230SU2018",
     "lessonClassName": "英文短篇小说导读SU2018",
     "studentNum": 35,
@@ -10668,6 +14997,15 @@
   },
   {
     "courseCode": "VY298",
+    "lessonClassCode": "VY298SP2015-*",
+    "lessonClassName": "英国文学概述 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 6
+  },
+  {
+    "courseCode": "VY298",
     "lessonClassCode": "VY298SU2019",
     "lessonClassName": "英国文学概述SU2019",
     "studentNum": 30,
@@ -10676,6 +15014,24 @@
       "Matthew Risling"
     ],
     "scoreNum": 30
+  },
+  {
+    "courseCode": "VY325",
+    "lessonClassCode": "VY325SP2015-*",
+    "lessonClassName": "英语散文艺术 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 2
+  },
+  {
+    "courseCode": "VZ001",
+    "lessonClassCode": "VZ001FA2014-*",
+    "lessonClassName": "VZ001 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2014",
+    "lecturers": [],
+    "scoreNum": 5
   },
   {
     "courseCode": "VZ002",
@@ -10687,6 +15043,33 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "VZ002",
+    "lessonClassCode": "VZ002SP2015-*",
+    "lessonClassName": "汉语（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ002",
+    "lessonClassCode": "VZ002SP2016-*",
+    "lessonClassName": "汉语（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003FA2016-*",
+    "lessonClassName": "汉语（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
     "courseCode": "VZ003",
     "lessonClassCode": "VZ003FA2017",
     "lessonClassName": "汉语（3）FA2017",
@@ -10696,6 +15079,24 @@
       "Anna"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003SP2015-*",
+    "lessonClassName": "汉语（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ003",
+    "lessonClassCode": "VZ003SP2016-*",
+    "lessonClassName": "汉语（3） (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VZ003",
@@ -10963,6 +15364,24 @@
   },
   {
     "courseCode": "VZ102",
+    "lessonClassCode": "VZ102FA2015-*",
+    "lessonClassName": "中国文化概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ102",
+    "lessonClassCode": "VZ102FA2016-*",
+    "lessonClassName": "中国文化概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ102",
     "lessonClassCode": "VZ102FA2017",
     "lessonClassName": "中国文化概论FA2017",
     "studentNum": 19,
@@ -10993,6 +15412,15 @@
       "Sa Weiqi"
     ],
     "scoreNum": 15
+  },
+  {
+    "courseCode": "VZ102",
+    "lessonClassCode": "VZ102SP2015-*",
+    "lessonClassName": "中国文化概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 13
   },
   {
     "courseCode": "VZ102",
@@ -11062,6 +15490,15 @@
   },
   {
     "courseCode": "VZ104",
+    "lessonClassCode": "VZ104SP2015-*",
+    "lessonClassName": "汉语概论 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 12
+  },
+  {
+    "courseCode": "VZ104",
     "lessonClassCode": "VZ104SP2018",
     "lessonClassName": "汉语概论SP2018",
     "studentNum": 12,
@@ -11092,6 +15529,24 @@
       "Anna"
     ],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "VZ200",
+    "lessonClassCode": "VZ200FA2015-*",
+    "lessonClassName": "汉语综合课（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2015",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "VZ200",
+    "lessonClassCode": "VZ200FA2016-*",
+    "lessonClassName": "汉语综合课（2） (Guessed)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "lecturers": [],
+    "scoreNum": 1
   },
   {
     "courseCode": "VZ200",
@@ -11169,6 +15624,33 @@
     "scoreNum": 0
   },
   {
+    "courseCode": "WA901",
+    "lessonClassCode": "WA901SP2019-*",
+    "lessonClassName": "孙子兵法 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2019",
+    "lecturers": [],
+    "scoreNum": 1
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SP2015-*",
+    "lessonClassName": "通识教育实践活动 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2015",
+    "lecturers": [],
+    "scoreNum": 8
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SP2016-*",
+    "lessonClassName": "通识教育实践活动 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2016",
+    "lecturers": [],
+    "scoreNum": 17
+  },
+  {
     "courseCode": "XP000",
     "lessonClassCode": "XP000SP2018",
     "lessonClassName": "通识教育实践活动SP2018",
@@ -11176,6 +15658,24 @@
     "termName": "SP2018",
     "lecturers": [],
     "scoreNum": 0
+  },
+  {
+    "courseCode": "XP000",
+    "lessonClassCode": "XP000SU2017-*",
+    "lessonClassName": "通识教育实践活动 (Guessed)",
+    "studentNum": -1,
+    "termName": "SU2017",
+    "lecturers": [],
+    "scoreNum": 299
+  },
+  {
+    "courseCode": "XP004",
+    "lessonClassCode": "XP004SP2018-*",
+    "lessonClassName": "新时代社会认知实践 (Guessed)",
+    "studentNum": -1,
+    "termName": "SP2018",
+    "lecturers": [],
+    "scoreNum": 299
   },
   {
     "courseCode": "XP004",

@@ -30,7 +30,7 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
     const coursesStore = this.props[STORE_COURSES] as CoursesStore;
     this.columns = [
       {
-        title: 'Code', field: 'courseCode', defaultSort: 'asc',
+        title: 'Code', field: 'courseCode',
         cellStyle: {width: '10%', maxWidth: '10%'},
       },
       {

@@ -64,7 +64,7 @@ export class Course extends React.Component<CourseProps, CourseState> {
         cellStyle: {width: '10%', maxWidth: '10%'},
       },
       {
-        title: 'Elected', field: 'studentNum',
+        title: 'Elected', field: 'studentNumStr',
         cellStyle: {width: '10%', maxWidth: '10%'},
       },
       {
@@ -90,6 +90,8 @@ export class Course extends React.Component<CourseProps, CourseState> {
       if (coursesStore.lessonsMap.hasOwnProperty(a[0])) {
         let lesson = coursesStore.lessonsMap[a[0]];
         lesson.lecturersStr = lesson.lecturers.join(', ');
+        lesson.studentNumStr = lesson.studentNum >= 0 ?
+          lesson.studentNum.toString() : '-';
         lessons.push(lesson);
       }
     });

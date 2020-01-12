@@ -15,6 +15,7 @@ export class LessonModel {
   readonly scoreNum: number;
   readonly lecturers: string[];
   @observable public lecturersStr?: string;
+  @observable public studentNumStr?: string;
 }
 
 export class CourseModel {
