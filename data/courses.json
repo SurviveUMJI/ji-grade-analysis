@@ -5,15 +5,15 @@
     "courseNameEn": "Physical Education I",
     "lessons": [
       [
-        "PE001FA2014-*",
+        "PE001FA2014-Guess",
         "FA2014"
       ],
       [
-        "PE001FA2015-*",
+        "PE001FA2015-Guess",
         "FA2015"
       ],
       [
-        "PE001FA2016-*",
+        "PE001FA2016-Guess",
         "FA2016"
       ],
       [
@@ -146,15 +146,15 @@
     "courseNameEn": "Physical Education II",
     "lessons": [
       [
-        "PE002SP2015-*",
+        "PE002SP2015-Guess",
         "SP2015"
       ],
       [
-        "PE002SP2016-*",
+        "PE002SP2016-Guess",
         "SP2016"
       ],
       [
-        "PE002SU2017-*",
+        "PE002SU2017-Guess",
         "SU2017"
       ],
       [
@@ -291,11 +291,11 @@
     "courseNameEn": "Physical Education III",
     "lessons": [
       [
-        "PE003FA2015-*",
+        "PE003FA2015-Guess",
         "FA2015"
       ],
       [
-        "PE003FA2016-*",
+        "PE003FA2016-Guess",
         "FA2016"
       ],
       [
@@ -432,11 +432,11 @@
     "courseNameEn": "Physical Education IV",
     "lessons": [
       [
-        "PE004SP2016-*",
+        "PE004SP2016-Guess",
         "SP2016"
       ],
       [
-        "PE004SU2017-*",
+        "PE004SU2017-Guess",
         "SU2017"
       ],
       [
@@ -573,15 +573,15 @@
     "courseNameEn": "Morals and Ethics & Law Fundamentals",
     "lessons": [
       [
-        "TH000SP2015-*",
+        "TH000SP2015-Guess",
         "SP2015"
       ],
       [
-        "TH000SP2016-*",
+        "TH000SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH000SU2017-*",
+        "TH000SU2017-Guess",
         "SU2017"
       ],
       [
@@ -618,19 +618,19 @@
     "courseNameEn": "Military Theory",
     "lessons": [
       [
-        "TH004SP2015-*",
+        "TH004SP2015-Guess",
         "SP2015"
       ],
       [
-        "TH004FA2015-*",
+        "TH004FA2015-Guess",
         "FA2015"
       ],
       [
-        "TH004SP2016-*",
+        "TH004SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH004SU2017-*",
+        "TH004SU2017-Guess",
         "SU2017"
       ],
       [
@@ -670,7 +670,7 @@
         "SP2019-4"
       ],
       [
-        "TH004FA2019-*",
+        "TH004FA2019-Guess",
         "FA2019"
       ],
       [
@@ -699,11 +699,11 @@
     "courseNameEn": "Marxism Basic Theory",
     "lessons": [
       [
-        "TH007SP2016-*",
+        "TH007SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH007SU2017-*",
+        "TH007SU2017-Guess",
         "SU2017"
       ],
       [
@@ -740,15 +740,15 @@
     "courseNameEn": "Military Training",
     "lessons": [
       [
-        "TH010SP2015-*",
+        "TH010SP2015-Guess",
         "SP2015"
       ],
       [
-        "TH010SP2016-*",
+        "TH010SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH010SU2017-*",
+        "TH010SU2017-Guess",
         "SU2017"
       ],
       [
@@ -769,11 +769,11 @@
     "courseNameEn": "Introduction to Mao Zedong's Thoughts and Theoretical System of Socialism with Chinese Characteristics",
     "lessons": [
       [
-        "TH012SP2016-*",
+        "TH012SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH012SU2017-*",
+        "TH012SU2017-Guess",
         "SU2017"
       ],
       [
@@ -794,15 +794,19 @@
     "courseNameEn": "Circumstance and Policy",
     "lessons": [
       [
-        "TH020FA2016-*",
+        "TH020-Guess",
+        ""
+      ],
+      [
+        "TH020FA2016-Guess",
         "FA2016"
       ],
       [
-        "TH020SP2017-*",
+        "TH020SP2017-Guess",
         "SP2017"
       ],
       [
-        "TH020SU2017-*",
+        "TH020SU2017-Guess",
         "SU2017"
       ],
       [
@@ -854,7 +858,7 @@
         "SP2020-2"
       ]
     ],
-    "terms": "FA2016, SP2017, SU2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": ", FA2016, SP2017, SU2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -863,23 +867,23 @@
     "courseNameEn": "Modern Chinese History",
     "lessons": [
       [
-        "TH021SP2015-*",
+        "TH021SP2015-Guess",
         "SP2015"
       ],
       [
-        "TH021FA2015-*",
+        "TH021FA2015-Guess",
         "FA2015"
       ],
       [
-        "TH021SP2016-*",
+        "TH021SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH021FA2016-*",
+        "TH021FA2016-Guess",
         "FA2016"
       ],
       [
-        "TH021SU2017-*",
+        "TH021SU2017-Guess",
         "SU2017"
       ],
       [
@@ -908,7 +912,7 @@
         "FA2018-2"
       ],
       [
-        "TH028SP2019-*",
+        "TH028SP2019-Guess",
         "SP2019"
       ],
       [
@@ -971,15 +975,19 @@
     "courseNameEn": "Chemistry",
     "lessons": [
       [
-        "VC210FA2014-*",
+        "VC210-Guess",
+        ""
+      ],
+      [
+        "VC210FA2014-Guess",
         "FA2014"
       ],
       [
-        "VC210FA2015-*",
+        "VC210FA2015-Guess",
         "FA2015"
       ],
       [
-        "VC210FA2016-*",
+        "VC210FA2016-Guess",
         "FA2016"
       ],
       [
@@ -1007,7 +1015,7 @@
         "FA2019-Evening"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -1016,15 +1024,19 @@
     "courseNameEn": "Chemistry Lab",
     "lessons": [
       [
-        "VC211SP2015-*",
+        "VC211-Guess",
+        ""
+      ],
+      [
+        "VC211SP2015-Guess",
         "SP2015"
       ],
       [
-        "VC211SP2016-*",
+        "VC211SP2016-Guess",
         "SP2016"
       ],
       [
-        "VC211SP2017-*",
+        "VC211SP2017-Guess",
         "SP2017"
       ],
       [
@@ -1172,7 +1184,7 @@
         "SP2020-12"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -1194,11 +1206,15 @@
     "courseNameEn": "Discrete Mathematics",
     "lessons": [
       [
-        "VE203FA2015-*",
+        "VE203-Guess",
+        ""
+      ],
+      [
+        "VE203FA2015-Guess",
         "FA2015"
       ],
       [
-        "VE203FA2016-*",
+        "VE203FA2016-Guess",
         "FA2016"
       ],
       [
@@ -1222,7 +1238,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1231,15 +1247,19 @@
     "courseNameEn": "Intro to Circuits",
     "lessons": [
       [
-        "VE215FA2014-*",
+        "VE215-Guess",
+        ""
+      ],
+      [
+        "VE215FA2014-Guess",
         "FA2014"
       ],
       [
-        "VE215FA2015-*",
+        "VE215FA2015-Guess",
         "FA2015"
       ],
       [
-        "VE215FA2016-*",
+        "VE215FA2016-Guess",
         "FA2016"
       ],
       [
@@ -1263,7 +1283,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -1272,15 +1292,19 @@
     "courseNameEn": "Intro to Signals and Systems",
     "lessons": [
       [
-        "VE216SP2015-*",
+        "VE216-Guess",
+        ""
+      ],
+      [
+        "VE216SP2015-Guess",
         "SP2015"
       ],
       [
-        "VE216SP2016-*",
+        "VE216SP2016-Guess",
         "SP2016"
       ],
       [
-        "VE216SP2017-*",
+        "VE216SP2017-Guess",
         "SP2017"
       ],
       [
@@ -1320,7 +1344,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -1329,7 +1353,11 @@
     "courseNameEn": "Electromagnetics I",
     "lessons": [
       [
-        "VE230SP2016-*",
+        "VE230-Guess",
+        ""
+      ],
+      [
+        "VE230SP2016-Guess",
         "SP2016"
       ],
       [
@@ -1357,7 +1385,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1366,11 +1394,15 @@
     "courseNameEn": "Introduction to Logic Design",
     "lessons": [
       [
-        "VE270SP2015-*",
+        "VE270-Guess",
+        ""
+      ],
+      [
+        "VE270SP2015-Guess",
         "SP2015"
       ],
       [
-        "VE270SP2016-*",
+        "VE270SP2016-Guess",
         "SP2016"
       ],
       [
@@ -1410,7 +1442,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", SP2015, SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1419,11 +1451,15 @@
     "courseNameEn": "Programming & Elem. Data Structures",
     "lessons": [
       [
-        "VE280SP2015-*",
+        "VE280-Guess",
+        ""
+      ],
+      [
+        "VE280SP2015-Guess",
         "SP2015"
       ],
       [
-        "VE280SP2016-*",
+        "VE280SP2016-Guess",
         "SP2016"
       ],
       [
@@ -1451,7 +1487,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, FA2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1460,11 +1496,15 @@
     "courseNameEn": "Data Structures and Algorithms",
     "lessons": [
       [
-        "VE281FA2014-*",
+        "VE281-Guess",
+        ""
+      ],
+      [
+        "VE281FA2014-Guess",
         "FA2014"
       ],
       [
-        "VE281FA2016-*",
+        "VE281FA2016-Guess",
         "FA2016"
       ],
       [
@@ -1480,7 +1520,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -1489,7 +1529,11 @@
     "courseNameEn": "TechComm",
     "lessons": [
       [
-        "VE300SP2016-*",
+        "VE300-Guess",
+        ""
+      ],
+      [
+        "VE300SP2016-Guess",
         "SP2016"
       ],
       [
@@ -1573,7 +1617,7 @@
         "SP2020-2"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": ", SP2016, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -1582,7 +1626,11 @@
     "courseNameEn": "Electronic Circuits",
     "lessons": [
       [
-        "VE311SP2016-*",
+        "VE311-Guess",
+        ""
+      ],
+      [
+        "VE311SP2016-Guess",
         "SP2016"
       ],
       [
@@ -1606,7 +1654,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2016, SU2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", SP2016, SU2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1614,6 +1662,10 @@
     "courseName": "数字集成电路",
     "courseNameEn": "Digital Integrated Circuits",
     "lessons": [
+      [
+        "VE312-Guess",
+        ""
+      ],
       [
         "VE312SU2017",
         "SU2017"
@@ -1631,7 +1683,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SU2017, FA2017, FA2018, FA2019",
+    "terms": ", SU2017, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -1640,7 +1692,11 @@
     "courseNameEn": "Intro to Semiconductor Devices",
     "lessons": [
       [
-        "VE320SP2015-*",
+        "VE320-Guess",
+        ""
+      ],
+      [
+        "VE320SP2015-Guess",
         "SP2015"
       ],
       [
@@ -1664,7 +1720,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019, FA2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1673,7 +1729,11 @@
     "courseNameEn": "Principles of Optics",
     "lessons": [
       [
-        "VE334FA2014-*",
+        "VE334-Guess",
+        ""
+      ],
+      [
+        "VE334FA2014-Guess",
         "FA2014"
       ],
       [
@@ -1689,7 +1749,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -1698,7 +1758,11 @@
     "courseNameEn": "Intro to Computer Organization",
     "lessons": [
       [
-        "VE370FA2016-*",
+        "VE370-Guess",
+        ""
+      ],
+      [
+        "VE370FA2016-Guess",
         "FA2016"
       ],
       [
@@ -1718,7 +1782,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, SU2019, FA2019",
+    "terms": ", FA2016, FA2017, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1726,6 +1790,10 @@
     "courseName": "基于微处理器的系统设计",
     "courseNameEn": "Design of Microprocessor Based Systems",
     "lessons": [
+      [
+        "VE373-Guess",
+        ""
+      ],
       [
         "VE373SU2017",
         "SU2017"
@@ -1735,7 +1803,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SU2017, SU2018",
+    "terms": ", SU2017, SU2018",
     "priority": 0
   },
   {
@@ -1744,15 +1812,19 @@
     "courseNameEn": "Probabilistic Methods in Eng.",
     "lessons": [
       [
-        "VE401SP2015-*",
+        "VE401-Guess",
+        ""
+      ],
+      [
+        "VE401SP2015-Guess",
         "SP2015"
       ],
       [
-        "VE401SP2016-*",
+        "VE401SP2016-Guess",
         "SP2016"
       ],
       [
-        "VE401SP2017-*",
+        "VE401SP2017-Guess",
         "SP2017"
       ],
       [
@@ -1780,7 +1852,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -1882,6 +1954,10 @@
     "courseNameEn": "Principles of Photonics",
     "lessons": [
       [
+        "VE434-Guess",
+        ""
+      ],
+      [
         "VE434SU2017",
         "SU2017"
       ],
@@ -1894,7 +1970,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018",
+    "terms": ", SU2017, FA2017, SU2018",
     "priority": 0
   },
   {
@@ -1902,6 +1978,10 @@
     "courseName": "激光与光学实验",
     "courseNameEn": "Advanced Lasers and Optics Laboratory",
     "lessons": [
+      [
+        "VE438-Guess",
+        ""
+      ],
       [
         "VE438SU2017",
         "SU2017"
@@ -1915,7 +1995,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": ", SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -1958,7 +2038,11 @@
     "courseNameEn": "Major Design Experience(MDE)",
     "lessons": [
       [
-        "VE450FA2014-*",
+        "VE450-Guess",
+        ""
+      ],
+      [
+        "VE450FA2014-Guess",
         "FA2014"
       ],
       [
@@ -1986,7 +2070,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -1994,6 +2078,10 @@
     "courseName": "数字信号处理与分析",
     "courseNameEn": "Digital Signal Processing and Analysis",
     "lessons": [
+      [
+        "VE451-Guess",
+        ""
+      ],
       [
         "VE451SU2018",
         "SU2018"
@@ -2003,7 +2091,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SU2018, SU2019",
+    "terms": ", SU2018, SU2019",
     "priority": 0
   },
   {
@@ -2011,6 +2099,10 @@
     "courseName": "数字通信信号与系统",
     "courseNameEn": "Digital Communication Signals & Systems",
     "lessons": [
+      [
+        "VE455-Guess",
+        ""
+      ],
       [
         "VE455FA2017",
         "FA2017"
@@ -2024,7 +2116,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2032,6 +2124,10 @@
     "courseName": "生物医学仪器与设计",
     "courseNameEn": "Biomedical Intrumentation and Design",
     "lessons": [
+      [
+        "VE458-Guess",
+        ""
+      ],
       [
         "VE458FA2017",
         "FA2017"
@@ -2041,7 +2137,7 @@
         "FA2018"
       ]
     ],
-    "terms": "FA2017, FA2018",
+    "terms": ", FA2017, FA2018",
     "priority": 0
   },
   {
@@ -2049,6 +2145,10 @@
     "courseName": "控制系统分析与设计",
     "courseNameEn": "Control Systems Analysis and Design",
     "lessons": [
+      [
+        "VE460-Guess",
+        ""
+      ],
       [
         "VE460FA2017",
         "FA2017"
@@ -2058,7 +2158,7 @@
         "SU2019"
       ]
     ],
-    "terms": "FA2017, SU2019",
+    "terms": ", FA2017, SU2019",
     "priority": 0
   },
   {
@@ -2080,7 +2180,11 @@
     "courseNameEn": "Introduction to Cryptography",
     "lessons": [
       [
-        "VE475SP2015-*",
+        "VE475-Guess",
+        ""
+      ],
+      [
+        "VE475SP2015-Guess",
         "SP2015"
       ],
       [
@@ -2096,7 +2200,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -2104,6 +2208,10 @@
     "courseName": "算法导论",
     "courseNameEn": "Introduction to Algorithms",
     "lessons": [
+      [
+        "VE477-Guess",
+        ""
+      ],
       [
         "VE477FA2017",
         "FA2017"
@@ -2117,7 +2225,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2125,6 +2233,10 @@
     "courseName": "操作系统导论",
     "courseNameEn": "Introduction to Operating Systems",
     "lessons": [
+      [
+        "VE482-Guess",
+        ""
+      ],
       [
         "VE482FA2017",
         "FA2017"
@@ -2138,7 +2250,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2181,6 +2293,10 @@
     "courseNameEn": "Undergraduate Research",
     "lessons": [
       [
+        "VE490-Guess",
+        ""
+      ],
+      [
         "VE490SU2017",
         "SU2017"
       ],
@@ -2217,7 +2333,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": ", SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -2242,6 +2358,10 @@
     "courseName": "高级科技写作与交流",
     "courseNameEn": "Advanced Technical Communication",
     "lessons": [
+      [
+        "VE496-Guess",
+        ""
+      ],
       [
         "VE496SU2017",
         "SU2017"
@@ -2283,7 +2403,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SP2020",
+    "terms": ", SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -2291,6 +2411,10 @@
     "courseName": "随机过程（J类）",
     "courseNameEn": "Probability and Random Processes",
     "lessons": [
+      [
+        "VE501-Guess",
+        ""
+      ],
       [
         "VE501FA2017",
         "FA2017"
@@ -2304,7 +2428,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2312,6 +2436,10 @@
     "courseName": "固体物理学",
     "courseNameEn": "Solid State Physics",
     "lessons": [
+      [
+        "VE504-Guess",
+        ""
+      ],
       [
         "VE504FA2017",
         "FA2017"
@@ -2325,7 +2453,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2675,23 +2803,27 @@
     "courseNameEn": "Intro to Engineering",
     "lessons": [
       [
-        "VG100FA2014-*",
+        "VG100-Guess",
+        ""
+      ],
+      [
+        "VG100FA2014-Guess",
         "FA2014"
       ],
       [
-        "VG100SP2015-*",
+        "VG100SP2015-Guess",
         "SP2015"
       ],
       [
-        "VG100FA2015-*",
+        "VG100FA2015-Guess",
         "FA2015"
       ],
       [
-        "VG100SP2016-*",
+        "VG100SP2016-Guess",
         "SP2016"
       ],
       [
-        "VG100FA2016-*",
+        "VG100FA2016-Guess",
         "FA2016"
       ],
       [
@@ -2743,7 +2875,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -2752,23 +2884,27 @@
     "courseNameEn": "Intro to Computers & Programming",
     "lessons": [
       [
-        "VG101FA2014-*",
+        "VG101-Guess",
+        ""
+      ],
+      [
+        "VG101FA2014-Guess",
         "FA2014"
       ],
       [
-        "VG101SP2015-*",
+        "VG101SP2015-Guess",
         "SP2015"
       ],
       [
-        "VG101FA2015-*",
+        "VG101FA2015-Guess",
         "FA2015"
       ],
       [
-        "VG101SP2016-*",
+        "VG101SP2016-Guess",
         "SP2016"
       ],
       [
-        "VG101FA2016-*",
+        "VG101FA2016-Guess",
         "FA2016"
       ],
       [
@@ -2808,7 +2944,7 @@
         "FA2019-2"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -2830,6 +2966,10 @@
     "courseNameEn": "Global Multidisciplinary Design Project I",
     "lessons": [
       [
+        "VG450-Guess",
+        ""
+      ],
+      [
         "VG450FA2017",
         "FA2017"
       ],
@@ -2846,7 +2986,7 @@
         "FA2019-2"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -2854,6 +2994,10 @@
     "courseName": "跨境跨学科设计项目（2）",
     "courseNameEn": "Global Multidisciplinary Design Project II",
     "lessons": [
+      [
+        "VG451-Guess",
+        ""
+      ],
       [
         "VG451SP2018",
         "SP2018"
@@ -2867,7 +3011,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2018, SP2019, SP2020",
+    "terms": ", SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -2875,6 +3019,10 @@
     "courseName": "职业道德与工程规范",
     "courseNameEn": "Professional Ethics",
     "lessons": [
+      [
+        "VG496-Guess",
+        ""
+      ],
       [
         "VG496SU2017-1-1",
         "SU2017-1"
@@ -2932,7 +3080,7 @@
         "FA2019-2"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -2995,11 +3143,15 @@
     "courseNameEn": "Principles of Engineering Materials",
     "lessons": [
       [
-        "VK250SP2016-*",
+        "VK250-Guess",
+        ""
+      ],
+      [
+        "VK250SP2016-Guess",
         "SP2016"
       ],
       [
-        "VK250SP2017-*",
+        "VK250SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3011,7 +3163,7 @@
         "SP2019"
       ]
     ],
-    "terms": "SP2016, SP2017, SP2018, SP2019",
+    "terms": ", SP2016, SP2017, SP2018, SP2019",
     "priority": 0
   },
   {
@@ -3020,7 +3172,11 @@
     "courseNameEn": "Machineshop Training",
     "lessons": [
       [
-        "VM010SP2015-*",
+        "VM010-Guess",
+        ""
+      ],
+      [
+        "VM010SP2015-Guess",
         "SP2015"
       ],
       [
@@ -3044,7 +3200,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SP2019, SU2019, SP2020",
+    "terms": ", SP2015, SU2017, SU2018, SP2019, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -3053,15 +3209,19 @@
     "courseNameEn": "Machineshop Training Ⅰ",
     "lessons": [
       [
-        "VM020SP2016-*",
+        "VM020-Guess",
+        ""
+      ],
+      [
+        "VM020SP2016-Guess",
         "SP2016"
       ],
       [
-        "VM020FA2016-*",
+        "VM020FA2016-Guess",
         "FA2016"
       ],
       [
-        "VM020SP2017-*",
+        "VM020SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3089,7 +3249,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2016, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": ", SP2016, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -3098,19 +3258,23 @@
     "courseNameEn": "Intro to Solid Mechanics",
     "lessons": [
       [
-        "VM211FA2014-*",
+        "VM211-Guess",
+        ""
+      ],
+      [
+        "VM211FA2014-Guess",
         "FA2014"
       ],
       [
-        "VM211FA2015-*",
+        "VM211FA2015-Guess",
         "FA2015"
       ],
       [
-        "VM211FA2016-*",
+        "VM211FA2016-Guess",
         "FA2016"
       ],
       [
-        "VM211SP2017-*",
+        "VM211SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3142,7 +3306,7 @@
         "SP2020"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": ", FA2014, FA2015, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -3151,15 +3315,19 @@
     "courseNameEn": "Thermodynamics",
     "lessons": [
       [
-        "VM235SP2015-*",
+        "VM235-Guess",
+        ""
+      ],
+      [
+        "VM235SP2015-Guess",
         "SP2015"
       ],
       [
-        "VM235SP2016-*",
+        "VM235SP2016-Guess",
         "SP2016"
       ],
       [
-        "VM235FA2016-*",
+        "VM235FA2016-Guess",
         "FA2016"
       ],
       [
@@ -3187,7 +3355,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", SP2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -3196,15 +3364,19 @@
     "courseNameEn": "Intro to Dynamics and Vibrations",
     "lessons": [
       [
-        "VM240SP2015-*",
+        "VM240-Guess",
+        ""
+      ],
+      [
+        "VM240SP2015-Guess",
         "SP2015"
       ],
       [
-        "VM240SP2016-*",
+        "VM240SP2016-Guess",
         "SP2016"
       ],
       [
-        "VM240SP2017-*",
+        "VM240SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3232,7 +3404,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -3241,15 +3413,19 @@
     "courseNameEn": "Design and Manufacturing I",
     "lessons": [
       [
-        "VM250SP2015-*",
+        "VM250-Guess",
+        ""
+      ],
+      [
+        "VM250SP2015-Guess",
         "SP2015"
       ],
       [
-        "VM250SP2016-*",
+        "VM250SP2016-Guess",
         "SP2016"
       ],
       [
-        "VM250SP2017-*",
+        "VM250SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3277,7 +3453,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -3286,11 +3462,15 @@
     "courseNameEn": "Introduction to Finite Elements in Mechanical Engineering",
     "lessons": [
       [
+        "VM305-Guess",
+        ""
+      ],
+      [
         "VM305SU2018",
         "SU2018"
       ]
     ],
-    "terms": "SU2018",
+    "terms": ", SU2018",
     "priority": 0
   },
   {
@@ -3298,6 +3478,10 @@
     "courseName": "材料力学",
     "courseNameEn": "Strength of Materials",
     "lessons": [
+      [
+        "VM311-Guess",
+        ""
+      ],
       [
         "VM311FA2017",
         "FA2017"
@@ -3311,7 +3495,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": ", FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -3320,7 +3504,11 @@
     "courseNameEn": "Fluid Mechanics I",
     "lessons": [
       [
-        "VM320FA2014-*",
+        "VM320-Guess",
+        ""
+      ],
+      [
+        "VM320FA2014-Guess",
         "FA2014"
       ],
       [
@@ -3348,7 +3536,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -3357,7 +3545,11 @@
     "courseNameEn": "Heat Transfer",
     "lessons": [
       [
-        "VM335SP2015-*",
+        "VM335-Guess",
+        ""
+      ],
+      [
+        "VM335SP2015-Guess",
         "SP2015"
       ],
       [
@@ -3373,7 +3565,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -3381,6 +3573,10 @@
     "courseName": "设计与制造（J类）（2）",
     "courseNameEn": "Design and Manufacturing II",
     "lessons": [
+      [
+        "VM350-Guess",
+        ""
+      ],
       [
         "VM350SU2017",
         "SU2017"
@@ -3394,7 +3590,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": ", SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -3403,7 +3599,11 @@
     "courseNameEn": "Modeling, Analysis and Control of Dynamic Systems",
     "lessons": [
       [
-        "VM360SP2015-*",
+        "VM360-Guess",
+        ""
+      ],
+      [
+        "VM360SP2015-Guess",
         "SP2015"
       ],
       [
@@ -3419,7 +3619,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -3428,15 +3628,19 @@
     "courseNameEn": "Mechanical Behavior of Materials",
     "lessons": [
       [
-        "VM382FA2014-*",
+        "VM382-Guess",
+        ""
+      ],
+      [
+        "VM382FA2014-Guess",
         "FA2014"
       ],
       [
-        "VM382SP2016-*",
+        "VM382SP2016-Guess",
         "SP2016"
       ],
       [
-        "VM382SP2017-*",
+        "VM382SP2017-Guess",
         "SP2017"
       ],
       [
@@ -3464,7 +3668,7 @@
         "SP2020"
       ]
     ],
-    "terms": "FA2014, SP2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": ", FA2014, SP2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -3472,6 +3676,10 @@
     "courseName": "工程项目管理",
     "courseNameEn": "Engineering Project Management",
     "lessons": [
+      [
+        "VM384-Guess",
+        ""
+      ],
       [
         "VM384SU2017",
         "SU2017"
@@ -3481,7 +3689,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SU2017, SU2018",
+    "terms": ", SU2017, SU2018",
     "priority": 0
   },
   {
@@ -3490,11 +3698,15 @@
     "courseNameEn": "Laboratory I",
     "lessons": [
       [
-        "VM395FA2014-*",
+        "VM395-Guess",
+        ""
+      ],
+      [
+        "VM395FA2014-Guess",
         "FA2014"
       ],
       [
-        "VM395SP2015-*",
+        "VM395SP2015-Guess",
         "SP2015"
       ],
       [
@@ -3538,7 +3750,7 @@
         "FA2019-Lab S2"
       ]
     ],
-    "terms": "FA2014, SP2015, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SP2015, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -3560,11 +3772,15 @@
     "courseNameEn": "Advanced Strength of Materials",
     "lessons": [
       [
+        "VM412-Guess",
+        ""
+      ],
+      [
         "VM412SU2017",
         "SU2017"
       ]
     ],
-    "terms": "SU2017",
+    "terms": ", SU2017",
     "priority": 0
   },
   {
@@ -3599,6 +3815,10 @@
     "courseNameEn": "Combustion",
     "lessons": [
       [
+        "VM432-Guess",
+        ""
+      ],
+      [
         "VM432FA2018",
         "FA2018"
       ],
@@ -3607,7 +3827,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": ", FA2018, FA2019",
     "priority": 0
   },
   {
@@ -3615,6 +3835,10 @@
     "courseName": "能源转换材料",
     "courseNameEn": "Materials for Energy Conversion",
     "lessons": [
+      [
+        "VM434-Guess",
+        ""
+      ],
       [
         "VM434FA2017",
         "FA2017"
@@ -3624,7 +3848,7 @@
         "FA2018"
       ]
     ],
-    "terms": "FA2017, FA2018",
+    "terms": ", FA2017, FA2018",
     "priority": 0
   },
   {
@@ -3633,7 +3857,11 @@
     "courseNameEn": "Design and Manufacturing III",
     "lessons": [
       [
-        "VM450FA2014-*",
+        "VM450-Guess",
+        ""
+      ],
+      [
+        "VM450FA2014-Guess",
         "FA2014"
       ],
       [
@@ -3661,7 +3889,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -3683,7 +3911,11 @@
     "courseNameEn": "Automotive Engineering",
     "lessons": [
       [
-        "VM458FA2014-*",
+        "VM458-Guess",
+        ""
+      ],
+      [
+        "VM458FA2014-Guess",
         "FA2014"
       ],
       [
@@ -3695,7 +3927,7 @@
         "SU2019"
       ]
     ],
-    "terms": "FA2014, SU2018, SU2019",
+    "terms": ", FA2014, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -3704,7 +3936,11 @@
     "courseNameEn": "Automatic Control",
     "lessons": [
       [
-        "VM461FA2014-*",
+        "VM461-Guess",
+        ""
+      ],
+      [
+        "VM461FA2014-Guess",
         "FA2014"
       ],
       [
@@ -3720,7 +3956,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -3763,6 +3999,10 @@
     "courseNameEn": "Undergraduate Research",
     "lessons": [
       [
+        "VM490-Guess",
+        ""
+      ],
+      [
         "VM490SU2017",
         "SU2017"
       ],
@@ -3799,7 +4039,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": ", SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -3808,7 +4048,11 @@
     "courseNameEn": "Laboratory II",
     "lessons": [
       [
-        "VM495FA2014-*",
+        "VM495-Guess",
+        ""
+      ],
+      [
+        "VM495FA2014-Guess",
         "FA2014"
       ],
       [
@@ -3836,7 +4080,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": ", FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
     "priority": 0
   },
   {
@@ -4110,6 +4354,10 @@
     "courseNameEn": "Mechatronic Systems Design",
     "lessons": [
       [
+        "VM552-Guess",
+        ""
+      ],
+      [
         "VM552",
         "SU2017"
       ],
@@ -4122,7 +4370,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": ", SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -4221,11 +4469,15 @@
     "courseNameEn": "Physics I",
     "lessons": [
       [
-        "VP140SP2015-*",
+        "VP140-Guess",
+        ""
+      ],
+      [
+        "VP140SP2015-Guess",
         "SP2015"
       ],
       [
-        "VP140SP2016-*",
+        "VP140SP2016-Guess",
         "SP2016"
       ],
       [
@@ -4241,7 +4493,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -4250,11 +4502,15 @@
     "courseNameEn": "Physics Lab I",
     "lessons": [
       [
-        "VP141FA2015-*",
+        "VP141-Guess",
+        ""
+      ],
+      [
+        "VP141FA2015-Guess",
         "FA2015"
       ],
       [
-        "VP141SP2016-*",
+        "VP141SP2016-Guess",
         "SP2016"
       ],
       [
@@ -4270,7 +4526,7 @@
         "SU2019"
       ]
     ],
-    "terms": "FA2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": ", FA2015, SP2016, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -4279,11 +4535,15 @@
     "courseNameEn": "Honors Physics I",
     "lessons": [
       [
-        "VP160SP2015-*",
+        "VP160-Guess",
+        ""
+      ],
+      [
+        "VP160SP2015-Guess",
         "SP2015"
       ],
       [
-        "VP160SP2016-*",
+        "VP160SP2016-Guess",
         "SP2016"
       ],
       [
@@ -4299,7 +4559,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -4308,11 +4568,15 @@
     "courseNameEn": "Physics II",
     "lessons": [
       [
-        "VP240FA2015-*",
+        "VP240-Guess",
+        ""
+      ],
+      [
+        "VP240FA2015-Guess",
         "FA2015"
       ],
       [
-        "VP240FA2016-*",
+        "VP240FA2016-Guess",
         "FA2016"
       ],
       [
@@ -4332,7 +4596,7 @@
         "FA2019-2"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -4341,11 +4605,15 @@
     "courseNameEn": "Physics Lab II",
     "lessons": [
       [
-        "VP241FA2015-*",
+        "VP241-Guess",
+        ""
+      ],
+      [
+        "VP241FA2015-Guess",
         "FA2015"
       ],
       [
-        "VP241FA2016-*",
+        "VP241FA2016-Guess",
         "FA2016"
       ],
       [
@@ -4361,7 +4629,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -4370,11 +4638,15 @@
     "courseNameEn": "Honors Physics Ⅱ",
     "lessons": [
       [
-        "VP260FA2015-*",
+        "VP260-Guess",
+        ""
+      ],
+      [
+        "VP260FA2015-Guess",
         "FA2015"
       ],
       [
-        "VP260FA2016-*",
+        "VP260FA2016-Guess",
         "FA2016"
       ],
       [
@@ -4390,7 +4662,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -4399,7 +4671,11 @@
     "courseNameEn": "Modern Physics",
     "lessons": [
       [
-        "VP390SP2015-*",
+        "VP390-Guess",
+        ""
+      ],
+      [
+        "VP390SP2015-Guess",
         "SP2015"
       ],
       [
@@ -4415,7 +4691,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -4423,6 +4699,10 @@
     "courseName": "政治理论概论",
     "courseNameEn": "Introduction to Political Theory",
     "lessons": [
+      [
+        "VR101-Guess",
+        ""
+      ],
       [
         "VR101SU2017",
         "SU2017"
@@ -4432,7 +4712,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SU2017, SU2018",
+    "terms": ", SU2017, SU2018",
     "priority": 0
   },
   {
@@ -4547,15 +4827,19 @@
     "courseNameEn": "Comparative Governments and Politics",
     "lessons": [
       [
-        "VR140FA2014-*",
+        "VR140-Guess",
+        ""
+      ],
+      [
+        "VR140FA2014-Guess",
         "FA2014"
       ],
       [
-        "VR140SP2016-*",
+        "VR140SP2016-Guess",
         "SP2016"
       ],
       [
-        "VR140SP2017-*",
+        "VR140SP2017-Guess",
         "SP2017"
       ],
       [
@@ -4567,7 +4851,7 @@
         "SU2019"
       ]
     ],
-    "terms": "FA2014, SP2016, SP2017, FA2017, SU2019",
+    "terms": ", FA2014, SP2016, SP2017, FA2017, SU2019",
     "priority": 0
   },
   {
@@ -4613,6 +4897,10 @@
     "courseNameEn": "Introduction to World Politics",
     "lessons": [
       [
+        "VR160-Guess",
+        ""
+      ],
+      [
         "VR160SU2017",
         "SU2017"
       ],
@@ -4629,7 +4917,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SU2017, SP2018, SP2019, SP2020",
+    "terms": ", SU2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -4638,7 +4926,11 @@
     "courseNameEn": "Food in Modern East Asian History",
     "lessons": [
       [
-        "VR203SP2017-*",
+        "VR203-Guess",
+        ""
+      ],
+      [
+        "VR203SP2017-Guess",
         "SP2017"
       ],
       [
@@ -4654,7 +4946,7 @@
         "SP2019"
       ]
     ],
-    "terms": "SP2017, SU2017, FA2018, SP2019",
+    "terms": ", SP2017, SU2017, FA2018, SP2019",
     "priority": 0
   },
   {
@@ -4663,7 +4955,11 @@
     "courseNameEn": "China in the Early Modern World",
     "lessons": [
       [
-        "VR206SP2017-*",
+        "VR206-Guess",
+        ""
+      ],
+      [
+        "VR206SP2017-Guess",
         "SP2017"
       ],
       [
@@ -4687,7 +4983,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2019",
+    "terms": ", SP2017, SU2017, FA2017, SP2018, SU2018, FA2019",
     "priority": 0
   },
   {
@@ -4709,11 +5005,15 @@
     "courseNameEn": "Business and Natural Environment",
     "lessons": [
       [
-        "VR208SP2015-*",
+        "VR208-Guess",
+        ""
+      ],
+      [
+        "VR208SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR208FA2016-*",
+        "VR208FA2016-Guess",
         "FA2016"
       ],
       [
@@ -4729,7 +5029,7 @@
         "SP2019"
       ]
     ],
-    "terms": "SP2015, FA2016, SU2017, SU2018, SP2019",
+    "terms": ", SP2015, FA2016, SU2017, SU2018, SP2019",
     "priority": 0
   },
   {
@@ -4781,11 +5081,15 @@
     "courseNameEn": "Film Art and History",
     "lessons": [
       [
+        "VR236-Guess",
+        ""
+      ],
+      [
         "VR236SU2017",
         "SU2017"
       ]
     ],
-    "terms": "SU2017",
+    "terms": ", SU2017",
     "priority": 0
   },
   {
@@ -4807,11 +5111,15 @@
     "courseNameEn": "Comparative Literature: Fairy Tales",
     "lessons": [
       [
-        "VR241SP2015-*",
+        "VR241-Guess",
+        ""
+      ],
+      [
+        "VR241SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR241FA2016-*",
+        "VR241FA2016-Guess",
         "FA2016"
       ],
       [
@@ -4819,7 +5127,7 @@
         "FA2017"
       ]
     ],
-    "terms": "SP2015, FA2016, FA2017",
+    "terms": ", SP2015, FA2016, FA2017",
     "priority": 0
   },
   {
@@ -4854,7 +5162,11 @@
     "courseNameEn": "Aesthetics",
     "lessons": [
       [
-        "VR251SP2016-*",
+        "VR251-Guess",
+        ""
+      ],
+      [
+        "VR251SP2016-Guess",
         "SP2016"
       ],
       [
@@ -4866,7 +5178,7 @@
         "FA2017"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017",
+    "terms": ", SP2016, SU2017, FA2017",
     "priority": 0
   },
   {
@@ -4875,7 +5187,11 @@
     "courseNameEn": "Culture, Technology and Silicon Valley",
     "lessons": [
       [
-        "VR253SP2017-*",
+        "VR253-Guess",
+        ""
+      ],
+      [
+        "VR253SP2017-Guess",
         "SP2017"
       ],
       [
@@ -4891,7 +5207,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2017, SP2018, SP2019, SP2020",
+    "terms": ", SP2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -4981,15 +5297,19 @@
     "courseNameEn": "Introduction to Modern Chinese Literature",
     "lessons": [
       [
-        "VR280SP2016-*",
+        "VR280-Guess",
+        ""
+      ],
+      [
+        "VR280SP2016-Guess",
         "SP2016"
       ],
       [
-        "VR280FA2016-*",
+        "VR280FA2016-Guess",
         "FA2016"
       ],
       [
-        "VR280SP2017-*",
+        "VR280SP2017-Guess",
         "SP2017"
       ],
       [
@@ -4997,7 +5317,7 @@
         "SU2017"
       ]
     ],
-    "terms": "SP2016, FA2016, SP2017, SU2017",
+    "terms": ", SP2016, FA2016, SP2017, SU2017",
     "priority": 0
   },
   {
@@ -5105,11 +5425,15 @@
     "courseNameEn": "Philosophical Ethics",
     "lessons": [
       [
-        "VR361SP2015-*",
+        "VR361-Guess",
+        ""
+      ],
+      [
+        "VR361SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR361SP2016-*",
+        "VR361SP2016-Guess",
         "SP2016"
       ],
       [
@@ -5117,7 +5441,7 @@
         "SU2017"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017",
+    "terms": ", SP2015, SP2016, SU2017",
     "priority": 0
   },
   {
@@ -5126,23 +5450,27 @@
     "courseNameEn": "Chinese Society in Contemporary Chinese Cinema",
     "lessons": [
       [
-        "VR363FA2014-*",
+        "VR363-Guess",
+        ""
+      ],
+      [
+        "VR363FA2014-Guess",
         "FA2014"
       ],
       [
-        "VR363SP2015-*",
+        "VR363SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR363SP2016-*",
+        "VR363SP2016-Guess",
         "SP2016"
       ],
       [
-        "VR363FA2016-*",
+        "VR363FA2016-Guess",
         "FA2016"
       ],
       [
-        "VR363SP2017-*",
+        "VR363SP2017-Guess",
         "SP2017"
       ],
       [
@@ -5150,7 +5478,7 @@
         "SU2017"
       ]
     ],
-    "terms": "FA2014, SP2015, SP2016, FA2016, SP2017, SU2017",
+    "terms": ", FA2014, SP2015, SP2016, FA2016, SP2017, SU2017",
     "priority": 0
   },
   {
@@ -5172,7 +5500,11 @@
     "courseNameEn": "Politics of International Economic Relations",
     "lessons": [
       [
-        "VR369SP2015-*",
+        "VR369-Guess",
+        ""
+      ],
+      [
+        "VR369SP2015-Guess",
         "SP2015"
       ],
       [
@@ -5188,7 +5520,7 @@
         "FA2019"
       ]
     ],
-    "terms": "SP2015, FA2017, FA2018, FA2019",
+    "terms": ", SP2015, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5197,7 +5529,11 @@
     "courseNameEn": "Introduction to Social Science Research Design",
     "lessons": [
       [
-        "VR381SP2017-*",
+        "VR381-Guess",
+        ""
+      ],
+      [
+        "VR381SP2017-Guess",
         "SP2017"
       ],
       [
@@ -5213,7 +5549,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2017, SU2018, SU2019, SP2020",
+    "terms": ", SP2017, SU2018, SU2019, SP2020",
     "priority": 0
   },
   {
@@ -5222,7 +5558,11 @@
     "courseNameEn": "Calculus Ⅰ",
     "lessons": [
       [
-        "VV115FA2016-*",
+        "VV115-Guess",
+        ""
+      ],
+      [
+        "VV115FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5238,7 +5578,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5247,7 +5587,11 @@
     "courseNameEn": "Calculus Ⅱ",
     "lessons": [
       [
-        "VV116SP2017-*",
+        "VV116-Guess",
+        ""
+      ],
+      [
+        "VV116SP2017-Guess",
         "SP2017"
       ],
       [
@@ -5263,7 +5607,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2017, SP2018, SP2019, SP2020",
+    "terms": ", SP2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -5272,23 +5616,27 @@
     "courseNameEn": "Honors Calculus II",
     "lessons": [
       [
-        "VV156FA2014-*",
+        "VV156-Guess",
+        ""
+      ],
+      [
+        "VV156FA2014-Guess",
         "FA2014"
       ],
       [
-        "VV156SP2015-*",
+        "VV156SP2015-Guess",
         "SP2015"
       ],
       [
-        "VV156FA2015-*",
+        "VV156FA2015-Guess",
         "FA2015"
       ],
       [
-        "VV156SP2016-*",
+        "VV156SP2016-Guess",
         "SP2016"
       ],
       [
-        "VV156FA2016-*",
+        "VV156FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5304,7 +5652,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, SP2015, FA2015, SP2016, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5313,15 +5661,19 @@
     "courseNameEn": "Honors Mathematics II",
     "lessons": [
       [
-        "VV186FA2014-*",
+        "VV186-Guess",
+        ""
+      ],
+      [
+        "VV186FA2014-Guess",
         "FA2014"
       ],
       [
-        "VV186FA2015-*",
+        "VV186FA2015-Guess",
         "FA2015"
       ],
       [
-        "VV186FA2016-*",
+        "VV186FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5337,7 +5689,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5346,11 +5698,15 @@
     "courseNameEn": "Linear Algebra",
     "lessons": [
       [
-        "VV214SP2015-*",
+        "VV214-Guess",
+        ""
+      ],
+      [
+        "VV214SP2015-Guess",
         "SP2015"
       ],
       [
-        "VV214SP2016-*",
+        "VV214SP2016-Guess",
         "SP2016"
       ],
       [
@@ -5370,7 +5726,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SP2019, SU2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SP2019, SU2019",
     "priority": 0
   },
   {
@@ -5400,7 +5756,11 @@
     "courseNameEn": "Calculus IV",
     "lessons": [
       [
-        "VV216FA2016-*",
+        "VV216-Guess",
+        ""
+      ],
+      [
+        "VV216FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5416,7 +5776,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5425,11 +5785,15 @@
     "courseNameEn": "Honors Calculus III",
     "lessons": [
       [
-        "VV255SP2015-*",
+        "VV255-Guess",
+        ""
+      ],
+      [
+        "VV255SP2015-Guess",
         "SP2015"
       ],
       [
-        "VV255SP2016-*",
+        "VV255SP2016-Guess",
         "SP2016"
       ],
       [
@@ -5445,7 +5809,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -5454,11 +5818,15 @@
     "courseNameEn": "Honors Calculus IV",
     "lessons": [
       [
-        "VV256FA2015-*",
+        "VV256-Guess",
+        ""
+      ],
+      [
+        "VV256FA2015-Guess",
         "FA2015"
       ],
       [
-        "VV256FA2016-*",
+        "VV256FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5474,7 +5842,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5483,11 +5851,15 @@
     "courseNameEn": "Honors Mathematics III",
     "lessons": [
       [
-        "VV285SP2015-*",
+        "VV285-Guess",
+        ""
+      ],
+      [
+        "VV285SP2015-Guess",
         "SP2015"
       ],
       [
-        "VV285SP2016-*",
+        "VV285SP2016-Guess",
         "SP2016"
       ],
       [
@@ -5503,7 +5875,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SP2016, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -5512,11 +5884,15 @@
     "courseNameEn": "Honors Mathematics IV",
     "lessons": [
       [
-        "VV286FA2015-*",
+        "VV286-Guess",
+        ""
+      ],
+      [
+        "VV286FA2015-Guess",
         "FA2015"
       ],
       [
-        "VV286FA2016-*",
+        "VV286FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5532,7 +5908,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5558,6 +5934,10 @@
     "courseNameEn": "Boundary Value Problems for Partial Differential Equations",
     "lessons": [
       [
+        "VV454-Guess",
+        ""
+      ],
+      [
         "VV454SP2018",
         "SP2018"
       ],
@@ -5566,7 +5946,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2018, SU2019",
+    "terms": ", SP2018, SU2019",
     "priority": 0
   },
   {
@@ -5655,7 +6035,11 @@
     "courseNameEn": "German I",
     "lessons": [
       [
-        "VW110FA2016-*",
+        "VW110-Guess",
+        ""
+      ],
+      [
+        "VW110FA2016-Guess",
         "FA2016"
       ],
       [
@@ -5703,7 +6087,7 @@
         "SP2020-2"
       ]
     ],
-    "terms": "FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": ", FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -5712,7 +6096,11 @@
     "courseNameEn": "German II",
     "lessons": [
       [
-        "VW111SP2017-*",
+        "VW111-Guess",
+        ""
+      ],
+      [
+        "VW111SP2017-Guess",
         "SP2017"
       ],
       [
@@ -5772,7 +6160,7 @@
         "SP2020-3"
       ]
     ],
-    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": ", SP2017, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -5855,6 +6243,10 @@
     "courseNameEn": "German V",
     "lessons": [
       [
+        "VW310-Guess",
+        ""
+      ],
+      [
         "VW310FA2018",
         "FA2018"
       ],
@@ -5863,7 +6255,7 @@
         "FA2019"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": ", FA2018, FA2019",
     "priority": 0
   },
   {
@@ -5889,6 +6281,10 @@
     "courseNameEn": "Business Communications",
     "lessons": [
       [
+        "VX250-Guess",
+        ""
+      ],
+      [
         "VX250SU2017",
         "SU2017"
       ],
@@ -5897,7 +6293,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SU2017, SU2018",
+    "terms": ", SU2017, SU2018",
     "priority": 0
   },
   {
@@ -5906,7 +6302,11 @@
     "courseNameEn": "Branding and Brand Management",
     "lessons": [
       [
-        "VX251SP2017-*",
+        "VX251-Guess",
+        ""
+      ],
+      [
+        "VX251SP2017-Guess",
         "SP2017"
       ],
       [
@@ -5922,7 +6322,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2017, SP2018, SP2019, SP2020",
+    "terms": ", SP2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -5973,7 +6373,11 @@
     "courseNameEn": "Business Basics for Entrepreneurs",
     "lessons": [
       [
-        "VX420SP2015-*",
+        "VX420-Guess",
+        ""
+      ],
+      [
+        "VX420SP2015-Guess",
         "SP2015"
       ],
       [
@@ -5989,7 +6393,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -5998,7 +6402,11 @@
     "courseNameEn": "E-Business Management",
     "lessons": [
       [
-        "VX422SP2016-*",
+        "VX422-Guess",
+        ""
+      ],
+      [
+        "VX422SP2016-Guess",
         "SP2016"
       ],
       [
@@ -6006,7 +6414,7 @@
         "FA2017"
       ]
     ],
-    "terms": "SP2016, FA2017",
+    "terms": ", SP2016, FA2017",
     "priority": 0
   },
   {
@@ -6014,6 +6422,10 @@
     "courseName": "企业创新",
     "courseNameEn": "Intrapreneurship",
     "lessons": [
+      [
+        "VX423-Guess",
+        ""
+      ],
       [
         "VX423SP2018",
         "SP2018"
@@ -6027,7 +6439,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2018, SP2019, SP2020",
+    "terms": ", SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -6070,15 +6482,19 @@
     "courseNameEn": "Academic Writing Ⅰ",
     "lessons": [
       [
-        "VY100FA2014-*",
+        "VY100-Guess",
+        ""
+      ],
+      [
+        "VY100FA2014-Guess",
         "FA2014"
       ],
       [
-        "VY100FA2015-*",
+        "VY100FA2015-Guess",
         "FA2015"
       ],
       [
-        "VY100FA2016-*",
+        "VY100FA2016-Guess",
         "FA2016"
       ],
       [
@@ -6242,7 +6658,7 @@
         "FA2019-16"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": ", FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
     "priority": 0
   },
   {
@@ -6251,15 +6667,19 @@
     "courseNameEn": "Academic Writing Ⅱ",
     "lessons": [
       [
-        "VY200SP2015-*",
+        "VY200-Guess",
+        ""
+      ],
+      [
+        "VY200SP2015-Guess",
         "SP2015"
       ],
       [
-        "VY200SP2016-*",
+        "VY200SP2016-Guess",
         "SP2016"
       ],
       [
-        "VY200SP2017-*",
+        "VY200SP2017-Guess",
         "SP2017"
       ],
       [
@@ -6443,7 +6863,7 @@
         "SP2020-14"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
+    "terms": ", SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -6478,7 +6898,11 @@
     "courseNameEn": "Creative Writing",
     "lessons": [
       [
-        "VY223SP2015-*",
+        "VY223-Guess",
+        ""
+      ],
+      [
+        "VY223SP2015-Guess",
         "SP2015"
       ],
       [
@@ -6494,7 +6918,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": ", SP2015, SU2017, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -6503,7 +6927,11 @@
     "courseNameEn": "Introduction to Short Story and Novel",
     "lessons": [
       [
-        "VY230SP2015-*",
+        "VY230-Guess",
+        ""
+      ],
+      [
+        "VY230SP2015-Guess",
         "SP2015"
       ],
       [
@@ -6515,7 +6943,7 @@
         "SU2019"
       ]
     ],
-    "terms": "SP2015, SU2018, SU2019",
+    "terms": ", SP2015, SU2018, SU2019",
     "priority": 0
   },
   {
@@ -6537,7 +6965,7 @@
     "courseNameEn": "Introduction to British Literature",
     "lessons": [
       [
-        "VY298SP2015-*",
+        "VY298SP2015-Guess",
         "SP2015"
       ],
       [
@@ -6554,11 +6982,15 @@
     "courseNameEn": "Chinese Ⅱ",
     "lessons": [
       [
-        "VZ002SP2015-*",
+        "VZ002-Guess",
+        ""
+      ],
+      [
+        "VZ002SP2015-Guess",
         "SP2015"
       ],
       [
-        "VZ002SP2016-*",
+        "VZ002SP2016-Guess",
         "SP2016"
       ],
       [
@@ -6566,7 +6998,7 @@
         "FA2017"
       ]
     ],
-    "terms": "SP2015, SP2016, FA2017",
+    "terms": ", SP2015, SP2016, FA2017",
     "priority": 0
   },
   {
@@ -6575,15 +7007,19 @@
     "courseNameEn": "Chinese Ⅲ",
     "lessons": [
       [
-        "VZ003SP2015-*",
+        "VZ003-Guess",
+        ""
+      ],
+      [
+        "VZ003SP2015-Guess",
         "SP2015"
       ],
       [
-        "VZ003SP2016-*",
+        "VZ003SP2016-Guess",
         "SP2016"
       ],
       [
-        "VZ003FA2016-*",
+        "VZ003FA2016-Guess",
         "FA2016"
       ],
       [
@@ -6599,7 +7035,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SP2015, SP2016, FA2016, SU2017, FA2017, SU2018",
+    "terms": ", SP2015, SP2016, FA2016, SU2017, FA2017, SU2018",
     "priority": 0
   },
   {
@@ -6768,15 +7204,19 @@
     "courseNameEn": "Introduction to Chinese Culture",
     "lessons": [
       [
-        "VZ102SP2015-*",
+        "VZ102-Guess",
+        ""
+      ],
+      [
+        "VZ102SP2015-Guess",
         "SP2015"
       ],
       [
-        "VZ102FA2015-*",
+        "VZ102FA2015-Guess",
         "FA2015"
       ],
       [
-        "VZ102FA2016-*",
+        "VZ102FA2016-Guess",
         "FA2016"
       ],
       [
@@ -6812,7 +7252,7 @@
         "SP2020"
       ]
     ],
-    "terms": "SP2015, FA2015, FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": ", SP2015, FA2015, FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
     "priority": 0
   },
   {
@@ -6821,7 +7261,11 @@
     "courseNameEn": "Introduction to Chinese Language",
     "lessons": [
       [
-        "VZ104SP2015-*",
+        "VZ104-Guess",
+        ""
+      ],
+      [
+        "VZ104SP2015-Guess",
         "SP2015"
       ],
       [
@@ -6841,7 +7285,7 @@
         "SU2018"
       ]
     ],
-    "terms": "SP2015, SU2017, FA2017, SP2018, SU2018",
+    "terms": ", SP2015, SU2017, FA2017, SP2018, SU2018",
     "priority": 0
   },
   {
@@ -6850,11 +7294,15 @@
     "courseNameEn": "Comprehensive Chinese II",
     "lessons": [
       [
-        "VZ200FA2015-*",
+        "VZ200-Guess",
+        ""
+      ],
+      [
+        "VZ200FA2015-Guess",
         "FA2015"
       ],
       [
-        "VZ200FA2016-*",
+        "VZ200FA2016-Guess",
         "FA2016"
       ],
       [
@@ -6870,7 +7318,7 @@
         "SU2018"
       ]
     ],
-    "terms": "FA2015, FA2016, SU2017, FA2017, SU2018",
+    "terms": ", FA2015, FA2016, SU2017, FA2017, SU2018",
     "priority": 0
   },
   {
@@ -6892,15 +7340,15 @@
     "courseNameEn": "General Education Practice",
     "lessons": [
       [
-        "XP000SP2015-*",
+        "XP000SP2015-Guess",
         "SP2015"
       ],
       [
-        "XP000SP2016-*",
+        "XP000SP2016-Guess",
         "SP2016"
       ],
       [
-        "XP000SU2017-*",
+        "XP000SU2017-Guess",
         "SU2017"
       ],
       [
@@ -6917,7 +7365,7 @@
     "courseNameEn": "Social Cognitive Practice in the New Era",
     "lessons": [
       [
-        "XP004SP2018-*",
+        "XP004SP2018-Guess",
         "SP2018"
       ],
       [
@@ -6938,11 +7386,37 @@
     "courseNameEn": "Accounting",
     "lessons": [
       [
-        "AC300FA2018-*",
+        "AC300FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "AC301",
+    "courseName": "财务管理",
+    "courseNameEn": "Financial Management",
+    "lessons": [
+      [
+        "AC301-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "AC302",
+    "courseName": "管理会计",
+    "courseNameEn": "Management Accounting",
+    "lessons": [
+      [
+        "AC302-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -6951,11 +7425,37 @@
     "courseNameEn": "Accounting",
     "lessons": [
       [
-        "AC311SP2019-*",
+        "AC311SP2019-Guess",
         "SP2019"
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "AC312",
+    "courseName": "财务会计信息系统",
+    "courseNameEn": "Accounting Information Systems",
+    "lessons": [
+      [
+        "AC312-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "AC406",
+    "courseName": "会计学论文报告（A类）",
+    "courseNameEn": "Graduation Project Reports",
+    "lessons": [
+      [
+        "AC406-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -6964,15 +7464,19 @@
     "courseNameEn": "Photography",
     "lessons": [
       [
-        "AD114FA2018-*",
+        "AD114-Guess",
+        ""
+      ],
+      [
+        "AD114FA2018-Guess",
         "FA2018"
       ],
       [
-        "AD114SP2019-*",
+        "AD114SP2019-Guess",
         "SP2019"
       ]
     ],
-    "terms": "FA2018, SP2019",
+    "terms": ", FA2018, SP2019",
     "priority": 1
   },
   {
@@ -6981,7 +7485,7 @@
     "courseNameEn": "Photography",
     "lessons": [
       [
-        "AD115FA2016-*",
+        "AD115FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -6994,11 +7498,15 @@
     "courseNameEn": "Composition of a Stereoscopic Picture",
     "lessons": [
       [
-        "AD223SP2018-*",
+        "AD223-Guess",
+        ""
+      ],
+      [
+        "AD223SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7007,11 +7515,15 @@
     "courseNameEn": "Composition of Coloring",
     "lessons": [
       [
-        "AD224SP2018-*",
+        "AD224-Guess",
+        ""
+      ],
+      [
+        "AD224SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7020,11 +7532,15 @@
     "courseNameEn": "Composition of a Plane Picture",
     "lessons": [
       [
-        "AD229SP2018-*",
+        "AD229-Guess",
+        ""
+      ],
+      [
+        "AD229SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7033,7 +7549,7 @@
     "courseNameEn": "Design Presentation",
     "lessons": [
       [
-        "AD301FA2018-*",
+        "AD301FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7046,11 +7562,11 @@
     "courseNameEn": "Advertising Creation and Design",
     "lessons": [
       [
-        "AD903SP2018-*",
+        "AD903SP2018-Guess",
         "SP2018"
       ],
       [
-        "AD903SP2019-*",
+        "AD903SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7063,7 +7579,7 @@
     "courseNameEn": "Basic Management",
     "lessons": [
       [
-        "AM001SP2018-*",
+        "AM001SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7076,11 +7592,11 @@
     "courseNameEn": "Electronic Business",
     "lessons": [
       [
-        "AM007SP2016-*",
+        "AM007SP2016-Guess",
         "SP2016"
       ],
       [
-        "AM007SP2019-*",
+        "AM007SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7093,7 +7609,7 @@
     "courseNameEn": "Retrieval of Information on Humanities and Social Sciences in the Network Environment",
     "lessons": [
       [
-        "AM016SP2019-*",
+        "AM016SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7106,7 +7622,7 @@
     "courseNameEn": "Traditional Chinese Learning and Leadership Development",
     "lessons": [
       [
-        "AM030SP2015-*",
+        "AM030SP2015-Guess",
         "SP2015"
       ]
     ],
@@ -7119,7 +7635,7 @@
     "courseNameEn": "Leadership",
     "lessons": [
       [
-        "AM061SU2017-*",
+        "AM061SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -7132,11 +7648,11 @@
     "courseNameEn": "Consumer Behavior",
     "lessons": [
       [
-        "AM062FA2018-*",
+        "AM062FA2018-Guess",
         "FA2018"
       ],
       [
-        "AM062SP2019-*",
+        "AM062SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7149,11 +7665,15 @@
     "courseNameEn": "Electronic Business: Innovation and Strategy",
     "lessons": [
       [
-        "AM070SP2018-*",
+        "AM070-Guess",
+        ""
+      ],
+      [
+        "AM070SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7162,7 +7682,7 @@
     "courseNameEn": "Foundation of Entrepreneurship",
     "lessons": [
       [
-        "AM922SU2017-*",
+        "AM922SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -7175,7 +7695,7 @@
     "courseNameEn": "Pictorial Heritage and the Arts of Ancient China",
     "lessons": [
       [
-        "AR904SP2019-*",
+        "AR904SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7188,7 +7708,7 @@
     "courseNameEn": "Theory of Grey System and Application",
     "lessons": [
       [
-        "AU004SP2019-*",
+        "AU004SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7201,7 +7721,7 @@
     "courseNameEn": "Fundamentals of Digital Image Processing",
     "lessons": [
       [
-        "AU326FA2018-*",
+        "AU326FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7214,7 +7734,7 @@
     "courseNameEn": "Java Language",
     "lessons": [
       [
-        "AU420FA2019-*",
+        "AU420FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -7227,11 +7747,11 @@
     "courseNameEn": "Introduction to Aerospace Engineering",
     "lessons": [
       [
-        "AV001SP2018-*",
+        "AV001SP2018-Guess",
         "SP2018"
       ],
       [
-        "AV001SP2019-*",
+        "AV001SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7244,7 +7764,7 @@
     "courseNameEn": "The Mechanics of Daily Life",
     "lessons": [
       [
-        "AV012SP2016-*",
+        "AV012SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -7257,11 +7777,11 @@
     "courseNameEn": "Introduction to Life Science",
     "lessons": [
       [
-        "BI001FA2016-*",
+        "BI001FA2016-Guess",
         "FA2016"
       ],
       [
-        "BI001SP2018-*",
+        "BI001SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7274,7 +7794,7 @@
     "courseNameEn": "Life Science Development History",
     "lessons": [
       [
-        "BI022SP2019-*",
+        "BI022SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7287,7 +7807,7 @@
     "courseNameEn": "Introduction to LINUX and Shell Scripting",
     "lessons": [
       [
-        "BI296SP2018-*",
+        "BI296SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7300,7 +7820,7 @@
     "courseNameEn": "Bioethics",
     "lessons": [
       [
-        "BI902SP2019-*",
+        "BI902SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7313,7 +7833,7 @@
     "courseNameEn": "Genes And Human",
     "lessons": [
       [
-        "BI907SP2019-*",
+        "BI907SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7326,11 +7846,24 @@
     "courseNameEn": "The Microbial World",
     "lessons": [
       [
-        "BI915SP2019-*",
+        "BI915SP2019-Guess",
         "SP2019"
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "BM021",
+    "courseName": "急救与自救",
+    "courseNameEn": "First Aid and Self Rescue",
+    "lessons": [
+      [
+        "BM021-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -7339,7 +7872,7 @@
     "courseNameEn": "Artificial Intelligence and Medicine",
     "lessons": [
       [
-        "BM023SP2018-*",
+        "BM023SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7352,7 +7885,7 @@
     "courseNameEn": "The Culture of Traditional Chinese Medicine",
     "lessons": [
       [
-        "BM901SP2019-*",
+        "BM901SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7365,7 +7898,7 @@
     "courseNameEn": "Sex and Health",
     "lessons": [
       [
-        "BM904SP2019-*",
+        "BM904SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7378,7 +7911,7 @@
     "courseNameEn": "Technical Economics",
     "lessons": [
       [
-        "BU007SP2019-*",
+        "BU007SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7391,11 +7924,11 @@
     "courseNameEn": "Brand Aesthetics and Management-- F1 Super Car & French Wine",
     "lessons": [
       [
-        "BU013SP2018-*",
+        "BU013SP2018-Guess",
         "SP2018"
       ],
       [
-        "BU013SP2019-*",
+        "BU013SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7408,11 +7941,11 @@
     "courseNameEn": "Management",
     "lessons": [
       [
-        "BU100SP2018-*",
+        "BU100SP2018-Guess",
         "SP2018"
       ],
       [
-        "BU100SP2019-*",
+        "BU100SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7425,7 +7958,7 @@
     "courseNameEn": "Introduction to Marketing",
     "lessons": [
       [
-        "BU104FA2017-*",
+        "BU104FA2017-Guess",
         "FA2017"
       ]
     ],
@@ -7438,7 +7971,7 @@
     "courseNameEn": "Marketing Theory and Practice",
     "lessons": [
       [
-        "BU105SP2018-*",
+        "BU105SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7451,11 +7984,15 @@
     "courseNameEn": "Principles of Management",
     "lessons": [
       [
-        "BU200SP2018-*",
+        "BU200-Guess",
+        ""
+      ],
+      [
+        "BU200SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7464,7 +8001,7 @@
     "courseNameEn": "New Product Management",
     "lessons": [
       [
-        "BU304SP2019-*",
+        "BU304SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7477,7 +8014,7 @@
     "courseNameEn": "Marketing (B)",
     "lessons": [
       [
-        "BU311FA2018-*",
+        "BU311FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7490,11 +8027,24 @@
     "courseNameEn": "Project Management",
     "lessons": [
       [
-        "BU320FA2018-*",
+        "BU320FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "BU344",
+    "courseName": "管理信息系统",
+    "courseNameEn": "Management Information System",
+    "lessons": [
+      [
+        "BU344-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -7503,11 +8053,24 @@
     "courseNameEn": "Technological Entrepreneurship Management",
     "lessons": [
       [
-        "BU352FA2018-*",
+        "BU352FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "BU353",
+    "courseName": "运营管理",
+    "courseNameEn": "Operations Management",
+    "lessons": [
+      [
+        "BU353-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -7516,11 +8079,24 @@
     "courseNameEn": "Quality Management",
     "lessons": [
       [
-        "BU354SP2019-*",
+        "BU354SP2019-Guess",
         "SP2019"
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "BU419",
+    "courseName": "工商管理论文报告（A类）",
+    "courseNameEn": "Graduation Project Reports",
+    "lessons": [
+      [
+        "BU419-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -7529,7 +8105,7 @@
     "courseNameEn": "Entrepreneurial Opportunity Recognition",
     "lessons": [
       [
-        "BU426SP2018-*",
+        "BU426SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7542,7 +8118,7 @@
     "courseNameEn": "Chemistry",
     "lessons": [
       [
-        "CA001FA2015-*",
+        "CA001FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -7555,7 +8131,7 @@
     "courseNameEn": "Chemistry Lab",
     "lessons": [
       [
-        "CA002FA2015-*",
+        "CA002FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -7568,11 +8144,11 @@
     "courseNameEn": "College Chemistry",
     "lessons": [
       [
-        "CA901FA2015-*",
+        "CA901FA2015-Guess",
         "FA2015"
       ],
       [
-        "CA901FA2016-*",
+        "CA901FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -7585,7 +8161,7 @@
     "courseNameEn": "History of Literacy in World",
     "lessons": [
       [
-        "CH107SU2017-*",
+        "CH107SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -7598,7 +8174,7 @@
     "courseNameEn": "Chinese applied writing",
     "lessons": [
       [
-        "CH192SP2019-*",
+        "CH192SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7611,7 +8187,7 @@
     "courseNameEn": "Ancient Chinese Literature History",
     "lessons": [
       [
-        "CH208SP2018-*",
+        "CH208SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7624,7 +8200,7 @@
     "courseNameEn": "Chinese Literature",
     "lessons": [
       [
-        "CH209SP2018-*",
+        "CH209SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7637,7 +8213,7 @@
     "courseNameEn": "Chinese Modern Literature History",
     "lessons": [
       [
-        "CH210FA2018-*",
+        "CH210FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7650,7 +8226,7 @@
     "courseNameEn": "History of foreign literature",
     "lessons": [
       [
-        "CH213SP2018-*",
+        "CH213SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7663,7 +8239,7 @@
     "courseNameEn": "History of Chinese Literary Criticism",
     "lessons": [
       [
-        "CH215FA2018-*",
+        "CH215FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7676,7 +8252,7 @@
     "courseNameEn": "Introduction to the Literature",
     "lessons": [
       [
-        "CH216FA2018-*",
+        "CH216FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7689,7 +8265,7 @@
     "courseNameEn": "Selected Reading on Modern Chinese Literature",
     "lessons": [
       [
-        "CH219SP2018-*",
+        "CH219SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7702,7 +8278,7 @@
     "courseNameEn": "Selected readings from the works of the analects Confucius and the works of Mencius",
     "lessons": [
       [
-        "CH304FA2018-*",
+        "CH304FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7715,7 +8291,7 @@
     "courseNameEn": "Introduction to Christian  culture",
     "lessons": [
       [
-        "CL002SP2019-*",
+        "CL002SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7728,7 +8304,7 @@
     "courseNameEn": "Introduction to the Korean Moral Education Culture",
     "lessons": [
       [
-        "CL010SP2018-*",
+        "CL010SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7741,7 +8317,7 @@
     "courseNameEn": "Literature and culture",
     "lessons": [
       [
-        "CL011SP2019-*",
+        "CL011SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7754,7 +8330,7 @@
     "courseNameEn": "Folk Culture of Japan",
     "lessons": [
       [
-        "CL024SP2019-*",
+        "CL024SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7767,7 +8343,7 @@
     "courseNameEn": "Modern Chinese",
     "lessons": [
       [
-        "CL101FA2018-*",
+        "CL101FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7780,7 +8356,7 @@
     "courseNameEn": "The Principle of Database Systems",
     "lessons": [
       [
-        "CS022SP2019-*",
+        "CS022SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7793,11 +8369,11 @@
     "courseNameEn": "Algorithm and Complexity",
     "lessons": [
       [
-        "CS214SP2018-*",
+        "CS214SP2018-Guess",
         "SP2018"
       ],
       [
-        "CS214SP2019-*",
+        "CS214SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7810,7 +8386,7 @@
     "courseNameEn": "Machine Learning",
     "lessons": [
       [
-        "CS385SP2019-*",
+        "CS385SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7823,7 +8399,7 @@
     "courseNameEn": "Machine Learning",
     "lessons": [
       [
-        "CS420SP2019-*",
+        "CS420SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7836,7 +8412,7 @@
     "courseNameEn": "Data Structure B",
     "lessons": [
       [
-        "CS430SP2019-*",
+        "CS430SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7849,7 +8425,7 @@
     "courseNameEn": "Thinking and Approach of Programming",
     "lessons": [
       [
-        "CS902SP2016-*",
+        "CS902SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -7862,19 +8438,19 @@
     "courseNameEn": "Chinese Calligraphy",
     "lessons": [
       [
-        "DR001SU2017-*",
+        "DR001SU2017-Guess",
         "SU2017"
       ],
       [
-        "DR001SP2018-*",
+        "DR001SP2018-Guess",
         "SP2018"
       ],
       [
-        "DR001FA2018-*",
+        "DR001FA2018-Guess",
         "FA2018"
       ],
       [
-        "DR001SP2019-*",
+        "DR001SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7887,7 +8463,7 @@
     "courseNameEn": "Seal Cutting",
     "lessons": [
       [
-        "DR002SP2019-*",
+        "DR002SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7900,11 +8476,15 @@
     "courseNameEn": "Macro & Micro Economics",
     "lessons": [
       [
-        "EC007SP2018-*",
+        "EC007-Guess",
+        ""
+      ],
+      [
+        "EC007SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -7913,7 +8493,7 @@
     "courseNameEn": "Macroeconomics",
     "lessons": [
       [
-        "EC011SP2018-*",
+        "EC011SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7926,7 +8506,7 @@
     "courseNameEn": "Economics",
     "lessons": [
       [
-        "EC100SP2019-*",
+        "EC100SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7939,7 +8519,7 @@
     "courseNameEn": "Intermediate Macroeconomics",
     "lessons": [
       [
-        "EC311SP2019-*",
+        "EC311SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -7952,7 +8532,7 @@
     "courseNameEn": "Statistics",
     "lessons": [
       [
-        "EC313FA2018-*",
+        "EC313FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7965,7 +8545,7 @@
     "courseNameEn": "The Media Creativity Economics",
     "lessons": [
       [
-        "EC905SP2018-*",
+        "EC905SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -7978,7 +8558,7 @@
     "courseNameEn": "Database",
     "lessons": [
       [
-        "EE311FA2018-*",
+        "EE311FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -7991,7 +8571,7 @@
     "courseNameEn": "Software Engineering",
     "lessons": [
       [
-        "EE312SP2019-*",
+        "EE312SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8004,7 +8584,7 @@
     "courseNameEn": "Data Mining Techniques",
     "lessons": [
       [
-        "EE359SP2019-*",
+        "EE359SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8017,7 +8597,7 @@
     "courseNameEn": "Artificial Intelligence",
     "lessons": [
       [
-        "EI339FA2018-*",
+        "EI339FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8030,7 +8610,7 @@
     "courseNameEn": "Science and Technology Innovation (Part 1)",
     "lessons": [
       [
-        "EI901SP2018-*",
+        "EI901SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8043,7 +8623,7 @@
     "courseNameEn": "Theoretical Mechanics",
     "lessons": [
       [
-        "EM151SP2016-*",
+        "EM151SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -8056,11 +8636,11 @@
     "courseNameEn": "University English I",
     "lessons": [
       [
-        "EN025FA2015-*",
+        "EN025FA2015-Guess",
         "FA2015"
       ],
       [
-        "EN025FA2016-*",
+        "EN025FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8073,11 +8653,11 @@
     "courseNameEn": "University English II",
     "lessons": [
       [
-        "EN026SP2016-*",
+        "EN026SP2016-Guess",
         "SP2016"
       ],
       [
-        "EN026SU2017-*",
+        "EN026SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8090,7 +8670,7 @@
     "courseNameEn": "Learning English and Western Culture Via Movies",
     "lessons": [
       [
-        "EN053SP2018-*",
+        "EN053SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8103,7 +8683,7 @@
     "courseNameEn": "Grammar",
     "lessons": [
       [
-        "EN100SU2017-*",
+        "EN100SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8116,7 +8696,7 @@
     "courseNameEn": "English Phonetics",
     "lessons": [
       [
-        "EN105FA2016-*",
+        "EN105FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8129,7 +8709,7 @@
     "courseNameEn": "French I",
     "lessons": [
       [
-        "EN118FA2016-*",
+        "EN118FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8142,7 +8722,7 @@
     "courseNameEn": "French II",
     "lessons": [
       [
-        "EN119SU2017-*",
+        "EN119SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8155,7 +8735,7 @@
     "courseNameEn": "Introduction to English-Using  Countries",
     "lessons": [
       [
-        "EN121FA2016-*",
+        "EN121FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8168,7 +8748,7 @@
     "courseNameEn": "Public Speaking and Debating in English",
     "lessons": [
       [
-        "EN122SU2017-*",
+        "EN122SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8181,7 +8761,7 @@
     "courseNameEn": "Intercultural  Comunication",
     "lessons": [
       [
-        "EN127SU2017-*",
+        "EN127SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8194,7 +8774,7 @@
     "courseNameEn": "Advangce English ReadingⅠ",
     "lessons": [
       [
-        "EN128FA2016-*",
+        "EN128FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8207,7 +8787,7 @@
     "courseNameEn": "Advangce English Reading Ⅱ",
     "lessons": [
       [
-        "EN129SU2017-*",
+        "EN129SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8220,7 +8800,7 @@
     "courseNameEn": "Advanced Oral English",
     "lessons": [
       [
-        "EN132FA2016-*",
+        "EN132FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8233,11 +8813,15 @@
     "courseNameEn": "English Intensive Reading I",
     "lessons": [
       [
-        "EN214SP2018-*",
+        "EN214-Guess",
+        ""
+      ],
+      [
+        "EN214SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8246,11 +8830,15 @@
     "courseNameEn": "Translation Criticism",
     "lessons": [
       [
-        "EN228SP2018-*",
+        "EN228-Guess",
+        ""
+      ],
+      [
+        "EN228SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8259,11 +8847,15 @@
     "courseNameEn": "Audio-visual-spoken English I",
     "lessons": [
       [
-        "EN229SP2018-*",
+        "EN229-Guess",
+        ""
+      ],
+      [
+        "EN229SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8272,11 +8864,37 @@
     "courseNameEn": "English Intensive Reading II",
     "lessons": [
       [
-        "EN309FA2018-*",
+        "EN309FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "EN311",
+    "courseName": "英语精读（3）",
+    "courseNameEn": "English Intensive Reading III",
+    "lessons": [
+      [
+        "EN311-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "EN313",
+    "courseName": "英语写作（M类）（1）",
+    "courseNameEn": "English Writing I",
+    "lessons": [
+      [
+        "EN313-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8285,15 +8903,15 @@
     "courseNameEn": "Business English Communication",
     "lessons": [
       [
-        "EN315SP2018-*",
+        "EN315SP2018-Guess",
         "SP2018"
       ],
       [
-        "EN315SP2019-*",
+        "EN315SP2019-Guess",
         "SP2019"
       ],
       [
-        "EN315FA2019-*",
+        "EN315FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -8306,7 +8924,7 @@
     "courseNameEn": "Advanced English Listening Ⅰ",
     "lessons": [
       [
-        "EN329FA2016-*",
+        "EN329FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8319,7 +8937,7 @@
     "courseNameEn": "Advanced English Listening Ⅱ",
     "lessons": [
       [
-        "EN330SU2017-*",
+        "EN330SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8332,11 +8950,24 @@
     "courseNameEn": "Audio-visual-spoken English II",
     "lessons": [
       [
-        "EN347FA2018-*",
+        "EN347FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "EN348",
+    "courseName": "英语语言文化对比与翻译",
+    "courseNameEn": "A Contrastive Study of English and Chinese and Translation",
+    "lessons": [
+      [
+        "EN348-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8345,7 +8976,7 @@
     "courseNameEn": "Introduction to Linguistics",
     "lessons": [
       [
-        "EN358FA2018-*",
+        "EN358FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8358,7 +8989,7 @@
     "courseNameEn": "Public Speaking in English",
     "lessons": [
       [
-        "EN903SP2018-*",
+        "EN903SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8371,15 +9002,71 @@
     "courseNameEn": "Shakespeare: Reading and Discussion",
     "lessons": [
       [
-        "EN904SP2018-*",
+        "EN904-Guess",
+        ""
+      ],
+      [
+        "EN904SP2018-Guess",
         "SP2018"
       ],
       [
-        "EN904SP2019-*",
+        "EN904SP2019-Guess",
         "SP2019"
       ]
     ],
-    "terms": "SP2018, SP2019",
+    "terms": ", SP2018, SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "ET300",
+    "courseName": "世界贸易组织概论",
+    "courseNameEn": "Introduction to World Trade Organization",
+    "lessons": [
+      [
+        "ET300-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "ET303",
+    "courseName": "国际贸易理论与政策",
+    "courseNameEn": "International Economics Theory and Policy",
+    "lessons": [
+      [
+        "ET303-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "EV015",
+    "courseName": "环境监测(A)",
+    "courseNameEn": "Environment Monitor",
+    "lessons": [
+      [
+        "EV015-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "EV033",
+    "courseName": "生态理念与绿色环保",
+    "courseNameEn": "Ecological Idea and Green Environmental Protection",
+    "lessons": [
+      [
+        "EV033-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8388,7 +9075,7 @@
     "courseNameEn": "Nature  and Ecosystem under Global Change Circumstance",
     "lessons": [
       [
-        "EV040SP2019-*",
+        "EV040SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8401,11 +9088,50 @@
     "courseNameEn": "The Economics of Money, Banking and Financial Markets",
     "lessons": [
       [
-        "FI005FA2019-*",
+        "FI005FA2019-Guess",
         "FA2019"
       ]
     ],
     "terms": "FA2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "FI306",
+    "courseName": "投资学",
+    "courseNameEn": "Investment",
+    "lessons": [
+      [
+        "FI306-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "FI401",
+    "courseName": "国际金融（C类）",
+    "courseNameEn": "International Finance",
+    "lessons": [
+      [
+        "FI401-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "FI422",
+    "courseName": "国际经济与贸易论文报告（A类）",
+    "courseNameEn": "Graduation Project Reports",
+    "lessons": [
+      [
+        "FI422-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8414,7 +9140,7 @@
     "courseNameEn": "Securities Investment Analysis",
     "lessons": [
       [
-        "FI453FA2018-*",
+        "FI453FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8427,11 +9153,15 @@
     "courseNameEn": "Fundamental German I",
     "lessons": [
       [
-        "FO201SP2018-*",
+        "FO201-Guess",
+        ""
+      ],
+      [
+        "FO201SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8440,11 +9170,15 @@
     "courseNameEn": "Audio-Visual German I",
     "lessons": [
       [
-        "FO202SP2018-*",
+        "FO202-Guess",
+        ""
+      ],
+      [
+        "FO202SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8453,7 +9187,7 @@
     "courseNameEn": "Fundamentals of French I",
     "lessons": [
       [
-        "FR201SP2018-*",
+        "FR201SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8466,7 +9200,7 @@
     "courseNameEn": "French Listening I",
     "lessons": [
       [
-        "FR202SP2018-*",
+        "FR202SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8479,7 +9213,7 @@
     "courseNameEn": "On Film & TV Art",
     "lessons": [
       [
-        "FT026SP2019-*",
+        "FT026SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8492,7 +9226,7 @@
     "courseNameEn": "History of Chinese and Foreign Flim&Televison",
     "lessons": [
       [
-        "FT100SU2017-*",
+        "FT100SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8505,7 +9239,7 @@
     "courseNameEn": "Appreciation of TV and Film",
     "lessons": [
       [
-        "FT101FA2016-*",
+        "FT101FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8518,7 +9252,7 @@
     "courseNameEn": "Appreciation of TV and Film",
     "lessons": [
       [
-        "FT102SU2017-*",
+        "FT102SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8531,7 +9265,7 @@
     "courseNameEn": "Introduction to Movie Art",
     "lessons": [
       [
-        "FT108FA2016-*",
+        "FT108FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -8544,7 +9278,7 @@
     "courseNameEn": "Introduction to Animation",
     "lessons": [
       [
-        "FT206SP2018-*",
+        "FT206SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8557,7 +9291,7 @@
     "courseNameEn": "Introduction to Animation Mold-making",
     "lessons": [
       [
-        "FT207SP2018-*",
+        "FT207SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8570,7 +9304,7 @@
     "courseNameEn": "Appreciation of TV and Film",
     "lessons": [
       [
-        "FT209FA2017-*",
+        "FT209FA2017-Guess",
         "FA2017"
       ]
     ],
@@ -8583,11 +9317,24 @@
     "courseNameEn": "Audio-Visual Language",
     "lessons": [
       [
-        "FT210SU2017-*",
+        "FT210SU2017-Guess",
         "SU2017"
       ]
     ],
     "terms": "SU2017",
+    "priority": 1
+  },
+  {
+    "courseCode": "FT212",
+    "courseName": "影视艺术导论",
+    "courseNameEn": "Introduction to Movie Art",
+    "lessons": [
+      [
+        "FT212-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8596,7 +9343,7 @@
     "courseNameEn": "Appreciation of TV and Film",
     "lessons": [
       [
-        "FT215SP2019-*",
+        "FT215SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8609,7 +9356,7 @@
     "courseNameEn": "Animation Playwright",
     "lessons": [
       [
-        "FT303FA2018-*",
+        "FT303FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8622,7 +9369,7 @@
     "courseNameEn": "TV and Film Music and Sound",
     "lessons": [
       [
-        "FT304SP2018-*",
+        "FT304SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8635,7 +9382,7 @@
     "courseNameEn": "Two-Dimensional Animation Design",
     "lessons": [
       [
-        "FT305SP2018-*",
+        "FT305SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8648,11 +9395,24 @@
     "courseNameEn": "Animation Scene Design",
     "lessons": [
       [
-        "FT342FA2018-*",
+        "FT342FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "FT406",
+    "courseName": "动画课程设计与制作",
+    "courseNameEn": "Animation Course Design and Development",
+    "lessons": [
+      [
+        "FT406-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8661,7 +9421,7 @@
     "courseNameEn": "Flowers Application",
     "lessons": [
       [
-        "GA407FA2019-*",
+        "GA407FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -8674,11 +9434,11 @@
     "courseNameEn": "Talk With The Scenery-- Appreciation of The Landscape Arts of China and The Foreign Countries",
     "lessons": [
       [
-        "GA901FA2015-*",
+        "GA901FA2015-Guess",
         "FA2015"
       ],
       [
-        "GA901SP2019-*",
+        "GA901SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8691,7 +9451,7 @@
     "courseNameEn": "History of Buddhism",
     "lessons": [
       [
-        "HI050SP2019-*",
+        "HI050SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8704,7 +9464,7 @@
     "courseNameEn": "History of Science",
     "lessons": [
       [
-        "HI102SP2019-*",
+        "HI102SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8717,11 +9477,15 @@
     "courseNameEn": "Ancient World History",
     "lessons": [
       [
-        "HI210SP2018-*",
+        "HI210-Guess",
+        ""
+      ],
+      [
+        "HI210SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8730,11 +9494,15 @@
     "courseNameEn": "Ancient Chinese History",
     "lessons": [
       [
-        "HI211SP2018-*",
+        "HI211-Guess",
+        ""
+      ],
+      [
+        "HI211SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8743,11 +9511,15 @@
     "courseNameEn": "Special Topics of Modern Chinese History",
     "lessons": [
       [
-        "HI214SP2019-*",
+        "HI214-Guess",
+        ""
+      ],
+      [
+        "HI214SP2019-Guess",
         "SP2019"
       ]
     ],
-    "terms": "SP2019",
+    "terms": ", SP2019",
     "priority": 1
   },
   {
@@ -8756,7 +9528,7 @@
     "courseNameEn": "The history of China's external relations",
     "lessons": [
       [
-        "HI215SP2018-*",
+        "HI215SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8769,11 +9541,15 @@
     "courseNameEn": "Studies of Historical Documents",
     "lessons": [
       [
-        "HI217SP2019-*",
+        "HI217-Guess",
+        ""
+      ],
+      [
+        "HI217SP2019-Guess",
         "SP2019"
       ]
     ],
-    "terms": "SP2019",
+    "terms": ", SP2019",
     "priority": 1
   },
   {
@@ -8782,7 +9558,7 @@
     "courseNameEn": "History of Chinese Culture",
     "lessons": [
       [
-        "HI219FA2018-*",
+        "HI219FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8795,11 +9571,15 @@
     "courseNameEn": "American History and Culture",
     "lessons": [
       [
-        "HI903SP2018-*",
+        "HI903-Guess",
+        ""
+      ],
+      [
+        "HI903SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8808,7 +9588,7 @@
     "courseNameEn": "The Theory of Machines and Mechanisms",
     "lessons": [
       [
-        "ID100SP2018-*",
+        "ID100SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -8821,7 +9601,7 @@
     "courseNameEn": "Ergonomics",
     "lessons": [
       [
-        "ID204FA2018-*",
+        "ID204FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -8834,11 +9614,37 @@
     "courseNameEn": "Product Design",
     "lessons": [
       [
-        "ID301FA2018-*",
+        "ID301FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "ID303",
+    "courseName": "产品设计工程学",
+    "courseNameEn": "Product Design Engineering",
+    "lessons": [
+      [
+        "ID303-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "ID304",
+    "courseName": "改良性产品设计",
+    "courseNameEn": "Improved Production Design",
+    "lessons": [
+      [
+        "ID304-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -8847,7 +9653,7 @@
     "courseNameEn": "System Modeling and Application",
     "lessons": [
       [
-        "IO005SP2019-*",
+        "IO005SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8860,7 +9666,7 @@
     "courseNameEn": "Operating System",
     "lessons": [
       [
-        "IS206SP2019-*",
+        "IS206SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8873,7 +9679,7 @@
     "courseNameEn": "Principles of Database",
     "lessons": [
       [
-        "IS214SP2019-*",
+        "IS214SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8886,7 +9692,7 @@
     "courseNameEn": "Course Design on Application Software",
     "lessons": [
       [
-        "IS305SP2019-*",
+        "IS305SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8899,7 +9705,7 @@
     "courseNameEn": "Modern Cryptography",
     "lessons": [
       [
-        "IS407FA2019-*",
+        "IS407FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -8912,15 +9718,15 @@
     "courseNameEn": "Basic Japanese I",
     "lessons": [
       [
-        "JA001SP2018-*",
+        "JA001SP2018-Guess",
         "SP2018"
       ],
       [
-        "JA001FA2018-*",
+        "JA001FA2018-Guess",
         "FA2018"
       ],
       [
-        "JA001SP2019-*",
+        "JA001SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8933,7 +9739,7 @@
     "courseNameEn": "Basic Japanese III",
     "lessons": [
       [
-        "JA012SP2019-*",
+        "JA012SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -8946,11 +9752,15 @@
     "courseNameEn": "Japanese Intensive Reading I",
     "lessons": [
       [
-        "JA212SP2018-*",
+        "JA212-Guess",
+        ""
+      ],
+      [
+        "JA212SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8959,11 +9769,15 @@
     "courseNameEn": "Japanese Visual,Aural and Oral Practice (I)",
     "lessons": [
       [
-        "JA213SP2018-*",
+        "JA213-Guess",
+        ""
+      ],
+      [
+        "JA213SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -8972,7 +9786,7 @@
     "courseNameEn": "Introduction to Communication",
     "lessons": [
       [
-        "JC001SU2017-*",
+        "JC001SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8985,7 +9799,7 @@
     "courseNameEn": "Interview and Writing",
     "lessons": [
       [
-        "JC105SU2017-*",
+        "JC105SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -8998,7 +9812,7 @@
     "courseNameEn": "Introduction to Journalizing",
     "lessons": [
       [
-        "JC112SP2016-*",
+        "JC112SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9011,11 +9825,11 @@
     "courseNameEn": "The History of Journalism in World",
     "lessons": [
       [
-        "JC203SP2016-*",
+        "JC203SP2016-Guess",
         "SP2016"
       ],
       [
-        "JC203SU2017-*",
+        "JC203SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -9028,7 +9842,7 @@
     "courseNameEn": "Television Photography",
     "lessons": [
       [
-        "JC216SU2017-*",
+        "JC216SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -9041,7 +9855,7 @@
     "courseNameEn": "Media Criticism",
     "lessons": [
       [
-        "JC331SP2016-*",
+        "JC331SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9054,11 +9868,11 @@
     "courseNameEn": "Aesthetics",
     "lessons": [
       [
-        "JC903SP2018-*",
+        "JC903SP2018-Guess",
         "SP2018"
       ],
       [
-        "JC903SP2019-*",
+        "JC903SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9071,7 +9885,7 @@
     "courseNameEn": "Jurisprudence",
     "lessons": [
       [
-        "LA100SP2018-*",
+        "LA100SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9084,7 +9898,7 @@
     "courseNameEn": "Constitutional Law",
     "lessons": [
       [
-        "LA107SP2018-*",
+        "LA107SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9097,11 +9911,24 @@
     "courseNameEn": "Civil Law",
     "lessons": [
       [
-        "LA108SP2018-*",
+        "LA108SP2018-Guess",
         "SP2018"
       ]
     ],
     "terms": "SP2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "LA109",
+    "courseName": "刑法",
+    "courseNameEn": "Criminal Law",
+    "lessons": [
+      [
+        "LA109-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -9110,7 +9937,7 @@
     "courseNameEn": "Business Law",
     "lessons": [
       [
-        "LA200FA2018-*",
+        "LA200FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9123,7 +9950,7 @@
     "courseNameEn": "Economics Law",
     "lessons": [
       [
-        "LA330FA2018-*",
+        "LA330FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9136,11 +9963,37 @@
     "courseNameEn": "Administrative Law and Administration Procedure Law",
     "lessons": [
       [
-        "LA346FA2018-*",
+        "LA346FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "LA400",
+    "courseName": "国际经济法（B类）",
+    "courseNameEn": "International Economic Law",
+    "lessons": [
+      [
+        "LA400-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "LA430",
+    "courseName": "论文报告",
+    "courseNameEn": "Thesis Report",
+    "lessons": [
+      [
+        "LA430-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -9149,7 +10002,7 @@
     "courseNameEn": "Economic Globalization and the Rise of China",
     "lessons": [
       [
-        "LA925SP2019-*",
+        "LA925SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9162,7 +10015,7 @@
     "courseNameEn": "Mathematics for Arts I",
     "lessons": [
       [
-        "MA000FA2016-*",
+        "MA000FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -9175,7 +10028,7 @@
     "courseNameEn": "Mathematics for Arts II",
     "lessons": [
       [
-        "MA009SU2017-*",
+        "MA009SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -9188,15 +10041,15 @@
     "courseNameEn": "Linear Algebra",
     "lessons": [
       [
-        "MA077FA2015-*",
+        "MA077FA2015-Guess",
         "FA2015"
       ],
       [
-        "MA077SP2016-*",
+        "MA077SP2016-Guess",
         "SP2016"
       ],
       [
-        "MA077FA2018-*",
+        "MA077FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9209,7 +10062,7 @@
     "courseNameEn": "Calculus I",
     "lessons": [
       [
-        "MA080FA2015-*",
+        "MA080FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -9222,7 +10075,7 @@
     "courseNameEn": "Calculus II",
     "lessons": [
       [
-        "MA081SP2016-*",
+        "MA081SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9235,7 +10088,7 @@
     "courseNameEn": "Bridge and Game Theory",
     "lessons": [
       [
-        "MA194SP2019-*",
+        "MA194SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9248,7 +10101,7 @@
     "courseNameEn": "Numerical Analysis",
     "lessons": [
       [
-        "MA203FA2018-*",
+        "MA203FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9261,7 +10114,7 @@
     "courseNameEn": "Mathematical Analysis I",
     "lessons": [
       [
-        "MA209SP2018-*",
+        "MA209SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9274,11 +10127,15 @@
     "courseNameEn": "Advanced Algebra",
     "lessons": [
       [
-        "MA210SP2018-*",
+        "MA210-Guess",
+        ""
+      ],
+      [
+        "MA210SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -9287,7 +10144,7 @@
     "courseNameEn": "Operations Research",
     "lessons": [
       [
-        "MA312FA2018-*",
+        "MA312FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9300,7 +10157,7 @@
     "courseNameEn": "Mathematical Analysis II",
     "lessons": [
       [
-        "MA316FA2018-*",
+        "MA316FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9313,7 +10170,7 @@
     "courseNameEn": "Ordinary Differential Equations",
     "lessons": [
       [
-        "MA317FA2018-*",
+        "MA317FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9326,7 +10183,7 @@
     "courseNameEn": "Principle of  Statistics",
     "lessons": [
       [
-        "MA902SP2019-*",
+        "MA902SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9339,7 +10196,7 @@
     "courseNameEn": "The Mathematical Sky",
     "lessons": [
       [
-        "MA908SP2019-*",
+        "MA908SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9352,7 +10209,7 @@
     "courseNameEn": "Engineering Drafting I",
     "lessons": [
       [
-        "ME001FA2015-*",
+        "ME001FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -9365,7 +10222,7 @@
     "courseNameEn": "Robotic Design and Production",
     "lessons": [
       [
-        "ME011SP2016-*",
+        "ME011SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9378,7 +10235,7 @@
     "courseNameEn": "",
     "lessons": [
       [
-        "ME034SP2019-*",
+        "ME034SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9391,7 +10248,7 @@
     "courseNameEn": "Aeromodelling Technology and Practice",
     "lessons": [
       [
-        "ME045SP2018-*",
+        "ME045SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9404,7 +10261,7 @@
     "courseNameEn": "Learn from the Nature:Animal Biolics",
     "lessons": [
       [
-        "ME069SP2019-*",
+        "ME069SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9417,7 +10274,7 @@
     "courseNameEn": "Programming: Principles and Practice Using C++",
     "lessons": [
       [
-        "ME113FA2015-*",
+        "ME113FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -9430,7 +10287,7 @@
     "courseNameEn": "Frontiers of Mechanical Engineering",
     "lessons": [
       [
-        "ME115SP2016-*",
+        "ME115SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9443,7 +10300,7 @@
     "courseNameEn": "Introduction to Mechanical Engineering",
     "lessons": [
       [
-        "ME205FA2015-*",
+        "ME205FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -9456,11 +10313,11 @@
     "courseNameEn": "CAD-UG (I)",
     "lessons": [
       [
-        "ME351SP2016-*",
+        "ME351SP2016-Guess",
         "SP2016"
       ],
       [
-        "ME351SP2019-*",
+        "ME351SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9473,7 +10330,7 @@
     "courseNameEn": "Engineering Practice Exploration and Research",
     "lessons": [
       [
-        "ME901SP2018-*",
+        "ME901SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9486,7 +10343,7 @@
     "courseNameEn": "Engineering Psychology",
     "lessons": [
       [
-        "ME907SP2019-*",
+        "ME907SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9499,7 +10356,7 @@
     "courseNameEn": "The Road of Robot: Technology of Aeronautics and Astronautics",
     "lessons": [
       [
-        "ME908SU2017-*",
+        "ME908SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -9512,7 +10369,7 @@
     "courseNameEn": "Introduction to MEMS Technology",
     "lessons": [
       [
-        "MR429SP2019-*",
+        "MR429SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9525,7 +10382,7 @@
     "courseNameEn": "Green Materials and Green Energy",
     "lessons": [
       [
-        "MT017SP2019-*",
+        "MT017SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9538,7 +10395,7 @@
     "courseNameEn": "Solfeggio",
     "lessons": [
       [
-        "MU201SP2018-*",
+        "MU201SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9551,11 +10408,15 @@
     "courseNameEn": "Music rationale",
     "lessons": [
       [
-        "MU202SP2018-*",
+        "MU202-Guess",
+        ""
+      ],
+      [
+        "MU202SP2018-Guess",
         "SP2018"
       ]
     ],
-    "terms": "SP2018",
+    "terms": ", SP2018",
     "priority": 1
   },
   {
@@ -9564,7 +10425,7 @@
     "courseNameEn": "Popular music introduction",
     "lessons": [
       [
-        "MU300FA2018-*",
+        "MU300FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9577,7 +10438,7 @@
     "courseNameEn": "Music work analytical",
     "lessons": [
       [
-        "MU301FA2018-*",
+        "MU301FA2018-Guess",
         "FA2018"
       ]
     ],
@@ -9590,11 +10451,50 @@
     "courseNameEn": "Compose music technology theory (1)",
     "lessons": [
       [
-        "MU302FA2018-*",
+        "MU302FA2018-Guess",
         "FA2018"
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "MU303",
+    "courseName": "作曲技术理论（2）",
+    "courseNameEn": "Compose music technology theory (2)",
+    "lessons": [
+      [
+        "MU303-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "MU304",
+    "courseName": "配器法",
+    "courseNameEn": "Orchestration",
+    "lessons": [
+      [
+        "MU304-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "MU305",
+    "courseName": "西方音乐史",
+    "courseNameEn": "West music history",
+    "lessons": [
+      [
+        "MU305-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -9603,15 +10503,15 @@
     "courseNameEn": "Symphonic  Music   Appreciation",
     "lessons": [
       [
-        "MU901SP2016-*",
+        "MU901SP2016-Guess",
         "SP2016"
       ],
       [
-        "MU901FA2017-*",
+        "MU901FA2017-Guess",
         "FA2017"
       ],
       [
-        "MU901SP2019-*",
+        "MU901SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9624,7 +10524,7 @@
     "courseNameEn": "Music Theory",
     "lessons": [
       [
-        "MU902SP2019-*",
+        "MU902SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9637,7 +10537,7 @@
     "courseNameEn": "Advanced Nuclear Systems",
     "lessons": [
       [
-        "NU403SU2017-*",
+        "NU403SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -9650,7 +10550,7 @@
     "courseNameEn": "Physical Education V",
     "lessons": [
       [
-        "PE005SP2018-*",
+        "PE005SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9663,7 +10563,7 @@
     "courseNameEn": "Physics I",
     "lessons": [
       [
-        "PH001SP2016-*",
+        "PH001SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9676,7 +10576,7 @@
     "courseNameEn": "Gem and Jade Identification",
     "lessons": [
       [
-        "PH015SP2019-*",
+        "PH015SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9689,7 +10589,7 @@
     "courseNameEn": "Physics Lab. I",
     "lessons": [
       [
-        "PH028SP2016-*",
+        "PH028SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9702,7 +10602,7 @@
     "courseNameEn": "Physics Plus (I)",
     "lessons": [
       [
-        "PH100SP2016-*",
+        "PH100SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9715,7 +10615,7 @@
     "courseNameEn": "Flower Art",
     "lessons": [
       [
-        "PL021SP2018-*",
+        "PL021SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9728,11 +10628,11 @@
     "courseNameEn": "Vine and Wine",
     "lessons": [
       [
-        "PL026SP2016-*",
+        "PL026SP2016-Guess",
         "SP2016"
       ],
       [
-        "PL026SP2019-*",
+        "PL026SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9745,7 +10645,7 @@
     "courseNameEn": "Horticulture and Culture",
     "lessons": [
       [
-        "PL027SP2019-*",
+        "PL027SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9758,11 +10658,24 @@
     "courseNameEn": "Aromatherapy and Wellness",
     "lessons": [
       [
-        "PL028SP2019-*",
+        "PL028SP2019-Guess",
         "SP2019"
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "PM010",
+    "courseName": "中医药养生与保健",
+    "courseNameEn": "Traditional Chinese Medicine Health and Health Care",
+    "lessons": [
+      [
+        "PM010-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -9771,7 +10684,7 @@
     "courseNameEn": "New Energy Generation  Technology",
     "lessons": [
       [
-        "PO012SP2019-*",
+        "PO012SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9784,7 +10697,7 @@
     "courseNameEn": "Technology and Application of New Energy",
     "lessons": [
       [
-        "PO013SP2016-*",
+        "PO013SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9797,7 +10710,7 @@
     "courseNameEn": "Energy Sources and  Sustainable Development",
     "lessons": [
       [
-        "PO202SP2019-*",
+        "PO202SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9810,11 +10723,11 @@
     "courseNameEn": "Health Psychology",
     "lessons": [
       [
-        "PS906SU2017-*",
+        "PS906SU2017-Guess",
         "SU2017"
       ],
       [
-        "PS906SP2019-*",
+        "PS906SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9827,7 +10740,7 @@
     "courseNameEn": "Positive Psychology",
     "lessons": [
       [
-        "PS907SP2019-*",
+        "PS907SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9840,7 +10753,7 @@
     "courseNameEn": "An Introduction of International Relations",
     "lessons": [
       [
-        "PU050SP2019-*",
+        "PU050SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9853,7 +10766,7 @@
     "courseNameEn": "Introduction of Political Science",
     "lessons": [
       [
-        "PU086SP2019-*",
+        "PU086SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9866,7 +10779,7 @@
     "courseNameEn": "Public Economics",
     "lessons": [
       [
-        "PU230SP2018-*",
+        "PU230SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9879,7 +10792,7 @@
     "courseNameEn": "Contemporary Diplomacy of China",
     "lessons": [
       [
-        "PU914SP2016-*",
+        "PU914SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -9892,7 +10805,7 @@
     "courseNameEn": "Sanskrit(1)",
     "lessons": [
       [
-        "SA001FA2019-*",
+        "SA001FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -9905,7 +10818,7 @@
     "courseNameEn": "Principle and Technology of Database",
     "lessons": [
       [
-        "SE223SP2018-*",
+        "SE223SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -9918,7 +10831,7 @@
     "courseNameEn": "Technology for Web Developing",
     "lessons": [
       [
-        "SE228SP2019-*",
+        "SE228SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9931,7 +10844,7 @@
     "courseNameEn": "Operating Systems",
     "lessons": [
       [
-        "SE315SP2019-*",
+        "SE315SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9944,7 +10857,7 @@
     "courseNameEn": "Game Designing and Programming",
     "lessons": [
       [
-        "SE341SP2019-*",
+        "SE341SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9957,7 +10870,7 @@
     "courseNameEn": "Distributed system",
     "lessons": [
       [
-        "SE347SP2019-*",
+        "SE347SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9970,7 +10883,7 @@
     "courseNameEn": "Program Analysis and Verification",
     "lessons": [
       [
-        "SE353SP2019-*",
+        "SE353SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -9983,7 +10896,7 @@
     "courseNameEn": "Sensibility Psychology",
     "lessons": [
       [
-        "SO004FA2019-*",
+        "SO004FA2019-Guess",
         "FA2019"
       ]
     ],
@@ -9996,7 +10909,7 @@
     "courseNameEn": "Self-help Psychology",
     "lessons": [
       [
-        "SO018SP2019-*",
+        "SO018SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10009,11 +10922,11 @@
     "courseNameEn": "Science Fiction and External History Of Science",
     "lessons": [
       [
-        "SO074SP2016-*",
+        "SO074SP2016-Guess",
         "SP2016"
       ],
       [
-        "SO074SP2019-*",
+        "SO074SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10026,7 +10939,7 @@
     "courseNameEn": "Postwar Society in Japan",
     "lessons": [
       [
-        "SO077SP2019-*",
+        "SO077SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10039,7 +10952,7 @@
     "courseNameEn": "Excellence in Leadership: the Way to Success",
     "lessons": [
       [
-        "SO078SP2019-*",
+        "SO078SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10052,7 +10965,7 @@
     "courseNameEn": "An Introductory Course of Ancient Greek Civilization",
     "lessons": [
       [
-        "SO904SU2017-*",
+        "SO904SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -10065,7 +10978,7 @@
     "courseNameEn": "Introduction to Taiwan Studies",
     "lessons": [
       [
-        "SO906SP2019-*",
+        "SO906SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10078,11 +10991,11 @@
     "courseNameEn": "Career Development and Planning",
     "lessons": [
       [
-        "SO936SP2016-*",
+        "SO936SP2016-Guess",
         "SP2016"
       ],
       [
-        "SO936SP2018-*",
+        "SO936SP2018-Guess",
         "SP2018"
       ]
     ],
@@ -10095,7 +11008,7 @@
     "courseNameEn": "Aerospace Technology -- History and Perspective",
     "lessons": [
       [
-        "SP062FA2015-*",
+        "SP062FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -10108,7 +11021,7 @@
     "courseNameEn": "Introduction Nanotechnology and Future World",
     "lessons": [
       [
-        "SP154SP2016-*",
+        "SP154SP2016-Guess",
         "SP2016"
       ]
     ],
@@ -10121,11 +11034,11 @@
     "courseNameEn": "Technology and Development Trendancy of Modern Vehicle",
     "lessons": [
       [
-        "SP180FA2015-*",
+        "SP180FA2015-Guess",
         "FA2015"
       ],
       [
-        "SP180FA2016-*",
+        "SP180FA2016-Guess",
         "FA2016"
       ]
     ],
@@ -10138,7 +11051,7 @@
     "courseNameEn": "Miracles at Absolute Zero: Superfluidity and SuperConductivity",
     "lessons": [
       [
-        "SP190SU2017-*",
+        "SP190SU2017-Guess",
         "SU2017"
       ]
     ],
@@ -10151,7 +11064,7 @@
     "courseNameEn": "Advanced Technology of Carbon Dioxide Utilization",
     "lessons": [
       [
-        "SP219FA2015-*",
+        "SP219FA2015-Guess",
         "FA2015"
       ]
     ],
@@ -10164,7 +11077,7 @@
     "courseNameEn": "Internet of Vehicles and Intelligent Cities",
     "lessons": [
       [
-        "SP234SP2015-*",
+        "SP234SP2015-Guess",
         "SP2015"
       ]
     ],
@@ -10177,27 +11090,27 @@
     "courseNameEn": "Circumstance and Policy",
     "lessons": [
       [
-        "TH009FA2014-*",
+        "TH009FA2014-Guess",
         "FA2014"
       ],
       [
-        "TH009SP2015-*",
+        "TH009SP2015-Guess",
         "SP2015"
       ],
       [
-        "TH009FA2015-*",
+        "TH009FA2015-Guess",
         "FA2015"
       ],
       [
-        "TH009SP2016-*",
+        "TH009SP2016-Guess",
         "SP2016"
       ],
       [
-        "TH009FA2016-*",
+        "TH009FA2016-Guess",
         "FA2016"
       ],
       [
-        "TH009SP2017-*",
+        "TH009SP2017-Guess",
         "SP2017"
       ]
     ],
@@ -10210,7 +11123,7 @@
     "courseNameEn": "Communication and Presentation",
     "lessons": [
       [
-        "TY002SP2019-*",
+        "TY002SP2019-Guess",
         "SP2019"
       ]
     ],
@@ -10223,11 +11136,50 @@
     "courseNameEn": "Understanding Teamwork Job Skills",
     "lessons": [
       [
-        "TY003SP2018-*",
+        "TY003SP2018-Guess",
         "SP2018"
       ]
     ],
     "terms": "SP2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "VB116",
+    "courseName": "VB116",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VB116-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VE484",
+    "courseName": "数据挖掘",
+    "courseNameEn": "Data Mining",
+    "lessons": [
+      [
+        "VE484-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VF101",
+    "courseName": "VF101",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VF101-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10236,11 +11188,15 @@
     "courseNameEn": "",
     "lessons": [
       [
-        "VF457SP2015-*",
+        "VF457-Guess",
+        ""
+      ],
+      [
+        "VF457SP2015-Guess",
         "SP2015"
       ]
     ],
-    "terms": "SP2015",
+    "terms": ", SP2015",
     "priority": 1
   },
   {
@@ -10249,11 +11205,54 @@
     "courseNameEn": "Advanced Energy Solutions",
     "lessons": [
       [
-        "VM433FA2014-*",
+        "VM433-Guess",
+        ""
+      ],
+      [
+        "VM433FA2014-Guess",
         "FA2014"
       ]
     ],
-    "terms": "FA2014",
+    "terms": ", FA2014",
+    "priority": 1
+  },
+  {
+    "courseCode": "VM440",
+    "courseName": "中级动力学与振动",
+    "courseNameEn": "Intermediate Dynamics and Vibrations",
+    "lessons": [
+      [
+        "VM440-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VM481",
+    "courseName": "制造过程",
+    "courseNameEn": "Manufacturing Processes ",
+    "lessons": [
+      [
+        "VM481-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VM482",
+    "courseName": "加工过程",
+    "courseNameEn": "Machining Processes",
+    "lessons": [
+      [
+        "VM482-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10262,11 +11261,41 @@
     "courseNameEn": "Walt Disney in Contemporary Culture",
     "lessons": [
       [
-        "VR201SP2016-*",
+        "VR201-Guess",
+        ""
+      ],
+      [
+        "VR201SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR204",
+    "courseName": "近代亚洲史：殖民主义、反殖民主义与国家的形成",
+    "courseNameEn": "Modern Asia: colonialism, anti-colonialism and state formation",
+    "lessons": [
+      [
+        "VR204-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR205",
+    "courseName": "VR205",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VR205-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10275,11 +11304,15 @@
     "courseNameEn": "Children's Literature",
     "lessons": [
       [
-        "VR239SP2016-*",
+        "VR239-Guess",
+        ""
+      ],
+      [
+        "VR239SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
     "priority": 1
   },
   {
@@ -10288,11 +11321,28 @@
     "courseNameEn": "Introduction to Drama and Theatre",
     "lessons": [
       [
-        "VR245SP2016-*",
+        "VR245-Guess",
+        ""
+      ],
+      [
+        "VR245SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR260",
+    "courseName": "VR260",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VR260-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10301,11 +11351,15 @@
     "courseNameEn": "The Emergence of Modern America,1865 to the Present",
     "lessons": [
       [
-        "VR261SP2016-*",
+        "VR261-Guess",
+        ""
+      ],
+      [
+        "VR261SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
     "priority": 1
   },
   {
@@ -10314,15 +11368,19 @@
     "courseNameEn": "Introduction to the Philosophy of Religion",
     "lessons": [
       [
-        "VR262SP2015-*",
+        "VR262-Guess",
+        ""
+      ],
+      [
+        "VR262SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR262SP2016-*",
+        "VR262SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2015, SP2016",
+    "terms": ", SP2015, SP2016",
     "priority": 1
   },
   {
@@ -10331,11 +11389,15 @@
     "courseNameEn": "The United States Since 1945",
     "lessons": [
       [
-        "VR263SP2016-*",
+        "VR263-Guess",
+        ""
+      ],
+      [
+        "VR263SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
     "priority": 1
   },
   {
@@ -10344,11 +11406,15 @@
     "courseNameEn": "The American Century:The US in the World since 1898",
     "lessons": [
       [
-        "VR264SP2015-*",
+        "VR264-Guess",
+        ""
+      ],
+      [
+        "VR264SP2015-Guess",
         "SP2015"
       ]
     ],
-    "terms": "SP2015",
+    "terms": ", SP2015",
     "priority": 1
   },
   {
@@ -10357,15 +11423,32 @@
     "courseNameEn": "The Western Mind in Revolution",
     "lessons": [
       [
-        "VR275SP2015-*",
+        "VR275-Guess",
+        ""
+      ],
+      [
+        "VR275SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR275SP2016-*",
+        "VR275SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2015, SP2016",
+    "terms": ", SP2015, SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR290",
+    "courseName": "VR290",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VR290-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10374,11 +11457,28 @@
     "courseNameEn": "American Intellectual History",
     "lessons": [
       [
-        "VR310SP2015-*",
+        "VR310-Guess",
+        ""
+      ],
+      [
+        "VR310SP2015-Guess",
         "SP2015"
       ]
     ],
-    "terms": "SP2015",
+    "terms": ", SP2015",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR367",
+    "courseName": "全球企业和可持续发展",
+    "courseNameEn": "Global Enterprise and Sustainalbe Development",
+    "lessons": [
+      [
+        "VR367-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10387,15 +11487,45 @@
     "courseNameEn": "Topics in Asian Studies",
     "lessons": [
       [
-        "VR380SP2015-*",
+        "VR380-Guess",
+        ""
+      ],
+      [
+        "VR380SP2015-Guess",
         "SP2015"
       ],
       [
-        "VR380SP2016-*",
+        "VR380SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2015, SP2016",
+    "terms": ", SP2015, SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR399",
+    "courseName": "多元文化适应",
+    "courseNameEn": "Multicultural Adaptation in the United States",
+    "lessons": [
+      [
+        "VR399-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VR440",
+    "courseName": "VR440",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VR440-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10404,15 +11534,19 @@
     "courseNameEn": "Applied Calculus I",
     "lessons": [
       [
-        "VV155FA2014-*",
+        "VV155-Guess",
+        ""
+      ],
+      [
+        "VV155FA2014-Guess",
         "FA2014"
       ],
       [
-        "VV155FA2015-*",
+        "VV155FA2015-Guess",
         "FA2015"
       ]
     ],
-    "terms": "FA2014, FA2015",
+    "terms": ", FA2014, FA2015",
     "priority": 1
   },
   {
@@ -10421,11 +11555,15 @@
     "courseNameEn": "German I",
     "lessons": [
       [
-        "VW100FA2015-*",
+        "VW100-Guess",
+        ""
+      ],
+      [
+        "VW100FA2015-Guess",
         "FA2015"
       ]
     ],
-    "terms": "FA2015",
+    "terms": ", FA2015",
     "priority": 1
   },
   {
@@ -10434,11 +11572,41 @@
     "courseNameEn": "German II",
     "lessons": [
       [
-        "VW200FA2015-*",
+        "VW200-Guess",
+        ""
+      ],
+      [
+        "VW200FA2015-Guess",
         "FA2015"
       ]
     ],
-    "terms": "FA2015",
+    "terms": ", FA2015",
+    "priority": 1
+  },
+  {
+    "courseCode": "VW300",
+    "courseName": "德语（J类）（3）",
+    "courseNameEn": "German Ⅲ",
+    "lessons": [
+      [
+        "VW300-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VW400",
+    "courseName": "德语（4）",
+    "courseNameEn": "German Ⅳ",
+    "lessons": [
+      [
+        "VW400-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10447,15 +11615,19 @@
     "courseNameEn": "Leadership and Management",
     "lessons": [
       [
-        "VX203SP2016-*",
+        "VX203-Guess",
+        ""
+      ],
+      [
+        "VX203SP2016-Guess",
         "SP2016"
       ],
       [
-        "VX203SP2017-*",
+        "VX203SP2017-Guess",
         "SP2017"
       ]
     ],
-    "terms": "SP2016, SP2017",
+    "terms": ", SP2016, SP2017",
     "priority": 1
   },
   {
@@ -10464,11 +11636,15 @@
     "courseNameEn": "Interpersonal Communication: Social and Cross-Cultural Communication Skills",
     "lessons": [
       [
-        "VX310SP2017-*",
+        "VX310-Guess",
+        ""
+      ],
+      [
+        "VX310SP2017-Guess",
         "SP2017"
       ]
     ],
-    "terms": "SP2017",
+    "terms": ", SP2017",
     "priority": 1
   },
   {
@@ -10477,11 +11653,15 @@
     "courseNameEn": "",
     "lessons": [
       [
-        "VX401FA2014-*",
+        "VX401-Guess",
+        ""
+      ],
+      [
+        "VX401FA2014-Guess",
         "FA2014"
       ]
     ],
-    "terms": "FA2014",
+    "terms": ", FA2014",
     "priority": 1
   },
   {
@@ -10490,11 +11670,28 @@
     "courseNameEn": "",
     "lessons": [
       [
-        "VX421FA2014-*",
+        "VX421-Guess",
+        ""
+      ],
+      [
+        "VX421FA2014-Guess",
         "FA2014"
       ]
     ],
-    "terms": "FA2014",
+    "terms": ", FA2014",
+    "priority": 1
+  },
+  {
+    "courseCode": "VY125",
+    "courseName": "写作和学术探求",
+    "courseNameEn": "Writing and Academic Inquiry",
+    "lessons": [
+      [
+        "VY125-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10503,11 +11700,28 @@
     "courseNameEn": "Writing in Public Spaces",
     "lessons": [
       [
-        "VY201SP2016-*",
+        "VY201-Guess",
+        ""
+      ],
+      [
+        "VY201SP2016-Guess",
         "SP2016"
       ]
     ],
-    "terms": "SP2016",
+    "terms": ", SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "VY311",
+    "courseName": "电视剧本创作",
+    "courseNameEn": "Writing for Television",
+    "lessons": [
+      [
+        "VY311-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10516,11 +11730,15 @@
     "courseNameEn": "Art of the Essay",
     "lessons": [
       [
-        "VY325SP2015-*",
+        "VY325-Guess",
+        ""
+      ],
+      [
+        "VY325SP2015-Guess",
         "SP2015"
       ]
     ],
-    "terms": "SP2015",
+    "terms": ", SP2015",
     "priority": 1
   },
   {
@@ -10529,11 +11747,54 @@
     "courseNameEn": "",
     "lessons": [
       [
-        "VZ001FA2014-*",
+        "VZ001-Guess",
+        ""
+      ],
+      [
+        "VZ001FA2014-Guess",
         "FA2014"
       ]
     ],
-    "terms": "FA2014",
+    "terms": ", FA2014",
+    "priority": 1
+  },
+  {
+    "courseCode": "Vz104",
+    "courseName": "Vz104",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "Vz104-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VZ105",
+    "courseName": "VZ105",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VZ105-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "VZ106",
+    "courseName": "VZ106",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "VZ106-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
     "priority": 1
   },
   {
@@ -10542,7 +11803,7 @@
     "courseNameEn": "Sun Tzu’s Art of War",
     "lessons": [
       [
-        "WA901SP2019-*",
+        "WA901SP2019-Guess",
         "SP2019"
       ]
     ],
