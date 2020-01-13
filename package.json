@@ -1,6 +1,6 @@
 {
   "name": "typescript-react-mobx-boilerplate",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "A frontend boilerplate with React, MobX and Typescript",
   "main": "index.js",

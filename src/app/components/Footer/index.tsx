@@ -1,5 +1,6 @@
 import * as React from 'react';
 import {Grid, Link} from '@material-ui/core';
+import packageData from 'app/../../package.json';
 
 export interface FooterProps {
 }
@@ -13,7 +14,7 @@ export class Footer extends React.Component<FooterProps, FooterState> {
       <footer>
         <br/>
         <Grid container justify="flex-end">
-          Powered by&nbsp;
+          Version {packageData.version}, Powered by&nbsp;
           <Link href="https://github.com/tc-imba" target="_blank">tc-imba</Link>,
           Copyright 2019-2020
         </Grid>

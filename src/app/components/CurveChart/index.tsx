@@ -84,7 +84,7 @@ const BarSeriesPointBase = ({index, color, ...restProps}) => {
 };*/
 
 const PieSeriesPointBase = ({index, color, endAngle, ...restProps}) => {
-  if (index >= 2 && index % 2 == 0 && endAngle == Math.PI * 2) {
+  if (index >= 2 && index % 2 == 0 && Math.abs(endAngle - Math.PI * 2) < 1e-5) {
     color = colors[2];
   } else {
     color = colors[index % 2];
@@ -130,12 +130,13 @@ const LegendItem = withStyles(legendItemStyles, {name: 'LegendItem'})(
 export class CurveChart extends React.Component<CurveChartProps, CurveChartState> {
   constructor(props: CurveChartProps, context: any) {
     super(props, context);
+    const chartData = CurveChart.getChartData(props.data, props.chartType,
+      props.hideUnknown, props.hideZero);
     this.state = {
       hover: null,
       tooltipTarget: null,
-      totalCount: CurveChart.getTotalCount(props.data),
-      chartData: CurveChart.getChartData(props.data, props.chartType,
-        props.hideUnknown, props.hideZero),
+      totalCount: CurveChart.getTotalCount(chartData),
+      chartData: chartData,
     };
   }
 
@@ -144,12 +145,14 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
   }
 
   static getChartData(
-    data: ScoreData[], chartType: string, hideUnknown: boolean, hideZero: boolean) {
+    data: ScoreData[], chartType: string, hideUnknown: boolean,
+    hideZero: boolean) {
     let newData = data;
     if (hideZero || chartType === 'pie') {
       newData = _.filter(data, scoreData => scoreData.count != 0);
     }
-    if (hideUnknown && newData.length > 0 && _.last(newData).grade === 'Unknown') {
+    if (hideUnknown && newData.length > 0 && _.last(newData).grade ===
+      'Unknown') {
       newData = _.slice(newData, 0, newData.length - 1);
     }
     return newData;
@@ -166,21 +169,20 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
   componentDidUpdate(
     prevProps: Readonly<CurveChartProps>,
     prevState: Readonly<CurveChartState>, snapshot?: any) {
-    if (this.props.lessonClassCode !== prevProps.lessonClassCode) {
-      this.setState({
-        totalCount: CurveChart.getTotalCount(this.props.data),
-        chartData: CurveChart.getChartData(this.props.data,
-          this.props.chartType, this.props.hideUnknown, this.props.hideZero),
-      });
-    } else if (this.props.chartType !== prevProps.chartType ||
-      this.props.hideUnknown !== prevProps.hideUnknown ||
-      this.props.hideZero !== prevProps.hideZero
+    if (this.props.lessonClassCode === prevProps.lessonClassCode) {
+      return;
+    } else if (this.props.chartType === prevProps.chartType &&
+      this.props.hideUnknown === prevProps.hideUnknown &&
+      this.props.hideZero === prevProps.hideZero
     ) {
-      this.setState({
-        chartData: CurveChart.getChartData(this.props.data,
-          this.props.chartType, this.props.hideUnknown, this.props.hideZero),
-      });
+      return;
     }
+    const chartData = CurveChart.getChartData(this.props.data,
+      this.props.chartType, this.props.hideUnknown, this.props.hideZero);
+    this.setState({
+      totalCount: CurveChart.getTotalCount(chartData),
+      chartData: chartData,
+    });
   }
 
   onChangeHover(hover) {

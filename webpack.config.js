@@ -166,7 +166,8 @@ module.exports = {
       disable: !isProduction
     }),
     new HtmlWebpackPlugin({
-      template: 'assets/index.html'
+      template: 'assets/index.html',
+      favicon: 'assets/favicon.ico',
     })
   ],
   devServer: {
