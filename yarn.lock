@@ -5230,9 +5230,9 @@ react-double-scrollbar@0.0.15:
   resolved "https://registry.yarnpkg.com/react-double-scrollbar/-/react-double-scrollbar-0.0.15.tgz#e915ab8cb3b959877075f49436debfdb04288fe4"
   integrity sha1-6RWrjLO5WYdwdfSUNt6/2wQoj+Q=
 
-"react-github-button@link:../WebstormProjects/react-github-button":
-  version "0.0.0"
-  uid ""
+react-github-button@tc-imba/react-github-button#typescript:
+  version "1.0.0"
+  resolved "https://codeload.github.com/tc-imba/react-github-button/tar.gz/907c59a165398f8c643cd4ceba71a6acd21afcf1"
 
 react-hot-loader@^4.6.3:
   version "4.12.18"
