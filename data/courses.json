@@ -135,9 +135,13 @@
       [
         "PE001FA2019-10",
         "FA2019-10"
+      ],
+      [
+        "PE001FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -421,9 +425,53 @@
       [
         "PE003FA2019-10",
         "FA2019-10"
+      ],
+      [
+        "PE003FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "PE003FA2020-2",
+        "FA2020-2"
+      ],
+      [
+        "PE003FA2020-3",
+        "FA2020-3"
+      ],
+      [
+        "PE003FA2020-4",
+        "FA2020-4"
+      ],
+      [
+        "PE003FA2020-5",
+        "FA2020-5"
+      ],
+      [
+        "PE003FA2020-6",
+        "FA2020-6"
+      ],
+      [
+        "PE003FA2020-7",
+        "FA2020-7"
+      ],
+      [
+        "PE003FA2020-8",
+        "FA2020-8"
+      ],
+      [
+        "PE003FA2020-9",
+        "FA2020-9"
+      ],
+      [
+        "PE003FA2020-10",
+        "FA2020-10"
+      ],
+      [
+        "PE003FA2020-11",
+        "FA2020-11"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -670,10 +718,6 @@
         "SP2019-4"
       ],
       [
-        "TH004FA2019-Guess",
-        "FA2019"
-      ],
-      [
         "TH004SP2020-1",
         "SP2020-1"
       ],
@@ -690,7 +734,7 @@
         "SP2020-4"
       ]
     ],
-    "terms": "SP2015, FA2015, SP2016, SU2017, SP2018, SP2019, FA2019, SP2020",
+    "terms": "SP2015, FA2015, SP2016, SU2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -758,9 +802,13 @@
       [
         "TH010SP2019",
         "SP2019"
+      ],
+      [
+        "TH010SP2020-1",
+        "SP2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SP2018, SP2019",
+    "terms": "SP2015, SP2016, SU2017, SP2018, SP2019, SP2020",
     "priority": 0
   },
   {
@@ -856,9 +904,17 @@
       [
         "TH020SP2020-2",
         "SP2020-2"
+      ],
+      [
+        "TH020FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "TH020FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2016, SP2017, SU2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "FA2016, SP2017, SU2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -922,9 +978,17 @@
       [
         "TH028FA2019-2",
         "FA2019-2"
+      ],
+      [
+        "TH028FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "TH028FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2018, SP2019, FA2019",
+    "terms": "FA2018, SP2019, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -964,9 +1028,13 @@
       [
         "VC209FA2019",
         "FA2019"
+      ],
+      [
+        "VC209FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2019",
+    "terms": "FA2017, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -1013,9 +1081,17 @@
       [
         "VC210FA2019-2-Evening",
         "FA2019-Evening"
+      ],
+      [
+        "VC210FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VC210FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -1136,6 +1212,10 @@
         "SP2019-12"
       ],
       [
+        "VC211SP2020",
+        "SP2020"
+      ],
+      [
         "VC211SP2020-1",
         "SP2020-1"
       ],
@@ -1182,9 +1262,101 @@
       [
         "VC211SP2020-12",
         "SP2020-12"
+      ],
+      [
+        "VC211SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VC211SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VC211SU2020-3",
+        "SU2020-3"
+      ],
+      [
+        "VC211SU2020-4",
+        "SU2020-4"
+      ],
+      [
+        "VC211SU2020-5",
+        "SU2020-5"
+      ],
+      [
+        "VC211SU2020-6",
+        "SU2020-6"
+      ],
+      [
+        "VC211SU2020-7",
+        "SU2020-7"
+      ],
+      [
+        "VC211SU2020-8",
+        "SU2020-8"
+      ],
+      [
+        "VC211SU2020-9",
+        "SU2020-9"
+      ],
+      [
+        "VC211SU2020-10",
+        "SU2020-10"
+      ],
+      [
+        "VC211SU2020-11",
+        "SU2020-11"
+      ],
+      [
+        "VC211SU2020-12",
+        "SU2020-12"
+      ],
+      [
+        "VC211FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VC211FA2020-2",
+        "FA2020-2"
+      ],
+      [
+        "VC211FA2020-3",
+        "FA2020-3"
+      ],
+      [
+        "VC211FA2020-4",
+        "FA2020-4"
+      ],
+      [
+        "VC211FA2020-5",
+        "FA2020-5"
+      ],
+      [
+        "VC211FA2020-6",
+        "FA2020-6"
+      ],
+      [
+        "VC211FA2020-7",
+        "FA2020-7"
+      ],
+      [
+        "VC211FA2020-8",
+        "FA2020-8"
+      ],
+      [
+        "VC211FA2020-9",
+        "FA2020-9"
+      ],
+      [
+        "VC211FA2020-10",
+        "FA2020-10"
+      ],
+      [
+        "VC211FA2020-11",
+        "FA2020-11"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
+    "terms": "SP2015, SP2016, SP2017, SP2018, SP2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1236,9 +1408,17 @@
       [
         "VE203FA2019",
         "FA2019"
+      ],
+      [
+        "VE203SU2020",
+        "SU2020"
+      ],
+      [
+        "VE203FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2015, FA2016, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1281,9 +1461,21 @@
       [
         "VE215FA2019",
         "FA2019"
+      ],
+      [
+        "VE215SU2020",
+        "SU2020"
+      ],
+      [
+        "VE215FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VE215FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1342,9 +1534,13 @@
       [
         "VE216SP2020",
         "SP2020"
+      ],
+      [
+        "VE216SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020, SU2020",
     "priority": 0
   },
   {
@@ -1383,9 +1579,21 @@
       [
         "VE230FA2019",
         "FA2019"
+      ],
+      [
+        "VE230SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VE230SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VE230FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1440,9 +1648,17 @@
       [
         "VE270FA2019",
         "FA2019"
+      ],
+      [
+        "VE270SU2020",
+        "SU2020"
+      ],
+      [
+        "VE270FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "SP2015, SP2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1485,9 +1701,17 @@
       [
         "VE280FA2019",
         "FA2019"
+      ],
+      [
+        "VE280SU2020",
+        "SU2020"
+      ],
+      [
+        "VE280FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, FA2019",
+    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1518,9 +1742,17 @@
       [
         "VE281FA2019",
         "FA2019"
+      ],
+      [
+        "VE281SU2020",
+        "SU2020"
+      ],
+      [
+        "VE281FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2016, FA2017, FA2018, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1615,9 +1847,33 @@
       [
         "VE300SP2020-2",
         "SP2020-2"
+      ],
+      [
+        "VE300SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VE300SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VE300SU2020-3",
+        "SU2020-3"
+      ],
+      [
+        "VE300FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VE300FA2020-2",
+        "FA2020-2"
+      ],
+      [
+        "VE300FA2020-3",
+        "FA2020-3"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "SP2016, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1652,9 +1908,17 @@
       [
         "VE311FA2019",
         "FA2019"
+      ],
+      [
+        "VE311SU2020",
+        "SU2020"
+      ],
+      [
+        "VE311FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2016, SU2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "SP2016, SU2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1681,9 +1945,13 @@
       [
         "VE312FA2019",
         "FA2019"
+      ],
+      [
+        "VE312FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, FA2017, FA2018, FA2019",
+    "terms": "SU2017, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -1718,9 +1986,17 @@
       [
         "VE320FA2019",
         "FA2019"
+      ],
+      [
+        "VE320SU2020",
+        "SU2020"
+      ],
+      [
+        "VE320FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019, FA2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1747,9 +2023,26 @@
       [
         "VE334FA2019",
         "FA2019"
+      ],
+      [
+        "VE334FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE351",
+    "courseName": "数字信号处理与分析",
+    "courseNameEn": "Digital Signal Processing and Analysis",
+    "lessons": [
+      [
+        "VE351SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -1780,9 +2073,17 @@
       [
         "VE370FA2019",
         "FA2019"
+      ],
+      [
+        "VE370SU2020",
+        "SU2020"
+      ],
+      [
+        "VE370FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, SU2019, FA2019",
+    "terms": "FA2016, FA2017, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -1850,9 +2151,13 @@
       [
         "VE401SP2020",
         "SP2020"
+      ],
+      [
+        "VE401SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020, SU2020",
     "priority": 0
   },
   {
@@ -1892,9 +2197,13 @@
       [
         "VE413FA2019",
         "FA2019"
+      ],
+      [
+        "VE413SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, SU2020",
     "priority": 0
   },
   {
@@ -1909,9 +2218,13 @@
       [
         "VE414FA2019",
         "FA2019"
+      ],
+      [
+        "VE414SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019, FA2019",
+    "terms": "SU2019, FA2019, SU2020",
     "priority": 0
   },
   {
@@ -1949,6 +2262,19 @@
     "priority": 0
   },
   {
+    "courseCode": "VE421",
+    "courseName": "晶体管特性",
+    "courseNameEn": "Properties of Transistors",
+    "lessons": [
+      [
+        "VE421SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
+    "priority": 0
+  },
+  {
     "courseCode": "VE434",
     "courseName": "光子学导论",
     "courseNameEn": "Principles of Photonics",
@@ -1968,9 +2294,13 @@
       [
         "VE434SU2018",
         "SU2018"
+      ],
+      [
+        "VE434SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018",
+    "terms": "SU2017, FA2017, SU2018, SU2020",
     "priority": 0
   },
   {
@@ -1993,9 +2323,43 @@
       [
         "VE438SU2019",
         "SU2019"
+      ],
+      [
+        "VE438SU2020",
+        "SU2020"
+      ],
+      [
+        "VE438FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE441",
+    "courseName": "面向创业者的移动应用程序开发",
+    "courseNameEn": "App Development for Entrepreneurs ",
+    "lessons": [
+      [
+        "VE441SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE444",
+    "courseName": "网络",
+    "courseNameEn": "Networks",
+    "lessons": [
+      [
+        "VE444FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -2010,9 +2374,17 @@
       [
         "VE445FA2019",
         "FA2019"
+      ],
+      [
+        "VE445SU2020",
+        "SU2020"
+      ],
+      [
+        "VE445FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2019, FA2019",
+    "terms": "SP2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2068,9 +2440,17 @@
       [
         "VE450FA2019",
         "FA2019"
+      ],
+      [
+        "VE450SU2020",
+        "SU2020"
+      ],
+      [
+        "VE450FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2114,9 +2494,26 @@
       [
         "VE455FA2019",
         "FA2019"
+      ],
+      [
+        "VE455FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE456",
+    "courseName": "量子信息与计算",
+    "courseNameEn": "Quantum Information and Computation",
+    "lessons": [
+      [
+        "VE456SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -2156,9 +2553,13 @@
       [
         "VE460SU2019",
         "SU2019"
+      ],
+      [
+        "VE460SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2017, SU2019",
+    "terms": "FA2017, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -2169,9 +2570,13 @@
       [
         "VE472SU2019",
         "SU2019"
+      ],
+      [
+        "VE472SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -2198,9 +2603,13 @@
       [
         "VE475SU2019",
         "SU2019"
+      ],
+      [
+        "VE475SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -2223,9 +2632,13 @@
       [
         "VE477FA2019",
         "FA2019"
+      ],
+      [
+        "VE477FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -2248,9 +2661,26 @@
       [
         "VE482FA2019",
         "FA2019"
+      ],
+      [
+        "VE482FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE485",
+    "courseName": "机器学习中的优化",
+    "courseNameEn": "Optimization in Machine Learning",
+    "lessons": [
+      [
+        "VE485SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -2282,9 +2712,13 @@
       [
         "VE489SU2019",
         "SU2019"
+      ],
+      [
+        "VE489SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -2331,9 +2765,17 @@
       [
         "VE490SP2020",
         "SP2020"
+      ],
+      [
+        "VE490SU2020",
+        "SU2020"
+      ],
+      [
+        "VE490FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2348,9 +2790,13 @@
       [
         "VE492FA2019",
         "FA2019"
+      ],
+      [
+        "VE492SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2018, FA2019",
+    "terms": "SP2018, FA2019, SU2020",
     "priority": 0
   },
   {
@@ -2401,9 +2847,25 @@
       [
         "VE496SP2020",
         "SP2020"
+      ],
+      [
+        "VE496SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VE496SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VE496FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VE496FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SP2020",
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2426,9 +2888,13 @@
       [
         "VE501FA2019",
         "FA2019"
+      ],
+      [
+        "VE501FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -2451,9 +2917,13 @@
       [
         "VE504FA2019",
         "FA2019"
+      ],
+      [
+        "VE504FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -2485,9 +2955,13 @@
       [
         "VE508SU2018",
         "SU2018"
+      ],
+      [
+        "VE508SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2018",
+    "terms": "SU2018, SU2020",
     "priority": 0
   },
   {
@@ -2506,9 +2980,13 @@
       [
         "VE509FA2019",
         "FA2019"
+      ],
+      [
+        "VE509FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2018, FA2018, FA2019",
+    "terms": "SU2018, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -2569,9 +3047,13 @@
       [
         "VE534FA2018",
         "FA2018"
+      ],
+      [
+        "VE534FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018",
+    "terms": "FA2017, FA2018, FA2020",
     "priority": 0
   },
   {
@@ -2620,9 +3102,26 @@
       [
         "VE540FA2019",
         "FA2019"
+      ],
+      [
+        "VE540FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VE545",
+    "courseName": "机器学习中的优化",
+    "courseNameEn": "Optimization in Machine Learning",
+    "lessons": [
+      [
+        "VE545SP2020",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2020",
     "priority": 0
   },
   {
@@ -2667,9 +3166,13 @@
       [
         "VE556FA2018",
         "FA2018"
+      ],
+      [
+        "VE556FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018",
+    "terms": "FA2018, FA2020",
     "priority": 0
   },
   {
@@ -2723,9 +3226,13 @@
       [
         "VE593FA2018",
         "FA2018"
+      ],
+      [
+        "VE593FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018",
+    "terms": "FA2018, FA2020",
     "priority": 0
   },
   {
@@ -2753,9 +3260,13 @@
       [
         "Ve662SP2020",
         "SP2020"
+      ],
+      [
+        "VE662SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2020",
+    "terms": "SP2020, SU2020",
     "priority": 0
   },
   {
@@ -2766,9 +3277,13 @@
       [
         "VE663SP2018",
         "SP2018"
+      ],
+      [
+        "VE663FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, FA2020",
     "priority": 0
   },
   {
@@ -2779,9 +3294,13 @@
       [
         "VE666FA2018",
         "FA2018"
+      ],
+      [
+        "VE666FA2020-1",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018",
+    "terms": "FA2018, FA2020",
     "priority": 0
   },
   {
@@ -2792,9 +3311,13 @@
       [
         "Ve689FA2018",
         "FA2018"
+      ],
+      [
+        "VE689FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018",
+    "terms": "FA2018, FA2020",
     "priority": 0
   },
   {
@@ -2873,9 +3396,25 @@
       [
         "VG100FA2019",
         "FA2019"
+      ],
+      [
+        "VG100SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VG100SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VG100SU2020-3",
+        "SU2020-3"
+      ],
+      [
+        "VG100FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2942,9 +3481,21 @@
       [
         "VG101FA2019-2",
         "FA2019-2"
+      ],
+      [
+        "VG101SU2020",
+        "SU2020"
+      ],
+      [
+        "VG101FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VG101FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -2955,9 +3506,13 @@
       [
         "VG441SU2019",
         "SU2019"
+      ],
+      [
+        "VG441SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -2978,15 +3533,23 @@
         "FA2018"
       ],
       [
+        "VG450FA2019",
+        "FA2019"
+      ],
+      [
         "VG450FA2019-1",
         "FA2019-1"
       ],
       [
         "VG450FA2019-2",
         "FA2019-2"
+      ],
+      [
+        "VG450FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -3078,9 +3641,33 @@
       [
         "VG496FA2019-2",
         "FA2019-2"
+      ],
+      [
+        "VG496SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VG496SU2020-2",
+        "SU2020-2"
+      ],
+      [
+        "VG496SU2020-3",
+        "SU2020-3"
+      ],
+      [
+        "VG496FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VG496FA2020-2",
+        "FA2020-2"
+      ],
+      [
+        "VG496FA2020-3",
+        "FA2020-3"
       ]
     ],
-    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3115,9 +3702,17 @@
       [
         "VG500SP2020-2",
         "SP2020-2"
+      ],
+      [
+        "VG500SU2020-Manuel Charlemagne",
+        "SU2020-Manuel Charlemagne"
+      ],
+      [
+        "VG500SU2020-Michele Campbell",
+        "SU2020-Michele Campbell"
       ]
     ],
-    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "FA2017, SP2018, FA2018, SP2019, FA2019, SP2020, SU2020",
     "priority": 0
   },
   {
@@ -3127,14 +3722,99 @@
     "lessons": [
       [
         "VG501FA2019-1  Michele Campbell",
-        "FA2019-1"
+        "FA2019-1  Michele Campbell"
       ],
       [
         "VG501FA2019-2 Nathaniel Murray",
-        "FA2019-2"
+        "FA2019-2 Nathaniel Murray"
+      ],
+      [
+        "VG501FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VG501FA2020-2",
+        "FA2020-2"
       ]
     ],
-    "terms": "FA2019",
+    "terms": "FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VG502",
+    "courseName": "Graduate Technical Discourse",
+    "courseNameEn": "科技英语写作",
+    "lessons": [
+      [
+        "VG502FA2020-1-1",
+        "FA2020-1"
+      ],
+      [
+        "VG502FA2020-1-2",
+        "FA2020-2"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VG582",
+    "courseName": "研究生系列讲座 II",
+    "courseNameEn": "Graduate Seminar Series II",
+    "lessons": [
+      [
+        "VG582FA2020-1",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VJ110",
+    "courseName": "基础日语（1）",
+    "courseNameEn": "Basic Japanese I",
+    "lessons": [
+      [
+        "VJ110FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VJ110FA2020-2",
+        "FA2020-2"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VJ111",
+    "courseName": "基础日语（2）",
+    "courseNameEn": "Basic Japanese II",
+    "lessons": [
+      [
+        "VJ111FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VJ111FA2020-2",
+        "FA2020-2"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VK242",
+    "courseName": "材料物理",
+    "courseNameEn": "Physics of Materials",
+    "lessons": [
+      [
+        "VK242SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -3161,9 +3841,52 @@
       [
         "VK250SP2019",
         "SP2019"
+      ],
+      [
+        "VK250SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2016, SP2017, SP2018, SP2019",
+    "terms": "SP2016, SP2017, SP2018, SP2019, SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VK330",
+    "courseName": "材料热力学",
+    "courseNameEn": "Thermodynamics of Materials",
+    "lessons": [
+      [
+        "VK330FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VK350",
+    "courseName": "材料结构",
+    "courseNameEn": "Structure of Materials",
+    "lessons": [
+      [
+        "VK350FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VK360",
+    "courseName": "材料试验I",
+    "courseNameEn": "Materials Lab I",
+    "lessons": [
+      [
+        "VK360FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -3198,9 +3921,21 @@
       [
         "VM010SP2020",
         "SP2020"
+      ],
+      [
+        "VM010SP2020",
+        "SP2020"
+      ],
+      [
+        "VM010SU2020",
+        "SU2020"
+      ],
+      [
+        "VM010FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SP2019, SU2019, SP2020",
+    "terms": "SP2015, SU2017, SU2018, SP2019, SU2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3247,9 +3982,17 @@
       [
         "VM020SP2020",
         "SP2020"
+      ],
+      [
+        "VM020SU2020",
+        "SU2020"
+      ],
+      [
+        "VM020FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2016, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "SP2016, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3304,9 +4047,13 @@
       [
         "VM211SP2020",
         "SP2020"
+      ],
+      [
+        "VM211FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "FA2014, FA2015, FA2016, SP2017, FA2017, SP2018, FA2018, SP2019, SU2019, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -3353,9 +4100,17 @@
       [
         "VM235FA2019",
         "FA2019"
+      ],
+      [
+        "VM235SU2020",
+        "SU2020"
+      ],
+      [
+        "VM235FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "SP2015, SP2016, FA2016, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3374,10 +4129,6 @@
       [
         "VM240SP2016-Guess",
         "SP2016"
-      ],
-      [
-        "VM240SP2017-Guess",
-        "SP2017"
       ],
       [
         "VM240SU2017",
@@ -3402,9 +4153,13 @@
       [
         "VM240SP2020",
         "SP2020"
+      ],
+      [
+        "VM240SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": "SP2015, SP2016, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020, SU2020",
     "priority": 0
   },
   {
@@ -3451,9 +4206,21 @@
       [
         "VM250SP2020",
         "SP2020"
+      ],
+      [
+        "VM250SP2020",
+        "SP2020"
+      ],
+      [
+        "VM250SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VM250SU2020-2",
+        "SU2020-2"
       ]
     ],
-    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020",
+    "terms": "SP2015, SP2016, SP2017, SU2017, SP2018, SU2018, SP2019, SU2019, SP2020, SU2020",
     "priority": 0
   },
   {
@@ -3493,9 +4260,13 @@
       [
         "VM311FA2019",
         "FA2019"
+      ],
+      [
+        "VM311FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -3534,9 +4305,17 @@
       [
         "VM320FA2019",
         "FA2019"
+      ],
+      [
+        "VM320SU2020",
+        "SU2020"
+      ],
+      [
+        "VM320FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3563,9 +4342,13 @@
       [
         "VM335SU2019",
         "SU2019"
+      ],
+      [
+        "VM335SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -3588,9 +4371,13 @@
       [
         "VM350SU2019",
         "SU2019"
+      ],
+      [
+        "VM350SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -3617,9 +4404,13 @@
       [
         "VM360SU2019",
         "SU2019"
+      ],
+      [
+        "VM360SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -3666,9 +4457,13 @@
       [
         "VM382SP2020",
         "SP2020"
+      ],
+      [
+        "VM382FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SP2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "FA2014, SP2016, SP2017, FA2017, SP2018, FA2018, SP2019, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -3748,9 +4543,17 @@
       [
         "VM395FA2019-Lab S2",
         "FA2019-Lab S2"
+      ],
+      [
+        "VM395SU2020",
+        "SU2020"
+      ],
+      [
+        "VM395FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SP2015, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SP2015, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3846,9 +4649,13 @@
       [
         "VM434FA2018",
         "FA2018"
+      ],
+      [
+        "VM434FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018",
+    "terms": "FA2017, FA2018, FA2020",
     "priority": 0
   },
   {
@@ -3887,9 +4694,17 @@
       [
         "VM450FA2019",
         "FA2019"
+      ],
+      [
+        "VM450SU2020",
+        "SU2020"
+      ],
+      [
+        "VM450FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
+    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -3900,9 +4715,13 @@
       [
         "VM455FA2019",
         "FA2019"
+      ],
+      [
+        "VM455FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2019",
+    "terms": "FA2019, FA2020",
     "priority": 0
   },
   {
@@ -3925,9 +4744,13 @@
       [
         "VM458SU2019",
         "SU2019"
+      ],
+      [
+        "VM458SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2014, SU2018, SU2019",
+    "terms": "FA2014, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -3954,9 +4777,13 @@
       [
         "VM461FA2019",
         "FA2019"
+      ],
+      [
+        "VM461FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -3991,6 +4818,23 @@
       ]
     ],
     "terms": "SU2017, SU2018",
+    "priority": 0
+  },
+  {
+    "courseCode": "VM482",
+    "courseName": "加工过程",
+    "courseNameEn": "Machining Processes",
+    "lessons": [
+      [
+        "VM482-Guess",
+        ""
+      ],
+      [
+        "VM482SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -4037,9 +4881,17 @@
       [
         "VM490SP2020",
         "SP2020"
+      ],
+      [
+        "VM490SU2020",
+        "SU2020"
+      ],
+      [
+        "VM490FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -4078,22 +4930,17 @@
       [
         "VM495FA2019",
         "FA2019"
-      ]
-    ],
-    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019",
-    "priority": 0
-  },
-  {
-    "courseCode": "Vm505",
-    "courseName": "计算力学基础",
-    "courseNameEn": "Finite Element Methods",
-    "lessons": [
+      ],
       [
-        "Vm505SU2019",
-        "SU2019"
+        "VM495SU2020",
+        "SU2020"
+      ],
+      [
+        "VM495FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "FA2014, SU2017, FA2017, SU2018, FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -4108,9 +4955,13 @@
       [
         "VM508FA2018",
         "FA2018"
+      ],
+      [
+        "VM508FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2018, FA2018",
+    "terms": "SU2018, FA2018, FA2020",
     "priority": 0
   },
   {
@@ -4125,9 +4976,13 @@
       [
         "VM509SU2019",
         "SU2019"
+      ],
+      [
+        "VM509SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2018, SU2019",
+    "terms": "SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -4151,9 +5006,13 @@
       [
         "VM512FA2018",
         "FA2018"
+      ],
+      [
+        "VM512SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2018",
+    "terms": "FA2018, SU2020",
     "priority": 0
   },
   {
@@ -4168,9 +5027,13 @@
       [
         "VM513FA2019",
         "FA2019"
+      ],
+      [
+        "VM513FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": "FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -4223,9 +5086,13 @@
       [
         "VM518FA2019",
         "FA2019"
+      ],
+      [
+        "VM518FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -4257,9 +5124,13 @@
       [
         "VM523FA2017",
         "FA2017"
+      ],
+      [
+        "VM523SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2017",
+    "terms": "FA2017, SU2020",
     "priority": 0
   },
   {
@@ -4274,9 +5145,13 @@
       [
         "VM524FA2018",
         "FA2018"
+      ],
+      [
+        "VM524FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2018, FA2018",
+    "terms": "SU2018, FA2018, FA2020",
     "priority": 0
   },
   {
@@ -4368,9 +5243,13 @@
       [
         "VM552SU2019",
         "SU2019"
+      ],
+      [
+        "VM552SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -4385,9 +5264,13 @@
       [
         "VM555FA2019",
         "FA2019"
+      ],
+      [
+        "VM555FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": "FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -4415,9 +5298,30 @@
       [
         "VM565FA2019",
         "FA2019"
+      ],
+      [
+        "VM565FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2019",
+    "terms": "FA2017, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VM566",
+    "courseName": "网联汽车的动力学与控制",
+    "courseNameEn": "Dynamics and control of connected vehicles ",
+    "lessons": [
+      [
+        "VM566SP2020",
+        "SP2020"
+      ],
+      [
+        "VM566SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SP2020, SU2020",
     "priority": 0
   },
   {
@@ -4445,9 +5349,13 @@
       [
         "VM645SU2018",
         "SU2018"
+      ],
+      [
+        "VM645SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2018",
+    "terms": "SU2018, SU2020",
     "priority": 0
   },
   {
@@ -4524,9 +5432,47 @@
       [
         "VP141SU2019",
         "SU2019"
+      ],
+      [
+        "VP141SU2020",
+        "SU2020"
+      ],
+      [
+        "VP141FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": "FA2015, SP2016, SU2017, SU2018, SU2019, SU2020, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VP145",
+    "courseName": "大学物理（1）",
+    "courseNameEn": "General Physics I",
+    "lessons": [
+      [
+        "VP145SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VP150",
+    "courseName": "普通物理（1）",
+    "courseNameEn": "Physics I",
+    "lessons": [
+      [
+        "VP150SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VP150SU2020-2",
+        "SU2020-2"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -4557,9 +5503,13 @@
       [
         "VP160SU2019",
         "SU2019"
+      ],
+      [
+        "VP160SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -4627,9 +5577,43 @@
       [
         "VP241FA2019",
         "FA2019"
+      ],
+      [
+        "VP241FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VP245",
+    "courseName": "大学物理（2）",
+    "courseNameEn": "General Physics II",
+    "lessons": [
+      [
+        "VP245FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VP250",
+    "courseName": "普通物理（2）",
+    "courseNameEn": "Physics II",
+    "lessons": [
+      [
+        "VP250FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VP250FA2020-2",
+        "FA2020-2"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -4660,9 +5644,13 @@
       [
         "VP260FA2019",
         "FA2019"
+      ],
+      [
+        "VP260FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -4689,9 +5677,13 @@
       [
         "VP390SU2019",
         "SU2019"
+      ],
+      [
+        "VP390SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -4751,9 +5743,17 @@
       [
         "VR102SP2020",
         "SP2020"
+      ],
+      [
+        "VR102SU2020",
+        "SU2020"
+      ],
+      [
+        "VR102FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "FA2017, SP2018, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -4886,9 +5886,26 @@
       [
         "VR150SP2020",
         "SP2020"
+      ],
+      [
+        "VR150FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, SP2019, FA2019, SP2020",
+    "terms": "SU2017, FA2017, SP2018, SU2018, SP2019, FA2019, SP2020, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR154",
+    "courseName": "心理学概论",
+    "courseNameEn": "Introduction to Psychology",
+    "lessons": [
+      [
+        "VR154FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -4981,9 +5998,17 @@
       [
         "VR206FA2019",
         "FA2019"
+      ],
+      [
+        "VR206SU2020",
+        "SU2020"
+      ],
+      [
+        "VR206FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2019",
+    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -5027,9 +6052,13 @@
       [
         "VR208SP2019",
         "SP2019"
+      ],
+      [
+        "VR208SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, FA2016, SU2017, SU2018, SP2019",
+    "terms": "SP2015, FA2016, SU2017, SU2018, SP2019, SU2020",
     "priority": 0
   },
   {
@@ -5076,6 +6105,19 @@
     "priority": 0
   },
   {
+    "courseCode": "VR235",
+    "courseName": "艺术史概论",
+    "courseNameEn": "Introduction to the History of Art",
+    "lessons": [
+      [
+        "VR235FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
+    "priority": 0
+  },
+  {
     "courseCode": "VR236",
     "courseName": "电影艺术与历史",
     "courseNameEn": "Film Art and History",
@@ -5100,9 +6142,13 @@
       [
         "VR238SU2019",
         "SU2019"
+      ],
+      [
+        "VR238SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5151,9 +6197,26 @@
       [
         "VR246SU2019",
         "SU2019"
+      ],
+      [
+        "VR246SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR249",
+    "courseName": "饮食人类学",
+    "courseNameEn": "Anthropology of Food",
+    "lessons": [
+      [
+        "VR249FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -5176,9 +6239,13 @@
       [
         "VR251FA2017",
         "FA2017"
+      ],
+      [
+        "VR251SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2016, SU2017, FA2017",
+    "terms": "SP2016, SU2017, FA2017, SU2020",
     "priority": 0
   },
   {
@@ -5321,6 +6388,19 @@
     "priority": 0
   },
   {
+    "courseCode": "VR281",
+    "courseName": "中国研究导论",
+    "courseNameEn": "Introduction to China Studies ",
+    "lessons": [
+      [
+        "VR281SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
+    "priority": 0
+  },
+  {
     "courseCode": "VR291",
     "courseName": "奇幻文学的另类世界想象",
     "courseNameEn": "The Otherworlds of Fantasy ",
@@ -5328,9 +6408,13 @@
       [
         "VR291SU2019",
         "SU2019"
+      ],
+      [
+        "VR291SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5348,6 +6432,19 @@
       ]
     ],
     "terms": "SU2017, SU2019",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR293",
+    "courseName": "华裔美国文学",
+    "courseNameEn": "Chinese American Literature",
+    "lessons": [
+      [
+        "VR293SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -5375,9 +6472,13 @@
       [
         "VR309FA2019",
         "FA2019"
+      ],
+      [
+        "VR309FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2019",
+    "terms": "FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5388,9 +6489,26 @@
       [
         "VR318SU2019",
         "SU2019"
+      ],
+      [
+        "VR318SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR332",
+    "courseName": "科技人类学",
+    "courseNameEn": "Cyborg Anthropology",
+    "lessons": [
+      [
+        "VR332FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -5417,6 +6535,19 @@
       ]
     ],
     "terms": "SU2019",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR354",
+    "courseName": "认知心理学概论",
+    "courseNameEn": "Introduction to Cognitive Psychology",
+    "lessons": [
+      [
+        "VR354FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -5518,9 +6649,38 @@
       [
         "VR369FA2019",
         "FA2019"
+      ],
+      [
+        "VR369FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, FA2017, FA2018, FA2019",
+    "terms": "SP2015, FA2017, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VR380",
+    "courseName": "亚洲研究",
+    "courseNameEn": "Topics in Asian Studies",
+    "lessons": [
+      [
+        "VR380-Guess",
+        ""
+      ],
+      [
+        "VR380SP2015-Guess",
+        "SP2015"
+      ],
+      [
+        "VR380SP2016-Guess",
+        "SP2016"
+      ],
+      [
+        "VR380SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SP2015, SP2016, SU2020",
     "priority": 0
   },
   {
@@ -5576,9 +6736,17 @@
       [
         "VV115FA2019",
         "FA2019"
+      ],
+      [
+        "VV115SP2020",
+        "SP2020"
+      ],
+      [
+        "VV115FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2016, FA2017, FA2018, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -5650,9 +6818,13 @@
       [
         "VV156FA2019",
         "FA2019"
+      ],
+      [
+        "VV156FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, SP2015, FA2015, SP2016, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5687,9 +6859,13 @@
       [
         "VV186FA2019",
         "FA2019"
+      ],
+      [
+        "VV186FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5724,9 +6900,13 @@
       [
         "VV214SU2019",
         "SU2019"
+      ],
+      [
+        "VV214SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SP2019, SU2019",
+    "terms": "SP2015, SP2016, SU2017, SU2018, SP2019, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5745,9 +6925,13 @@
       [
         "VV215SU2019",
         "SU2019"
+      ],
+      [
+        "VV215SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5774,9 +6958,13 @@
       [
         "VV216FA2019",
         "FA2019"
+      ],
+      [
+        "VV216FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5807,9 +6995,13 @@
       [
         "VV255SU2019",
         "SU2019"
+      ],
+      [
+        "VV255SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5840,9 +7032,13 @@
       [
         "VV256FA2019",
         "FA2019"
+      ],
+      [
+        "VV256FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5873,9 +7069,13 @@
       [
         "VV285SU2019",
         "SU2019"
+      ],
+      [
+        "VV285SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SP2016, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5906,9 +7106,13 @@
       [
         "VV286FA2019",
         "FA2019"
+      ],
+      [
+        "VV286FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2015, FA2016, FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5923,9 +7127,13 @@
       [
         "VV417FA2019",
         "FA2019"
+      ],
+      [
+        "VV417FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": "FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -5957,9 +7165,13 @@
       [
         "VV471SU2019",
         "SU2019"
+      ],
+      [
+        "VV471SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -5978,9 +7190,13 @@
       [
         "VV556FA2019",
         "FA2019"
+      ],
+      [
+        "VV556FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2017, FA2018, FA2019",
+    "terms": "FA2017, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -6024,9 +7240,13 @@
       [
         "VV570FA2019",
         "FA2019"
+      ],
+      [
+        "VV570FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SU2017, SU2018, FA2018, FA2019",
+    "terms": "SU2017, SU2018, FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -6085,9 +7305,13 @@
       [
         "VW110SP2020-2",
         "SP2020-2"
+      ],
+      [
+        "VW110FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -6158,9 +7382,13 @@
       [
         "VW111SP2020-3",
         "SP2020-3"
+      ],
+      [
+        "VW111FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020",
+    "terms": "SP2017, SU2017, FA2017, SP2018, SU2018, FA2018, SP2019, FA2019, SP2020, FA2020",
     "priority": 0
   },
   {
@@ -6195,9 +7423,17 @@
       [
         "VW210SU2019-2",
         "SU2019-2"
+      ],
+      [
+        "VW210SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VW210SU2020-2",
+        "SU2020-2"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019",
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6232,9 +7468,17 @@
       [
         "VW211SU2019-2",
         "SU2019-2"
+      ],
+      [
+        "VW211SU2020-1",
+        "SU2020-1"
+      ],
+      [
+        "VW211SU2020-2",
+        "SU2020-2"
       ]
     ],
-    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019",
+    "terms": "SU2017, FA2017, SP2018, SU2018, FA2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6253,9 +7497,13 @@
       [
         "VW310FA2019",
         "FA2019"
+      ],
+      [
+        "VW310FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": "FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -6341,9 +7589,13 @@
       [
         "VX351SU2019",
         "SU2019"
+      ],
+      [
+        "VX351SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6362,9 +7614,13 @@
       [
         "VX402SU2019",
         "SU2019"
+      ],
+      [
+        "VX402SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2017, SU2018, SU2019",
+    "terms": "SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6391,9 +7647,13 @@
       [
         "VX420SU2019",
         "SU2019"
+      ],
+      [
+        "VX420SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6450,9 +7710,13 @@
       [
         "VX425FA2019",
         "FA2019"
+      ],
+      [
+        "VX425FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2019",
+    "terms": "FA2019, FA2020",
     "priority": 0
   },
   {
@@ -6471,9 +7735,26 @@
       [
         "VX440FA2019",
         "FA2019"
+      ],
+      [
+        "VX440FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2018, FA2018, FA2019",
+    "terms": "SP2018, FA2018, FA2019, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VX451",
+    "courseName": "奢侈品与奢侈品营销",
+    "courseNameEn": "Luxury and Luxury Marketing",
+    "lessons": [
+      [
+        "VX451FA2020",
+        "FA2020"
+      ]
+    ],
+    "terms": "FA2020",
     "priority": 0
   },
   {
@@ -6656,9 +7937,94 @@
       [
         "VY100FA2019-16",
         "FA2019-16"
+      ],
+      [
+        "VY100SU2020",
+        "SU2020"
+      ],
+      [
+        "VY100FA2020-1",
+        "FA2020-1"
+      ],
+      [
+        "VY100FA2020-2",
+        "FA2020-2"
+      ],
+      [
+        "VY100FA2020-3",
+        "FA2020-3"
+      ],
+      [
+        "VY100FA2020-4",
+        "FA2020-4"
+      ],
+      [
+        "VY100FA2020-5",
+        "FA2020-5"
+      ],
+      [
+        "VY100FA2020-6",
+        "FA2020-6"
+      ],
+      [
+        "VY100FA2020-7",
+        "FA2020-7"
+      ],
+      [
+        "VY100FA2020-8",
+        "FA2020-8"
+      ],
+      [
+        "VY100FA2020-9",
+        "FA2020-9"
+      ],
+      [
+        "VY100FA2020-10",
+        "FA2020-10"
+      ],
+      [
+        "VY100FA2020-11",
+        "FA2020-11"
+      ],
+      [
+        "VY100FA2020-12",
+        "FA2020-12"
+      ],
+      [
+        "VY100FA2020-13",
+        "FA2020-13"
+      ],
+      [
+        "VY100FA2020-14",
+        "FA2020-14"
+      ],
+      [
+        "VY100FA2020-15",
+        "FA2020-15"
+      ],
+      [
+        "VY100FA2020-16",
+        "FA2020-16"
       ]
     ],
-    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019",
+    "terms": "FA2014, FA2015, FA2016, FA2017, FA2018, FA2019, SU2020, FA2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VY125",
+    "courseName": "写作和学术探求",
+    "courseNameEn": "Writing and Academic Inquiry",
+    "lessons": [
+      [
+        "VY125-Guess",
+        ""
+      ],
+      [
+        "VY125SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -6861,6 +8227,14 @@
       [
         "VY200SP2020-14",
         "SP2020-14"
+      ],
+      [
+        "VY200SP2020-15",
+        "SP2020-15"
+      ],
+      [
+        "VY200SP2020-16",
+        "SP2020-16"
       ]
     ],
     "terms": "SP2015, SP2016, SP2017, SP2018, SP2019, SP2020",
@@ -6916,9 +8290,13 @@
       [
         "VY223SU2019",
         "SU2019"
+      ],
+      [
+        "VY223SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2017, SU2018, SU2019",
+    "terms": "SP2015, SU2017, SU2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6954,9 +8332,13 @@
       [
         "VY240SU2019",
         "SU2019"
+      ],
+      [
+        "VY240SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SU2019",
+    "terms": "SU2019, SU2020",
     "priority": 0
   },
   {
@@ -6971,9 +8353,26 @@
       [
         "VY298SU2019",
         "SU2019"
+      ],
+      [
+        "VY298SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "SP2015, SU2019",
+    "terms": "SP2015, SU2019, SU2020",
+    "priority": 0
+  },
+  {
+    "courseCode": "VY324",
+    "courseName": "诗歌写作",
+    "courseNameEn": "Writing Poetry",
+    "lessons": [
+      [
+        "VY324SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2020",
     "priority": 0
   },
   {
@@ -7062,9 +8461,17 @@
       [
         "VZ011FA2019-2",
         "FA2019-2"
+      ],
+      [
+        "VZ011SU2020",
+        "SU2020"
+      ],
+      [
+        "VZ011FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, SU2019, FA2019",
+    "terms": "FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -7091,9 +8498,17 @@
       [
         "VZ012SP2020",
         "SP2020"
+      ],
+      [
+        "VZ012SU2020",
+        "SU2020"
+      ],
+      [
+        "VZ012FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -7129,9 +8544,13 @@
       [
         "VZ022SU2019",
         "SU2019"
+      ],
+      [
+        "VZ022SU2020",
+        "SU2020"
       ]
     ],
-    "terms": "FA2018, SU2019",
+    "terms": "FA2018, SU2019, SU2020",
     "priority": 0
   },
   {
@@ -7150,9 +8569,17 @@
       [
         "VZ031FA2019",
         "FA2019"
+      ],
+      [
+        "VZ031SU2020",
+        "SU2020"
+      ],
+      [
+        "VZ031FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, SU2019, FA2019",
+    "terms": "FA2018, SU2019, FA2019, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -7167,9 +8594,13 @@
       [
         "VZ032FA2019",
         "FA2019"
+      ],
+      [
+        "VZ032FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "FA2018, FA2019",
+    "terms": "FA2018, FA2019, FA2020",
     "priority": 0
   },
   {
@@ -7250,9 +8681,17 @@
       [
         "VZ102SP2020",
         "SP2020"
+      ],
+      [
+        "VZ102SU2020",
+        "SU2020"
+      ],
+      [
+        "VZ102FA2020",
+        "FA2020"
       ]
     ],
-    "terms": "SP2015, FA2015, FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020",
+    "terms": "SP2015, FA2015, FA2016, SU2017, FA2017, SU2018, FA2018, SP2019, SU2019, FA2019, SP2020, SU2020, FA2020",
     "priority": 0
   },
   {
@@ -7335,6 +8774,23 @@
     "priority": 0
   },
   {
+    "courseCode": "Vm505",
+    "courseName": "计算力学基础",
+    "courseNameEn": "Finite Element Methods",
+    "lessons": [
+      [
+        "Vm505SU2019",
+        "SU2019"
+      ],
+      [
+        "Vm505SU2020",
+        "SU2020"
+      ]
+    ],
+    "terms": "SU2019, SU2020",
+    "priority": 0
+  },
+  {
     "courseCode": "XP000",
     "courseName": "通识教育实践活动",
     "courseNameEn": "General Education Practice",
@@ -7399,11 +8855,11 @@
     "courseNameEn": "Financial Management",
     "lessons": [
       [
-        "AC301-Guess",
-        ""
+        "AC301SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -7412,11 +8868,11 @@
     "courseNameEn": "Management Accounting",
     "lessons": [
       [
-        "AC302-Guess",
-        ""
+        "AC302SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -7438,11 +8894,11 @@
     "courseNameEn": "Accounting Information Systems",
     "lessons": [
       [
-        "AC312-Guess",
-        ""
+        "AC312SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -7451,11 +8907,11 @@
     "courseNameEn": "Graduation Project Reports",
     "lessons": [
       [
-        "AC406-Guess",
-        ""
+        "AC406SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -7463,10 +8919,6 @@
     "courseName": "摄影基础（A类）",
     "courseNameEn": "Photography",
     "lessons": [
-      [
-        "AD114-Guess",
-        ""
-      ],
       [
         "AD114FA2018-Guess",
         "FA2018"
@@ -7498,15 +8950,15 @@
     "courseNameEn": "Composition of a Stereoscopic Picture",
     "lessons": [
       [
-        "AD223-Guess",
-        ""
-      ],
-      [
         "AD223SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "AD223SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -7515,15 +8967,15 @@
     "courseNameEn": "Composition of Coloring",
     "lessons": [
       [
-        "AD224-Guess",
-        ""
-      ],
-      [
         "AD224SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "AD224SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -7532,15 +8984,15 @@
     "courseNameEn": "Composition of a Plane Picture",
     "lessons": [
       [
-        "AD229-Guess",
-        ""
-      ],
-      [
         "AD229SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "AD229SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -7660,20 +9112,33 @@
     "priority": 1
   },
   {
+    "courseCode": "AM068",
+    "courseName": "商业统计分析和数据挖掘",
+    "courseNameEn": "Business Analytics and Data Mining",
+    "lessons": [
+      [
+        "AM068FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
+    "priority": 1
+  },
+  {
     "courseCode": "AM070",
     "courseName": "电子商务：创新与战略",
     "courseNameEn": "Electronic Business: Innovation and Strategy",
     "lessons": [
       [
-        "AM070-Guess",
-        ""
-      ],
-      [
         "AM070SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "AM070SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -7859,11 +9324,11 @@
     "courseNameEn": "First Aid and Self Rescue",
     "lessons": [
       [
-        "BM021-Guess",
-        ""
+        "BM021SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -7953,6 +9418,19 @@
     "priority": 1
   },
   {
+    "courseCode": "BU102",
+    "courseName": "管理学原理（B类）",
+    "courseNameEn": "Principles of Management",
+    "lessons": [
+      [
+        "BU102FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
+    "priority": 1
+  },
+  {
     "courseCode": "BU104",
     "courseName": "营销导论",
     "courseNameEn": "Introduction to Marketing",
@@ -7960,9 +9438,13 @@
       [
         "BU104FA2017-Guess",
         "FA2017"
+      ],
+      [
+        "BU104SP2020-Guess",
+        "SP2020"
       ]
     ],
-    "terms": "FA2017",
+    "terms": "FA2017, SP2020",
     "priority": 1
   },
   {
@@ -7984,15 +9466,15 @@
     "courseNameEn": "Principles of Management",
     "lessons": [
       [
-        "BU200-Guess",
-        ""
-      ],
-      [
         "BU200SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "BU200SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -8040,11 +9522,11 @@
     "courseNameEn": "Management Information System",
     "lessons": [
       [
-        "BU344-Guess",
-        ""
+        "BU344SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -8066,11 +9548,11 @@
     "courseNameEn": "Operations Management",
     "lessons": [
       [
-        "BU353-Guess",
-        ""
+        "BU353SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -8092,11 +9574,11 @@
     "courseNameEn": "Graduation Project Reports",
     "lessons": [
       [
-        "BU419-Guess",
-        ""
+        "BU419SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -8153,6 +9635,19 @@
       ]
     ],
     "terms": "FA2015, FA2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "CH060",
+    "courseName": "1930年代上海文学地图",
+    "courseNameEn": "A Map of 1930’s Literature in Shanghai",
+    "lessons": [
+      [
+        "CH060SP2020-Guess",
+        "SP2020"
+      ]
+    ],
+    "terms": "SP2020",
     "priority": 1
   },
   {
@@ -8283,6 +9778,32 @@
       ]
     ],
     "terms": "FA2018",
+    "priority": 1
+  },
+  {
+    "courseCode": "CH906",
+    "courseName": "古典诗词鉴赏与创作",
+    "courseNameEn": "Appreciating and Writing of Chinese Classical Poems",
+    "lessons": [
+      [
+        "CH906FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "CH927",
+    "courseName": "中国现代诗歌导读",
+    "courseNameEn": "Introduction to \nModern Chinese Poetry",
+    "lessons": [
+      [
+        "CH927FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
     "priority": 1
   },
   {
@@ -8452,9 +9973,13 @@
       [
         "DR001SP2019-Guess",
         "SP2019"
+      ],
+      [
+        "DR001FA2019-Guess",
+        "FA2019"
       ]
     ],
-    "terms": "SU2017, SP2018, FA2018, SP2019",
+    "terms": "SU2017, SP2018, FA2018, SP2019, FA2019",
     "priority": 1
   },
   {
@@ -8476,15 +10001,15 @@
     "courseNameEn": "Macro & Micro Economics",
     "lessons": [
       [
-        "EC007-Guess",
-        ""
-      ],
-      [
         "EC007SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "EC007SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -8813,15 +10338,15 @@
     "courseNameEn": "English Intensive Reading I",
     "lessons": [
       [
-        "EN214-Guess",
-        ""
-      ],
-      [
         "EN214SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "EN214SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -8830,15 +10355,15 @@
     "courseNameEn": "Translation Criticism",
     "lessons": [
       [
-        "EN228-Guess",
-        ""
-      ],
-      [
         "EN228SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "EN228SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -8847,15 +10372,15 @@
     "courseNameEn": "Audio-visual-spoken English I",
     "lessons": [
       [
-        "EN229-Guess",
-        ""
-      ],
-      [
         "EN229SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "EN229SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -8877,11 +10402,11 @@
     "courseNameEn": "English Intensive Reading III",
     "lessons": [
       [
-        "EN311-Guess",
-        ""
+        "EN311SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -8890,11 +10415,11 @@
     "courseNameEn": "English Writing I",
     "lessons": [
       [
-        "EN313-Guess",
-        ""
+        "EN313SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -8963,11 +10488,11 @@
     "courseNameEn": "A Contrastive Study of English and Chinese and Translation",
     "lessons": [
       [
-        "EN348-Guess",
-        ""
+        "EN348SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9002,10 +10527,6 @@
     "courseNameEn": "Shakespeare: Reading and Discussion",
     "lessons": [
       [
-        "EN904-Guess",
-        ""
-      ],
-      [
         "EN904SP2018-Guess",
         "SP2018"
       ],
@@ -9023,11 +10544,11 @@
     "courseNameEn": "Introduction to World Trade Organization",
     "lessons": [
       [
-        "ET300-Guess",
-        ""
+        "ET300SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9036,11 +10557,11 @@
     "courseNameEn": "International Economics Theory and Policy",
     "lessons": [
       [
-        "ET303-Guess",
-        ""
+        "ET303SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9049,11 +10570,11 @@
     "courseNameEn": "Environment Monitor",
     "lessons": [
       [
-        "EV015-Guess",
-        ""
+        "EV015SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9062,11 +10583,11 @@
     "courseNameEn": "Ecological Idea and Green Environmental Protection",
     "lessons": [
       [
-        "EV033-Guess",
-        ""
+        "EV033SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9101,11 +10622,11 @@
     "courseNameEn": "Investment",
     "lessons": [
       [
-        "FI306-Guess",
-        ""
+        "FI306SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9114,11 +10635,11 @@
     "courseNameEn": "International Finance",
     "lessons": [
       [
-        "FI401-Guess",
-        ""
+        "FI401SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9127,11 +10648,11 @@
     "courseNameEn": "Graduation Project Reports",
     "lessons": [
       [
-        "FI422-Guess",
-        ""
+        "FI422SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9153,15 +10674,15 @@
     "courseNameEn": "Fundamental German I",
     "lessons": [
       [
-        "FO201-Guess",
-        ""
-      ],
-      [
         "FO201SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "FO201SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9170,15 +10691,15 @@
     "courseNameEn": "Audio-Visual German I",
     "lessons": [
       [
-        "FO202-Guess",
-        ""
-      ],
-      [
         "FO202SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "FO202SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9330,11 +10851,11 @@
     "courseNameEn": "Introduction to Movie Art",
     "lessons": [
       [
-        "FT212-Guess",
-        ""
+        "FT212SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9408,11 +10929,11 @@
     "courseNameEn": "Animation Course Design and Development",
     "lessons": [
       [
-        "FT406-Guess",
-        ""
+        "FT406SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9466,9 +10987,13 @@
       [
         "HI102SP2019-Guess",
         "SP2019"
+      ],
+      [
+        "HI102SP2020-Guess",
+        "SP2020"
       ]
     ],
-    "terms": "SP2019",
+    "terms": "SP2019, SP2020",
     "priority": 1
   },
   {
@@ -9477,15 +11002,15 @@
     "courseNameEn": "Ancient World History",
     "lessons": [
       [
-        "HI210-Guess",
-        ""
-      ],
-      [
         "HI210SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "HI210SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9494,15 +11019,15 @@
     "courseNameEn": "Ancient Chinese History",
     "lessons": [
       [
-        "HI211-Guess",
-        ""
-      ],
-      [
         "HI211SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "HI211SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9510,10 +11035,6 @@
     "courseName": "中国现代史专题研究",
     "courseNameEn": "Special Topics of Modern Chinese History",
     "lessons": [
-      [
-        "HI214-Guess",
-        ""
-      ],
       [
         "HI214SP2019-Guess",
         "SP2019"
@@ -9541,10 +11062,6 @@
     "courseNameEn": "Studies of Historical Documents",
     "lessons": [
       [
-        "HI217-Guess",
-        ""
-      ],
-      [
         "HI217SP2019-Guess",
         "SP2019"
       ]
@@ -9571,15 +11088,15 @@
     "courseNameEn": "American History and Culture",
     "lessons": [
       [
-        "HI903-Guess",
-        ""
-      ],
-      [
         "HI903SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "HI903SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9627,11 +11144,11 @@
     "courseNameEn": "Product Design Engineering",
     "lessons": [
       [
-        "ID303-Guess",
-        ""
+        "ID303SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9640,11 +11157,24 @@
     "courseNameEn": "Improved Production Design",
     "lessons": [
       [
-        "ID304-Guess",
-        ""
+        "ID304SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "ID325",
+    "courseName": "交互设计技术基础",
+    "courseNameEn": "Introduction to Human Interface Technology",
+    "lessons": [
+      [
+        "ID325FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
     "priority": 1
   },
   {
@@ -9752,15 +11282,15 @@
     "courseNameEn": "Japanese Intensive Reading I",
     "lessons": [
       [
-        "JA212-Guess",
-        ""
-      ],
-      [
         "JA212SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "JA212SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9769,15 +11299,15 @@
     "courseNameEn": "Japanese Visual,Aural and Oral Practice (I)",
     "lessons": [
       [
-        "JA213-Guess",
-        ""
-      ],
-      [
         "JA213SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "JA213SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -9924,11 +11454,11 @@
     "courseNameEn": "Criminal Law",
     "lessons": [
       [
-        "LA109-Guess",
-        ""
+        "LA109SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9976,11 +11506,11 @@
     "courseNameEn": "International Economic Law",
     "lessons": [
       [
-        "LA400-Guess",
-        ""
+        "LA400SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -9989,11 +11519,11 @@
     "courseNameEn": "Thesis Report",
     "lessons": [
       [
-        "LA430-Guess",
-        ""
+        "LA430SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -10007,6 +11537,19 @@
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "LT004",
+    "courseName": "拉丁语（II）",
+    "courseNameEn": "Latin II",
+    "lessons": [
+      [
+        "LT004FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
     "priority": 1
   },
   {
@@ -10127,15 +11670,15 @@
     "courseNameEn": "Advanced Algebra",
     "lessons": [
       [
-        "MA210-Guess",
-        ""
-      ],
-      [
         "MA210SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "MA210SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -10390,6 +11933,19 @@
     "priority": 1
   },
   {
+    "courseCode": "MU041",
+    "courseName": "歌唱的呼吸与发声",
+    "courseNameEn": "Breath and Sound of Singing",
+    "lessons": [
+      [
+        "MU041FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
+    "priority": 1
+  },
+  {
     "courseCode": "MU201",
     "courseName": "试唱练耳",
     "courseNameEn": "Solfeggio",
@@ -10408,15 +11964,15 @@
     "courseNameEn": "Music rationale",
     "lessons": [
       [
-        "MU202-Guess",
-        ""
-      ],
-      [
         "MU202SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "MU202SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2019",
     "priority": 1
   },
   {
@@ -10464,11 +12020,11 @@
     "courseNameEn": "Compose music technology theory (2)",
     "lessons": [
       [
-        "MU303-Guess",
-        ""
+        "MU303SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -10477,11 +12033,11 @@
     "courseNameEn": "Orchestration",
     "lessons": [
       [
-        "MU304-Guess",
-        ""
+        "MU304SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -10490,11 +12046,11 @@
     "courseNameEn": "West music history",
     "lessons": [
       [
-        "MU305-Guess",
-        ""
+        "MU305SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -10529,6 +12085,19 @@
       ]
     ],
     "terms": "SP2019",
+    "priority": 1
+  },
+  {
+    "courseCode": "MU903",
+    "courseName": "世界民族音乐鉴赏",
+    "courseNameEn": "World Ethnic Music Appreciation",
+    "lessons": [
+      [
+        "MU903FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
     "priority": 1
   },
   {
@@ -10568,6 +12137,19 @@
       ]
     ],
     "terms": "SP2016",
+    "priority": 1
+  },
+  {
+    "courseCode": "PH010",
+    "courseName": "宝玉石鉴赏",
+    "courseNameEn": "Gemological Identification and Appreciation",
+    "lessons": [
+      [
+        "PH010FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
     "priority": 1
   },
   {
@@ -10617,9 +12199,13 @@
       [
         "PL021SP2018-Guess",
         "SP2018"
+      ],
+      [
+        "PL021SP2020-Guess",
+        "SP2020"
       ]
     ],
-    "terms": "SP2018",
+    "terms": "SP2018, SP2020",
     "priority": 1
   },
   {
@@ -10647,9 +12233,13 @@
       [
         "PL027SP2019-Guess",
         "SP2019"
+      ],
+      [
+        "PL027SP2020-Guess",
+        "SP2020"
       ]
     ],
-    "terms": "SP2019",
+    "terms": "SP2019, SP2020",
     "priority": 1
   },
   {
@@ -10666,16 +12256,29 @@
     "priority": 1
   },
   {
+    "courseCode": "PM005",
+    "courseName": "中药学通论",
+    "courseNameEn": "Introduction to Chinese Traditional Medicine",
+    "lessons": [
+      [
+        "PM005FA2019-Guess",
+        "FA2019"
+      ]
+    ],
+    "terms": "FA2019",
+    "priority": 1
+  },
+  {
     "courseCode": "PM010",
     "courseName": "中医药养生与保健",
     "courseNameEn": "Traditional Chinese Medicine Health and Health Care",
     "lessons": [
       [
-        "PM010-Guess",
-        ""
+        "PM010SP2019-Guess",
+        "SP2019"
       ]
     ],
-    "terms": "",
+    "terms": "SP2019",
     "priority": 1
   },
   {
@@ -11243,19 +12846,6 @@
     "priority": 1
   },
   {
-    "courseCode": "VM482",
-    "courseName": "加工过程",
-    "courseNameEn": "Machining Processes",
-    "lessons": [
-      [
-        "VM482-Guess",
-        ""
-      ]
-    ],
-    "terms": "",
-    "priority": 1
-  },
-  {
     "courseCode": "VR201",
     "courseName": "当代文化中的沃尔特迪士尼",
     "courseNameEn": "Walt Disney in Contemporary Culture",
@@ -11482,27 +13072,6 @@
     "priority": 1
   },
   {
-    "courseCode": "VR380",
-    "courseName": "亚洲研究",
-    "courseNameEn": "Topics in Asian Studies",
-    "lessons": [
-      [
-        "VR380-Guess",
-        ""
-      ],
-      [
-        "VR380SP2015-Guess",
-        "SP2015"
-      ],
-      [
-        "VR380SP2016-Guess",
-        "SP2016"
-      ]
-    ],
-    "terms": "SP2015, SP2016",
-    "priority": 1
-  },
-  {
     "courseCode": "VR399",
     "courseName": "多元文化适应",
     "courseNameEn": "Multicultural Adaptation in the United States",
@@ -11682,19 +13251,6 @@
     "priority": 1
   },
   {
-    "courseCode": "VY125",
-    "courseName": "写作和学术探求",
-    "courseNameEn": "Writing and Academic Inquiry",
-    "lessons": [
-      [
-        "VY125-Guess",
-        ""
-      ]
-    ],
-    "terms": "",
-    "priority": 1
-  },
-  {
     "courseCode": "VY201",
     "courseName": "英语在公共场合的应用",
     "courseNameEn": "Writing in Public Spaces",
@@ -11759,19 +13315,6 @@
     "priority": 1
   },
   {
-    "courseCode": "Vz104",
-    "courseName": "Vz104",
-    "courseNameEn": "",
-    "lessons": [
-      [
-        "Vz104-Guess",
-        ""
-      ]
-    ],
-    "terms": "",
-    "priority": 1
-  },
-  {
     "courseCode": "VZ105",
     "courseName": "VZ105",
     "courseNameEn": "",
@@ -11791,6 +13334,19 @@
     "lessons": [
       [
         "VZ106-Guess",
+        ""
+      ]
+    ],
+    "terms": "",
+    "priority": 1
+  },
+  {
+    "courseCode": "Vz104",
+    "courseName": "Vz104",
+    "courseNameEn": "",
+    "lessons": [
+      [
+        "Vz104-Guess",
         ""
       ]
     ],
