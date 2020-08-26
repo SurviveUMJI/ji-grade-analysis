@@ -31,7 +31,7 @@ jobs:
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
       with:
-        target_branch: master
+        target_branch: gh-pages
         build_dir: build
         keep_history: true
       env:
