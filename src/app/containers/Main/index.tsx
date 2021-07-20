@@ -35,13 +35,13 @@ export class Main extends React.Component<MainProps, MainState> {
           and fairer GPA environment in JI.
         </Typography>
         <Typography variant="h5" color="inherit" paragraph>
-          <Link color="secondary">{statsData.scores}</Link> score data
-          from <Link color="secondary">{statsData.lessons}</Link> classes
-          of <Link color="secondary">{statsData.courses}</Link> courses
+          <Link color="primary">{statsData.scores}</Link> score data
+          from <Link color="primary">{statsData.lessons}</Link> classes
+          of <Link color="primary">{statsData.courses}</Link> courses
           have been analyzed.
         </Typography>
-        <Grid container justify="center">
-          <Button variant="outlined" color="secondary" size="large"
+        <Grid container justifyContent="center">
+          <Button variant="outlined" color="primary" size="large"
                   component={RouterLink} to="/courses">
             Start Explore
           </Button>

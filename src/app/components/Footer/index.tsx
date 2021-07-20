@@ -13,10 +13,10 @@ export class Footer extends React.Component<FooterProps, FooterState> {
     return (
       <footer>
         <br/>
-        <Grid container justify="flex-end">
+        <Grid container justifyContent="flex-end">
           Version {packageData.version}, Powered by&nbsp;
           <Link href="https://github.com/tc-imba" target="_blank">tc-imba</Link>,
-          Copyright 2019-2020
+          Copyright 2019-2021
         </Grid>
       </footer>
     );

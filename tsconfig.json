@@ -10,7 +10,7 @@
     "declaration": false,
     "noImplicitAny": false,
     "noImplicitReturns": false,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "removeComments": true,
     "strictNullChecks": false,
     "resolveJsonModule": true,

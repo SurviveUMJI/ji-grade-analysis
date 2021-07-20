@@ -20,7 +20,7 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
   render() {
     return (
       <div>
-        <Grid container justify="center">
+        <Grid container justifyContent="center">
           <Typography component="h1" variant="h3" color="inherit"
                       gutterBottom align={'center'}>
             UM-SJTU JI Grade Analysis
@@ -28,7 +28,7 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
         </Grid>
         <GitHubButtonProvider namespace={this.props.namespace}
                               repo={this.props.repo}>
-          <Grid container justify="flex-end" spacing={1}>
+          <Grid container justifyContent="flex-end" spacing={1}>
             <Grid item>
               <GitHubButton type="stargazers" size="large"/>
             </Grid>

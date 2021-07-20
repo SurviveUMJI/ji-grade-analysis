@@ -15,9 +15,9 @@ import MaterialTable, {Column} from 'material-table';
 import icons from 'app/components/icons';
 import _, {Dictionary} from 'lodash';
 
-import {STORE_COURSES} from 'app/constants';
+import {STORE_COURSES, STORE_GLOBAL_STATE} from 'app/constants';
 import CourseModel, {LessonModel} from 'app/models/CourseModel';
-import {CoursesStore} from 'app/stores';
+import {CoursesStore, GlobalStateStore} from 'app/stores';
 import {Lesson, ScoreData} from 'app/components/Lesson';
 
 // import {CurvePieChart} from 'app/components/CurvePieChart';
@@ -39,13 +39,16 @@ export interface CourseState {
 
 const grades = ['A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D', 'F'];
 
-@inject(STORE_COURSES)
+@inject(STORE_COURSES, STORE_GLOBAL_STATE)
 export class Course extends React.Component<CourseProps, CourseState> {
   columns: Array<Column<LessonModel>>;
   scoreDataMap: Dictionary<ScoreData[]> = {};
+  searchText: string;
 
   constructor(props: CourseProps, context: any) {
     super(props, context);
+    const globalStateStore = this.props[STORE_GLOBAL_STATE] as GlobalStateStore;
+    this.searchText = globalStateStore.courseSearchText[props.courseCode] || "";
     this.columns = [
       {
         title: 'Code', field: 'lessonClassCode',
@@ -91,7 +94,7 @@ export class Course extends React.Component<CourseProps, CourseState> {
         let lesson = coursesStore.lessonsMap[a[0]];
         lesson.lecturersStr = lesson.lecturers.join(', ');
         lesson.studentNumStr = lesson.studentNum >= 0 ?
-          lesson.studentNum.toString() : '-';
+            lesson.studentNum.toString() : '-';
         lessons.push(lesson);
       }
     });
@@ -140,8 +143,8 @@ export class Course extends React.Component<CourseProps, CourseState> {
   }
 
   componentDidUpdate(
-    prevProps: Readonly<CourseProps>, prevState: Readonly<CourseState>,
-    snapshot?: any) {
+      prevProps: Readonly<CourseProps>, prevState: Readonly<CourseState>,
+      snapshot?: any) {
     if (this.props.courseCode !== prevProps.courseCode) {
       this.updateCourse();
     }
@@ -169,81 +172,87 @@ export class Course extends React.Component<CourseProps, CourseState> {
     let title = this.props.courseCode;
     if (this.state.course) {
       title += ' - ' + this.state.course.courseNameEn + ' - ' +
-        this.state.course.courseName;
+          this.state.course.courseName;
     }
+    const globalStateStore = this.props[STORE_GLOBAL_STATE] as GlobalStateStore;
     return (
-      <React.Fragment>
-        <Grid container>
-          <RadioGroup value={this.state.chartType}
-                      onChange={this.onChangeChartType.bind(this)} row>
-            <FormControlLabel
-              value="bar"
-              control={<Radio color="secondary"/>}
-              label="Bar"
-              labelPlacement="bottom"
-            />
-            <FormControlLabel
-              value="line"
-              control={<Radio color="secondary"/>}
-              label="Line"
-              labelPlacement="bottom"
-            />
-            <FormControlLabel
-              value="pie"
-              control={<Radio color="secondary"/>}
-              label="Pie"
-              labelPlacement="bottom"
-            />
-          </RadioGroup>
-          <FormControlLabel
-            control={
-              <Switch
-                checked={this.state.hideUnknown}
-                onChange={this.onChangeHideUnknown.bind(this)}
-                color="secondary"
+        <React.Fragment>
+          <Grid container>
+            <RadioGroup value={this.state.chartType}
+                        onChange={this.onChangeChartType.bind(this)} row>
+              <FormControlLabel
+                  value="bar"
+                  control={<Radio color="secondary"/>}
+                  label="Bar"
+                  labelPlacement="bottom"
               />
-            }
-            label="Hide Unknown"
-          />
-          <FormControlLabel
-            control={
-              <Switch
-                checked={this.state.hideZero}
-                onChange={this.onChangeHideZero.bind(this)}
-                color="secondary"
+              <FormControlLabel
+                  value="line"
+                  control={<Radio color="secondary"/>}
+                  label="Line"
+                  labelPlacement="bottom"
               />
-            }
-            label="Hide Zero"
+              <FormControlLabel
+                  value="pie"
+                  control={<Radio color="secondary"/>}
+                  label="Pie"
+                  labelPlacement="bottom"
+              />
+            </RadioGroup>
+            <FormControlLabel
+                control={
+                  <Switch
+                      checked={this.state.hideUnknown}
+                      onChange={this.onChangeHideUnknown.bind(this)}
+                      color="secondary"
+                  />
+                }
+                label="Hide Unknown"
+            />
+            <FormControlLabel
+                control={
+                  <Switch
+                      checked={this.state.hideZero}
+                      onChange={this.onChangeHideZero.bind(this)}
+                      color="secondary"
+                  />
+                }
+                label="Hide Zero"
+            />
+          </Grid>
+          <MaterialTable
+              title={title}
+              columns={this.columns}
+              data={this.state.lessons}
+              icons={icons}
+              options={{
+                pageSize: 10,
+                pageSizeOptions: [10, 25, 50, 100],
+                searchText: this.searchText,
+              }}
+              style={{width: '100%'}}
+              components={{
+                Container: props => (<Paper elevation={0} {...props}></Paper>),
+              }}
+              detailPanel={rowData => {
+                const lessonClassCode = rowData.lessonClassCode;
+                const scoreData = this.ensureScoreDataMap(lessonClassCode);
+                // console.log(lessonClassCode);
+                // console.log(scoreData);
+                return (
+                    <Lesson scores={scoreData} lessonClassCode={lessonClassCode}
+                            chartType={this.state.chartType}
+                            hideUnknown={this.state.hideUnknown}
+                            hideZero={this.state.hideZero}/>
+                );
+              }}
+              onRowClick={(event, rowData, togglePanel) => togglePanel()}
+              onSearchChange={(searchText) => {
+                this.searchText = searchText;
+                globalStateStore.setCourseSearchText(this.props.courseCode, searchText);
+              }}
           />
-        </Grid>
-        <MaterialTable
-          title={title}
-          columns={this.columns}
-          data={this.state.lessons}
-          icons={icons}
-          options={{
-            pageSize: 10,
-            pageSizeOptions: [10, 25, 50, 100],
-          }}
-          style={{width: '100%'}}
-          components={{
-            Container: props => (<Paper elevation={0} {...props}></Paper>),
-          }}
-          detailPanel={rowData => {
-            const lessonClassCode = rowData.lessonClassCode;
-            const scoreData = this.ensureScoreDataMap(lessonClassCode);
-            // console.log(lessonClassCode);
-            // console.log(scoreData);
-            return (
-              <Lesson scores={scoreData} lessonClassCode={lessonClassCode}
-                      chartType={this.state.chartType}
-                      hideUnknown={this.state.hideUnknown}
-                      hideZero={this.state.hideZero}/>
-            );
-          }}
-          onRowClick={(event, rowData, togglePanel) => togglePanel()}
-        />
-      </React.Fragment>
+        </React.Fragment>
     );
   }
 }

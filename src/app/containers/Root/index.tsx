@@ -7,6 +7,7 @@ import {
 } from '@material-ui/core';
 import Header from 'app/components/Header';
 import Footer from 'app/components/Footer';
+import AutoTheme from 'app/components/AutoTheme';
 
 import {
   withStyles,
@@ -32,7 +33,7 @@ const styles = (theme: Theme) => createStyles({
 });
 
 export interface RootProps extends RouteComponentProps<any>,
-  WithStyles<typeof styles> {
+    WithStyles<typeof styles> {
 }
 
 export interface RootState {
@@ -48,24 +49,27 @@ class Root extends React.Component<RootProps, RootState> {
 
   render() {
     const {classes} = this.props;
+
     return (
-      <div className="container">
-        <Container maxWidth={'lg'}>
-          <CssBaseline/>
-          <br/>
-          <Paper>
-            <div className={classes.mainFeaturedPostContent}>
-              <Header namespace="tc-imba" repo="ji-grade-analysis"/>
+        <AutoTheme>
+          <div className="container">
+            <Container maxWidth={'lg'}>
+              <CssBaseline/>
               <br/>
-              <Grid container justify="center">
-                {this.props.children}
-              </Grid>
-              <Footer/>
-            </div>
-          </Paper>
-        </Container>
-        {this.renderDevTool()}
-      </div>
+              <Paper>
+                <div className={classes.mainFeaturedPostContent}>
+                  <Header namespace="SurviveUMJI" repo="ji-grade-analysis"/>
+                  <br/>
+                  <Grid container justifyContent="center">
+                    {this.props.children}
+                  </Grid>
+                  <Footer/>
+                </div>
+              </Paper>
+            </Container>
+            {this.renderDevTool()}
+          </div>
+        </AutoTheme>
     );
   }
 }
