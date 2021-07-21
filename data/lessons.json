@@ -420,7 +420,7 @@
     "lessonClassName": "体育（1） (deduced)",
     "studentNum": -1,
     "termName": "FA2015",
-    "scoreNum": 16
+    "scoreNum": 17
   },
   {
     "lecturers": [],
@@ -663,7 +663,7 @@
     "lessonClassName": "计算机导论 (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 209
+    "scoreNum": 211
   },
   {
     "lecturers": [],
@@ -708,7 +708,7 @@
     "lessonClassName": "电路设计导论 (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 10
+    "scoreNum": 11
   },
   {
     "lecturers": [],
@@ -717,7 +717,7 @@
     "lessonClassName": "普通物理（2） (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 12
+    "scoreNum": 13
   },
   {
     "lecturers": [],
@@ -726,7 +726,7 @@
     "lessonClassName": "普通物理实验（2） (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 15
+    "scoreNum": 16
   },
   {
     "lecturers": [],
@@ -744,7 +744,7 @@
     "lessonClassName": "线性代数和微分方程B (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 4
+    "scoreNum": 5
   },
   {
     "lecturers": [],
@@ -766,6 +766,15 @@
   },
   {
     "lecturers": [],
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235FA2016-Guess",
+    "lessonClassName": "工程热力学（J类）（1） (deduced)",
+    "studentNum": -1,
+    "termName": "FA2016",
+    "scoreNum": 2
+  },
+  {
+    "lecturers": [],
     "courseCode": "VV256",
     "lessonClassCode": "VV256FA2016-Guess",
     "lessonClassName": "线性代数和微分方程A (deduced)",
@@ -781,15 +790,6 @@
     "studentNum": -1,
     "termName": "FA2016",
     "scoreNum": 3
-  },
-  {
-    "lecturers": [],
-    "courseCode": "VM235",
-    "lessonClassCode": "VM235FA2016-Guess",
-    "lessonClassName": "工程热力学（J类）（1） (deduced)",
-    "studentNum": -1,
-    "termName": "FA2016",
-    "scoreNum": 1
   },
   {
     "lecturers": [],
@@ -852,7 +852,7 @@
     "lessonClassName": "体育（1） (deduced)",
     "studentNum": -1,
     "termName": "FA2016",
-    "scoreNum": 297
+    "scoreNum": 298
   },
   {
     "lecturers": [],
@@ -1536,6 +1536,114 @@
     "lessonClassName": "拉丁语（II） (deduced)",
     "studentNum": -1,
     "termName": "FA2019",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2019-Guess",
+    "lessonClassName": "军事理论 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2019",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "LT002",
+    "lessonClassCode": "LT002FA2020-Guess",
+    "lessonClassName": "基础拉丁语 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PL031",
+    "lessonClassCode": "PL031FA2020-Guess",
+    "lessonClassName": "植物与生活 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 5
+  },
+  {
+    "lecturers": [],
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013FA2020-Guess",
+    "lessonClassName": "品牌审美与管理----F1超跑和法国红酒 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 2
+  },
+  {
+    "lecturers": [],
+    "courseCode": "CH926",
+    "lessonClassCode": "CH926FA2020-Guess",
+    "lessonClassName": "古典诗文名篇选读 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "FI005",
+    "lessonClassCode": "FI005FA2020-Guess",
+    "lessonClassName": "货币金融学 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PL004",
+    "lessonClassCode": "PL004FA2020-Guess",
+    "lessonClassName": "插花艺术 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 6
+  },
+  {
+    "lecturers": [],
+    "courseCode": "AD003",
+    "lessonClassCode": "AD003FA2020-Guess",
+    "lessonClassName": "设计素描 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "BI905",
+    "lessonClassCode": "BI905FA2020-Guess",
+    "lessonClassName": "地球生命 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "HI904",
+    "lessonClassCode": "HI904FA2020-Guess",
+    "lessonClassName": "历史视野下的美国文化 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "DR001",
+    "lessonClassCode": "DR001FA2020-Guess",
+    "lessonClassName": "书法艺术 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "DR002",
+    "lessonClassCode": "DR002FA2020-Guess",
+    "lessonClassName": "篆刻艺术 (deduced)",
+    "studentNum": -1,
+    "termName": "FA2020",
     "scoreNum": 1
   },
   {
@@ -2580,7 +2688,7 @@
     "lessonClassName": "高等数学B2 (deduced)",
     "studentNum": -1,
     "termName": "SP2016",
-    "scoreNum": 5
+    "scoreNum": 6
   },
   {
     "lecturers": [],
@@ -2607,7 +2715,7 @@
     "lessonClassName": "普通物理（1） (deduced)",
     "studentNum": -1,
     "termName": "SP2016",
-    "scoreNum": 8
+    "scoreNum": 9
   },
   {
     "lecturers": [],
@@ -2616,7 +2724,7 @@
     "lessonClassName": "高等数学A2 (deduced)",
     "studentNum": -1,
     "termName": "SP2016",
-    "scoreNum": 9
+    "scoreNum": 10
   },
   {
     "lecturers": [],
@@ -2860,6 +2968,15 @@
     "studentNum": -1,
     "termName": "SP2017",
     "scoreNum": 13
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2017-Guess",
+    "lessonClassName": "动力学与振动导论 (deduced)",
+    "studentNum": -1,
+    "termName": "SP2017",
+    "scoreNum": 1
   },
   {
     "lecturers": [],
@@ -3462,7 +3579,7 @@
     "lessonClassName": "新时代社会认知实践 (deduced)",
     "studentNum": -1,
     "termName": "SP2018",
-    "scoreNum": 298
+    "scoreNum": 299
   },
   {
     "lecturers": [],
@@ -4699,47 +4816,47 @@
   },
   {
     "lecturers": [],
-    "courseCode": "CH060",
-    "lessonClassCode": "CH060SP2020-Guess",
-    "lessonClassName": "1930年代上海文学地图 (deduced)",
+    "courseCode": "PL004",
+    "lessonClassCode": "PL004SP2021-Guess",
+    "lessonClassName": "插花艺术 (deduced)",
     "studentNum": -1,
-    "termName": "SP2020",
+    "termName": "SP2021",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [],
+    "courseCode": "BM016",
+    "lessonClassCode": "BM016SP2021-Guess",
+    "lessonClassName": "大学生健康教育 (deduced)",
+    "studentNum": -1,
+    "termName": "SP2021",
     "scoreNum": 2
   },
   {
     "lecturers": [],
-    "courseCode": "HI102",
-    "lessonClassCode": "HI102SP2020-Guess",
-    "lessonClassName": "科学技术史 (deduced)",
+    "courseCode": "EC011",
+    "lessonClassCode": "EC011SP2021-Guess",
+    "lessonClassName": "宏观经济学（B类） (deduced)",
     "studentNum": -1,
-    "termName": "SP2020",
+    "termName": "SP2021",
     "scoreNum": 3
   },
   {
     "lecturers": [],
-    "courseCode": "PL021",
-    "lessonClassCode": "PL021SP2020-Guess",
-    "lessonClassName": "花卉艺术 (deduced)",
+    "courseCode": "IS214",
+    "lessonClassCode": "IS214SP2021-Guess",
+    "lessonClassName": "数据库原理 (deduced)",
     "studentNum": -1,
-    "termName": "SP2020",
+    "termName": "SP2021",
     "scoreNum": 1
   },
   {
     "lecturers": [],
-    "courseCode": "PL027",
-    "lessonClassCode": "PL027SP2020-Guess",
-    "lessonClassName": "园艺与文化 (deduced)",
+    "courseCode": "CH060",
+    "lessonClassCode": "CH060SP2021-Guess",
+    "lessonClassName": "1930年代上海文学地图 (deduced)",
     "studentNum": -1,
-    "termName": "SP2020",
-    "scoreNum": 1
-  },
-  {
-    "lecturers": [],
-    "courseCode": "BU104",
-    "lessonClassCode": "BU104SP2020-Guess",
-    "lessonClassName": "营销导论 (deduced)",
-    "studentNum": -1,
-    "termName": "SP2020",
+    "termName": "SP2021",
     "scoreNum": 1
   },
   {
@@ -4749,7 +4866,7 @@
     "lessonClassName": "体育（4） (deduced)",
     "studentNum": -1,
     "termName": "SU2017",
-    "scoreNum": 14
+    "scoreNum": 15
   },
   {
     "lecturers": [],
@@ -4785,7 +4902,7 @@
     "lessonClassName": "体育（2） (deduced)",
     "studentNum": -1,
     "termName": "SU2017",
-    "scoreNum": 297
+    "scoreNum": 299
   },
   {
     "lecturers": [],
@@ -5145,7 +5262,7 @@
     "lessonClassName": "工程概率方法 (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 200
+    "scoreNum": 203
   },
   {
     "lecturers": [],
@@ -5163,7 +5280,7 @@
     "lessonClassName": "计算机导论 (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 530
+    "scoreNum": 535
   },
   {
     "lecturers": [],
@@ -5172,7 +5289,7 @@
     "lessonClassName": "普通物理实验（1） (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 509
+    "scoreNum": 517
   },
   {
     "lecturers": [],
@@ -5244,7 +5361,7 @@
     "lessonClassName": "线性代数和微分方程A (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 372
+    "scoreNum": 388
   },
   {
     "lecturers": [],
@@ -5253,7 +5370,7 @@
     "lessonClassName": "综合英语（J类） (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 512
+    "scoreNum": 513
   },
   {
     "lecturers": [],
@@ -5424,7 +5541,7 @@
     "lessonClassName": "数据结构与算法（J类） (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 87
+    "scoreNum": 89
   },
   {
     "lecturers": [],
@@ -5478,7 +5595,7 @@
     "lessonClassName": "普通物理（1） (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 305
+    "scoreNum": 308
   },
   {
     "lecturers": [],
@@ -5586,7 +5703,7 @@
     "lessonClassName": "形势与政策 (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 765
+    "scoreNum": 1334
   },
   {
     "lecturers": [],
@@ -5676,7 +5793,7 @@
     "lessonClassName": "传热学（J类） (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 15
+    "scoreNum": 16
   },
   {
     "lecturers": [],
@@ -5784,7 +5901,7 @@
     "lessonClassName": "半导体器件导论 (many years ago)",
     "studentNum": -1,
     "termName": "",
-    "scoreNum": 16
+    "scoreNum": 17
   },
   {
     "lecturers": [],
@@ -6530,7 +6647,7 @@
     "lessonClassName": "工程优化FA2019",
     "studentNum": 31,
     "termName": "FA2019",
-    "scoreNum": 0
+    "scoreNum": 1
   },
   {
     "lecturers": [
@@ -6541,7 +6658,7 @@
     "lessonClassName": "工程数值分析FA2019",
     "studentNum": 51,
     "termName": "FA2019",
-    "scoreNum": 0
+    "scoreNum": 1
   },
   {
     "lecturers": [
@@ -6552,7 +6669,7 @@
     "lessonClassName": "应用数学方法（1）FA2019",
     "studentNum": 15,
     "termName": "FA2019",
-    "scoreNum": 0
+    "scoreNum": 1
   },
   {
     "lecturers": [
@@ -8192,7 +8309,7 @@
     "lessonClassName": "体育（3）FA2019-8 男生定向越野下午班 王坤",
     "studentNum": 30,
     "termName": "FA2019",
-    "scoreNum": 0
+    "scoreNum": 1
   },
   {
     "lecturers": [
@@ -8518,7 +8635,7 @@
     "lessonClassName": "信号与系统处理SP2018-2",
     "studentNum": 55,
     "termName": "SP2018",
-    "scoreNum": 26
+    "scoreNum": 27
   },
   {
     "lecturers": [],
@@ -8995,7 +9112,7 @@
     "lessonClassName": "动态系统建模分析与控制SU2018",
     "studentNum": 60,
     "termName": "SU2018",
-    "scoreNum": 57
+    "scoreNum": 58
   },
   {
     "lecturers": [
@@ -9050,7 +9167,7 @@
     "lessonClassName": "半导体器件导论SU2018",
     "studentNum": 174,
     "termName": "SU2018",
-    "scoreNum": 172
+    "scoreNum": 173
   },
   {
     "lecturers": [
@@ -10404,7 +10521,7 @@
     "lessonClassName": "工程概率方法SU2018",
     "studentNum": 157,
     "termName": "SU2018",
-    "scoreNum": 152
+    "scoreNum": 153
   },
   {
     "lecturers": [
@@ -10547,7 +10664,7 @@
     "lessonClassName": "应用回归分析与R语言FA2019",
     "studentNum": 44,
     "termName": "FA2019",
-    "scoreNum": 43
+    "scoreNum": 44
   },
   {
     "lecturers": [
@@ -10569,7 +10686,7 @@
     "lessonClassName": "应用数学方法（1）FA2017",
     "studentNum": 22,
     "termName": "FA2017",
-    "scoreNum": 1
+    "scoreNum": 2
   },
   {
     "lecturers": [
@@ -10789,7 +10906,7 @@
     "lessonClassName": "形势与政策FA2019-2-Sophmore",
     "studentNum": 294,
     "termName": "FA2019",
-    "scoreNum": 294
+    "scoreNum": 299
   },
   {
     "lecturers": [
@@ -12073,7 +12190,7 @@
     "lessonClassName": "本科生科研项目SU2018",
     "studentNum": 11,
     "termName": "SU2018",
-    "scoreNum": 8
+    "scoreNum": 9
   },
   {
     "lecturers": [],
@@ -13264,7 +13381,7 @@
     "lessonClassName": "电磁学（J类）（1）FA2018",
     "studentNum": 68,
     "termName": "FA2018",
-    "scoreNum": 65
+    "scoreNum": 67
   },
   {
     "lecturers": [
@@ -13893,7 +14010,7 @@
     "lessonClassName": "系统设计与实现FA2018",
     "studentNum": 64,
     "termName": "FA2018",
-    "scoreNum": 62
+    "scoreNum": 64
   },
   {
     "lecturers": [
@@ -15495,7 +15612,7 @@
     "lessonClassName": "设计与制造（3）FA2018",
     "studentNum": 32,
     "termName": "FA2018",
-    "scoreNum": 30
+    "scoreNum": 32
   },
   {
     "lecturers": [
@@ -16535,7 +16652,7 @@
     "lessonClassName": "应用数学分析方法IISP2020",
     "studentNum": 79,
     "termName": "SP2020",
-    "scoreNum": 47
+    "scoreNum": 48
   },
   {
     "lecturers": [
@@ -16784,7 +16901,7 @@
     "courseCode": "PE004",
     "lessonClassCode": "PE004SP2020-6",
     "lessonClassName": "体育（4）SP2020-6男生排球下午 王斌",
-    "studentNum": 30,
+    "studentNum": 29,
     "termName": "SP2020",
     "scoreNum": 0
   },
@@ -16863,7 +16980,7 @@
     "lessonClassName": "军事理论SP2020-1 Cheng Yan (10:00-11:40)",
     "studentNum": 75,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 75
   },
   {
     "lecturers": [
@@ -16874,7 +16991,7 @@
     "lessonClassName": "军事理论SP2020-2 Jianshi Zhao(10:00-11:40)",
     "studentNum": 70,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 70
   },
   {
     "lecturers": [
@@ -16885,7 +17002,7 @@
     "lessonClassName": "军事理论SP2020-3 Cheng Yan (14:00-15:40)",
     "studentNum": 75,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 75
   },
   {
     "lecturers": [
@@ -16896,7 +17013,7 @@
     "lessonClassName": "军事理论SP2020-4Jianshi Zhao(14:00-15:40)",
     "studentNum": 67,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 67
   },
   {
     "lecturers": [
@@ -17094,7 +17211,7 @@
     "lessonClassName": "形势与政策SP2020-1 Freshmen",
     "studentNum": 284,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 284
   },
   {
     "lecturers": [
@@ -17105,7 +17222,7 @@
     "lessonClassName": "形势与政策SP2020-2 Sophomore",
     "studentNum": 294,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 292
   },
   {
     "lecturers": [
@@ -17204,7 +17321,7 @@
     "lessonClassName": "思想道德修养与法律基础SP2020-1 Hongbo Shi",
     "studentNum": 148,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 148
   },
   {
     "lecturers": [
@@ -17215,7 +17332,7 @@
     "lessonClassName": "思想道德修养与法律基础SP2020-2 Weihua Yang",
     "studentNum": 141,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 141
   },
   {
     "lecturers": [
@@ -17297,7 +17414,7 @@
     "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2020-1 Peng Chen",
     "studentNum": 146,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 146
   },
   {
     "lecturers": [
@@ -17308,7 +17425,7 @@
     "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2020-2 Kai Zhou",
     "studentNum": 150,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 148
   },
   {
     "lecturers": [
@@ -17626,7 +17743,7 @@
     "lessonClassName": "马克思主义基本原理SP2020-1 Wei Zhu",
     "studentNum": 149,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 148
   },
   {
     "lecturers": [
@@ -17637,7 +17754,7 @@
     "lessonClassName": "马克思主义基本原理SP2020-2 Liping Liu",
     "studentNum": 147,
     "termName": "SP2020",
-    "scoreNum": 0
+    "scoreNum": 146
   },
   {
     "lecturers": [
@@ -17652,24 +17769,24 @@
   },
   {
     "lecturers": [
-      "MICHELE MARIE CAMPBELL"
+      "乔恒"
     ],
-    "courseCode": "VG502",
-    "lessonClassCode": "VG502FA2020-1-1",
-    "lessonClassName": "Graduate Technical Discourse-1",
-    "studentNum": 11,
-    "termName": "FA2020",
+    "courseCode": "VE564",
+    "lessonClassCode": "VE564SU2021-1",
+    "lessonClassName": "统计信号处理",
+    "studentNum": 17,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
     "lecturers": [
-      "Nathaniel Murray"
+      "钱炜慷"
     ],
-    "courseCode": "VG502",
-    "lessonClassCode": "VG502FA2020-1-2",
-    "lessonClassName": "Graduate Technical Discourse-2",
-    "studentNum": 41,
-    "termName": "FA2020",
+    "courseCode": "VE527",
+    "lessonClassCode": "VE527SU2021",
+    "lessonClassName": " 集成电路的计算机辅助设计SU2021",
+    "studentNum": 24,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -17681,7 +17798,7 @@
     "lessonClassName": "VE/VM450 course evaluation-1",
     "studentNum": 29,
     "termName": "SU2020",
-    "scoreNum": 29
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -17692,7 +17809,7 @@
     "lessonClassName": "VE/VM450 course evaluation-2",
     "studentNum": 14,
     "termName": "SU2020",
-    "scoreNum": 14
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -17703,7 +17820,7 @@
     "lessonClassName": "VE/VM450 course evaluation-3",
     "studentNum": 35,
     "termName": "SU2020",
-    "scoreNum": 35
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -17714,7 +17831,7 @@
     "lessonClassName": "VE/VM450 course evaluation-4",
     "studentNum": 30,
     "termName": "SU2020",
-    "scoreNum": 30
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -17725,7 +17842,73 @@
     "lessonClassName": "VE/VM450 course evaluation-5",
     "studentNum": 20,
     "termName": "SU2020",
-    "scoreNum": 20
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "吴继刚"
+    ],
+    "courseCode": "VE552",
+    "lessonClassCode": "VE552SU2021",
+    "lessonClassName": "光纤光学与生医光学SU2021",
+    "studentNum": 13,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "杨睿"
+    ],
+    "courseCode": "VE510",
+    "lessonClassCode": "VE510SU2021",
+    "lessonClassName": "半导体器件原理SU2021",
+    "studentNum": 21,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "沈泳星"
+    ],
+    "courseCode": "VM611",
+    "lessonClassCode": "VM611SU2021",
+    "lessonClassName": "固体本构建模与更新算法SU2021",
+    "studentNum": 10,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "\tTong Zhu"
+    ],
+    "courseCode": "VE406",
+    "lessonClassCode": "VE406FA2020",
+    "lessonClassName": "应用回归分析与R语言",
+    "studentNum": 27,
+    "termName": "FA2020",
+    "scoreNum": 27
+  },
+  {
+    "lecturers": [
+      "Horst Hohberger"
+    ],
+    "courseCode": "VV557",
+    "lessonClassCode": "VV557SP2021",
+    "lessonClassName": "应用数学分析方法IISP2021",
+    "studentNum": 51,
+    "termName": "SP2021",
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "邵磊"
+    ],
+    "courseCode": "VM553",
+    "lessonClassCode": "VM553SU2021",
+    "lessonClassName": "微机电系统SU2021",
+    "studentNum": 27,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [],
@@ -17758,6 +17941,28 @@
   },
   {
     "lecturers": [
+      "王文冬"
+    ],
+    "courseCode": "VM571",
+    "lessonClassCode": "VM571SP2021",
+    "lessonClassName": "机器学习在分子和材料科学中的应用SP2021",
+    "studentNum": 15,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "申岩峰"
+    ],
+    "courseCode": "VM541",
+    "lessonClassCode": "VM541SU2021-1",
+    "lessonClassName": "机械振动",
+    "studentNum": 27,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "马澄斌"
     ],
     "courseCode": "VM552",
@@ -17769,12 +17974,141 @@
   },
   {
     "lecturers": [
+      "马澄斌"
+    ],
+    "courseCode": "VM552",
+    "lessonClassCode": "VM552SU2021",
+    "lessonClassName": "机电一体化SU2021",
+    "studentNum": 11,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "韩充"
     ],
     "courseCode": "VE666",
     "lessonClassCode": "VE666FA2020-1",
     "lessonClassName": "毫米波与太赫兹无线通信",
+    "studentNum": 7,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "万文杰"
+    ],
+    "courseCode": "VE539",
+    "lessonClassCode": "VE539SU2021",
+    "lessonClassName": "激光原理SU2021",
+    "studentNum": 7,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VG503",
+    "lessonClassCode": "VG503SU2021-1",
+    "lessonClassName": "研究生学位论文写作SU2021-1",
+    "studentNum": 17,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VG503",
+    "lessonClassCode": "VG503SU2021-2",
+    "lessonClassName": "研究生学位论文写作SU2021-2",
+    "studentNum": 20,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VG501",
+    "lessonClassCode": "VG501SP2021-1-1",
+    "lessonClassName": "研究生科技写作导论-1",
+    "studentNum": 26,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VG501",
+    "lessonClassCode": "VG501SP2021-1-2",
+    "lessonClassName": "研究生科技写作导论-2",
+    "studentNum": 26,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG591",
+    "lessonClassCode": "VG591FA2020-1",
+    "lessonClassName": "研究生科研 I",
+    "studentNum": 12,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG591",
+    "lessonClassCode": "VG591SP2021-1",
+    "lessonClassName": "研究生科研 I",
+    "studentNum": 7,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG592",
+    "lessonClassCode": "VG592FA2020-1",
+    "lessonClassName": "研究生科研 II",
+    "studentNum": 25,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG592",
+    "lessonClassCode": "VG592SP2021-1",
+    "lessonClassName": "研究生科研 II",
     "studentNum": 6,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG593",
+    "lessonClassCode": "VG593FA2020-1",
+    "lessonClassName": "研究生科研 III",
+    "studentNum": 9,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG593",
+    "lessonClassCode": "VG593SP2021-1",
+    "lessonClassName": "研究生科研 III",
+    "studentNum": 3,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VG581",
+    "lessonClassCode": "VG581FA2020-1",
+    "lessonClassName": "研究生系列讲座 I",
+    "studentNum": 55,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -17783,7 +18117,7 @@
     "courseCode": "VG582",
     "lessonClassCode": "VG582FA2020-1",
     "lessonClassName": "研究生系列讲座 II",
-    "studentNum": 51,
+    "studentNum": 66,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -17805,8 +18139,41 @@
     "courseCode": "VG500",
     "lessonClassCode": "VG500SU2020-Michele Campbell",
     "lessonClassName": "科技写作SU2020-Michele Campbell",
-    "studentNum": 16,
+    "studentNum": 17,
     "termName": "SU2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VG502",
+    "lessonClassCode": "VG502FA2020-1-1",
+    "lessonClassName": "Graduate Technical Discourse-1",
+    "studentNum": 30,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VG502",
+    "lessonClassCode": "VG502FA2020-1-2",
+    "lessonClassName": "Graduate Technical Discourse-2",
+    "studentNum": 33,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "张峻"
+    ],
+    "courseCode": "VE560/VM564",
+    "lessonClassCode": "VE560/VM564SP2021",
+    "lessonClassName": "线性系统SP2021",
+    "studentNum": 7,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -17852,23 +18219,101 @@
     "scoreNum": 0
   },
   {
+    "lecturers": [
+      "Roberto DUGNANI"
+    ],
+    "courseCode": "VM514",
+    "lessonClassCode": "VM514SU2021",
+    "lessonClassName": "非线性断裂力学SU2021",
+    "studentNum": 4,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "鲍华",
+      "张强"
+    ],
+    "courseCode": "VM530",
+    "lessonClassCode": "VM530SP2021",
+    "lessonClassName": "高等传热学SP2021",
+    "studentNum": 13,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
     "lecturers": [],
     "courseCode": "VE/VM595/695",
     "lessonClassCode": "VE/VM595/695SP2020",
     "lessonClassName": "论文科研SP2020",
-    "studentNum": 73,
+    "studentNum": 78,
     "termName": "SP2020",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "吴继刚"
+    ],
+    "courseCode": "VE/VM450",
+    "lessonClassCode": "VE/VM450FA2020-1",
+    "lessonClassName": "VE/VM450 course evaluationFA2020-1",
+    "studentNum": 18,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "韩充"
+    ],
+    "courseCode": "VE/VM450",
+    "lessonClassCode": "VE/VM450FA2020-2",
+    "lessonClassName": "VE/VM450 course evaluationFA2020-2",
+    "studentNum": 34,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "马澄斌"
+    ],
+    "courseCode": "VE/VM450",
+    "lessonClassCode": "VE/VM450FA2020-3",
+    "lessonClassName": "VE/VM450 course evaluationFA2020-3",
+    "studentNum": 19,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "李明建"
+    ],
+    "courseCode": "VE/VM450",
+    "lessonClassCode": "VE/VM450FA2020-4",
+    "lessonClassName": "VE/VM450 course evaluationFA2020-4",
+    "studentNum": 35,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "武云"
+    ],
+    "courseCode": "VR265",
+    "lessonClassCode": "VR265SP2021",
+    "lessonClassName": "Introduction to Chinese Philosophy: Understanding Contemporary through Ancient China SP2021",
+    "studentNum": 43,
+    "termName": "SP2021",
+    "scoreNum": 43
   },
   {
     "lecturers": [
       "Sa Weiqi"
     ],
     "courseCode": "VZ102",
-    "lessonClassCode": "VZ102FA2020",
-    "lessonClassName": "中国文化概论FA2020",
+    "lessonClassCode": "VZ102SP2021",
+    "lessonClassName": "Introduction to Chinese CultureSP2021",
     "studentNum": 0,
-    "termName": "FA2020",
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -17884,6 +18329,28 @@
   },
   {
     "lecturers": [
+      "杜燕"
+    ],
+    "courseCode": "VZ102",
+    "lessonClassCode": "VZ102SU2021",
+    "lessonClassName": "Introduction to Chinese CultureSU2021",
+    "studentNum": 9,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "徐彤"
+    ],
+    "courseCode": "VR281",
+    "lessonClassCode": "VR281SP2021",
+    "lessonClassName": "Introduction to China Studies SP2021",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 32
+  },
+  {
+    "lecturers": [
       "徐彤"
     ],
     "courseCode": "VR281",
@@ -17895,24 +18362,68 @@
   },
   {
     "lecturers": [
+      "徐彤"
+    ],
+    "courseCode": "VR281",
+    "lessonClassCode": "VR281SU2021",
+    "lessonClassName": "Introduction to China Studies SU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "高福进"
     ],
     "courseCode": "TH028",
-    "lessonClassCode": "TH028FA2020-1",
-    "lessonClassName": "中国近代史纲要-1",
-    "studentNum": 0,
+    "lessonClassCode": "TH028FA2020 -1",
+    "lessonClassName": "中国近代史纲要 -1",
+    "studentNum": 60,
     "termName": "FA2020",
     "scoreNum": 0
   },
   {
     "lecturers": [
-      "张一平"
+      "高福进"
     ],
     "courseCode": "TH028",
-    "lessonClassCode": "TH028FA2020-2",
-    "lessonClassName": "中国近代史纲要-2",
-    "studentNum": 0,
+    "lessonClassCode": "TH028FA2020 -2",
+    "lessonClassName": "中国近代史纲要 -2",
+    "studentNum": 60,
     "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "张玲"
+    ],
+    "courseCode": "TH028",
+    "lessonClassCode": "TH028FA2020 -3",
+    "lessonClassName": "中国近代史纲要 -3",
+    "studentNum": 59,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "张玲"
+    ],
+    "courseCode": "TH028",
+    "lessonClassCode": "TH028FA2020 -4",
+    "lessonClassName": "中国近代史纲要 -4",
+    "studentNum": 55,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "JOELLE ELIZABETH TYBON"
+    ],
+    "courseCode": "ENGL2480J",
+    "lessonClassCode": "ENGL2480JSU2021",
+    "lessonClassName": "Utopia/Dystopia: Imagining (Im)Perfect SocietiesSU2021",
+    "studentNum": 13,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -17941,11 +18452,33 @@
     "lecturers": [
       "Paul Weng "
     ],
+    "courseCode": "VE492",
+    "lessonClassCode": "VE492SU2021",
+    "lessonClassName": "Intro to Artificial IntelligenceSU2021",
+    "studentNum": 97,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Paul Weng "
+    ],
     "courseCode": "VE593",
     "lessonClassCode": "VE593FA2020",
     "lessonClassName": "人工智能理论与应用FA2020",
-    "studentNum": 28,
+    "studentNum": 23,
     "termName": "FA2020",
+    "scoreNum": 5
+  },
+  {
+    "lecturers": [
+      "Kyung MinKim"
+    ],
+    "courseCode": "VX310",
+    "lessonClassCode": "VX310SU2021",
+    "lessonClassName": "Interpersonal Communication: Social and Cross-Cultural Communication SkillsSU2021",
+    "studentNum": 13,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -17957,7 +18490,7 @@
     "lessonClassName": "从帝国到民族国家：全球史上的中国，欧洲，拉丁美洲FA2020",
     "studentNum": 12,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 12
   },
   {
     "lecturers": [
@@ -17972,6 +18505,37 @@
   },
   {
     "lecturers": [
+      "Soong Chul Ro"
+    ],
+    "courseCode": "VR208",
+    "lessonClassCode": "VR208SU2021",
+    "lessonClassName": "Business and Natural EnvironmentSU2021",
+    "studentNum": 7,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VX423",
+    "lessonClassCode": "VX423SP2020",
+    "lessonClassName": "IntrapreneurshipSP2020",
+    "studentNum": 0,
+    "termName": "SP2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Pradeep Ray"
+    ],
+    "courseCode": "VX423",
+    "lessonClassCode": "VX423SP2021",
+    "lessonClassName": "IntrapreneurshipSP2021",
+    "studentNum": 12,
+    "termName": "SP2021",
+    "scoreNum": 12
+  },
+  {
+    "lecturers": [
       "鲍华"
     ],
     "courseCode": "VM335",
@@ -17982,12 +18546,190 @@
     "scoreNum": 54
   },
   {
+    "lecturers": [
+      "鲍华"
+    ],
+    "courseCode": "VM335",
+    "lessonClassCode": "VM335SU2021",
+    "lessonClassName": "Heat TransferSU2021",
+    "studentNum": 48,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "马莲芳 "
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-1",
+    "lessonClassName": "体育（1）FA2020-1男足",
+    "studentNum": 32,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "吴爱平"
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-2",
+    "lessonClassName": "体育（1）FA2020-2男乒乓",
+    "studentNum": 32,
+    "termName": "FA2020",
+    "scoreNum": 32
+  },
+  {
     "lecturers": [],
     "courseCode": "PE001",
-    "lessonClassCode": "PE001FA2020",
-    "lessonClassName": "体育（1）FA2020",
-    "studentNum": 0,
+    "lessonClassCode": "PE001FA2020-3",
+    "lessonClassName": "体育（1）FA2020-3男羽",
+    "studentNum": 32,
     "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "张健 "
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-4",
+    "lessonClassName": "体育（1）FA2020-4男篮",
+    "studentNum": 32,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "吴富勇"
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-5",
+    "lessonClassName": "体育（1）FA2020-5男网",
+    "studentNum": 16,
+    "termName": "FA2020",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "沈豪"
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-6",
+    "lessonClassName": "体育（1）FA2020-6男擒拿",
+    "studentNum": 18,
+    "termName": "FA2020",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-7",
+    "lessonClassName": "体育（1）FA2020-7女艺术体操",
+    "studentNum": 25,
+    "termName": "FA2020",
+    "scoreNum": 25
+  },
+  {
+    "lecturers": [
+      "孙涵"
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-8",
+    "lessonClassName": "体育（1）FA2020-8女篮",
+    "studentNum": 21,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      " 姚武"
+    ],
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-9",
+    "lessonClassName": "体育（1）FA2020-9女瑜伽",
+    "studentNum": 25,
+    "termName": "FA2020",
+    "scoreNum": 25
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-1",
+    "lessonClassName": "体育（2）SP2021-男篮球上午张健",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-2",
+    "lessonClassName": "体育（2）SP2021-男排球上午蔡皿",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-3",
+    "lessonClassName": "体育（2）SP2021-女健美操上午窦秀敏",
+    "studentNum": 10,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-4",
+    "lessonClassName": "体育（2）SP2021-男定向越野下午范翔",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-5",
+    "lessonClassName": "体育（2）SP2021-男游泳基础下午王明宏",
+    "studentNum": 15,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-6",
+    "lessonClassName": "体育（2）SP2021-男太极拳下午李忠斌",
+    "studentNum": 31,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-7",
+    "lessonClassName": "体育（2）SP2021-男擒拿格斗下午赵景磊",
+    "studentNum": 24,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-8",
+    "lessonClassName": "体育（2）SP2021-女形体修塑下午眭禄",
+    "studentNum": 29,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE002",
+    "lessonClassCode": "PE002SP2021-9",
+    "lessonClassName": "体育（2）SP2021-女子街舞下午刘春颖",
+    "studentNum": 30,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -17997,7 +18739,7 @@
     "lessonClassName": "体育（3）FA2020-男橄榄球上午宋顺",
     "studentNum": 32,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 1
   },
   {
     "lecturers": [],
@@ -18006,16 +18748,16 @@
     "lessonClassName": "体育（3）FA2020-女街舞下午刘春颖",
     "studentNum": 27,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 26
   },
   {
     "lecturers": [],
     "courseCode": "PE003",
     "lessonClassCode": "PE003FA2020-11",
     "lessonClassName": "体育（3）FA2020-女舞蹈新元素下午尹梅",
-    "studentNum": 28,
+    "studentNum": 26,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 26
   },
   {
     "lecturers": [],
@@ -18024,14 +18766,14 @@
     "lessonClassName": "体育（3）FA2020-男篮球下午陈刚",
     "studentNum": 32,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 32
   },
   {
     "lecturers": [],
     "courseCode": "PE003",
     "lessonClassCode": "PE003FA2020-3",
     "lessonClassName": "体育（3）FA2020-男足球下午顾根陞",
-    "studentNum": 32,
+    "studentNum": 31,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -18058,9 +18800,9 @@
     "courseCode": "PE003",
     "lessonClassCode": "PE003FA2020-6",
     "lessonClassName": "体育（3）FA2020-男棒球下午张哲敏",
-    "studentNum": 21,
+    "studentNum": 24,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 24
   },
   {
     "lecturers": [],
@@ -18069,16 +18811,16 @@
     "lessonClassName": "体育（3）FA2020-男网球下午郑铭洪",
     "studentNum": 16,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 16
   },
   {
     "lecturers": [],
     "courseCode": "PE003",
     "lessonClassCode": "PE003FA2020-8",
     "lessonClassName": "体育（3）FA2020-男擒拿格斗下午赵景磊",
-    "studentNum": 30,
+    "studentNum": 31,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 30
   },
   {
     "lecturers": [],
@@ -18087,6 +18829,96 @@
     "lessonClassName": "体育（3）FA2020-女网球下午王雅卓",
     "studentNum": 16,
     "termName": "FA2020",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-1",
+    "lessonClassName": "体育（4）SP2021-男棒球上午张哲敏",
+    "studentNum": 22,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-10",
+    "lessonClassName": "体育（4）SP2021-女舞蹈新元素下午尹梅",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-2",
+    "lessonClassName": "体育（4）SP2021-男乒乓球上午季泰",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-3",
+    "lessonClassName": "体育（4）SP2021-男网球上午吴富勇",
+    "studentNum": 31,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-4",
+    "lessonClassName": "体育（4）SP2021-男定向越野上午范翔",
+    "studentNum": 34,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-5",
+    "lessonClassName": "体育（4）SP2021-女瑜伽上午姚武",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-6",
+    "lessonClassName": "体育（4）SP2021-女拉丁舞上午冯震亚",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-7",
+    "lessonClassName": "体育（4）SP2021-男橄榄球下午宋顺",
+    "studentNum": 31,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-8",
+    "lessonClassName": "体育（4）SP2021-男网球下午史为临",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "PE004",
+    "lessonClassCode": "PE004SP2021-9",
+    "lessonClassName": "体育（4）SP2021-男篮球下午陈刚",
+    "studentNum": 33,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -18102,6 +18934,28 @@
   },
   {
     "lecturers": [
+      "时聪"
+    ],
+    "courseCode": "VG441",
+    "lessonClassCode": "VG441SU2021",
+    "lessonClassName": "Supply Chain ManagementSU2021",
+    "studentNum": 72,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "乔恒"
+    ],
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2021",
+    "lessonClassName": "Intro to Signals and SystemsSP2021",
+    "studentNum": 151,
+    "termName": "SP2021",
+    "scoreNum": 151
+  },
+  {
+    "lecturers": [
       "龙泳"
     ],
     "courseCode": "VE216",
@@ -18110,6 +18964,17 @@
     "studentNum": 122,
     "termName": "SU2020",
     "scoreNum": 122
+  },
+  {
+    "lecturers": [
+      "龙泳"
+    ],
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SU2021",
+    "lessonClassName": "Intro to Signals and SystemsSU2021",
+    "studentNum": 86,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18140,9 +19005,9 @@
     "courseCode": "VE334",
     "lessonClassCode": "VE334FA2020",
     "lessonClassName": "光学原理FA2020",
-    "studentNum": 13,
+    "studentNum": 15,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 15
   },
   {
     "lecturers": [
@@ -18151,9 +19016,20 @@
     "courseCode": "VR102",
     "lessonClassCode": "VR102FA2020",
     "lessonClassName": "全球视野中的中国历史",
-    "studentNum": 26,
+    "studentNum": 35,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 35
+  },
+  {
+    "lecturers": [
+      "徐彤"
+    ],
+    "courseCode": "VR102",
+    "lessonClassCode": "VR102SP2021",
+    "lessonClassName": "Chinese History in Global PerspectiveSP2021",
+    "studentNum": 37,
+    "termName": "SP2021",
+    "scoreNum": 37
   },
   {
     "lecturers": [
@@ -18179,6 +19055,50 @@
   },
   {
     "lecturers": [
+      "闫成"
+    ],
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2021-1",
+    "lessonClassName": "Military TheorySP2021-1",
+    "studentNum": 60,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "宋玲"
+    ],
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2021-2",
+    "lessonClassName": "Military TheorySP2021-2",
+    "studentNum": 60,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "赵建世"
+    ],
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2021-3",
+    "lessonClassName": "Military TheorySP2021-3",
+    "studentNum": 56,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "闫成"
+    ],
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2021-4",
+    "lessonClassName": "Military TheorySP2021-4",
+    "studentNum": 54,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "徐国斌"
     ],
     "courseCode": "TH010",
@@ -18186,6 +19106,15 @@
     "lessonClassName": "军训",
     "studentNum": 280,
     "termName": "SP2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "TH010",
+    "lessonClassCode": "TH010SU2021",
+    "lessonClassName": "Military TrainingSU2021",
+    "studentNum": 229,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -18198,6 +19127,17 @@
     "studentNum": 38,
     "termName": "SU2020",
     "scoreNum": 38
+  },
+  {
+    "lecturers": [
+      "Pradeep Ray"
+    ],
+    "courseCode": "VX420",
+    "lessonClassCode": "VX420SU2021",
+    "lessonClassName": "Business Basics for EntrepreneursSU2021",
+    "studentNum": 34,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18223,6 +19163,17 @@
   },
   {
     "lecturers": [
+      "沈泳星"
+    ],
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2021",
+    "lessonClassName": "Intro to Dynamics and VibrationsSP2021",
+    "studentNum": 17,
+    "termName": "SP2021",
+    "scoreNum": 17
+  },
+  {
+    "lecturers": [
       "Roberto DUGNANI"
     ],
     "courseCode": "VM240",
@@ -18231,6 +19182,17 @@
     "studentNum": 26,
     "termName": "SU2020",
     "scoreNum": 26
+  },
+  {
+    "lecturers": [
+      "Roberto DUGNANI"
+    ],
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SU2021",
+    "lessonClassName": "Intro to Dynamics and VibrationsSU2021",
+    "studentNum": 28,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18245,14 +19207,36 @@
   },
   {
     "lecturers": [
+      "邵磊"
+    ],
+    "courseCode": "VM360",
+    "lessonClassCode": "VM360SU2021",
+    "lessonClassName": "Modeling, Analysis and Control of Dynamic SystemsSU2021",
+    "studentNum": 56,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "余琼"
     ],
     "courseCode": "VR238",
     "lessonClassCode": "VR238SU2020",
     "lessonClassName": "British Empire and “Informal” Imperialism in the Nineteenth-CenturySU2020",
-    "studentNum": 48,
+    "studentNum": 47,
     "termName": "SU2020",
-    "scoreNum": 48
+    "scoreNum": 47
+  },
+  {
+    "lecturers": [
+      "余琼"
+    ],
+    "courseCode": "VR238",
+    "lessonClassCode": "VR238SU2021",
+    "lessonClassName": "British Empire and “Informal” Imperialism in the Nineteenth-CenturySU2021",
+    "studentNum": 30,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18261,9 +19245,9 @@
     "courseCode": "VE320",
     "lessonClassCode": "VE320FA2020",
     "lessonClassName": "半导体器件导论FA2020",
-    "studentNum": 74,
+    "studentNum": 67,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 67
   },
   {
     "lecturers": [
@@ -18275,6 +19259,17 @@
     "studentNum": 167,
     "termName": "SU2020",
     "scoreNum": 167
+  },
+  {
+    "lecturers": [
+      "但亚平"
+    ],
+    "courseCode": "VE320",
+    "lessonClassCode": "VE320SU2021",
+    "lessonClassName": "Intro to Semiconductor DevicesSU2021",
+    "studentNum": 144,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18300,6 +19295,17 @@
   },
   {
     "lecturers": [
+      "Andrew Yang"
+    ],
+    "courseCode": "VR293",
+    "lessonClassCode": "VR293SU2021",
+    "lessonClassName": "Chinese American LiteratureSU2021",
+    "studentNum": 29,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "杜長慶"
     ],
     "courseCode": "VE413",
@@ -18308,6 +19314,39 @@
     "studentNum": 26,
     "termName": "SU2020",
     "scoreNum": 26
+  },
+  {
+    "lecturers": [
+      "杜長慶"
+    ],
+    "courseCode": "VE413",
+    "lessonClassCode": "VE413SU2021",
+    "lessonClassName": "Monolithic Amplifier CircuitsSU2021",
+    "studentNum": 23,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Kwee Yan Teh"
+    ],
+    "courseCode": "BUS2550J",
+    "lessonClassCode": "BUS2550JSP2021",
+    "lessonClassName": "Design for Sustainable DevelopmentSP2021",
+    "studentNum": 29,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "李杰"
+    ],
+    "courseCode": "VX251",
+    "lessonClassCode": "VX251SP2021",
+    "lessonClassName": "Branding and Brand ManagementSP2021",
+    "studentNum": 13,
+    "termName": "SP2021",
+    "scoreNum": 13
   },
   {
     "lecturers": [
@@ -18322,6 +19361,28 @@
   },
   {
     "lecturers": [
+      "李杰"
+    ],
+    "courseCode": "VX351",
+    "lessonClassCode": "VX351SU2021",
+    "lessonClassName": "Advanced Branding and Brand ManagementSU2021",
+    "studentNum": 7,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nicola Liberati"
+    ],
+    "courseCode": "VR202",
+    "lessonClassCode": "VR202SP2021",
+    "lessonClassName": "Introduction to PhilosophySP2021",
+    "studentNum": 43,
+    "termName": "SP2021",
+    "scoreNum": 43
+  },
+  {
+    "lecturers": [
       "Pradeep Ray"
     ],
     "courseCode": "VX402",
@@ -18333,6 +19394,17 @@
   },
   {
     "lecturers": [
+      "Pradeep Ray"
+    ],
+    "courseCode": "VX402",
+    "lessonClassCode": "VX402SU2021",
+    "lessonClassName": "Managing a BusinessSU2021",
+    "studentNum": 36,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "申岩峰"
     ],
     "courseCode": "VM211",
@@ -18340,7 +19412,18 @@
     "lessonClassName": "固体力学FA2020",
     "studentNum": 42,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 42
+  },
+  {
+    "lecturers": [
+      "Shane Johnson"
+    ],
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211SP2021",
+    "lessonClassName": "Intro to Solid MechanicsSP2021",
+    "studentNum": 6,
+    "termName": "SP2021",
+    "scoreNum": 6
   },
   {
     "lecturers": [
@@ -18349,7 +19432,27 @@
     "courseCode": "VE504",
     "lessonClassCode": "VE504FA2020",
     "lessonClassName": "固体物理学FA2020",
-    "studentNum": 19,
+    "studentNum": 18,
+    "termName": "FA2020",
+    "scoreNum": 2
+  },
+  {
+    "lecturers": [
+      "Soong Chul Ro"
+    ],
+    "courseCode": "VR160",
+    "lessonClassCode": "VR160SP2021",
+    "lessonClassName": "Introduction to World PoliticsSP2021",
+    "studentNum": 64,
+    "termName": "SP2021",
+    "scoreNum": 64
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VR369",
+    "lessonClassCode": "VR369FA2020",
+    "lessonClassName": "Politics of International Economic RelationsFA2020",
+    "studentNum": 0,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -18358,11 +19461,11 @@
       "Soong Chul Ro"
     ],
     "courseCode": "VR369",
-    "lessonClassCode": "VR369FA2020",
-    "lessonClassName": "国际经济关系FA2020",
-    "studentNum": 5,
-    "termName": "FA2020",
-    "scoreNum": 0
+    "lessonClassCode": "VR369SP2021",
+    "lessonClassName": "Politics of International Economic RelationsSP2021",
+    "studentNum": 31,
+    "termName": "SP2021",
+    "scoreNum": 30
   },
   {
     "lecturers": [
@@ -18371,8 +19474,19 @@
     "courseCode": "VE556",
     "lessonClassCode": "VE556FA2020",
     "lessonClassName": "图像处理FA2020",
-    "studentNum": 6,
+    "studentNum": 5,
     "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "郑刚"
+    ],
+    "courseCode": "VE373",
+    "lessonClassCode": "VE373SU2021",
+    "lessonClassName": "Design of Microprocessor Based SystemsSU2021",
+    "studentNum": 31,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -18382,9 +19496,9 @@
     "courseCode": "VJ110",
     "lessonClassCode": "VJ110FA2020-1",
     "lessonClassName": "基础日语（1）FA2020-1",
-    "studentNum": 24,
+    "studentNum": 25,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 25
   },
   {
     "lecturers": [
@@ -18395,7 +19509,18 @@
     "lessonClassName": "基础日语（1）FA2020-2",
     "studentNum": 25,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 25
+  },
+  {
+    "lecturers": [
+      "林子博"
+    ],
+    "courseCode": "VJ110",
+    "lessonClassCode": "VJ110SP2021",
+    "lessonClassName": "Basic Japanese I - SP2021",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
   },
   {
     "lecturers": [
@@ -18404,9 +19529,9 @@
     "courseCode": "VJ111",
     "lessonClassCode": "VJ111FA2020-1",
     "lessonClassName": "基础日语（2）FA2020-1",
-    "studentNum": 17,
+    "studentNum": 21,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 21
   },
   {
     "lecturers": [
@@ -18417,7 +19542,7 @@
     "lessonClassName": "基础日语（2）FA2020-2",
     "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -18426,7 +19551,7 @@
     "courseCode": "VM518",
     "lessonClassCode": "VM518FA2020",
     "lessonClassName": "复合材料高级力学FA2020",
-    "studentNum": 4,
+    "studentNum": 5,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -18437,8 +19562,19 @@
     "courseCode": "VC209",
     "lessonClassCode": "VC209FA2020",
     "lessonClassName": "大学化学FA2020",
-    "studentNum": 1,
+    "studentNum": 21,
     "termName": "FA2020",
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "CHEM2111J",
+    "lessonClassCode": "CHEM2111JSU2021",
+    "lessonClassName": "Chemistry LabSU2021",
+    "studentNum": 25,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -18448,9 +19584,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-1",
     "lessonClassName": "大学化学实验（J类）FA2020-1",
-    "studentNum": 28,
+    "studentNum": 27,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 27
   },
   {
     "lecturers": [
@@ -18459,9 +19595,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-10",
     "lessonClassName": "大学化学实验（J类）FA2020-10",
-    "studentNum": 28,
+    "studentNum": 24,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 24
   },
   {
     "lecturers": [
@@ -18481,9 +19617,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-2",
     "lessonClassName": "大学化学实验（J类）FA2020-2",
-    "studentNum": 28,
+    "studentNum": 27,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 27
   },
   {
     "lecturers": [
@@ -18492,9 +19628,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-3",
     "lessonClassName": "大学化学实验（J类）FA2020-3",
-    "studentNum": 28,
+    "studentNum": 26,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 26
   },
   {
     "lecturers": [
@@ -18505,7 +19641,7 @@
     "lessonClassName": "大学化学实验（J类）FA2020-4",
     "studentNum": 28,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 27
   },
   {
     "lecturers": [
@@ -18514,9 +19650,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-5",
     "lessonClassName": "大学化学实验（J类）FA2020-5",
-    "studentNum": 28,
+    "studentNum": 26,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 26
   },
   {
     "lecturers": [
@@ -18525,9 +19661,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-6",
     "lessonClassName": "大学化学实验（J类）FA2020-6",
-    "studentNum": 25,
+    "studentNum": 27,
     "termName": "FA2020",
-    "scoreNum": 25
+    "scoreNum": 27
   },
   {
     "lecturers": [
@@ -18536,9 +19672,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-7",
     "lessonClassName": "大学化学实验（J类）FA2020-7",
-    "studentNum": 20,
+    "studentNum": 21,
     "termName": "FA2020",
-    "scoreNum": 20
+    "scoreNum": 21
   },
   {
     "lecturers": [
@@ -18547,9 +19683,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-8",
     "lessonClassName": "大学化学实验（J类）FA2020-8",
-    "studentNum": 9,
+    "studentNum": 14,
     "termName": "FA2020",
-    "scoreNum": 9
+    "scoreNum": 14
   },
   {
     "lecturers": [
@@ -18558,9 +19694,9 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-9",
     "lessonClassName": "大学化学实验（J类）FA2020-9",
-    "studentNum": 28,
+    "studentNum": 26,
     "termName": "FA2020",
-    "scoreNum": 28
+    "scoreNum": 26
   },
   {
     "lecturers": [],
@@ -18570,6 +19706,116 @@
     "studentNum": 0,
     "termName": "SP2020",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-1",
+    "lessonClassName": "Chemistry LabSP2021-1",
+    "studentNum": 17,
+    "termName": "SP2021",
+    "scoreNum": 17
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-10",
+    "lessonClassName": "Chemistry LabSP2021-10",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-2",
+    "lessonClassName": "Chemistry LabSP2021-2",
+    "studentNum": 23,
+    "termName": "SP2021",
+    "scoreNum": 23
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-3",
+    "lessonClassName": "Chemistry LabSP2021-3",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-4",
+    "lessonClassName": "Chemistry LabSP2021-4",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-5",
+    "lessonClassName": "Chemistry LabSP2021-5",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-6",
+    "lessonClassName": "Chemistry LabSP2021-6",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-7",
+    "lessonClassName": "Chemistry LabSP2021-7",
+    "studentNum": 24,
+    "termName": "SP2021",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-8",
+    "lessonClassName": "Chemistry LabSP2021-8",
+    "studentNum": 21,
+    "termName": "SP2021",
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "Ting Sun"
+    ],
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-9",
+    "lessonClassName": "Chemistry LabSP2021-9",
+    "studentNum": 28,
+    "termName": "SP2021",
+    "scoreNum": 28
   },
   {
     "lecturers": [
@@ -18710,9 +19956,9 @@
     "courseCode": "VC210",
     "lessonClassCode": "VC210FA2020-1",
     "lessonClassName": "大学化学（J类）FA2020-1",
-    "studentNum": 1,
+    "studentNum": 105,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 105
   },
   {
     "lecturers": [
@@ -18721,9 +19967,9 @@
     "courseCode": "VC210",
     "lessonClassCode": "VC210FA2020-2",
     "lessonClassName": "大学化学（J类）FA2020-2",
-    "studentNum": 3,
+    "studentNum": 135,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 135
   },
   {
     "lecturers": [
@@ -18743,9 +19989,9 @@
     "courseCode": "VP245",
     "lessonClassCode": "VP245FA2020",
     "lessonClassName": "大学物理（2）FA2020",
-    "studentNum": 17,
+    "studentNum": 18,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 18
   },
   {
     "lecturers": [
@@ -18758,6 +20004,28 @@
     "studentNum": 11,
     "termName": "SU2020",
     "scoreNum": 10
+  },
+  {
+    "lecturers": [
+      "Manuel Charlemagne"
+    ],
+    "courseCode": "VE472",
+    "lessonClassCode": "VE472SU2021",
+    "lessonClassName": "Methods and Tools for Big DataSU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Matthew Risling"
+    ],
+    "courseCode": "VR223",
+    "lessonClassCode": "VR223SU2021",
+    "lessonClassName": "Arabian Nights in British LiteratureSU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18777,9 +20045,9 @@
     "courseCode": "VX451",
     "lessonClassCode": "VX451FA2020",
     "lessonClassName": "奢侈品与奢侈品营销FA2020",
-    "studentNum": 1,
+    "studentNum": 32,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 32
   },
   {
     "lecturers": [
@@ -18789,9 +20057,9 @@
     "courseCode": "VM395",
     "lessonClassCode": "VM395FA2020",
     "lessonClassName": "实验一FA2020",
-    "studentNum": 36,
+    "studentNum": 38,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 38
   },
   {
     "lecturers": [
@@ -18801,9 +20069,21 @@
     "courseCode": "VM395",
     "lessonClassCode": "VM395SU2020",
     "lessonClassName": "Laboratory ISU2020",
-    "studentNum": 11,
+    "studentNum": 10,
     "termName": "SU2020",
-    "scoreNum": 11
+    "scoreNum": 10
+  },
+  {
+    "lecturers": [
+      "Kwee Yan Teh",
+      "Ting Sun"
+    ],
+    "courseCode": "VM395",
+    "lessonClassCode": "VM395SU2021",
+    "lessonClassName": "Laboratory ISU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -18812,9 +20092,9 @@
     "courseCode": "VM495",
     "lessonClassCode": "VM495FA2020",
     "lessonClassName": "实验二FA2020",
-    "studentNum": 5,
+    "studentNum": 7,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 7
   },
   {
     "lecturers": [
@@ -18830,6 +20110,18 @@
   },
   {
     "lecturers": [
+      "Kwee Yan Teh",
+      "孔令逊"
+    ],
+    "courseCode": "VM495",
+    "lessonClassCode": "VM495SU2021",
+    "lessonClassName": "Laboratory IISU2021",
+    "studentNum": 43,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Manuel Charlemagne"
     ],
     "courseCode": "VE475",
@@ -18841,12 +20133,23 @@
   },
   {
     "lecturers": [
+      "Manuel Charlemagne"
+    ],
+    "courseCode": "VE475",
+    "lessonClassCode": "VE475SU2021",
+    "lessonClassName": "Introduction to CryptographySU2021",
+    "studentNum": 45,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "李冕"
     ],
     "courseCode": "VM555",
     "lessonClassCode": "VM555FA2020",
     "lessonClassName": "工程优化FA2020",
-    "studentNum": 26,
+    "studentNum": 30,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -18858,9 +20161,9 @@
     "courseCode": "VG100",
     "lessonClassCode": "VG100FA2020",
     "lessonClassName": "工程导论FA2020",
-    "studentNum": 1,
+    "studentNum": 67,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 67
   },
   {
     "lecturers": [
@@ -18900,12 +20203,48 @@
   },
   {
     "lecturers": [
+      "张强",
+      "Irene Wei"
+    ],
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SU2021-1",
+    "lessonClassName": "Intro to EngineeringSU2021-1",
+    "studentNum": 64,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "申岩峰",
+      "Ting Sun"
+    ],
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SU2021-2",
+    "lessonClassName": "Intro to EngineeringSU2021-2",
+    "studentNum": 65,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Manuel Charlemagne",
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100SU2021-3",
+    "lessonClassName": "Intro to EngineeringSU2021-3",
+    "studentNum": 52,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "\tOLGA DANILKINA"
     ],
     "courseCode": "VV570",
     "lessonClassCode": "VV570FA2020",
     "lessonClassName": "工程数值分析FA2020",
-    "studentNum": 39,
+    "studentNum": 47,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -18922,6 +20261,28 @@
   },
   {
     "lecturers": [
+      "郭云龙"
+    ],
+    "courseCode": "VK250",
+    "lessonClassCode": "VK250SU2021",
+    "lessonClassName": "Principles of Engineering MaterialsSU2021",
+    "studentNum": 8,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Horst Hohberger"
+    ],
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2021",
+    "lessonClassName": "Probabilistic Methods in Eng.SP2021",
+    "studentNum": 165,
+    "termName": "SP2021",
+    "scoreNum": 165
+  },
+  {
+    "lecturers": [
       "Horst Hohberger"
     ],
     "courseCode": "VE401",
@@ -18933,14 +20294,25 @@
   },
   {
     "lecturers": [
+      "Horst Hohberger"
+    ],
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SU2021",
+    "lessonClassName": "Probabilistic Methods in Eng.SU2021",
+    "studentNum": 114,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "张强"
     ],
     "courseCode": "VM235",
     "lessonClassCode": "VM235FA2020",
     "lessonClassName": "工程热力学（J类）（1）FA2020",
-    "studentNum": 31,
+    "studentNum": 32,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 32
   },
   {
     "lecturers": [
@@ -18955,25 +20327,54 @@
   },
   {
     "lecturers": [
+      "周德智"
+    ],
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235SU2021",
+    "lessonClassName": "ThermodynamicsSU2021",
+    "studentNum": 14,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Horst Hohberger"
     ],
     "courseCode": "VV556",
     "lessonClassCode": "VV556FA2020",
     "lessonClassName": "应用数学方法（1）FA2020",
-    "studentNum": 26,
+    "studentNum": 24,
+    "termName": "FA2020",
+    "scoreNum": 8
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VE540",
+    "lessonClassCode": "VE540FA2020",
+    "lessonClassName": "应用量子力学 IFA2020",
+    "studentNum": 1,
+    "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VR368",
+    "lessonClassCode": "VR368FA2020",
+    "lessonClassName": "Architecture, Sustainability and the CityFA2020",
+    "studentNum": 0,
     "termName": "FA2020",
     "scoreNum": 0
   },
   {
     "lecturers": [
-      "Mateusz Krzyzosiak"
+      "Aline Chevalier "
     ],
-    "courseCode": "VE540",
-    "lessonClassCode": "VE540FA2020",
-    "lessonClassName": "应用量子力学 IFA2020",
-    "studentNum": 6,
-    "termName": "FA2020",
-    "scoreNum": 0
+    "courseCode": "VR368",
+    "lessonClassCode": "VR368SP2021",
+    "lessonClassName": "Architecture, Sustainability and the CitySP2021",
+    "studentNum": 22,
+    "termName": "SP2021",
+    "scoreNum": 21
   },
   {
     "lecturers": [
@@ -19012,12 +20413,23 @@
     "lecturers": [
       "Mateusz Krzyzosiak"
     ],
+    "courseCode": "VP160",
+    "lessonClassCode": "VP160SU2021",
+    "lessonClassName": "Honors Physics ISU2021",
+    "studentNum": 73,
+    "termName": "SU2021",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [
+      "Mateusz Krzyzosiak"
+    ],
     "courseCode": "VP260",
     "lessonClassCode": "VP260FA2020",
     "lessonClassName": "强化物理（J类）（2）FA2020",
     "studentNum": 75,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 75
   },
   {
     "lecturers": [
@@ -19026,20 +20438,42 @@
     "courseCode": "TH020",
     "lessonClassCode": "TH020FA2020-1",
     "lessonClassName": "形势与政策FA2020-freshman",
-    "studentNum": 0,
+    "studentNum": 233,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 233
   },
   {
     "lecturers": [
-      "周奇 "
+      "徐国斌"
     ],
     "courseCode": "TH020",
     "lessonClassCode": "TH020FA2020-2",
     "lessonClassName": "形势与政策FA2020-sophomore",
-    "studentNum": 283,
+    "studentNum": 282,
     "termName": "FA2020",
+    "scoreNum": 281
+  },
+  {
+    "lecturers": [
+      "刘通"
+    ],
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2021-1",
+    "lessonClassName": "Circumstance and PolicySP2021-Freshman",
+    "studentNum": 232,
+    "termName": "SP2021",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "徐国斌"
+    ],
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2021-2",
+    "lessonClassName": "Circumstance and PolicySP2021-Sophomore",
+    "studentNum": 284,
+    "termName": "SP2021",
+    "scoreNum": 3
   },
   {
     "lecturers": [
@@ -19050,7 +20484,7 @@
     "lessonClassName": "微分方程FA2020",
     "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -19059,9 +20493,20 @@
     "courseCode": "VV115",
     "lessonClassCode": "VV115FA2020",
     "lessonClassName": "微积分（1）FA2020",
-    "studentNum": 0,
+    "studentNum": 21,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV116",
+    "lessonClassCode": "VV116SP2021",
+    "lessonClassName": "Calculus ⅡSP2021",
+    "studentNum": 23,
+    "termName": "SP2021",
+    "scoreNum": 23
   },
   {
     "lecturers": [
@@ -19076,14 +20521,36 @@
   },
   {
     "lecturers": [
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV215",
+    "lessonClassCode": "VV215SU2021",
+    "lessonClassName": "Calculus IIISU2021",
+    "studentNum": 23,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Quanbo Xie"
     ],
     "courseCode": "VR150",
     "lessonClassCode": "VR150FA2020",
     "lessonClassName": "德国文化FA2020",
-    "studentNum": 12,
+    "studentNum": 19,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VR150",
+    "lessonClassCode": "VR150SP2021",
+    "lessonClassName": "German CultureSP2021",
+    "studentNum": 21,
+    "termName": "SP2021",
+    "scoreNum": 21
   },
   {
     "lecturers": [
@@ -19092,8 +20559,52 @@
     "courseCode": "VW110",
     "lessonClassCode": "VW110FA2020",
     "lessonClassName": "德语（1）FA2020",
-    "studentNum": 25,
+    "studentNum": 23,
     "termName": "FA2020",
+    "scoreNum": 23
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-1",
+    "lessonClassName": "German ISP2021-1",
+    "studentNum": 25,
+    "termName": "SP2021",
+    "scoreNum": 25
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-2",
+    "lessonClassName": "German ISP2021-2",
+    "studentNum": 24,
+    "termName": "SP2021",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-3",
+    "lessonClassName": "German ISP2021-3",
+    "studentNum": 25,
+    "termName": "SP2021",
+    "scoreNum": 25
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SU2021",
+    "lessonClassName": "German ISU2021",
+    "studentNum": 25,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19103,8 +20614,52 @@
     "courseCode": "VW111",
     "lessonClassCode": "VW111FA2020",
     "lessonClassName": "德语（2）FA2020",
-    "studentNum": 17,
+    "studentNum": 16,
     "termName": "FA2020",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-1",
+    "lessonClassName": "German IISP2021-1",
+    "studentNum": 21,
+    "termName": "SP2021",
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-2",
+    "lessonClassName": "German IISP2021-2",
+    "studentNum": 16,
+    "termName": "SP2021",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-3",
+    "lessonClassName": "German IISP2021-3",
+    "studentNum": 24,
+    "termName": "SP2021",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SU2021",
+    "lessonClassName": "German IISU2021",
+    "studentNum": 13,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19133,6 +20688,28 @@
     "lecturers": [
       "Quanbo Xie"
     ],
+    "courseCode": "VW210",
+    "lessonClassCode": "VW210SU2021-1",
+    "lessonClassName": "German IIISU2021-1",
+    "studentNum": 10,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW210",
+    "lessonClassCode": "VW210SU2021-2",
+    "lessonClassName": "German IIISU2021-2",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
     "courseCode": "VW211",
     "lessonClassCode": "VW211SU2020-1",
     "lessonClassName": "German IVSU2020-1",
@@ -19155,11 +20732,22 @@
     "lecturers": [
       "Quanbo Xie"
     ],
-    "courseCode": "VW310",
-    "lessonClassCode": "VW310FA2020",
-    "lessonClassName": "德语（5）FA2020",
-    "studentNum": 0,
-    "termName": "FA2020",
+    "courseCode": "VW211",
+    "lessonClassCode": "VW211SU2021-1",
+    "lessonClassName": "German IVSU2021-1",
+    "studentNum": 7,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Quanbo Xie"
+    ],
+    "courseCode": "VW211",
+    "lessonClassCode": "VW211SU2021-2",
+    "lessonClassName": "German IVSU2021-2",
+    "studentNum": 11,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19169,8 +20757,74 @@
     "courseCode": "VR154",
     "lessonClassCode": "VR154FA2020",
     "lessonClassName": "心理学概论FA2020",
-    "studentNum": 40,
+    "studentNum": 25,
     "termName": "FA2020",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "En-Ling Chiao"
+    ],
+    "courseCode": "VR154",
+    "lessonClassCode": "VR154SP2021",
+    "lessonClassName": "Introduction to PsychologySP2021",
+    "studentNum": 29,
+    "termName": "SP2021",
+    "scoreNum": 29
+  },
+  {
+    "lecturers": [
+      "En-Ling Chiao"
+    ],
+    "courseCode": "PSY3620J",
+    "lessonClassCode": "PSY3620JSU2021",
+    "lessonClassName": "Research Methods in Psychology SU2021",
+    "studentNum": 20,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "李瑞奇"
+    ],
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2021-1",
+    "lessonClassName": "Morals and Ethics & Law FundamentalsSP2021-1",
+    "studentNum": 71,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "杨卫华"
+    ],
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2021-2",
+    "lessonClassName": "Morals and Ethics & Law FundamentalsSP2021-2",
+    "studentNum": 81,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "杨卫华"
+    ],
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2021-3",
+    "lessonClassName": "Morals and Ethics & Law FundamentalsSP2021-3",
+    "studentNum": 80,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Ryan Thorpe"
+    ],
+    "courseCode": "VR245",
+    "lessonClassCode": "VR245SU2021",
+    "lessonClassName": "Introduction to Drama and TheatreSU2021",
+    "studentNum": 12,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19180,9 +20834,9 @@
     "courseCode": "VX425",
     "lessonClassCode": "VX425FA2020",
     "lessonClassName": "技术创业FA2020",
-    "studentNum": 10,
+    "studentNum": 11,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 11
   },
   {
     "lecturers": [
@@ -19208,14 +20862,25 @@
   },
   {
     "lecturers": [
+      "张峻"
+    ],
+    "courseCode": "VE460",
+    "lessonClassCode": "VE460SU2021",
+    "lessonClassName": "Control Systems Analysis and DesignSU2021",
+    "studentNum": 20,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Manuel Charlemagne"
     ],
     "courseCode": "VE482",
     "lessonClassCode": "VE482FA2020",
     "lessonClassName": "操作系统导论FA2020",
-    "studentNum": 59,
+    "studentNum": 47,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 46
   },
   {
     "lecturers": [
@@ -19231,6 +20896,18 @@
   },
   {
     "lecturers": [
+      "Manuel Charlemagne",
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV471",
+    "lessonClassCode": "VV471SU2021",
+    "lessonClassName": "Introduction to Numerical MethodsSU2021",
+    "studentNum": 12,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "唐爱民"
     ],
     "courseCode": "VE351",
@@ -19242,14 +20919,25 @@
   },
   {
     "lecturers": [
+      "Manuel Charlemagne"
+    ],
+    "courseCode": "VR255",
+    "lessonClassCode": "VR255SP2021",
+    "lessonClassName": "Digital PhotographySP2021",
+    "studentNum": 20,
+    "termName": "SP2021",
+    "scoreNum": 20
+  },
+  {
+    "lecturers": [
       "唐爱民"
     ],
     "courseCode": "VE455",
     "lessonClassCode": "VE455FA2020",
     "lessonClassName": "数字通信信号与系统FA2020",
-    "studentNum": 15,
+    "studentNum": 14,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 14
   },
   {
     "lecturers": [
@@ -19258,9 +20946,9 @@
     "courseCode": "VE312",
     "lessonClassCode": "VE312FA2020",
     "lessonClassName": "数字集成电路FA2020",
-    "studentNum": 31,
+    "studentNum": 24,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 24
   },
   {
     "lecturers": [
@@ -19269,9 +20957,9 @@
     "courseCode": "VE281",
     "lessonClassCode": "VE281FA2020",
     "lessonClassName": "数据结构与算法（J类）FA2020",
-    "studentNum": 131,
+    "studentNum": 123,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 123
   },
   {
     "lecturers": [
@@ -19286,13 +20974,66 @@
   },
   {
     "lecturers": [
+      "辛弘毅"
+    ],
+    "courseCode": "VE281",
+    "lessonClassCode": "VE281SU2021",
+    "lessonClassName": "Data Structures and AlgorithmsSU2021",
+    "studentNum": 37,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "毕尤一"
     ],
     "courseCode": "VM455",
     "lessonClassCode": "VM455FA2020",
     "lessonClassName": "数据驱动工程设计导论FA2020",
-    "studentNum": 23,
+    "studentNum": 24,
     "termName": "FA2020",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "Irene Wei"
+    ],
+    "courseCode": "VR253",
+    "lessonClassCode": "VR253SP2021",
+    "lessonClassName": "Culture, Technology and Silicon ValleySP2021",
+    "studentNum": 40,
+    "termName": "SP2021",
+    "scoreNum": 40
+  },
+  {
+    "lecturers": [
+      "Irene Wei"
+    ],
+    "courseCode": "VR253",
+    "lessonClassCode": "VR253SU2021",
+    "lessonClassName": "Culture, Technology and Silicon ValleySU2021",
+    "studentNum": 29,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "刘士永"
+    ],
+    "courseCode": "HIS2091J",
+    "lessonClassCode": "HIS2091JSP2021",
+    "lessonClassName": "Medicine and Science: The New AgeSP2021",
+    "studentNum": 40,
+    "termName": "SP2021",
+    "scoreNum": 39
+  },
+  {
+    "lecturers": [],
+    "courseCode": "XP004",
+    "lessonClassCode": "XP004SP2021",
+    "lessonClassName": "Social Cognitive Practice in the New EraSP2021",
+    "studentNum": 233,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -19302,8 +21043,30 @@
     "courseCode": "VE689",
     "lessonClassCode": "VE689FA2020",
     "lessonClassName": "无线网络FA2020",
-    "studentNum": 10,
+    "studentNum": 11,
     "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "许珩"
+    ],
+    "courseCode": "VR207",
+    "lessonClassCode": "VR207SP2021",
+    "lessonClassName": "History of Modern JapanSP2021",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 32
+  },
+  {
+    "lecturers": [
+      "王宇兴"
+    ],
+    "courseCode": "PHYS1411J",
+    "lessonClassCode": "PHYS1411JSU2021",
+    "lessonClassName": "Physics Lab ISU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19313,9 +21076,9 @@
     "courseCode": "VP141",
     "lessonClassCode": "VP141FA2020",
     "lessonClassName": "普通物理实验（1）FA2020",
-    "studentNum": 286,
+    "studentNum": 283,
     "termName": "FA2020",
-    "scoreNum": 284
+    "scoreNum": 282
   },
   {
     "lecturers": [
@@ -19330,14 +21093,25 @@
   },
   {
     "lecturers": [
+      "Mateusz Krzyzosiak"
+    ],
+    "courseCode": "VP141",
+    "lessonClassCode": "VP141SU2021",
+    "lessonClassName": "Physics Lab ISU2021",
+    "studentNum": 234,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "NealeHaugen"
     ],
     "courseCode": "VP241",
     "lessonClassCode": "VP241FA2020",
     "lessonClassName": "普通物理实验（2）FA2020",
-    "studentNum": 268,
+    "studentNum": 286,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 286
   },
   {
     "lecturers": [
@@ -19365,12 +21139,23 @@
     "lecturers": [
       "Mateusz Krzyzosiak"
     ],
+    "courseCode": "VP150",
+    "lessonClassCode": "VP150SU2021",
+    "lessonClassName": "Physics ISU2021",
+    "studentNum": 184,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Mateusz Krzyzosiak"
+    ],
     "courseCode": "VP250",
     "lessonClassCode": "VP250FA2020-1",
     "lessonClassName": "普通物理（2）FA2020-1",
-    "studentNum": 105,
+    "studentNum": 107,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 106
   },
   {
     "lecturers": [
@@ -19379,9 +21164,9 @@
     "courseCode": "VP250",
     "lessonClassCode": "VP250FA2020-2",
     "lessonClassName": "普通物理（2）FA2020-2",
-    "studentNum": 107,
+    "studentNum": 105,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 105
   },
   {
     "lecturers": [
@@ -19395,13 +21180,53 @@
     "scoreNum": 24
   },
   {
+    "lecturers": [
+      "Yuljae Cho"
+    ],
+    "courseCode": "VE421",
+    "lessonClassCode": "VE421SU2021",
+    "lessonClassName": "Properties of TransistorsSU2021",
+    "studentNum": 14,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "金力"
+    ],
+    "courseCode": "ECE4530J",
+    "lessonClassCode": "ECE4530JSU2021",
+    "lessonClassName": "Decision Making in Smart CitiesSU2021",
+    "studentNum": 38,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "MSE4900J",
+    "lessonClassCode": "MSE4900JSU2021",
+    "lessonClassName": "Undergraduate Research SU2021",
+    "studentNum": 1,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
     "lecturers": [],
     "courseCode": "VE490",
     "lessonClassCode": "VE490FA2020",
     "lessonClassName": "本科生科研项目FA2020",
-    "studentNum": 10,
+    "studentNum": 12,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 12
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VE490",
+    "lessonClassCode": "VE490SP2021",
+    "lessonClassName": "Undergraduate ResearchSP2021",
+    "studentNum": 14,
+    "termName": "SP2021",
+    "scoreNum": 14
   },
   {
     "lecturers": [],
@@ -19414,12 +21239,30 @@
   },
   {
     "lecturers": [],
+    "courseCode": "VE490",
+    "lessonClassCode": "VE490SU2021",
+    "lessonClassName": "Undergraduate ResearchSU2021",
+    "studentNum": 28,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
     "courseCode": "VM490",
     "lessonClassCode": "VM490FA2020",
     "lessonClassName": "本科生科研项目FA2020",
-    "studentNum": 2,
+    "studentNum": 4,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 4
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VM490",
+    "lessonClassCode": "VM490SP2021",
+    "lessonClassName": "Undergraduate ResearchSP2021",
+    "studentNum": 8,
+    "termName": "SP2021",
+    "scoreNum": 8
   },
   {
     "lecturers": [],
@@ -19429,6 +21272,15 @@
     "studentNum": 6,
     "termName": "SU2020",
     "scoreNum": 6
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VM490",
+    "lessonClassCode": "VM490SU2021",
+    "lessonClassName": "Undergraduate ResearchSU2021",
+    "studentNum": 9,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -19448,9 +21300,9 @@
     "courseCode": "VE445",
     "lessonClassCode": "VE445FA2020",
     "lessonClassName": "机器学习导论FA2020",
-    "studentNum": 49,
+    "studentNum": 50,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 47
   },
   {
     "lecturers": [],
@@ -19468,8 +21320,19 @@
     "courseCode": "VM311",
     "lessonClassCode": "VM311FA2020",
     "lessonClassName": "材料力学FA2020",
-    "studentNum": 33,
+    "studentNum": 34,
     "termName": "FA2020",
+    "scoreNum": 34
+  },
+  {
+    "lecturers": [
+      "王衍明"
+    ],
+    "courseCode": "VK335",
+    "lessonClassCode": "VK335SU2021",
+    "lessonClassName": "Kinetics and Transport in Matl Engi.SU2021",
+    "studentNum": 2,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19479,8 +21342,28 @@
     "courseCode": "VM382",
     "lessonClassCode": "VM382FA2020",
     "lessonClassName": "材料机械性能（J类）FA2020",
-    "studentNum": 26,
+    "studentNum": 29,
     "termName": "FA2020",
+    "scoreNum": 29
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382SP2021",
+    "lessonClassName": "Mechanical Behavior of MaterialsSP2021",
+    "studentNum": 0,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Shane Johnson"
+    ],
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382SU2021",
+    "lessonClassName": "Mechanical Behavior of MaterialsSU2021",
+    "studentNum": 8,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19490,9 +21373,9 @@
     "courseCode": "VK330",
     "lessonClassCode": "VK330FA2020",
     "lessonClassName": "材料热力学FA2020",
-    "studentNum": 7,
+    "studentNum": 4,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 4
   },
   {
     "lecturers": [
@@ -19504,6 +21387,17 @@
     "studentNum": 8,
     "termName": "SU2020",
     "scoreNum": 8
+  },
+  {
+    "lecturers": [
+      "陈倩栎"
+    ],
+    "courseCode": "VK242",
+    "lessonClassCode": "VK242SU2021",
+    "lessonClassName": "Physics of MaterialsSU2021",
+    "studentNum": 5,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -19523,9 +21417,9 @@
     "courseCode": "VK350",
     "lessonClassCode": "VK350FA2020",
     "lessonClassName": "材料结构FA2020",
-    "studentNum": 5,
+    "studentNum": 4,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 4
   },
   {
     "lecturers": [
@@ -19534,7 +21428,7 @@
     "courseCode": "VM565",
     "lessonClassCode": "VM565FA2020",
     "lessonClassName": "材料结构、物理与化学表征FA2020",
-    "studentNum": 16,
+    "studentNum": 20,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -19545,8 +21439,63 @@
     "courseCode": "VK360",
     "lessonClassCode": "VK360FA2020",
     "lessonClassName": "材料试验IFA2020",
-    "studentNum": 2,
+    "studentNum": 1,
     "termName": "FA2020",
+    "scoreNum": 1
+  },
+  {
+    "lecturers": [
+      "王文冬"
+    ],
+    "courseCode": "VK365",
+    "lessonClassCode": "VK365SU2021",
+    "lessonClassName": "Materials Lab IISU2021",
+    "studentNum": 1,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Soong Chul Ro"
+    ],
+    "courseCode": "VR140",
+    "lessonClassCode": "VR140SU2021",
+    "lessonClassName": "Comparative Governments and PoliticsSU2021",
+    "studentNum": 25,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "孔德猛"
+    ],
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2021-1",
+    "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2021-1",
+    "studentNum": 93,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "周凯"
+    ],
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2021-2",
+    "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2021-2",
+    "studentNum": 98,
+    "termName": "SP2021",
+    "scoreNum": 98
+  },
+  {
+    "lecturers": [
+      "黄庆桥"
+    ],
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2021-3",
+    "lessonClassName": "毛泽东思想和中国特色社会主义理论体系概论SP2021-3",
+    "studentNum": 93,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -19556,9 +21505,9 @@
     "courseCode": "VZ011",
     "lessonClassCode": "VZ011FA2020",
     "lessonClassName": "汉语一（上）FA2020",
-    "studentNum": 0,
+    "studentNum": 4,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 4
   },
   {
     "lecturers": [
@@ -19578,8 +21527,19 @@
     "courseCode": "VZ012",
     "lessonClassCode": "VZ012FA2020",
     "lessonClassName": "汉语一（下）FA2020",
-    "studentNum": 0,
+    "studentNum": 4,
     "termName": "FA2020",
+    "scoreNum": 4
+  },
+  {
+    "lecturers": [
+      "王骏"
+    ],
+    "courseCode": "VZ012",
+    "lessonClassCode": "VZ012SP2021",
+    "lessonClassName": "Chinese Language (level 1 part 2)SP2021",
+    "studentNum": 0,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -19600,9 +21560,9 @@
     "courseCode": "VZ031",
     "lessonClassCode": "VZ031FA2020",
     "lessonClassName": "汉语三（上）FA2020",
-    "studentNum": 1,
+    "studentNum": 9,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 9
   },
   {
     "lecturers": [
@@ -19617,14 +21577,47 @@
   },
   {
     "lecturers": [
+      "王骏"
+    ],
+    "courseCode": "VZ031",
+    "lessonClassCode": "VZ031SU2021",
+    "lessonClassName": "Chinese Language (level 3 part 1)SU2021",
+    "studentNum": 6,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "王荔"
     ],
     "courseCode": "VZ032",
     "lessonClassCode": "VZ032FA2020",
     "lessonClassName": "汉语三（下） FA2020",
-    "studentNum": 4,
+    "studentNum": 13,
     "termName": "FA2020",
+    "scoreNum": 13
+  },
+  {
+    "lecturers": [
+      "王荔"
+    ],
+    "courseCode": "VZ032",
+    "lessonClassCode": "VZ032SU2021",
+    "lessonClassName": "Chinese Language (level 3 part 2)SU2021",
+    "studentNum": 4,
+    "termName": "SU2021",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "王骏"
+    ],
+    "courseCode": "VZ021",
+    "lessonClassCode": "VZ021SP2021",
+    "lessonClassName": "Chinese Language (level 2 part 1)SP2021",
+    "studentNum": 5,
+    "termName": "SP2021",
+    "scoreNum": 5
   },
   {
     "lecturers": [
@@ -19636,6 +21629,39 @@
     "studentNum": 15,
     "termName": "SU2020",
     "scoreNum": 15
+  },
+  {
+    "lecturers": [
+      "王骏"
+    ],
+    "courseCode": "VZ022",
+    "lessonClassCode": "VZ022SU2021",
+    "lessonClassName": "Chinese Language (level 2 part 2)SU2021",
+    "studentNum": 13,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "王骏"
+    ],
+    "courseCode": "VZ041",
+    "lessonClassCode": "VZ041SP2021",
+    "lessonClassName": "Chinese Language (level 4 part 1)SP2021",
+    "studentNum": 21,
+    "termName": "SP2021",
+    "scoreNum": 21
+  },
+  {
+    "lecturers": [
+      "王荔"
+    ],
+    "courseCode": "VZ042",
+    "lessonClassCode": "VZ042SU2021",
+    "lessonClassName": "Chinese Language (level 4 part 2)SU2021",
+    "studentNum": 14,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -19655,9 +21681,9 @@
     "courseCode": "VM320",
     "lessonClassCode": "VM320FA2020",
     "lessonClassName": "流体力学（J类）FA2020",
-    "studentNum": 38,
+    "studentNum": 45,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 45
   },
   {
     "lecturers": [
@@ -19666,9 +21692,20 @@
     "courseCode": "VM320",
     "lessonClassCode": "VM320SU2020",
     "lessonClassName": "Fluid Mechanics ISU2020",
-    "studentNum": 12,
+    "studentNum": 11,
     "termName": "SU2020",
-    "scoreNum": 12
+    "scoreNum": 11
+  },
+  {
+    "lecturers": [
+      "王利坡"
+    ],
+    "courseCode": "VM320",
+    "lessonClassCode": "VM320SU2021",
+    "lessonClassName": "Fluid Mechanics ISU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -19677,7 +21714,7 @@
     "courseCode": "VM524",
     "lessonClassCode": "VM524FA2020",
     "lessonClassName": "湍流FA2020",
-    "studentNum": 3,
+    "studentNum": 8,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -19694,14 +21731,25 @@
   },
   {
     "lecturers": [
+      "JOELLE ELIZABETH TYBON"
+    ],
+    "courseCode": "VR246",
+    "lessonClassCode": "VR246SU2021",
+    "lessonClassName": "Introduction to Comics and Graphic Novels SU2021",
+    "studentNum": 16,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "万文杰"
     ],
     "courseCode": "VE438",
     "lessonClassCode": "VE438FA2020",
     "lessonClassName": "激光与光学实验FA2020",
-    "studentNum": 7,
+    "studentNum": 5,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 2
   },
   {
     "lecturers": [],
@@ -19710,6 +21758,28 @@
     "lessonClassName": "激光与光学实验SU2020",
     "studentNum": 0,
     "termName": "SU2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "万文杰"
+    ],
+    "courseCode": "VE438",
+    "lessonClassCode": "VE438SU2021",
+    "lessonClassName": "Advanced Lasers and Optics LaboratorySU2021",
+    "studentNum": 15,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "徐彤"
+    ],
+    "courseCode": "VR203",
+    "lessonClassCode": "VR203SU2021",
+    "lessonClassName": "Food in Modern East Asian HistorySU2021",
+    "studentNum": 31,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -19725,14 +21795,25 @@
   },
   {
     "lecturers": [
+      "Mateusz Krzyzosiak"
+    ],
+    "courseCode": "VP390",
+    "lessonClassCode": "VP390SU2021",
+    "lessonClassName": "Modern PhysicsSU2021",
+    "studentNum": 33,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "杜長慶"
     ],
     "courseCode": "VE311",
     "lessonClassCode": "VE311FA2020",
     "lessonClassName": "电子电路FA2020",
-    "studentNum": 106,
+    "studentNum": 104,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 103
   },
   {
     "lecturers": [
@@ -19744,6 +21825,17 @@
     "studentNum": 142,
     "termName": "SU2020",
     "scoreNum": 142
+  },
+  {
+    "lecturers": [
+      "杜長慶"
+    ],
+    "courseCode": "VE311",
+    "lessonClassCode": "VE311SU2021",
+    "lessonClassName": "Electronic CircuitsSU2021",
+    "studentNum": 124,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -19763,9 +21855,9 @@
     "courseCode": "VE230",
     "lessonClassCode": "VE230FA2020",
     "lessonClassName": "电磁学（J类）（1）FA2020",
-    "studentNum": 67,
+    "studentNum": 59,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 59
   },
   {
     "lecturers": [
@@ -19793,12 +21885,34 @@
     "lecturers": [
       "陈松良"
     ],
+    "courseCode": "VE230",
+    "lessonClassCode": "VE230SU2021-1",
+    "lessonClassName": "Electromagnetics ISU2021-1",
+    "studentNum": 78,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "NanaLiu"
+    ],
+    "courseCode": "VE230",
+    "lessonClassCode": "VE230SU2021-2",
+    "lessonClassName": "Electromagnetics ISU2021-2",
+    "studentNum": 96,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "陈松良"
+    ],
     "courseCode": "VE215",
     "lessonClassCode": "VE215FA2020-1",
     "lessonClassName": "电路设计导论FA2020-1",
-    "studentNum": 120,
+    "studentNum": 125,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 125
   },
   {
     "lecturers": [
@@ -19807,9 +21921,9 @@
     "courseCode": "VE215",
     "lessonClassCode": "VE215FA2020-2",
     "lessonClassName": "电路设计导论FA2020-2",
-    "studentNum": 120,
+    "studentNum": 122,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 122
   },
   {
     "lecturers": [
@@ -19824,12 +21938,23 @@
   },
   {
     "lecturers": [
+      "杨睿"
+    ],
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215SU2021",
+    "lessonClassName": "Intro to CircuitsSU2021",
+    "studentNum": 44,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "MICHELE MARIE CAMPBELL"
     ],
     "courseCode": "VG501",
     "lessonClassCode": "VG501FA2020-1",
     "lessonClassName": "研究生科技写作导论FA2020-1",
-    "studentNum": 37,
+    "studentNum": 35,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -19840,7 +21965,7 @@
     "courseCode": "VG501",
     "lessonClassCode": "VG501FA2020-2",
     "lessonClassName": "研究生科技写作导论FA2020-2",
-    "studentNum": 20,
+    "studentNum": 32,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -19851,20 +21976,42 @@
     "courseCode": "VX440",
     "lessonClassCode": "VX440FA2020",
     "lessonClassName": "社会企业导论FA2020",
-    "studentNum": 11,
+    "studentNum": 29,
     "termName": "FA2020",
+    "scoreNum": 29
+  },
+  {
+    "lecturers": [
+      "Soong Chul Ro"
+    ],
+    "courseCode": "VR381",
+    "lessonClassCode": "VR381SU2021",
+    "lessonClassName": "Introduction to Social Science Research DesignSU2021",
+    "studentNum": 0,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
     "lecturers": [
-      "Heidi Andersen"
+      "Horst Hohberger"
     ],
     "courseCode": "VE203",
     "lessonClassCode": "VE203FA2020",
     "lessonClassName": "离散数学（J类）FA2020",
-    "studentNum": 81,
+    "studentNum": 72,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 72
+  },
+  {
+    "lecturers": [
+      "ZACHIRI MCKENZI"
+    ],
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203SP2021",
+    "lessonClassName": "Discrete MathematicsSP2021",
+    "studentNum": 98,
+    "termName": "SP2021",
+    "scoreNum": 97
   },
   {
     "lecturers": [
@@ -19879,6 +22026,17 @@
   },
   {
     "lecturers": [
+      "蔡润泽"
+    ],
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203SU2021",
+    "lessonClassName": "Discrete MathematicsSU2021",
+    "studentNum": 121,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "\tPETER JOHN WEISE"
     ],
     "courseCode": "VR318",
@@ -19890,47 +22048,58 @@
   },
   {
     "lecturers": [
+      "\tPETER JOHN WEISE"
+    ],
+    "courseCode": "VR318",
+    "lessonClassCode": "VR318SU2021",
+    "lessonClassName": "Science FictionSU2021",
+    "studentNum": 8,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Emma McGuirk"
     ],
     "courseCode": "VR332",
     "lessonClassCode": "VR332FA2020",
     "lessonClassName": "科技人类学FA2020",
-    "studentNum": 8,
+    "studentNum": 0,
     "termName": "FA2020",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2021-1",
+    "lessonClassName": "TechCommSP2021-1",
+    "studentNum": 35,
+    "termName": "SP2021",
+    "scoreNum": 35
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2021-2",
+    "lessonClassName": "TechCommSP2021-2",
+    "studentNum": 34,
+    "termName": "SP2021",
+    "scoreNum": 34
   },
   {
     "lecturers": [
       "Irene Wei"
     ],
     "courseCode": "VE300",
-    "lessonClassCode": "VE300FA2020-1",
-    "lessonClassName": "科技写作与交流FA2020-1",
-    "studentNum": 0,
-    "termName": "FA2020",
-    "scoreNum": 0
-  },
-  {
-    "lecturers": [
-      "Nathaniel Murray"
-    ],
-    "courseCode": "VE300",
-    "lessonClassCode": "VE300FA2020-2",
-    "lessonClassName": "科技写作与交流FA2020-2",
-    "studentNum": 0,
-    "termName": "FA2020",
-    "scoreNum": 0
-  },
-  {
-    "lecturers": [
-      "Nathaniel Murray"
-    ],
-    "courseCode": "VE300",
-    "lessonClassCode": "VE300FA2020-3",
-    "lessonClassName": "科技写作与交流FA2020-3",
-    "studentNum": 0,
-    "termName": "FA2020",
-    "scoreNum": 0
+    "lessonClassCode": "VE300SP2021-3",
+    "lessonClassName": "TechCommSP2021-3",
+    "studentNum": 35,
+    "termName": "SP2021",
+    "scoreNum": 35
   },
   {
     "lecturers": [
@@ -19967,14 +22136,80 @@
   },
   {
     "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SU2021-1",
+    "lessonClassName": "TechCommSU2021-1",
+    "studentNum": 40,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas Bowden "
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SU2021-2",
+    "lessonClassName": "TechCommSU2021-2",
+    "studentNum": 40,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas Bowden "
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SU2021-3",
+    "lessonClassName": "TechCommSU2021-3",
+    "studentNum": 11,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Irene Wei"
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SU2021-4",
+    "lessonClassName": "TechCommSU2021-4",
+    "studentNum": 24,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas Bowden "
+    ],
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SU2021-5",
+    "lessonClassName": "TechCommSU2021-5",
+    "studentNum": 31,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "En-Ling Chiao"
+    ],
+    "courseCode": "PSY3650J",
+    "lessonClassCode": "PSY3650JSU2021",
+    "lessonClassName": "Positive PsychologySU2021",
+    "studentNum": 25,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "钱炜慷"
     ],
     "courseCode": "VE280",
     "lessonClassCode": "VE280FA2020",
     "lessonClassName": "程序设计与数据结构FA2020",
-    "studentNum": 148,
+    "studentNum": 156,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 156
   },
   {
     "lecturers": [
@@ -19989,14 +22224,25 @@
   },
   {
     "lecturers": [
+      "Paul Weng "
+    ],
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280SU2021",
+    "lessonClassName": "Programming & Elem. Data StructuresSU2021",
+    "studentNum": 149,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Manuel Charlemagne"
     ],
     "courseCode": "VE477",
     "lessonClassCode": "VE477FA2020",
     "lessonClassName": "算法导论FA2020",
-    "studentNum": 57,
+    "studentNum": 50,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 50
   },
   {
     "lecturers": [
@@ -20008,7 +22254,7 @@
     "lessonClassName": "系统设计与实现FA2020",
     "studentNum": 77,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 77
   },
   {
     "lecturers": [
@@ -20024,6 +22270,51 @@
   },
   {
     "lecturers": [
+      "马澄斌",
+      "郑刚"
+    ],
+    "courseCode": "VE450",
+    "lessonClassCode": "VE450SU2021",
+    "lessonClassName": "Major Design Experience(MDE)SU2021",
+    "studentNum": 149,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "傅山"
+    ],
+    "courseCode": "ME3510J",
+    "lessonClassCode": "ME3510JSU2021",
+    "lessonClassName": "Human Factors in System DesignSU2021",
+    "studentNum": 19,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "NealeHaugen"
+    ],
+    "courseCode": "PHYS3910J",
+    "lessonClassCode": "PHYS3910JSP2021",
+    "lessonClassName": "Nanoscale Effects and ApplicationsSP2021",
+    "studentNum": 20,
+    "termName": "SP2021",
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2021",
+    "lessonClassName": "Linear AlgebraSP2021",
+    "studentNum": 91,
+    "termName": "SP2021",
+    "scoreNum": 91
+  },
+  {
+    "lecturers": [
       "\tOLGA DANILKINA"
     ],
     "courseCode": "VV214",
@@ -20035,14 +22326,25 @@
   },
   {
     "lecturers": [
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV214",
+    "lessonClassCode": "VV214SU2021",
+    "lessonClassName": "Linear AlgebraSU2021",
+    "studentNum": 116,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Manuel Charlemagne"
     ],
     "courseCode": "VV417",
     "lessonClassCode": "VV417FA2020",
     "lessonClassName": "线性代数FA2020",
-    "studentNum": 20,
+    "studentNum": 16,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 16
   },
   {
     "lecturers": [
@@ -20051,9 +22353,9 @@
     "courseCode": "VV256",
     "lessonClassCode": "VV256FA2020",
     "lessonClassName": "线性代数和微分方程AFA2020",
-    "studentNum": 163,
+    "studentNum": 166,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 166
   },
   {
     "lecturers": [
@@ -20062,8 +22364,19 @@
     "courseCode": "VV286",
     "lessonClassCode": "VV286FA2020",
     "lessonClassName": "线性代数和微分方程BFA2020",
-    "studentNum": 137,
+    "studentNum": 138,
     "termName": "FA2020",
+    "scoreNum": 137
+  },
+  {
+    "lecturers": [
+      "Mark Fredrickson"
+    ],
+    "courseCode": "STAT4060J",
+    "lessonClassCode": "STAT4060JSU2021",
+    "lessonClassName": "Computational Methods for Statistics and Data ScienceSU2021",
+    "studentNum": 73,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -20073,9 +22386,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-1",
     "lessonClassName": "综合英语（J类）FA2020-1",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20084,9 +22397,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-10",
     "lessonClassName": "综合英语（J类）FA2020-10",
-    "studentNum": 0,
+    "studentNum": 18,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 18
   },
   {
     "lecturers": [
@@ -20095,9 +22408,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-11",
     "lessonClassName": "综合英语（J类）FA2020-11",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20106,9 +22419,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-12",
     "lessonClassName": "综合英语（J类）FA2020-12",
-    "studentNum": 0,
+    "studentNum": 16,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 16
   },
   {
     "lecturers": [
@@ -20117,9 +22430,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-13",
     "lessonClassName": "综合英语（J类）FA2020-13",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20128,9 +22441,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-14",
     "lessonClassName": "综合英语（J类）FA2020-14",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20139,20 +22452,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-15",
     "lessonClassName": "综合英语（J类）FA2020-15",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
-  },
-  {
-    "lecturers": [
-      "Amalia Jiva"
-    ],
-    "courseCode": "VY100",
-    "lessonClassCode": "VY100FA2020-16",
-    "lessonClassName": "综合英语（J类）FA2020-16",
-    "studentNum": 1,
-    "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20161,9 +22463,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-2",
     "lessonClassName": "综合英语（J类）FA2020-2",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20172,9 +22474,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-3",
     "lessonClassName": "综合英语（J类）FA2020-3",
-    "studentNum": 0,
+    "studentNum": 14,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 14
   },
   {
     "lecturers": [
@@ -20183,9 +22485,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-4",
     "lessonClassName": "综合英语（J类）FA2020-4",
-    "studentNum": 0,
+    "studentNum": 16,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 16
   },
   {
     "lecturers": [
@@ -20194,9 +22496,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-5",
     "lessonClassName": "综合英语（J类）FA2020-5",
-    "studentNum": 0,
+    "studentNum": 13,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 13
   },
   {
     "lecturers": [
@@ -20205,9 +22507,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-6",
     "lessonClassName": "综合英语（J类）FA2020-6",
-    "studentNum": 0,
+    "studentNum": 22,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 22
   },
   {
     "lecturers": [
@@ -20216,9 +22518,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-7",
     "lessonClassName": "综合英语（J类）FA2020-7",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20227,9 +22529,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-8",
     "lessonClassName": "综合英语（J类）FA2020-8",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [
@@ -20238,9 +22540,9 @@
     "courseCode": "VY100",
     "lessonClassCode": "VY100FA2020-9",
     "lessonClassName": "综合英语（J类）FA2020-9",
-    "studentNum": 0,
+    "studentNum": 17,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 17
   },
   {
     "lecturers": [],
@@ -20258,9 +22560,9 @@
     "courseCode": "VE444",
     "lessonClassCode": "VE444FA2020",
     "lessonClassName": "网络FA2020",
-    "studentNum": 90,
+    "studentNum": 66,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 66
   },
   {
     "lecturers": [
@@ -20274,31 +22576,48 @@
     "scoreNum": 25
   },
   {
-    "lecturers": [],
+    "lecturers": [
+      "Amalia Jiva"
+    ],
+    "courseCode": "VR251",
+    "lessonClassCode": "VR251SU2021",
+    "lessonClassName": "AestheticsSU2021",
+    "studentNum": 24,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas D. Carroll"
+    ],
     "courseCode": "VG496",
     "lessonClassCode": "VG496FA2020-1",
     "lessonClassName": "职业道德与工程规范-1",
-    "studentNum": 45,
+    "studentNum": 46,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 46
   },
   {
-    "lecturers": [],
+    "lecturers": [
+      "Thomas D. Carroll"
+    ],
     "courseCode": "VG496",
     "lessonClassCode": "VG496FA2020-2",
     "lessonClassName": "职业道德与工程规范-2",
-    "studentNum": 45,
+    "studentNum": 47,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 47
   },
   {
-    "lecturers": [],
+    "lecturers": [
+      "Nicola Liberati"
+    ],
     "courseCode": "VG496",
     "lessonClassCode": "VG496FA2020-3",
     "lessonClassName": "职业道德与工程规范-3",
-    "studentNum": 46,
+    "studentNum": 50,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 50
   },
   {
     "lecturers": [
@@ -20335,14 +22654,47 @@
   },
   {
     "lecturers": [
+      "Thomas D. Carroll"
+    ],
+    "courseCode": "VG496",
+    "lessonClassCode": "VG496SU2021-1",
+    "lessonClassName": "Professional EthicsSU2021-1",
+    "studentNum": 45,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas D. Carroll"
+    ],
+    "courseCode": "VG496",
+    "lessonClassCode": "VG496SU2021-2",
+    "lessonClassName": "Professional EthicsSU2021-2",
+    "studentNum": 36,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Thomas D. Carroll"
+    ],
+    "courseCode": "VG496",
+    "lessonClassCode": "VG496SU2021-3",
+    "lessonClassName": "Professional EthicsSU2021-3",
+    "studentNum": 45,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "陈倩栎"
     ],
     "courseCode": "VM434",
     "lessonClassCode": "VM434FA2020",
     "lessonClassName": "能源转换材料FA2020",
-    "studentNum": 12,
+    "studentNum": 10,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 9
   },
   {
     "lecturers": [
@@ -20353,7 +22705,7 @@
     "lessonClassName": "自动控制（J类）FA2020",
     "studentNum": 23,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 23
   },
   {
     "lecturers": [
@@ -20362,8 +22714,19 @@
     "courseCode": "VR235",
     "lessonClassCode": "VR235FA2020",
     "lessonClassName": "艺术史概论FA2020",
-    "studentNum": 14,
+    "studentNum": 24,
     "termName": "FA2020",
+    "scoreNum": 24
+  },
+  {
+    "lecturers": [
+      "Aline Chevalier "
+    ],
+    "courseCode": "VR235",
+    "lessonClassCode": "VR235SU2021",
+    "lessonClassName": "Introduction to the History of ArtSU2021",
+    "studentNum": 30,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -20376,6 +22739,28 @@
     "studentNum": 27,
     "termName": "SU2020",
     "scoreNum": 27
+  },
+  {
+    "lecturers": [
+      "Matthew Risling"
+    ],
+    "courseCode": "VY298",
+    "lessonClassCode": "VY298SU2021",
+    "lessonClassName": "Introduction to British LiteratureSU2021",
+    "studentNum": 0,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Andrew Yang"
+    ],
+    "courseCode": "VY230",
+    "lessonClassCode": "VY230SU2021",
+    "lessonClassName": "Introduction to Short Story and NovelSU2021",
+    "studentNum": 18,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -20401,14 +22786,179 @@
   },
   {
     "lecturers": [
+      "JOELLE ELIZABETH TYBON"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-1",
+    "lessonClassName": "Academic Writing ⅡSP2021-1",
+    "studentNum": 16,
+    "termName": "SP2021",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "Andrew Yang"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-10",
+    "lessonClassName": "Academic Writing ⅡSP2021-10",
+    "studentNum": 19,
+    "termName": "SP2021",
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "Matthew Risling"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-11",
+    "lessonClassName": "Academic Writing ⅡSP2021-11",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 17
+  },
+  {
+    "lecturers": [
+      "Matthew Risling"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-12",
+    "lessonClassName": "Academic Writing ⅡSP2021-12",
+    "studentNum": 19,
+    "termName": "SP2021",
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "\tPETER JOHN WEISE"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-13",
+    "lessonClassName": "Academic Writing ⅡSP2021-13",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [
+      "Amalia Jiva"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-15",
+    "lessonClassName": "Academic Writing ⅡSP2021-15",
+    "studentNum": 16,
+    "termName": "SP2021",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "Amalia Jiva"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-16",
+    "lessonClassName": "Academic Writing ⅡSP2021-16",
+    "studentNum": 0,
+    "termName": "SP2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "JOELLE ELIZABETH TYBON"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-2",
+    "lessonClassName": "Academic Writing ⅡSP2021-2",
+    "studentNum": 17,
+    "termName": "SP2021",
+    "scoreNum": 17
+  },
+  {
+    "lecturers": [
+      "Ryan Thorpe"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-3",
+    "lessonClassName": "Academic Writing ⅡSP2021-3",
+    "studentNum": 17,
+    "termName": "SP2021",
+    "scoreNum": 17
+  },
+  {
+    "lecturers": [
+      "Ryan Thorpe"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-4",
+    "lessonClassName": "Academic Writing ⅡSP2021-4",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [
+      "Kyung MinKim"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-5",
+    "lessonClassName": "Academic Writing ⅡSP2021-5",
+    "studentNum": 19,
+    "termName": "SP2021",
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "Kyung MinKim"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-6",
+    "lessonClassName": "Academic Writing ⅡSP2021-6",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-7",
+    "lessonClassName": "Academic Writing ⅡSP2021-7",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [
+      "MICHELE MARIE CAMPBELL"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-8",
+    "lessonClassName": "Academic Writing ⅡSP2021-8",
+    "studentNum": 19,
+    "termName": "SP2021",
+    "scoreNum": 19
+  },
+  {
+    "lecturers": [
+      "Andrew Yang"
+    ],
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-9",
+    "lessonClassName": "Academic Writing ⅡSP2021-9",
+    "studentNum": 18,
+    "termName": "SP2021",
+    "scoreNum": 18
+  },
+  {
+    "lecturers": [
       "Manuel Charlemagne"
     ],
     "courseCode": "VG101",
     "lessonClassCode": "VG101FA2020-1",
     "lessonClassName": "计算机导论FA2020-1",
-    "studentNum": 3,
+    "studentNum": 100,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 100
   },
   {
     "lecturers": [
@@ -20417,9 +22967,9 @@
     "courseCode": "VG101",
     "lessonClassCode": "VG101FA2020-2",
     "lessonClassName": "计算机导论FA2020-2",
-    "studentNum": 5,
+    "studentNum": 104,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 104
   },
   {
     "lecturers": [
@@ -20434,14 +22984,25 @@
   },
   {
     "lecturers": [
+      "YifeiZhu"
+    ],
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101SU2021",
+    "lessonClassName": "Intro to Computers & ProgrammingSU2021",
+    "studentNum": 83,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "郑刚"
     ],
     "courseCode": "VE370",
     "lessonClassCode": "VE370FA2020",
     "lessonClassName": "计算机组成件导论FA2020",
-    "studentNum": 146,
+    "studentNum": 141,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 141
   },
   {
     "lecturers": [
@@ -20456,6 +23017,17 @@
   },
   {
     "lecturers": [
+      "郭鑫斐"
+    ],
+    "courseCode": "VE370",
+    "lessonClassCode": "VE370SU2021",
+    "lessonClassName": "Intro to Computer OrganizationSU2021",
+    "studentNum": 24,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "王旭东"
     ],
     "courseCode": "VE489",
@@ -20464,6 +23036,17 @@
     "studentNum": 39,
     "termName": "SU2020",
     "scoreNum": 35
+  },
+  {
+    "lecturers": [
+      "王旭东"
+    ],
+    "courseCode": "VE489",
+    "lessonClassCode": "VE489SU2021",
+    "lessonClassName": "Computer NetworksSU2021",
+    "studentNum": 39,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -20483,17 +23066,48 @@
     "courseCode": "VR354",
     "lessonClassCode": "VR354FA2020",
     "lessonClassName": "认知心理学概论FA2020",
-    "studentNum": 40,
+    "studentNum": 35,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 35
+  },
+  {
+    "lecturers": [
+      "En-Ling Chiao"
+    ],
+    "courseCode": "VR354",
+    "lessonClassCode": "VR354SP2021",
+    "lessonClassName": "Introduction to Cognitive PsychologySP2021",
+    "studentNum": 32,
+    "termName": "SP2021",
+    "scoreNum": 32
+  },
+  {
+    "lecturers": [
+      "Chan Yang"
+    ],
+    "courseCode": "VR259",
+    "lessonClassCode": "VR259SP2021",
+    "lessonClassName": "Memory: A New Approach to China’s 20th Century History SP2021",
+    "studentNum": 45,
+    "termName": "SP2021",
+    "scoreNum": 45
   },
   {
     "lecturers": [],
     "courseCode": "VE/VM595/695",
     "lessonClassCode": "VE/VM595/695FA2020",
     "lessonClassName": "论文科研FA2020",
-    "studentNum": 114,
+    "studentNum": 128,
     "termName": "FA2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VE/VM595/695",
+    "lessonClassCode": "VE/VM595/695SP2021-1",
+    "lessonClassName": "论文科研",
+    "studentNum": 89,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -20501,8 +23115,17 @@
     "courseCode": "VE/VM595/695",
     "lessonClassCode": "VE/VM595/695SU2020",
     "lessonClassName": "论文科研SU2020",
-    "studentNum": 76,
+    "studentNum": 77,
     "termName": "SU2020",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [],
+    "courseCode": "VE/VM595/695",
+    "lessonClassCode": "VE/VM595/695SU2021-1",
+    "lessonClassName": "Thesis Research",
+    "studentNum": 98,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -20513,9 +23136,9 @@
     "courseCode": "VM450",
     "lessonClassCode": "VM450FA2020",
     "lessonClassName": "设计与制造（3）FA2020",
-    "studentNum": 30,
+    "studentNum": 29,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 29
   },
   {
     "lecturers": [
@@ -20530,6 +23153,19 @@
     "scoreNum": 21
   },
   {
+    "lecturers": [
+      "吴继刚",
+      "李明建",
+      "黄佩森"
+    ],
+    "courseCode": "VM450",
+    "lessonClassCode": "VM450SU2021",
+    "lessonClassName": "Design and Manufacturing IIISU2021",
+    "studentNum": 24,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
     "lecturers": [],
     "courseCode": "VM250",
     "lessonClassCode": "VM250SP2020",
@@ -20537,6 +23173,17 @@
     "studentNum": 0,
     "termName": "SP2020",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Jaehyung Ju"
+    ],
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2021",
+    "lessonClassName": "Design and Manufacturing ISP2021",
+    "studentNum": 12,
+    "termName": "SP2021",
+    "scoreNum": 12
   },
   {
     "lecturers": [
@@ -20562,6 +23209,17 @@
   },
   {
     "lecturers": [
+      "毕尤一"
+    ],
+    "courseCode": "VM250",
+    "lessonClassCode": "VM250SU2021",
+    "lessonClassName": "Design and Manufacturing ISU2021",
+    "studentNum": 31,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Jaehyung Ju"
     ],
     "courseCode": "VM350",
@@ -20570,6 +23228,17 @@
     "studentNum": 40,
     "termName": "SU2020",
     "scoreNum": 40
+  },
+  {
+    "lecturers": [
+      "Jaehyung Ju"
+    ],
+    "courseCode": "VM350",
+    "lessonClassCode": "VM350SU2021",
+    "lessonClassName": "Design and Manufacturing IISU2021",
+    "studentNum": 58,
+    "termName": "SU2021",
+    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -20584,6 +23253,39 @@
   },
   {
     "lecturers": [
+      "Ryan Thorpe"
+    ],
+    "courseCode": "VY324",
+    "lessonClassCode": "VY324SU2021",
+    "lessonClassName": "Writing PoetrySU2021",
+    "studentNum": 21,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "\tPETER JOHN WEISE"
+    ],
+    "courseCode": "VY240",
+    "lessonClassCode": "VY240SP2021",
+    "lessonClassName": "Introduction to Poetry SP2021",
+    "studentNum": 12,
+    "termName": "SP2021",
+    "scoreNum": 12
+  },
+  {
+    "lecturers": [
+      "\tPETER JOHN WEISE"
+    ],
+    "courseCode": "VY240",
+    "lessonClassCode": "VY240SP2021-2",
+    "lessonClassName": "Introduction to PoetrySP2021-2",
+    "studentNum": 22,
+    "termName": "SP2021",
+    "scoreNum": 22
+  },
+  {
+    "lecturers": [
       "\tPETER JOHN WEISE"
     ],
     "courseCode": "VY240",
@@ -20595,6 +23297,17 @@
   },
   {
     "lecturers": [
+      "Kyung MinKim"
+    ],
+    "courseCode": "VR112",
+    "lessonClassCode": "VR112SU2021",
+    "lessonClassName": "Introduction to Language and LinguisticsSU2021",
+    "studentNum": 30,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "刘晶"
     ],
     "courseCode": "VE414",
@@ -20603,17 +23316,6 @@
     "studentNum": 50,
     "termName": "SU2020",
     "scoreNum": 48
-  },
-  {
-    "lecturers": [
-      "马澄斌"
-    ],
-    "courseCode": "VG450",
-    "lessonClassCode": "VG450FA2020",
-    "lessonClassName": "跨境跨学科设计项目（1）FA2020",
-    "studentNum": 0,
-    "termName": "FA2020",
-    "scoreNum": 0
   },
   {
     "lecturers": [
@@ -20633,9 +23335,9 @@
     "courseCode": "VR206",
     "lessonClassCode": "VR206FA2020",
     "lessonClassName": "近代早期的中国与世界FA2020",
-    "studentNum": 28,
+    "studentNum": 30,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 30
   },
   {
     "lecturers": [
@@ -20655,7 +23357,7 @@
     "courseCode": "VM513",
     "lessonClassCode": "VM513FA2020",
     "lessonClassName": "连续介质力学FA2020",
-    "studentNum": 8,
+    "studentNum": 9,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -20666,9 +23368,9 @@
     "courseCode": "VE270",
     "lessonClassCode": "VE270FA2020",
     "lessonClassName": "逻辑设计导论FA2020",
-    "studentNum": 82,
+    "studentNum": 89,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 88
   },
   {
     "lecturers": [
@@ -20683,6 +23385,17 @@
   },
   {
     "lecturers": [
+      "郑刚"
+    ],
+    "courseCode": "VE270",
+    "lessonClassCode": "VE270SU2021",
+    "lessonClassName": "Introduction to Logic DesignSU2021",
+    "studentNum": 173,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "NanaLiu"
     ],
     "courseCode": "VE456",
@@ -20693,13 +23406,11 @@
     "scoreNum": 0
   },
   {
-    "lecturers": [
-      "李明建"
-    ],
+    "lecturers": [],
     "courseCode": "VM010",
     "lessonClassCode": "VM010FA2020",
-    "lessonClassName": "金工实习FA2020",
-    "studentNum": 5,
+    "lessonClassName": "Machineshop TrainingFA2020",
+    "studentNum": 0,
     "termName": "FA2020",
     "scoreNum": 0
   },
@@ -20713,6 +23424,17 @@
     "scoreNum": 0
   },
   {
+    "lecturers": [
+      "李明建"
+    ],
+    "courseCode": "VM010",
+    "lessonClassCode": "VM010SP2021",
+    "lessonClassName": "Machineshop TrainingSP2021",
+    "studentNum": 11,
+    "termName": "SP2021",
+    "scoreNum": 11
+  },
+  {
     "lecturers": [],
     "courseCode": "VM010",
     "lessonClassCode": "VM010SU2020",
@@ -20723,13 +23445,35 @@
   },
   {
     "lecturers": [
+      "李明建"
+    ],
+    "courseCode": "VM010",
+    "lessonClassCode": "VM010SU2021",
+    "lessonClassName": "Machineshop TrainingSU2021",
+    "studentNum": 6,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "陶波"
     ],
     "courseCode": "VM020",
     "lessonClassCode": "VM020FA2020",
     "lessonClassName": "金工实习（1）FA2020",
-    "studentNum": 18,
+    "studentNum": 16,
     "termName": "FA2020",
+    "scoreNum": 16
+  },
+  {
+    "lecturers": [
+      "陶波"
+    ],
+    "courseCode": "VM020",
+    "lessonClassCode": "VM020SP2021",
+    "lessonClassName": "Machineshop Training ⅠSP2021",
+    "studentNum": 33,
+    "termName": "SP2021",
     "scoreNum": 0
   },
   {
@@ -20748,8 +23492,19 @@
     "courseCode": "VE501",
     "lessonClassCode": "VE501FA2020",
     "lessonClassName": "随机过程（J类）FA2020",
-    "studentNum": 45,
+    "studentNum": 47,
     "termName": "FA2020",
+    "scoreNum": 23
+  },
+  {
+    "lecturers": [
+      "卢旭阳"
+    ],
+    "courseCode": "VE427",
+    "lessonClassCode": "VE427SU2021",
+    "lessonClassName": "VLSI Design I SU2021",
+    "studentNum": 14,
+    "termName": "SU2021",
     "scoreNum": 0
   },
   {
@@ -20771,9 +23526,42 @@
     "courseCode": "VR249",
     "lessonClassCode": "VR249FA2020",
     "lessonClassName": "饮食人类学FA2020",
-    "studentNum": 17,
+    "studentNum": 23,
     "termName": "FA2020",
+    "scoreNum": 23
+  },
+  {
+    "lecturers": [
+      "刘立萍"
+    ],
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2021-1",
+    "lessonClassName": "Marxism Basic TheorySP2021-1",
+    "studentNum": 100,
+    "termName": "SP2021",
     "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "徐艳如"
+    ],
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2021-2",
+    "lessonClassName": "Marxism Basic TheorySP2021-2",
+    "studentNum": 99,
+    "termName": "SP2021",
+    "scoreNum": 99
+  },
+  {
+    "lecturers": [
+      "贾鹏飞"
+    ],
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2021-3",
+    "lessonClassName": "Marxism Basic TheorySP2021-3",
+    "studentNum": 85,
+    "termName": "SP2021",
+    "scoreNum": 85
   },
   {
     "lecturers": [
@@ -20782,9 +23570,9 @@
     "courseCode": "VV156",
     "lessonClassCode": "VV156FA2020",
     "lessonClassName": "高等数学A1FA2020",
-    "studentNum": 0,
+    "studentNum": 77,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 77
   },
   {
     "lecturers": [
@@ -20799,14 +23587,25 @@
   },
   {
     "lecturers": [
+      "\tOLGA DANILKINA"
+    ],
+    "courseCode": "VV255",
+    "lessonClassCode": "VV255SU2021",
+    "lessonClassName": "Honors Calculus IIISU2021",
+    "studentNum": 144,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Horst Hohberger"
     ],
     "courseCode": "VV186",
     "lessonClassCode": "VV186FA2020",
     "lessonClassName": "高等数学B1FA2020",
-    "studentNum": 2,
+    "studentNum": 155,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 155
   },
   {
     "lecturers": [
@@ -20821,14 +23620,25 @@
   },
   {
     "lecturers": [
+      "Horst Hohberger"
+    ],
+    "courseCode": "VV285",
+    "lessonClassCode": "VV285SU2021",
+    "lessonClassName": "Honors Mathematics IIISU2021",
+    "studentNum": 95,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
       "Irene Wei"
     ],
     "courseCode": "VE496",
     "lessonClassCode": "VE496FA2020-1",
     "lessonClassName": "高级科技写作与交流FA2020-1",
-    "studentNum": 40,
+    "studentNum": 36,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 36
   },
   {
     "lecturers": [
@@ -20837,9 +23647,20 @@
     "courseCode": "VE496",
     "lessonClassCode": "VE496FA2020-2",
     "lessonClassName": "高级科技写作与交流FA2020-2",
-    "studentNum": 32,
+    "studentNum": 27,
     "termName": "FA2020",
-    "scoreNum": 0
+    "scoreNum": 27
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE496",
+    "lessonClassCode": "VE496SP2021",
+    "lessonClassName": "Advanced Technical CommunicationSP2021",
+    "studentNum": 45,
+    "termName": "SP2021",
+    "scoreNum": 45
   },
   {
     "lecturers": [
@@ -20862,5 +23683,27 @@
     "studentNum": 50,
     "termName": "SU2020",
     "scoreNum": 50
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE496",
+    "lessonClassCode": "VE496SU2021-1",
+    "lessonClassName": "Advanced Technical CommunicationSU2021-1",
+    "studentNum": 45,
+    "termName": "SU2021",
+    "scoreNum": 0
+  },
+  {
+    "lecturers": [
+      "Nathaniel Murray"
+    ],
+    "courseCode": "VE496",
+    "lessonClassCode": "VE496SU2021-2",
+    "lessonClassName": "Advanced Technical CommunicationSU2021-2",
+    "studentNum": 43,
+    "termName": "SU2021",
+    "scoreNum": 0
   }
 ]

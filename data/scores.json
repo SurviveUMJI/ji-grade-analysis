@@ -102,6 +102,23 @@
     ]
   },
   {
+    "courseCode": "AD003",
+    "lessonClassCode": "AD003FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "AD114",
     "lessonClassCode": "AD114FA2018-Guess",
     "scores": [
@@ -714,6 +731,23 @@
     ]
   },
   {
+    "courseCode": "BI905",
+    "lessonClassCode": "BI905FA2020-Guess",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "BI907",
     "lessonClassCode": "BI907SP2019-Guess",
     "scores": [
@@ -736,6 +770,23 @@
     "scores": [
       1,
       0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BM016",
+    "lessonClassCode": "BM016SP2021-Guess",
+    "scores": [
+      0,
+      1,
       0,
       1,
       0,
@@ -822,6 +873,23 @@
       0,
       1,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "BU013",
+    "lessonClassCode": "BU013FA2020-Guess",
+    "scores": [
+      0,
+      1,
+      1,
       0,
       0,
       0,
@@ -932,23 +1000,6 @@
       0,
       0,
       0
-    ]
-  },
-  {
-    "courseCode": "BU104",
-    "lessonClassCode": "BU104SP2020-Guess",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
     ]
   },
   {
@@ -1156,6 +1207,23 @@
     ]
   },
   {
+    "courseCode": "BUS2550J",
+    "lessonClassCode": "BUS2550JSP2021",
+    "scores": [
+      0,
+      1,
+      3,
+      5,
+      5,
+      0,
+      0,
+      7,
+      0,
+      4,
+      3
+    ]
+  },
+  {
     "courseCode": "CA001",
     "lessonClassCode": "CA001FA2015-Guess",
     "scores": [
@@ -1225,19 +1293,19 @@
   },
   {
     "courseCode": "CH060",
-    "lessonClassCode": "CH060SP2020-Guess",
+    "lessonClassCode": "CH060SP2021-Guess",
     "scores": [
       0,
       0,
       0,
-      2,
       0,
       0,
       0,
       0,
       0,
       0,
-      0
+      0,
+      1
     ]
   },
   {
@@ -1418,6 +1486,23 @@
       1,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "CH926",
+    "lessonClassCode": "CH926FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -1684,6 +1769,23 @@
   },
   {
     "courseCode": "DR001",
+    "lessonClassCode": "DR001FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR001",
     "lessonClassCode": "DR001SP2018-Guess",
     "scores": [
       0,
@@ -1724,6 +1826,23 @@
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "DR002",
+    "lessonClassCode": "DR002FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -1799,6 +1918,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "EC011",
+    "lessonClassCode": "EC011SP2021-Guess",
+    "scores": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -2669,6 +2805,23 @@
     ]
   },
   {
+    "courseCode": "FI005",
+    "lessonClassCode": "FI005FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "FI306",
     "lessonClassCode": "FI306SP2019-Guess",
     "scores": [
@@ -3196,23 +3349,6 @@
     ]
   },
   {
-    "courseCode": "HI102",
-    "lessonClassCode": "HI102SP2020-Guess",
-    "scores": [
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "courseCode": "HI210",
     "lessonClassCode": "HI210SP2018-Guess",
     "scores": [
@@ -3383,6 +3519,40 @@
     ]
   },
   {
+    "courseCode": "HI904",
+    "lessonClassCode": "HI904FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "HIS2091J",
+    "lessonClassCode": "HIS2091JSP2021",
+    "scores": [
+      0,
+      11,
+      11,
+      9,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      4
+    ]
+  },
+  {
     "courseCode": "ID100",
     "lessonClassCode": "ID100SP2018-Guess",
     "scores": [
@@ -3528,6 +3698,23 @@
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "IS214",
+    "lessonClassCode": "IS214SP2021-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -4020,6 +4207,23 @@
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "LT002",
+    "lessonClassCode": "LT002FA2020-Guess",
+    "scores": [
+      0,
+      1,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -4892,7 +5096,7 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
@@ -4900,7 +5104,7 @@
     "lessonClassCode": "PE001FA2016-Guess",
     "scores": [
       9,
-      33,
+      34,
       78,
       69,
       47,
@@ -5267,6 +5471,91 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-2",
+    "scores": [
+      0,
+      4,
+      9,
+      9,
+      6,
+      2,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-5",
+    "scores": [
+      1,
+      5,
+      2,
+      4,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-6",
+    "scores": [
+      0,
+      4,
+      4,
+      5,
+      4,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-7",
+    "scores": [
+      1,
+      3,
+      7,
+      7,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "PE001",
+    "lessonClassCode": "PE001FA2020-9",
+    "scores": [
+      1,
+      5,
+      15,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -5666,7 +5955,7 @@
     "scores": [
       5,
       66,
-      82,
+      84,
       122,
       13,
       7,
@@ -6086,6 +6375,159 @@
     ]
   },
   {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2019-8",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-1",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-10",
+    "scores": [
+      0,
+      5,
+      10,
+      4,
+      4,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-11",
+    "scores": [
+      0,
+      3,
+      12,
+      6,
+      3,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-2",
+    "scores": [
+      1,
+      8,
+      9,
+      5,
+      4,
+      2,
+      0,
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-6",
+    "scores": [
+      0,
+      2,
+      8,
+      8,
+      4,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-7",
+    "scores": [
+      0,
+      4,
+      0,
+      2,
+      2,
+      4,
+      2,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-8",
+    "scores": [
+      1,
+      5,
+      7,
+      7,
+      4,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PE003",
+    "lessonClassCode": "PE003FA2020-9",
+    "scores": [
+      0,
+      2,
+      5,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "PE004",
     "lessonClassCode": "PE004SP2016-Guess",
     "scores": [
@@ -6472,7 +6914,7 @@
       0,
       0,
       0,
-      1,
+      2,
       0
     ]
   },
@@ -6579,13 +7021,47 @@
     ]
   },
   {
-    "courseCode": "PL021",
-    "lessonClassCode": "PL021SP2018-Guess",
+    "courseCode": "PHYS3910J",
+    "lessonClassCode": "PHYS3910JSP2021",
     "scores": [
-      0,
+      1,
+      2,
+      2,
+      4,
+      5,
+      2,
+      1,
       0,
       1,
       0,
+      1
+    ]
+  },
+  {
+    "courseCode": "PL004",
+    "lessonClassCode": "PL004FA2020-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "PL004",
+    "lessonClassCode": "PL004SP2021-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -6597,11 +7073,11 @@
   },
   {
     "courseCode": "PL021",
-    "lessonClassCode": "PL021SP2020-Guess",
+    "lessonClassCode": "PL021SP2018-Guess",
     "scores": [
       0,
-      1,
       0,
+      1,
       0,
       0,
       0,
@@ -6664,11 +7140,11 @@
     ]
   },
   {
-    "courseCode": "PL027",
-    "lessonClassCode": "PL027SP2020-Guess",
+    "courseCode": "PL028",
+    "lessonClassCode": "PL028SP2019-Guess",
     "scores": [
-      0,
       1,
+      2,
       0,
       0,
       0,
@@ -6681,13 +7157,13 @@
     ]
   },
   {
-    "courseCode": "PL028",
-    "lessonClassCode": "PL028SP2019-Guess",
+    "courseCode": "PL031",
+    "lessonClassCode": "PL031FA2020-Guess",
     "scores": [
+      0,
       1,
-      2,
-      0,
-      0,
+      1,
+      3,
       0,
       0,
       0,
@@ -7413,6 +7889,40 @@
   },
   {
     "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2020-1",
+    "scores": [
+      1,
+      36,
+      101,
+      7,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH000",
+    "lessonClassCode": "TH000SP2020-2",
+    "scores": [
+      0,
+      9,
+      49,
+      80,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH000",
     "lessonClassCode": "TH000SU2017-Guess",
     "scores": [
       5,
@@ -7435,6 +7945,23 @@
       0,
       1,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004FA2019-Guess",
+    "scores": [
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -7634,6 +8161,74 @@
   },
   {
     "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2020-1",
+    "scores": [
+      0,
+      16,
+      28,
+      28,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2020-2",
+    "scores": [
+      0,
+      12,
+      30,
+      27,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2020-3",
+    "scores": [
+      0,
+      14,
+      31,
+      29,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
+    "lessonClassCode": "TH004SP2020-4",
+    "scores": [
+      0,
+      8,
+      19,
+      19,
+      19,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH004",
     "lessonClassCode": "TH004SU2017-Guess",
     "scores": [
       1,
@@ -7731,6 +8326,74 @@
       1,
       2,
       1,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2020-1",
+    "scores": [
+      0,
+      39,
+      62,
+      37,
+      7,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2020-2",
+    "scores": [
+      8,
+      39,
+      43,
+      38,
+      8,
+      7,
+      0,
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2021-2",
+    "scores": [
+      2,
+      8,
+      21,
+      39,
+      20,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH007",
+    "lessonClassCode": "TH007SP2021-3",
+    "scores": [
+      0,
+      8,
+      13,
+      20,
+      29,
+      13,
+      1,
+      1,
+      0,
+      0,
       0
     ]
   },
@@ -8002,7 +8665,7 @@
       0,
       0,
       0,
-      762,
+      1331,
       0
     ]
   },
@@ -8121,8 +8784,42 @@
       2,
       2,
       0,
-      1,
+      6,
       3
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020FA2020-1",
+    "scores": [
+      7,
+      21,
+      0,
+      115,
+      82,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020FA2020-2",
+    "scores": [
+      2,
+      48,
+      138,
+      86,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8207,6 +8904,57 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2020-1",
+    "scores": [
+      35,
+      120,
+      21,
+      58,
+      15,
+      11,
+      6,
+      6,
+      4,
+      7,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2020-2",
+    "scores": [
+      26,
+      99,
+      26,
+      67,
+      32,
+      14,
+      9,
+      4,
+      1,
+      13,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH020",
+    "lessonClassCode": "TH020SP2021-2",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
       0
     ]
   },
@@ -8466,6 +9214,57 @@
     ]
   },
   {
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2020-1",
+    "scores": [
+      2,
+      16,
+      107,
+      18,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2020-2",
+    "scores": [
+      0,
+      6,
+      105,
+      31,
+      2,
+      0,
+      1,
+      1,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "TH029",
+    "lessonClassCode": "TH029SP2021-2",
+    "scores": [
+      0,
+      5,
+      36,
+      39,
+      15,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "TY002",
     "lessonClassCode": "TY002SP2019-Guess",
     "scores": [
@@ -8548,6 +9347,23 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "VC209",
+    "lessonClassCode": "VC209FA2020",
+    "scores": [
+      3,
+      3,
+      7,
+      3,
+      2,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -8721,6 +9537,40 @@
     ]
   },
   {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2020-1",
+    "scores": [
+      6,
+      24,
+      22,
+      22,
+      14,
+      10,
+      5,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC210",
+    "lessonClassCode": "VC210FA2020-2",
+    "scores": [
+      8,
+      23,
+      32,
+      26,
+      24,
+      9,
+      4,
+      7,
+      1,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VC211",
     "lessonClassCode": "VC211-Guess",
     "scores": [
@@ -8741,14 +9591,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-1",
     "scores": [
+      4,
+      11,
+      6,
+      5,
+      0,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      28,
       0,
       0,
       0
@@ -8758,14 +9608,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-10",
     "scores": [
+      2,
+      6,
+      11,
+      1,
+      2,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      28,
       0,
       0,
       0
@@ -8775,16 +9625,16 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-11",
     "scores": [
+      3,
+      7,
+      9,
+      6,
+      1,
+      1,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      28,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -8792,14 +9642,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-2",
     "scores": [
+      3,
+      12,
+      7,
+      2,
+      2,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      28,
       0,
       0,
       0
@@ -8809,14 +9659,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-3",
     "scores": [
+      4,
+      11,
+      10,
+      1,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      28,
       0,
       0,
       0
@@ -8826,14 +9676,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-4",
     "scores": [
+      3,
+      11,
+      8,
+      2,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      28,
+      1,
       0,
       0,
       0
@@ -8843,48 +9693,48 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-5",
     "scores": [
+      3,
+      8,
+      7,
+      6,
+      1,
       0,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      28,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-6",
     "scores": [
+      3,
+      3,
+      6,
+      8,
+      3,
+      1,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      25,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-7",
     "scores": [
+      5,
+      9,
+      1,
+      4,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      20,
       0,
       0,
       0
@@ -8895,13 +9745,13 @@
     "lessonClassCode": "VC211FA2020-8",
     "scores": [
       0,
+      6,
+      3,
+      2,
+      2,
       0,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      9,
       0,
       0,
       0
@@ -8911,14 +9761,14 @@
     "courseCode": "VC211",
     "lessonClassCode": "VC211FA2020-9",
     "scores": [
+      3,
+      9,
+      9,
+      3,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      28,
       0,
       0,
       0
@@ -9384,6 +10234,176 @@
     ]
   },
   {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-1",
+    "scores": [
+      0,
+      1,
+      8,
+      3,
+      1,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-10",
+    "scores": [
+      0,
+      6,
+      12,
+      4,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-2",
+    "scores": [
+      2,
+      4,
+      8,
+      5,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-3",
+    "scores": [
+      0,
+      8,
+      12,
+      3,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-4",
+    "scores": [
+      1,
+      12,
+      13,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-5",
+    "scores": [
+      4,
+      7,
+      8,
+      6,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-6",
+    "scores": [
+      0,
+      7,
+      12,
+      4,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-7",
+    "scores": [
+      2,
+      10,
+      8,
+      2,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-8",
+    "scores": [
+      2,
+      2,
+      10,
+      4,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VC211",
+    "lessonClassCode": "VC211SP2021-9",
+    "scores": [
+      2,
+      3,
+      17,
+      3,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VC301",
     "lessonClassCode": "VC301FA2017",
     "scores": [
@@ -9395,91 +10415,6 @@
       0,
       0,
       0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "courseCode": "VE/VM450",
-    "lessonClassCode": "VE/VM450SU2020-1-1",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      29,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "courseCode": "VE/VM450",
-    "lessonClassCode": "VE/VM450SU2020-1-2",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      14,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "courseCode": "VE/VM450",
-    "lessonClassCode": "VE/VM450SU2020-1-3",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      35,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "courseCode": "VE/VM450",
-    "lessonClassCode": "VE/VM450SU2020-1-4",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      30,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "courseCode": "VE/VM450",
-    "lessonClassCode": "VE/VM450SU2020-1-5",
-    "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      20,
       0,
       0,
       0
@@ -9731,13 +10666,47 @@
       15,
       15,
       19,
-      19,
+      20,
       0,
-      11,
+      10,
       7,
       3,
       1,
       1
+    ]
+  },
+  {
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203FA2020",
+    "scores": [
+      6,
+      7,
+      11,
+      11,
+      5,
+      15,
+      7,
+      3,
+      0,
+      5,
+      2
+    ]
+  },
+  {
+    "courseCode": "VE203",
+    "lessonClassCode": "VE203SP2021",
+    "scores": [
+      3,
+      10,
+      14,
+      21,
+      15,
+      9,
+      7,
+      5,
+      5,
+      5,
+      3
     ]
   },
   {
@@ -9765,11 +10734,11 @@
       30,
       24,
       26,
-      22,
-      14,
+      24,
       16,
-      17,
-      6,
+      12,
+      19,
+      4,
       1,
       0
     ]
@@ -9779,16 +10748,16 @@
     "lessonClassCode": "VE203SU2020",
     "scores": [
       0,
+      71,
+      44,
+      21,
+      9,
+      7,
+      0,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      155,
-      0,
-      0,
-      0
+      2
     ]
   },
   {
@@ -9856,7 +10825,7 @@
       1,
       1,
       2,
-      0
+      1
     ]
   },
   {
@@ -9933,8 +10902,8 @@
     "scores": [
       22,
       33,
-      29,
-      39,
+      30,
+      38,
       49,
       42,
       39,
@@ -9946,19 +10915,53 @@
   },
   {
     "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2020-1",
+    "scores": [
+      11,
+      13,
+      9,
+      34,
+      25,
+      17,
+      8,
+      3,
+      4,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE215",
+    "lessonClassCode": "VE215FA2020-2",
+    "scores": [
+      17,
+      15,
+      14,
+      25,
+      17,
+      15,
+      10,
+      7,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE215",
     "lessonClassCode": "VE215SU2020",
     "scores": [
+      2,
+      6,
+      11,
+      9,
+      5,
+      6,
       0,
+      4,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      46,
-      0,
-      0,
-      0
+      1,
+      2
     ]
   },
   {
@@ -10077,7 +11080,7 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
@@ -10127,6 +11130,23 @@
       8,
       1,
       1,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE216",
+    "lessonClassCode": "VE216SP2021",
+    "scores": [
+      4,
+      24,
+      23,
+      31,
+      26,
+      29,
+      0,
+      4,
+      8,
       1,
       1
     ]
@@ -10186,17 +11206,17 @@
     "courseCode": "VE216",
     "lessonClassCode": "VE216SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      122,
-      0,
-      0,
-      0
+      1,
+      12,
+      28,
+      25,
+      25,
+      15,
+      5,
+      4,
+      3,
+      2,
+      2
     ]
   },
   {
@@ -10247,7 +11267,7 @@
       7,
       0,
       4,
-      7
+      9
     ]
   },
   {
@@ -10264,6 +11284,23 @@
       0,
       0,
       3,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE230",
+    "lessonClassCode": "VE230FA2020",
+    "scores": [
+      6,
+      17,
+      13,
+      15,
+      4,
+      1,
+      0,
+      3,
+      0,
+      0,
       0
     ]
   },
@@ -10339,31 +11376,31 @@
     "courseCode": "VE230",
     "lessonClassCode": "VE230SU2020-1",
     "scores": [
+      15,
+      25,
+      21,
+      31,
+      15,
+      6,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      120,
-      0,
-      0,
-      0
+      4,
+      1,
+      1,
+      1
     ]
   },
   {
     "courseCode": "VE230",
     "lessonClassCode": "VE230SU2020-2",
     "scores": [
+      19,
+      30,
+      34,
+      23,
+      12,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      122,
+      2,
       0,
       0,
       0
@@ -10479,13 +11516,30 @@
       26,
       35,
       21,
-      20,
+      19,
       12,
       7,
-      1,
+      2,
       2,
       1,
       7
+    ]
+  },
+  {
+    "courseCode": "VE270",
+    "lessonClassCode": "VE270FA2020",
+    "scores": [
+      5,
+      11,
+      15,
+      24,
+      14,
+      6,
+      2,
+      2,
+      3,
+      4,
+      2
     ]
   },
   {
@@ -10577,17 +11631,17 @@
     "courseCode": "VE270",
     "lessonClassCode": "VE270SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      131,
-      0,
-      0,
-      0
+      3,
+      18,
+      32,
+      27,
+      21,
+      10,
+      3,
+      3,
+      5,
+      2,
+      7
     ]
   },
   {
@@ -10622,6 +11676,23 @@
       1,
       2,
       2
+    ]
+  },
+  {
+    "courseCode": "VE280",
+    "lessonClassCode": "VE280FA2020",
+    "scores": [
+      14,
+      19,
+      18,
+      34,
+      14,
+      12,
+      12,
+      9,
+      8,
+      10,
+      6
     ]
   },
   {
@@ -10747,17 +11818,17 @@
     "courseCode": "VE280",
     "lessonClassCode": "VE280SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      223,
-      0,
-      0,
-      0
+      24,
+      33,
+      31,
+      36,
+      21,
+      14,
+      9,
+      7,
+      13,
+      14,
+      21
     ]
   },
   {
@@ -10768,8 +11839,8 @@
       15,
       16,
       16,
-      19,
-      7,
+      20,
+      8,
       0,
       2,
       1,
@@ -10864,17 +11935,34 @@
   },
   {
     "courseCode": "VE281",
+    "lessonClassCode": "VE281FA2020",
+    "scores": [
+      15,
+      28,
+      28,
+      24,
+      17,
+      8,
+      0,
+      2,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE281",
     "lessonClassCode": "VE281SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      31,
-      0,
+      2,
+      5,
+      6,
+      7,
+      3,
+      2,
+      3,
+      2,
+      1,
       0,
       0
     ]
@@ -11085,6 +12173,57 @@
   },
   {
     "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2021-1",
+    "scores": [
+      0,
+      10,
+      8,
+      2,
+      12,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2021-2",
+    "scores": [
+      0,
+      7,
+      9,
+      8,
+      8,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE300",
+    "lessonClassCode": "VE300SP2021-3",
+    "scores": [
+      0,
+      0,
+      14,
+      12,
+      8,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE300",
     "lessonClassCode": "VE300SU2017-1",
     "scores": [
       0,
@@ -11257,31 +12396,31 @@
     "courseCode": "VE300",
     "lessonClassCode": "VE300SU2020-1",
     "scores": [
+      3,
+      26,
+      6,
+      2,
+      1,
       0,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      39,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
     "courseCode": "VE300",
     "lessonClassCode": "VE300SU2020-2",
     "scores": [
+      3,
+      22,
+      4,
+      3,
+      3,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      37,
+      2,
       0,
       0,
       0
@@ -11292,13 +12431,13 @@
     "lessonClassCode": "VE300SU2020-3",
     "scores": [
       0,
+      8,
+      15,
+      7,
+      6,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      36,
       0,
       0,
       0
@@ -11350,6 +12489,23 @@
       10,
       11,
       1,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE311",
+    "lessonClassCode": "VE311FA2020",
+    "scores": [
+      16,
+      13,
+      17,
+      25,
+      16,
+      8,
+      4,
+      2,
       0,
       2,
       0
@@ -11427,17 +12583,17 @@
     "courseCode": "VE311",
     "lessonClassCode": "VE311SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      142,
-      0,
-      0,
-      0
+      17,
+      36,
+      20,
+      9,
+      17,
+      9,
+      12,
+      5,
+      9,
+      7,
+      1
     ]
   },
   {
@@ -11510,6 +12666,23 @@
   },
   {
     "courseCode": "VE312",
+    "lessonClassCode": "VE312FA2020",
+    "scores": [
+      1,
+      3,
+      3,
+      2,
+      3,
+      5,
+      1,
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE312",
     "lessonClassCode": "VE312SU2017",
     "scores": [
       2,
@@ -11539,7 +12712,7 @@
       0,
       0,
       2,
-      3
+      4
     ]
   },
   {
@@ -11557,6 +12730,23 @@
       5,
       4,
       4
+    ]
+  },
+  {
+    "courseCode": "VE320",
+    "lessonClassCode": "VE320FA2020",
+    "scores": [
+      8,
+      5,
+      10,
+      14,
+      8,
+      8,
+      0,
+      5,
+      0,
+      3,
+      6
     ]
   },
   {
@@ -11607,7 +12797,7 @@
       13,
       5,
       7,
-      5
+      6
     ]
   },
   {
@@ -11648,17 +12838,17 @@
     "courseCode": "VE320",
     "lessonClassCode": "VE320SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      167,
-      0,
-      0,
-      0
+      11,
+      12,
+      19,
+      20,
+      28,
+      20,
+      19,
+      16,
+      9,
+      7,
+      6
     ]
   },
   {
@@ -11747,20 +12937,37 @@
     ]
   },
   {
+    "courseCode": "VE334",
+    "lessonClassCode": "VE334FA2020",
+    "scores": [
+      2,
+      2,
+      1,
+      4,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VE351",
     "lessonClassCode": "VE351SU2020",
     "scores": [
+      4,
+      10,
+      8,
+      8,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      42,
-      0,
-      0,
-      0
+      2,
+      2,
+      4,
+      1,
+      1
     ]
   },
   {
@@ -11850,6 +13057,23 @@
   },
   {
     "courseCode": "VE370",
+    "lessonClassCode": "VE370FA2020",
+    "scores": [
+      5,
+      21,
+      31,
+      34,
+      17,
+      11,
+      8,
+      7,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "courseCode": "VE370",
     "lessonClassCode": "VE370SU2019",
     "scores": [
       0,
@@ -11869,17 +13093,17 @@
     "courseCode": "VE370",
     "lessonClassCode": "VE370SU2020",
     "scores": [
+      4,
+      9,
+      14,
+      15,
+      12,
+      7,
+      3,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      67,
-      0,
-      0,
-      0
+      1,
+      1
     ]
   },
   {
@@ -11938,14 +13162,14 @@
     "lessonClassCode": "VE401-Guess",
     "scores": [
       8,
-      18,
+      19,
       43,
       32,
       23,
       22,
-      24,
+      25,
       9,
-      12,
+      13,
       3,
       6
     ]
@@ -12040,8 +13264,8 @@
     "lessonClassCode": "VE401SP2020",
     "scores": [
       21,
-      27,
-      26,
+      28,
+      25,
       34,
       25,
       18,
@@ -12050,6 +13274,23 @@
       1,
       3,
       2
+    ]
+  },
+  {
+    "courseCode": "VE401",
+    "lessonClassCode": "VE401SP2021",
+    "scores": [
+      20,
+      30,
+      35,
+      31,
+      24,
+      16,
+      5,
+      3,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -12083,7 +13324,7 @@
       14,
       12,
       8,
-      2
+      3
     ]
   },
   {
@@ -12107,17 +13348,17 @@
     "courseCode": "VE401",
     "lessonClassCode": "VE401SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      76,
-      0,
-      0,
-      0
+      7,
+      6,
+      8,
+      14,
+      12,
+      11,
+      7,
+      5,
+      3,
+      2,
+      1
     ]
   },
   {
@@ -12151,7 +13392,24 @@
       1,
       1,
       1,
-      0
+      1
+    ]
+  },
+  {
+    "courseCode": "VE406",
+    "lessonClassCode": "VE406FA2020",
+    "scores": [
+      3,
+      5,
+      5,
+      7,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -12209,16 +13467,16 @@
     "courseCode": "VE413",
     "lessonClassCode": "VE413SU2020",
     "scores": [
+      2,
+      3,
+      6,
+      8,
+      5,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      26,
-      0,
-      0,
+      2,
       0
     ]
   },
@@ -12260,17 +13518,17 @@
     "courseCode": "VE414",
     "lessonClassCode": "VE414SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      48,
-      0,
-      0,
-      0
+      4,
+      6,
+      5,
+      14,
+      7,
+      1,
+      3,
+      3,
+      1,
+      3,
+      1
     ]
   },
   {
@@ -12328,14 +13586,14 @@
     "courseCode": "VE421",
     "lessonClassCode": "VE421SU2020",
     "scores": [
+      3,
+      5,
+      2,
+      7,
+      3,
+      3,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      24,
       0,
       0,
       0
@@ -12396,14 +13654,14 @@
     "courseCode": "VE434",
     "lessonClassCode": "VE434SU2020",
     "scores": [
+      3,
+      2,
+      3,
+      4,
+      2,
+      3,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      17,
       0,
       0,
       0
@@ -12419,6 +13677,23 @@
       1,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE438",
+    "lessonClassCode": "VE438FA2020",
+    "scores": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
       0,
       0,
       0,
@@ -12481,15 +13756,32 @@
     "courseCode": "VE441",
     "lessonClassCode": "VE441SU2020",
     "scores": [
+      1,
+      9,
+      10,
+      8,
+      8,
+      3,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      40,
-      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE444",
+    "lessonClassCode": "VE444FA2020",
+    "scores": [
+      4,
+      9,
+      10,
+      11,
+      11,
+      8,
+      7,
+      4,
+      2,
       0,
       0
     ]
@@ -12509,6 +13801,23 @@
       2,
       2,
       2
+    ]
+  },
+  {
+    "courseCode": "VE445",
+    "lessonClassCode": "VE445FA2020",
+    "scores": [
+      3,
+      7,
+      6,
+      7,
+      11,
+      9,
+      2,
+      1,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -12622,7 +13931,7 @@
       22,
       7,
       9,
-      4,
+      6,
       1,
       0,
       0,
@@ -12643,6 +13952,23 @@
       2,
       2,
       1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE450",
+    "lessonClassCode": "VE450FA2020",
+    "scores": [
+      0,
+      5,
+      33,
+      23,
+      10,
+      6,
+      0,
+      0,
+      0,
       0,
       0
     ]
@@ -12703,13 +14029,13 @@
     "lessonClassCode": "VE450SU2020",
     "scores": [
       0,
+      14,
+      31,
+      29,
+      22,
+      9,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      107,
+      2,
       0,
       0,
       0
@@ -12835,6 +14161,23 @@
     ]
   },
   {
+    "courseCode": "VE455",
+    "lessonClassCode": "VE455FA2020",
+    "scores": [
+      0,
+      3,
+      1,
+      2,
+      0,
+      5,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VE458",
     "lessonClassCode": "VE458-Guess",
     "scores": [
@@ -12940,16 +14283,16 @@
     "courseCode": "VE460",
     "lessonClassCode": "VE460SU2020",
     "scores": [
+      3,
+      3,
+      7,
+      8,
+      5,
+      1,
+      4,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      33,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -12957,14 +14300,14 @@
     "courseCode": "VE472",
     "lessonClassCode": "VE472SU2020",
     "scores": [
+      2,
+      2,
+      3,
+      1,
+      1,
       0,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      10,
       0,
       0,
       0
@@ -13059,17 +14402,17 @@
     "courseCode": "VE475",
     "lessonClassCode": "VE475SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      73,
-      0,
-      0,
-      0
+      6,
+      8,
+      16,
+      18,
+      5,
+      3,
+      8,
+      4,
+      2,
+      1,
+      2
     ]
   },
   {
@@ -13130,14 +14473,31 @@
       3,
       4,
       5,
-      4,
+      3,
       8,
       3,
       7,
       3,
       5,
       0,
-      0
+      1
+    ]
+  },
+  {
+    "courseCode": "VE477",
+    "lessonClassCode": "VE477FA2020",
+    "scores": [
+      5,
+      6,
+      13,
+      4,
+      5,
+      9,
+      4,
+      2,
+      0,
+      0,
+      2
     ]
   },
   {
@@ -13209,6 +14569,23 @@
     ]
   },
   {
+    "courseCode": "VE482",
+    "lessonClassCode": "VE482FA2020",
+    "scores": [
+      7,
+      7,
+      7,
+      7,
+      3,
+      3,
+      3,
+      1,
+      4,
+      1,
+      3
+    ]
+  },
+  {
     "courseCode": "VE484",
     "lessonClassCode": "VE484-Guess",
     "scores": [
@@ -13229,17 +14606,17 @@
     "courseCode": "VE485",
     "lessonClassCode": "VE485SU2020",
     "scores": [
+      3,
+      14,
+      14,
+      6,
+      0,
+      2,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      40,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -13314,16 +14691,16 @@
     "courseCode": "VE489",
     "lessonClassCode": "VE489SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      35,
-      0,
-      0,
+      1,
+      3,
+      8,
+      5,
+      3,
+      1,
+      5,
+      3,
+      3,
+      3,
       0
     ]
   },
@@ -13397,6 +14774,23 @@
   },
   {
     "courseCode": "VE490",
+    "lessonClassCode": "VE490FA2020",
+    "scores": [
+      1,
+      8,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE490",
     "lessonClassCode": "VE490SP2018",
     "scores": [
       0,
@@ -13448,6 +14842,23 @@
   },
   {
     "courseCode": "VE490",
+    "lessonClassCode": "VE490SP2021",
+    "scores": [
+      3,
+      8,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE490",
     "lessonClassCode": "VE490SU2017",
     "scores": [
       0,
@@ -13468,7 +14879,7 @@
     "lessonClassCode": "VE490SU2018",
     "scores": [
       2,
-      2,
+      3,
       3,
       0,
       1,
@@ -13501,14 +14912,14 @@
     "courseCode": "VE490",
     "lessonClassCode": "VE490SU2020",
     "scores": [
+      5,
+      0,
+      2,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      8,
+      1,
       0,
       0,
       0
@@ -13524,10 +14935,10 @@
       3,
       1,
       7,
-      5,
+      4,
       2,
       0,
-      2,
+      3,
       0
     ]
   },
@@ -13552,16 +14963,16 @@
     "courseCode": "VE492",
     "lessonClassCode": "VE492SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      104,
-      0,
-      0,
+      8,
+      21,
+      22,
+      16,
+      8,
+      9,
+      5,
+      4,
+      4,
+      7,
       0
     ]
   },
@@ -13652,6 +15063,40 @@
   },
   {
     "courseCode": "VE496",
+    "lessonClassCode": "VE496FA2020-1",
+    "scores": [
+      0,
+      26,
+      6,
+      3,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE496",
+    "lessonClassCode": "VE496FA2020-2",
+    "scores": [
+      0,
+      8,
+      6,
+      1,
+      6,
+      3,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VE496",
     "lessonClassCode": "VE496SP2020",
     "scores": [
       0,
@@ -13664,6 +15109,23 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE496",
+    "lessonClassCode": "VE496SP2021",
+    "scores": [
+      1,
+      11,
+      9,
+      6,
+      5,
+      4,
+      2,
+      2,
+      4,
+      1,
       0
     ]
   },
@@ -13756,16 +15218,16 @@
     "courseCode": "VE496",
     "lessonClassCode": "VE496SU2020-1",
     "scores": [
+      2,
+      10,
+      12,
+      11,
+      6,
+      3,
+      1,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      48,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -13773,17 +15235,17 @@
     "courseCode": "VE496",
     "lessonClassCode": "VE496SU2020-2",
     "scores": [
+      1,
+      11,
+      12,
+      6,
+      5,
+      3,
+      3,
+      4,
+      4,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      50,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -13855,6 +15317,23 @@
     ]
   },
   {
+    "courseCode": "VE501",
+    "lessonClassCode": "VE501FA2020",
+    "scores": [
+      0,
+      4,
+      3,
+      6,
+      4,
+      3,
+      2,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VE504",
     "lessonClassCode": "VE504-Guess",
     "scores": [
@@ -13913,6 +15392,23 @@
       0,
       1,
       2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VE504",
+    "lessonClassCode": "VE504FA2020",
+    "scores": [
+      0,
+      1,
+      1,
+      0,
       0,
       0,
       0,
@@ -13988,6 +15484,23 @@
       0,
       4,
       3
+    ]
+  },
+  {
+    "courseCode": "VE593",
+    "lessonClassCode": "VE593FA2020",
+    "scores": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14158,6 +15671,23 @@
       0,
       3,
       2
+    ]
+  },
+  {
+    "courseCode": "VG100",
+    "lessonClassCode": "VG100FA2020",
+    "scores": [
+      1,
+      15,
+      17,
+      13,
+      16,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -14351,15 +15881,15 @@
     "courseCode": "VG100",
     "lessonClassCode": "VG100SU2020-1",
     "scores": [
+      7,
+      11,
+      37,
+      18,
+      1,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      75,
-      0,
+      1,
       0,
       0
     ]
@@ -14368,34 +15898,34 @@
     "courseCode": "VG100",
     "lessonClassCode": "VG100SU2020-2",
     "scores": [
+      9,
+      22,
+      25,
+      11,
+      5,
       0,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      73,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
     "courseCode": "VG100",
     "lessonClassCode": "VG100SU2020-3",
     "scores": [
+      6,
+      15,
+      20,
+      14,
+      4,
       0,
       0,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      61,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -14404,13 +15934,13 @@
     "scores": [
       28,
       89,
-      111,
+      112,
       102,
       70,
-      43,
+      44,
       41,
-      15,
-      12,
+      17,
+      13,
       6,
       13
     ]
@@ -14462,8 +15992,8 @@
       10,
       11,
       2,
-      4,
-      0
+      5,
+      1
     ]
   },
   {
@@ -14540,15 +16070,15 @@
     "scores": [
       5,
       16,
-      25,
+      24,
       22,
-      10,
       9,
-      2,
-      2,
-      6,
-      2,
-      10
+      8,
+      3,
+      0,
+      7,
+      4,
+      11
     ]
   },
   {
@@ -14566,6 +16096,40 @@
       2,
       1,
       5
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2020-1",
+    "scores": [
+      10,
+      15,
+      23,
+      17,
+      6,
+      5,
+      6,
+      2,
+      5,
+      2,
+      9
+    ]
+  },
+  {
+    "courseCode": "VG101",
+    "lessonClassCode": "VG101FA2020-2",
+    "scores": [
+      6,
+      16,
+      19,
+      23,
+      11,
+      11,
+      6,
+      3,
+      5,
+      0,
+      4
     ]
   },
   {
@@ -14649,25 +16213,25 @@
       4,
       2,
       1,
-      6,
-      11
+      7,
+      10
     ]
   },
   {
     "courseCode": "VG101",
     "lessonClassCode": "VG101SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      120,
-      0,
-      0,
-      0
+      5,
+      14,
+      28,
+      22,
+      18,
+      9,
+      1,
+      3,
+      5,
+      5,
+      10
     ]
   },
   {
@@ -14691,14 +16255,14 @@
     "courseCode": "VG441",
     "lessonClassCode": "VG441SU2020",
     "scores": [
+      13,
+      30,
+      2,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      48,
+      1,
       0,
       0,
       0
@@ -14978,6 +16542,57 @@
   },
   {
     "courseCode": "VG496",
+    "lessonClassCode": "VG496FA2020-1",
+    "scores": [
+      0,
+      8,
+      8,
+      11,
+      13,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG496",
+    "lessonClassCode": "VG496FA2020-2",
+    "scores": [
+      0,
+      7,
+      8,
+      16,
+      10,
+      4,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "courseCode": "VG496",
+    "lessonClassCode": "VG496FA2020-3",
+    "scores": [
+      4,
+      11,
+      6,
+      13,
+      8,
+      3,
+      1,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VG496",
     "lessonClassCode": "VG496SU2017-1-1",
     "scores": [
       0,
@@ -15116,15 +16731,15 @@
     "courseCode": "VG496",
     "lessonClassCode": "VG496SU2020-1",
     "scores": [
+      2,
+      22,
+      11,
+      4,
+      4,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      45,
-      0,
+      1,
       0,
       0
     ]
@@ -15134,13 +16749,13 @@
     "lessonClassCode": "VG496SU2020-2",
     "scores": [
       0,
+      17,
+      14,
+      9,
+      0,
+      3,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      43,
       0,
       0,
       0
@@ -15151,30 +16766,115 @@
     "lessonClassCode": "VG496SU2020-3",
     "scores": [
       0,
+      15,
+      18,
+      8,
+      3,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      45,
       0,
       0,
       0
     ]
   },
   {
+    "courseCode": "VJ110",
+    "lessonClassCode": "VJ110FA2020-1",
+    "scores": [
+      3,
+      5,
+      4,
+      2,
+      2,
+      2,
+      1,
+      1,
+      4,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VJ110",
+    "lessonClassCode": "VJ110FA2020-2",
+    "scores": [
+      1,
+      8,
+      4,
+      4,
+      4,
+      2,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VJ110",
+    "lessonClassCode": "VJ110SP2021",
+    "scores": [
+      8,
+      7,
+      5,
+      0,
+      1,
+      3,
+      0,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VJ111",
+    "lessonClassCode": "VJ111FA2020-1",
+    "scores": [
+      1,
+      6,
+      6,
+      5,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VJ111",
+    "lessonClassCode": "VJ111FA2020-2",
+    "scores": [
+      0,
+      6,
+      4,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
     "courseCode": "VK242",
     "lessonClassCode": "VK242SU2020",
     "scores": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      8,
       0,
       0,
       0
@@ -15269,14 +16969,65 @@
     "courseCode": "VK250",
     "lessonClassCode": "VK250SU2020",
     "scores": [
+      2,
+      1,
+      2,
+      3,
+      3,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VK330",
+    "lessonClassCode": "VK330FA2020",
+    "scores": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VK350",
+    "lessonClassCode": "VK350FA2020",
+    "scores": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VK360",
+    "lessonClassCode": "VK360FA2020",
+    "scores": [
+      0,
+      1,
       0,
       0,
       0,
       0,
       0,
       0,
-      0,
-      14,
       0,
       0,
       0
@@ -15331,6 +17082,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VM010",
+    "lessonClassCode": "VM010SP2021",
+    "scores": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -15462,6 +17230,23 @@
       5,
       2,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM020",
+    "lessonClassCode": "VM020FA2020",
+    "scores": [
+      0,
+      3,
+      8,
+      3,
+      1,
+      1,
       0,
       0,
       0,
@@ -15644,8 +17429,8 @@
     "lessonClassCode": "VM211FA2019",
     "scores": [
       6,
-      15,
-      14,
+      16,
+      13,
       10,
       7,
       6,
@@ -15654,6 +17439,23 @@
       2,
       1,
       3
+    ]
+  },
+  {
+    "courseCode": "VM211",
+    "lessonClassCode": "VM211FA2020",
+    "scores": [
+      4,
+      6,
+      8,
+      7,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      2
     ]
   },
   {
@@ -15709,6 +17511,23 @@
   },
   {
     "courseCode": "VM211",
+    "lessonClassCode": "VM211SP2021",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM211",
     "lessonClassCode": "VM211SU2019",
     "scores": [
       0,
@@ -15755,7 +17574,7 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
@@ -15807,6 +17626,23 @@
       0,
       1,
       10
+    ]
+  },
+  {
+    "courseCode": "VM235",
+    "lessonClassCode": "VM235FA2020",
+    "scores": [
+      1,
+      6,
+      5,
+      6,
+      5,
+      2,
+      2,
+      1,
+      0,
+      0,
+      4
     ]
   },
   {
@@ -15898,17 +17734,17 @@
     "courseCode": "VM235",
     "lessonClassCode": "VM235SU2020",
     "scores": [
+      2,
+      4,
+      4,
+      2,
+      3,
+      2,
+      2,
+      3,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      23,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -15964,6 +17800,23 @@
   },
   {
     "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2017-Guess",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VM240",
     "lessonClassCode": "VM240SP2018",
     "scores": [
       2,
@@ -16011,6 +17864,23 @@
       2,
       5,
       5
+    ]
+  },
+  {
+    "courseCode": "VM240",
+    "lessonClassCode": "VM240SP2021",
+    "scores": [
+      1,
+      2,
+      3,
+      2,
+      0,
+      2,
+      0,
+      1,
+      0,
+      3,
+      3
     ]
   },
   {
@@ -16068,17 +17938,17 @@
     "courseCode": "VM240",
     "lessonClassCode": "VM240SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      26,
-      0,
-      0,
-      0
+      1,
+      1,
+      3,
+      5,
+      4,
+      3,
+      2,
+      2,
+      1,
+      2,
+      2
     ]
   },
   {
@@ -16185,6 +18055,23 @@
   },
   {
     "courseCode": "VM250",
+    "lessonClassCode": "VM250SP2021",
+    "scores": [
+      2,
+      2,
+      1,
+      2,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM250",
     "lessonClassCode": "VM250SU2017",
     "scores": [
       4,
@@ -16238,34 +18125,34 @@
     "courseCode": "VM250",
     "lessonClassCode": "VM250SU2020-1",
     "scores": [
+      5,
+      7,
+      7,
+      3,
+      1,
+      2,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      29,
-      0,
-      0,
-      0
+      2,
+      1
     ]
   },
   {
     "courseCode": "VM250",
     "lessonClassCode": "VM250SU2020-2",
     "scores": [
+      2,
+      3,
+      3,
+      6,
+      4,
+      7,
+      1,
+      1,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      30,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -16371,6 +18258,23 @@
     ]
   },
   {
+    "courseCode": "VM311",
+    "lessonClassCode": "VM311FA2020",
+    "scores": [
+      3,
+      1,
+      6,
+      6,
+      1,
+      9,
+      2,
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
     "courseCode": "VM320",
     "lessonClassCode": "VM320-Guess",
     "scores": [
@@ -16457,6 +18361,23 @@
   },
   {
     "courseCode": "VM320",
+    "lessonClassCode": "VM320FA2020",
+    "scores": [
+      0,
+      0,
+      0,
+      5,
+      6,
+      9,
+      3,
+      4,
+      5,
+      4,
+      9
+    ]
+  },
+  {
+    "courseCode": "VM320",
     "lessonClassCode": "VM320SU2017",
     "scores": [
       3,
@@ -16510,17 +18431,17 @@
     "courseCode": "VM320",
     "lessonClassCode": "VM320SU2020",
     "scores": [
+      1,
+      2,
+      0,
+      4,
+      1,
+      0,
+      1,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      12,
-      0,
-      0,
-      0
+      2
     ]
   },
   {
@@ -16537,7 +18458,7 @@
       2,
       0,
       1,
-      1
+      2
     ]
   },
   {
@@ -16612,16 +18533,16 @@
     "courseCode": "VM335",
     "lessonClassCode": "VM335SU2020",
     "scores": [
+      11,
+      18,
+      6,
+      4,
+      3,
+      5,
+      4,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      54,
-      0,
-      0,
+      2,
       0
     ]
   },
@@ -16698,13 +18619,13 @@
     "lessonClassCode": "VM350SU2020",
     "scores": [
       0,
+      10,
+      13,
+      7,
+      7,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      40,
+      1,
       0,
       0,
       0
@@ -16775,7 +18696,7 @@
       1,
       1,
       1,
-      4
+      5
     ]
   },
   {
@@ -16799,17 +18720,17 @@
     "courseCode": "VM360",
     "lessonClassCode": "VM360SU2020",
     "scores": [
+      2,
+      10,
+      12,
+      6,
+      5,
+      1,
+      4,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      41,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -16892,6 +18813,23 @@
       3,
       1,
       1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM382",
+    "lessonClassCode": "VM382FA2020",
+    "scores": [
+      0,
+      4,
+      11,
+      5,
+      4,
+      4,
+      1,
+      0,
       0,
       0,
       0
@@ -17141,12 +19079,12 @@
     "scores": [
       2,
       2,
-      7,
+      6,
       3,
       6,
       1,
       0,
-      2,
+      3,
       0,
       0,
       0
@@ -17184,6 +19122,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VM395",
+    "lessonClassCode": "VM395FA2020",
+    "scores": [
+      1,
+      5,
+      6,
+      14,
+      4,
+      0,
+      0,
+      6,
+      0,
+      1,
+      1
     ]
   },
   {
@@ -17258,17 +19213,17 @@
     "courseCode": "VM395",
     "lessonClassCode": "VM395SU2020",
     "scores": [
+      1,
+      4,
+      1,
+      3,
       0,
       0,
       0,
       0,
       0,
       0,
-      0,
-      11,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -17442,6 +19397,23 @@
     ]
   },
   {
+    "courseCode": "VM434",
+    "lessonClassCode": "VM434FA2020",
+    "scores": [
+      0,
+      2,
+      1,
+      2,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VM440",
     "lessonClassCode": "VM440-Guess",
     "scores": [
@@ -17518,8 +19490,8 @@
       8,
       2,
       2,
-      0,
       1,
+      2,
       0,
       0,
       0,
@@ -17539,6 +19511,23 @@
       1,
       0,
       2,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM450",
+    "lessonClassCode": "VM450FA2020",
+    "scores": [
+      0,
+      6,
+      10,
+      7,
+      4,
+      1,
+      1,
+      0,
+      0,
       0,
       0
     ]
@@ -17582,13 +19571,13 @@
     "lessonClassCode": "VM450SU2020",
     "scores": [
       0,
+      5,
+      2,
+      7,
+      6,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      21,
       0,
       0,
       0
@@ -17607,6 +19596,23 @@
       2,
       5,
       1,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM455",
+    "lessonClassCode": "VM455FA2020",
+    "scores": [
+      2,
+      4,
+      6,
+      4,
+      4,
+      1,
+      0,
+      2,
+      0,
       1,
       0
     ]
@@ -17683,14 +19689,14 @@
     "courseCode": "VM458",
     "lessonClassCode": "VM458SU2020",
     "scores": [
+      1,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      14,
       0,
       0,
       0
@@ -17775,6 +19781,23 @@
       8,
       0,
       0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM461",
+    "lessonClassCode": "VM461FA2020",
+    "scores": [
+      1,
+      7,
+      5,
+      7,
+      2,
+      0,
+      1,
       0,
       0,
       0,
@@ -17887,16 +19910,16 @@
     "courseCode": "VM482",
     "lessonClassCode": "VM482SU2020",
     "scores": [
+      2,
+      3,
+      5,
+      4,
+      6,
+      1,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      25,
-      0,
-      0,
+      2,
       0
     ]
   },
@@ -17970,6 +19993,23 @@
   },
   {
     "courseCode": "VM490",
+    "lessonClassCode": "VM490FA2020",
+    "scores": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM490",
     "lessonClassCode": "VM490SP2018",
     "scores": [
       0,
@@ -18014,6 +20054,23 @@
       0,
       0,
       1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM490",
+    "lessonClassCode": "VM490SP2021",
+    "scores": [
+      2,
+      3,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0
@@ -18075,13 +20132,13 @@
     "lessonClassCode": "VM490SU2020",
     "scores": [
       0,
+      5,
+      1,
       0,
       0,
       0,
       0,
       0,
-      0,
-      6,
       0,
       0,
       0
@@ -18157,6 +20214,23 @@
   },
   {
     "courseCode": "VM495",
+    "lessonClassCode": "VM495FA2020",
+    "scores": [
+      0,
+      3,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VM495",
     "lessonClassCode": "VM495SU2017",
     "scores": [
       2,
@@ -18210,14 +20284,14 @@
     "courseCode": "VM495",
     "lessonClassCode": "VM495SU2020",
     "scores": [
+      3,
+      4,
+      15,
+      7,
+      1,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      30,
       0,
       0,
       0
@@ -18319,8 +20393,8 @@
       0,
       0,
       0,
-      1,
       0,
+      1,
       0,
       0
     ]
@@ -18398,16 +20472,33 @@
     "lessonClassCode": "VM552SU2020",
     "scores": [
       0,
+      1,
+      0,
+      1,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      5,
+      1,
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VM555",
+    "lessonClassCode": "VM555FA2019",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -18432,13 +20523,13 @@
     "lessonClassCode": "VM566SU2020",
     "scores": [
       0,
+      1,
+      0,
+      1,
+      0,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      3,
       0,
       0,
       0
@@ -18470,11 +20561,11 @@
       59,
       64,
       62,
-      42,
+      44,
       16,
       9,
       5,
-      2,
+      3,
       0
     ]
   },
@@ -18509,7 +20600,7 @@
       0,
       0,
       1,
-      0
+      1
     ]
   },
   {
@@ -18553,10 +20644,10 @@
       1,
       6,
       35,
-      56,
+      57,
       41,
       34,
-      29,
+      28,
       8,
       7,
       9,
@@ -18570,11 +20661,11 @@
       23,
       65,
       96,
-      152,
+      154,
       122,
-      26,
-      18,
-      3,
+      29,
+      20,
+      4,
       0,
       3,
       1
@@ -18601,17 +20692,17 @@
     "courseCode": "VP141",
     "lessonClassCode": "VP141FA2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      284,
-      0,
-      0,
-      0
+      19,
+      27,
+      58,
+      70,
+      35,
+      37,
+      19,
+      6,
+      7,
+      3,
+      1
     ]
   },
   {
@@ -18674,11 +20765,11 @@
       50,
       67,
       42,
-      49,
+      51,
       27,
       15,
       8,
-      8,
+      6,
       0
     ]
   },
@@ -18686,51 +20777,51 @@
     "courseCode": "VP145",
     "lessonClassCode": "VP145SU2020",
     "scores": [
+      2,
+      3,
+      1,
+      2,
+      3,
+      2,
+      4,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      21,
-      0,
-      0,
-      0
+      2
     ]
   },
   {
     "courseCode": "VP150",
     "lessonClassCode": "VP150SU2020-1",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      100,
-      0,
-      0,
-      0
+      3,
+      7,
+      10,
+      20,
+      21,
+      16,
+      15,
+      3,
+      1,
+      1,
+      3
     ]
   },
   {
     "courseCode": "VP150",
     "lessonClassCode": "VP150SU2020-2",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      77,
-      0,
-      0,
-      0
+      4,
+      6,
+      9,
+      14,
+      14,
+      14,
+      7,
+      2,
+      2,
+      3,
+      2
     ]
   },
   {
@@ -18839,14 +20930,31 @@
     "courseCode": "VP160",
     "lessonClassCode": "VP160SU2020",
     "scores": [
+      6,
+      16,
+      15,
+      29,
+      16,
+      14,
+      2,
+      1,
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "courseCode": "VP160",
+    "lessonClassCode": "VP160SU2021",
+    "scores": [
       0,
       0,
       0,
       0,
       0,
       0,
+      1,
       0,
-      110,
       0,
       0,
       0
@@ -18900,7 +21008,7 @@
       3,
       3,
       0,
-      0
+      1
     ]
   },
   {
@@ -19019,7 +21127,7 @@
       2,
       0,
       1,
-      0
+      1
     ]
   },
   {
@@ -19071,6 +21179,74 @@
       7,
       15,
       3
+    ]
+  },
+  {
+    "courseCode": "VP241",
+    "lessonClassCode": "VP241FA2020",
+    "scores": [
+      14,
+      26,
+      37,
+      79,
+      63,
+      29,
+      12,
+      7,
+      9,
+      7,
+      3
+    ]
+  },
+  {
+    "courseCode": "VP245",
+    "lessonClassCode": "VP245FA2020",
+    "scores": [
+      3,
+      2,
+      1,
+      2,
+      1,
+      2,
+      4,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VP250",
+    "lessonClassCode": "VP250FA2020-1",
+    "scores": [
+      7,
+      6,
+      15,
+      20,
+      18,
+      18,
+      11,
+      5,
+      5,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VP250",
+    "lessonClassCode": "VP250FA2020-2",
+    "scores": [
+      7,
+      6,
+      13,
+      19,
+      25,
+      15,
+      7,
+      4,
+      5,
+      2,
+      2
     ]
   },
   {
@@ -19176,6 +21352,23 @@
     ]
   },
   {
+    "courseCode": "VP260",
+    "lessonClassCode": "VP260FA2020",
+    "scores": [
+      7,
+      12,
+      14,
+      18,
+      9,
+      8,
+      3,
+      1,
+      0,
+      2,
+      1
+    ]
+  },
+  {
     "courseCode": "VP390",
     "lessonClassCode": "VP390-Guess",
     "scores": [
@@ -19264,16 +21457,16 @@
     "courseCode": "VP390",
     "lessonClassCode": "VP390SU2020",
     "scores": [
+      3,
+      1,
+      3,
+      2,
+      1,
+      1,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      14,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -19381,6 +21574,23 @@
   },
   {
     "courseCode": "VR102",
+    "lessonClassCode": "VR102FA2020",
+    "scores": [
+      0,
+      6,
+      10,
+      5,
+      4,
+      2,
+      3,
+      1,
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "courseCode": "VR102",
     "lessonClassCode": "VR102SP2018",
     "scores": [
       0,
@@ -19432,6 +21642,23 @@
   },
   {
     "courseCode": "VR102",
+    "lessonClassCode": "VR102SP2021",
+    "scores": [
+      1,
+      4,
+      14,
+      10,
+      3,
+      1,
+      0,
+      0,
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "courseCode": "VR102",
     "lessonClassCode": "VR102SU2018",
     "scores": [
       0,
@@ -19469,13 +21696,13 @@
     "lessonClassCode": "VR102SU2020",
     "scores": [
       0,
+      4,
+      5,
+      3,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      14,
       0,
       0,
       0
@@ -19687,6 +21914,23 @@
   },
   {
     "courseCode": "VR150",
+    "lessonClassCode": "VR150FA2020",
+    "scores": [
+      3,
+      7,
+      6,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR150",
     "lessonClassCode": "VR150SP2018",
     "scores": [
       1,
@@ -19738,6 +21982,23 @@
   },
   {
     "courseCode": "VR150",
+    "lessonClassCode": "VR150SP2021",
+    "scores": [
+      1,
+      4,
+      5,
+      6,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR150",
     "lessonClassCode": "VR150SU2017",
     "scores": [
       2,
@@ -19768,6 +22029,40 @@
       1,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VR154",
+    "lessonClassCode": "VR154FA2020",
+    "scores": [
+      0,
+      6,
+      5,
+      6,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VR154",
+    "lessonClassCode": "VR154SP2021",
+    "scores": [
+      0,
+      8,
+      9,
+      6,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -19840,6 +22135,23 @@
   },
   {
     "courseCode": "VR160",
+    "lessonClassCode": "VR160SP2021",
+    "scores": [
+      3,
+      9,
+      11,
+      11,
+      9,
+      7,
+      4,
+      2,
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "courseCode": "VR160",
     "lessonClassCode": "VR160SU2017",
     "scores": [
       0,
@@ -19887,6 +22199,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VR202",
+    "lessonClassCode": "VR202SP2021",
+    "scores": [
+      2,
+      4,
+      4,
+      7,
+      10,
+      5,
+      6,
+      1,
+      1,
+      0,
+      3
     ]
   },
   {
@@ -20061,6 +22390,23 @@
   },
   {
     "courseCode": "VR206",
+    "lessonClassCode": "VR206FA2020",
+    "scores": [
+      0,
+      5,
+      10,
+      8,
+      4,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR206",
     "lessonClassCode": "VR206SP2017-Guess",
     "scores": [
       0,
@@ -20131,16 +22477,16 @@
     "courseCode": "VR206",
     "lessonClassCode": "VR206SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      36,
-      0,
-      0,
+      1,
+      5,
+      12,
+      6,
+      4,
+      2,
+      2,
+      1,
+      1,
+      2,
       0
     ]
   },
@@ -20153,6 +22499,23 @@
       17,
       13,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VR207",
+    "lessonClassCode": "VR207SP2021",
+    "scores": [
+      2,
+      4,
+      10,
+      14,
+      2,
       0,
       0,
       0,
@@ -20268,15 +22631,15 @@
     "lessonClassCode": "VR208SU2020",
     "scores": [
       0,
+      7,
+      6,
+      7,
+      4,
+      5,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      32,
-      0,
-      0,
+      2,
       0
     ]
   },
@@ -20366,6 +22729,23 @@
     ]
   },
   {
+    "courseCode": "VR235",
+    "lessonClassCode": "VR235FA2020",
+    "scores": [
+      4,
+      3,
+      4,
+      1,
+      3,
+      5,
+      1,
+      0,
+      2,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VR236",
     "lessonClassCode": "VR236-Guess",
     "scores": [
@@ -20421,15 +22801,15 @@
     "lessonClassCode": "VR238SU2020",
     "scores": [
       0,
+      6,
+      13,
+      16,
+      6,
+      4,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      48,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -20608,16 +22988,33 @@
     "lessonClassCode": "VR246SU2020",
     "scores": [
       0,
+      5,
+      4,
+      5,
+      5,
+      3,
+      3,
+      3,
       0,
       0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VR249",
+    "lessonClassCode": "VR249FA2020",
+    "scores": [
+      0,
+      7,
+      0,
+      6,
+      5,
+      3,
+      0,
+      1,
       0,
       0,
-      0,
-      0,
-      29,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -20693,14 +23090,14 @@
     "lessonClassCode": "VR251SU2020",
     "scores": [
       0,
+      5,
+      9,
+      5,
+      1,
+      2,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      25,
-      0,
+      2,
       0,
       0
     ]
@@ -20791,6 +23188,23 @@
     ]
   },
   {
+    "courseCode": "VR253",
+    "lessonClassCode": "VR253SP2021",
+    "scores": [
+      2,
+      16,
+      9,
+      7,
+      5,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR255",
     "lessonClassCode": "VR255SP2019",
     "scores": [
@@ -20822,6 +23236,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VR255",
+    "lessonClassCode": "VR255SP2021",
+    "scores": [
+      4,
+      5,
+      3,
+      5,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -20890,6 +23321,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VR259",
+    "lessonClassCode": "VR259SP2021",
+    "scores": [
+      0,
+      15,
+      22,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -21097,6 +23545,23 @@
     ]
   },
   {
+    "courseCode": "VR265",
+    "lessonClassCode": "VR265SP2021",
+    "scores": [
+      4,
+      10,
+      12,
+      12,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VR275",
     "lessonClassCode": "VR275-Guess",
     "scores": [
@@ -21250,6 +23715,23 @@
     ]
   },
   {
+    "courseCode": "VR281",
+    "lessonClassCode": "VR281SP2021",
+    "scores": [
+      1,
+      9,
+      8,
+      5,
+      4,
+      2,
+      0,
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  {
     "courseCode": "VR290",
     "lessonClassCode": "VR290-Guess",
     "scores": [
@@ -21288,16 +23770,16 @@
     "lessonClassCode": "VR291SU2020",
     "scores": [
       0,
+      13,
+      9,
+      4,
+      1,
+      2,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      30,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -21339,16 +23821,16 @@
     "lessonClassCode": "VR293SU2020",
     "scores": [
       0,
+      9,
+      7,
+      4,
+      2,
+      3,
       0,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      30,
-      0,
-      0,
-      0
+      1,
+      2
     ]
   },
   {
@@ -21383,6 +23865,23 @@
       0,
       3,
       2
+    ]
+  },
+  {
+    "courseCode": "VR309",
+    "lessonClassCode": "VR309FA2020",
+    "scores": [
+      0,
+      4,
+      2,
+      1,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -21440,17 +23939,17 @@
     "courseCode": "VR318",
     "lessonClassCode": "VR318SU2020",
     "scores": [
+      1,
+      1,
+      3,
+      10,
+      6,
+      2,
+      2,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      26,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -21485,6 +23984,40 @@
       0,
       0,
       2
+    ]
+  },
+  {
+    "courseCode": "VR354",
+    "lessonClassCode": "VR354FA2020",
+    "scores": [
+      0,
+      4,
+      10,
+      5,
+      9,
+      2,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  },
+  {
+    "courseCode": "VR354",
+    "lessonClassCode": "VR354SP2021",
+    "scores": [
+      0,
+      9,
+      3,
+      8,
+      3,
+      4,
+      1,
+      1,
+      0,
+      0,
+      3
     ]
   },
   {
@@ -21709,6 +24242,23 @@
     ]
   },
   {
+    "courseCode": "VR368",
+    "lessonClassCode": "VR368SP2021",
+    "scores": [
+      3,
+      9,
+      4,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VR369",
     "lessonClassCode": "VR369-Guess",
     "scores": [
@@ -21794,6 +24344,23 @@
     ]
   },
   {
+    "courseCode": "VR369",
+    "lessonClassCode": "VR369SP2021",
+    "scores": [
+      1,
+      3,
+      6,
+      8,
+      5,
+      5,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
     "courseCode": "VR380",
     "lessonClassCode": "VR380-Guess",
     "scores": [
@@ -21849,16 +24416,16 @@
     "lessonClassCode": "VR380SU2020",
     "scores": [
       0,
+      8,
+      10,
+      5,
+      5,
+      3,
+      5,
+      2,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      41,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -22066,6 +24633,23 @@
     ]
   },
   {
+    "courseCode": "VV115",
+    "lessonClassCode": "VV115FA2020",
+    "scores": [
+      0,
+      3,
+      2,
+      7,
+      1,
+      1,
+      3,
+      1,
+      1,
+      2,
+      0
+    ]
+  },
+  {
     "courseCode": "VV116",
     "lessonClassCode": "VV116-Guess",
     "scores": [
@@ -22148,6 +24732,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VV116",
+    "lessonClassCode": "VV116SP2021",
+    "scores": [
+      0,
+      2,
+      8,
+      6,
+      5,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
     ]
   },
   {
@@ -22322,6 +24923,23 @@
   },
   {
     "courseCode": "VV156",
+    "lessonClassCode": "VV156FA2020",
+    "scores": [
+      3,
+      12,
+      29,
+      17,
+      10,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV156",
     "lessonClassCode": "VV156SP2015-Guess",
     "scores": [
       0,
@@ -22464,13 +25082,30 @@
       29,
       29,
       32,
-      25,
+      26,
       29,
       9,
       8,
       3,
       1,
-      2
+      1
+    ]
+  },
+  {
+    "courseCode": "VV186",
+    "lessonClassCode": "VV186FA2020",
+    "scores": [
+      21,
+      17,
+      24,
+      25,
+      22,
+      18,
+      12,
+      7,
+      4,
+      2,
+      3
     ]
   },
   {
@@ -22543,6 +25178,23 @@
   },
   {
     "courseCode": "VV214",
+    "lessonClassCode": "VV214SP2021",
+    "scores": [
+      3,
+      11,
+      28,
+      18,
+      14,
+      0,
+      0,
+      8,
+      5,
+      2,
+      2
+    ]
+  },
+  {
+    "courseCode": "VV214",
     "lessonClassCode": "VV214SU2017",
     "scores": [
       7,
@@ -22596,16 +25248,16 @@
     "courseCode": "VV214",
     "lessonClassCode": "VV214SU2020",
     "scores": [
+      8,
+      18,
+      46,
+      28,
+      12,
+      0,
+      4,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      117,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -22664,17 +25316,17 @@
     "courseCode": "VV215",
     "lessonClassCode": "VV215SU2020",
     "scores": [
+      2,
+      6,
+      0,
+      3,
+      5,
+      0,
+      3,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      21,
-      0,
-      0,
-      0
+      2
     ]
   },
   {
@@ -22763,6 +25415,23 @@
     ]
   },
   {
+    "courseCode": "VV216",
+    "lessonClassCode": "VV216FA2020",
+    "scores": [
+      3,
+      1,
+      1,
+      2,
+      2,
+      0,
+      3,
+      0,
+      2,
+      3,
+      0
+    ]
+  },
+  {
     "courseCode": "VV255",
     "lessonClassCode": "VV255-Guess",
     "scores": [
@@ -22810,7 +25479,7 @@
       0,
       0,
       1,
-      0
+      1
     ]
   },
   {
@@ -22868,16 +25537,16 @@
     "courseCode": "VV255",
     "lessonClassCode": "VV255SU2020",
     "scores": [
+      7,
+      28,
+      53,
+      31,
+      21,
       0,
       0,
+      8,
       0,
-      0,
-      0,
-      0,
-      0,
-      149,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -22889,7 +25558,7 @@
       26,
       73,
       80,
-      70,
+      86,
       45,
       24,
       16,
@@ -22974,13 +25643,30 @@
       26,
       38,
       30,
-      26,
+      25,
       0,
       0,
-      5,
+      6,
       0,
       6,
       5
+    ]
+  },
+  {
+    "courseCode": "VV256",
+    "lessonClassCode": "VV256FA2020",
+    "scores": [
+      2,
+      30,
+      59,
+      34,
+      20,
+      0,
+      9,
+      0,
+      4,
+      0,
+      8
     ]
   },
   {
@@ -23031,7 +25717,7 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
@@ -23073,8 +25759,8 @@
     "lessonClassCode": "VV285SU2019",
     "scores": [
       21,
-      28,
-      18,
+      29,
+      17,
       25,
       22,
       20,
@@ -23089,17 +25775,17 @@
     "courseCode": "VV285",
     "lessonClassCode": "VV285SU2020",
     "scores": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      141,
-      0,
-      0,
-      0
+      17,
+      25,
+      19,
+      20,
+      15,
+      11,
+      9,
+      9,
+      3,
+      4,
+      9
     ]
   },
   {
@@ -23150,7 +25836,7 @@
       0,
       1,
       0,
-      0
+      1
     ]
   },
   {
@@ -23205,6 +25891,23 @@
     ]
   },
   {
+    "courseCode": "VV286",
+    "lessonClassCode": "VV286FA2020",
+    "scores": [
+      16,
+      17,
+      19,
+      21,
+      9,
+      13,
+      8,
+      7,
+      5,
+      11,
+      11
+    ]
+  },
+  {
     "courseCode": "VV417",
     "lessonClassCode": "VV417FA2018",
     "scores": [
@@ -23232,6 +25935,23 @@
       3,
       0,
       2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VV417",
+    "lessonClassCode": "VV417FA2020",
+    "scores": [
+      4,
+      3,
+      2,
+      3,
+      2,
+      1,
+      1,
       0,
       0,
       0,
@@ -23293,15 +26013,15 @@
     "courseCode": "VV471",
     "lessonClassCode": "VV471SU2020",
     "scores": [
+      2,
+      6,
+      4,
+      5,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      21,
-      0,
+      1,
+      1,
       0,
       0
     ]
@@ -23320,7 +26040,7 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
@@ -23338,6 +26058,40 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VV556",
+    "lessonClassCode": "VV556FA2019",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VV556",
+    "lessonClassCode": "VV556FA2020",
+    "scores": [
+      3,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
     ]
   },
   {
@@ -23387,8 +26141,25 @@
       2,
       2,
       2,
+      1,
+      4
+    ]
+  },
+  {
+    "courseCode": "VV557",
+    "lessonClassCode": "VV557SP2021",
+    "scores": [
+      4,
+      7,
+      5,
+      3,
       2,
-      2
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -23406,6 +26177,23 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "courseCode": "VV570",
+    "lessonClassCode": "VV570FA2019",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   },
   {
@@ -23546,6 +26334,23 @@
   },
   {
     "courseCode": "VW110",
+    "lessonClassCode": "VW110FA2020",
+    "scores": [
+      3,
+      8,
+      4,
+      5,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW110",
     "lessonClassCode": "VW110SP2019",
     "scores": [
       3,
@@ -23591,6 +26396,57 @@
       1,
       0,
       1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-1",
+    "scores": [
+      6,
+      9,
+      3,
+      4,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-2",
+    "scores": [
+      7,
+      7,
+      5,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "courseCode": "VW110",
+    "lessonClassCode": "VW110SP2021-3",
+    "scores": [
+      10,
+      9,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ]
@@ -23733,6 +26589,23 @@
   },
   {
     "courseCode": "VW111",
+    "lessonClassCode": "VW111FA2020",
+    "scores": [
+      5,
+      2,
+      5,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW111",
     "lessonClassCode": "VW111SP2017-Guess",
     "scores": [
       0,
@@ -23862,6 +26735,57 @@
       1,
       1,
       0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-1",
+    "scores": [
+      4,
+      4,
+      1,
+      2,
+      5,
+      2,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-2",
+    "scores": [
+      4,
+      2,
+      4,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VW111",
+    "lessonClassCode": "VW111SP2021-3",
+    "scores": [
+      2,
+      7,
+      9,
+      2,
+      2,
+      0,
+      0,
+      2,
       0,
       0,
       0
@@ -24058,14 +26982,14 @@
     "courseCode": "VW210",
     "lessonClassCode": "VW210SU2020-1",
     "scores": [
+      3,
+      4,
+      5,
+      4,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      16,
       0,
       0,
       0
@@ -24075,14 +26999,14 @@
     "courseCode": "VW210",
     "lessonClassCode": "VW210SU2020-2",
     "scores": [
+      2,
+      5,
+      5,
+      3,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      15,
       0,
       0,
       0
@@ -24160,14 +27084,14 @@
     "courseCode": "VW211",
     "lessonClassCode": "VW211SU2020-1",
     "scores": [
+      2,
+      4,
+      3,
+      2,
+      0,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      13,
       0,
       0,
       0
@@ -24177,14 +27101,14 @@
     "courseCode": "VW211",
     "lessonClassCode": "VW211SU2020-2",
     "scores": [
+      1,
+      6,
+      4,
+      2,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      13,
       0,
       0,
       0
@@ -24497,6 +27421,23 @@
     ]
   },
   {
+    "courseCode": "VX251",
+    "lessonClassCode": "VX251SP2021",
+    "scores": [
+      0,
+      5,
+      7,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VX310",
     "lessonClassCode": "VX310-Guess",
     "scores": [
@@ -24585,14 +27526,14 @@
     "courseCode": "VX351",
     "lessonClassCode": "VX351SU2020",
     "scores": [
+      1,
+      6,
+      2,
+      2,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      11,
       0,
       0,
       0
@@ -24687,15 +27628,15 @@
     "courseCode": "VX402",
     "lessonClassCode": "VX402SU2020",
     "scores": [
+      2,
+      6,
+      7,
+      7,
+      7,
+      3,
+      2,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      35,
-      0,
+      1,
       0,
       0
     ]
@@ -24789,14 +27730,14 @@
     "courseCode": "VX420",
     "lessonClassCode": "VX420SU2020",
     "scores": [
+      2,
+      5,
+      12,
+      8,
+      4,
+      6,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      38,
       0,
       0,
       0
@@ -24939,6 +27880,23 @@
     ]
   },
   {
+    "courseCode": "VX423",
+    "lessonClassCode": "VX423SP2021",
+    "scores": [
+      2,
+      2,
+      6,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VX425",
     "lessonClassCode": "VX425FA2019",
     "scores": [
@@ -24948,6 +27906,23 @@
       2,
       3,
       1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX425",
+    "lessonClassCode": "VX425FA2020",
+    "scores": [
+      0,
+      3,
+      4,
+      4,
+      0,
+      0,
       0,
       0,
       0,
@@ -24991,6 +27966,23 @@
   },
   {
     "courseCode": "VX440",
+    "lessonClassCode": "VX440FA2020",
+    "scores": [
+      1,
+      8,
+      2,
+      3,
+      4,
+      2,
+      3,
+      2,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "courseCode": "VX440",
     "lessonClassCode": "VX440SP2018",
     "scores": [
       0,
@@ -25007,6 +27999,23 @@
     ]
   },
   {
+    "courseCode": "VX451",
+    "lessonClassCode": "VX451FA2020",
+    "scores": [
+      0,
+      4,
+      13,
+      3,
+      9,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VY100",
     "lessonClassCode": "VY100-Guess",
     "scores": [
@@ -25014,7 +28023,7 @@
       57,
       134,
       145,
-      117,
+      118,
       44,
       8,
       1,
@@ -25657,10 +28666,10 @@
     "lessonClassCode": "VY100FA2019-4",
     "scores": [
       1,
-      2,
+      3,
       5,
       4,
-      4,
+      3,
       4,
       0,
       1,
@@ -25751,6 +28760,261 @@
       0,
       0,
       0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-1",
+    "scores": [
+      0,
+      4,
+      5,
+      3,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-10",
+    "scores": [
+      0,
+      6,
+      6,
+      2,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-11",
+    "scores": [
+      0,
+      5,
+      5,
+      4,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-12",
+    "scores": [
+      0,
+      1,
+      7,
+      0,
+      1,
+      3,
+      1,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-13",
+    "scores": [
+      0,
+      2,
+      5,
+      4,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-14",
+    "scores": [
+      0,
+      3,
+      4,
+      3,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-15",
+    "scores": [
+      0,
+      1,
+      7,
+      6,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-2",
+    "scores": [
+      0,
+      0,
+      4,
+      7,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-3",
+    "scores": [
+      1,
+      2,
+      2,
+      3,
+      1,
+      4,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-4",
+    "scores": [
+      0,
+      1,
+      5,
+      4,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-5",
+    "scores": [
+      0,
+      6,
+      3,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-6",
+    "scores": [
+      1,
+      10,
+      4,
+      4,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-7",
+    "scores": [
+      0,
+      1,
+      7,
+      4,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-8",
+    "scores": [
+      0,
+      0,
+      6,
+      4,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY100",
+    "lessonClassCode": "VY100FA2020-9",
+    "scores": [
+      0,
+      7,
+      4,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      1,
       0
     ]
   },
@@ -26223,11 +29487,11 @@
       6,
       4,
       1,
-      1,
+      0,
       0,
       1,
       0,
-      0
+      1
     ]
   },
   {
@@ -26588,6 +29852,244 @@
     ]
   },
   {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-1",
+    "scores": [
+      0,
+      2,
+      5,
+      5,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-10",
+    "scores": [
+      0,
+      7,
+      3,
+      4,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-11",
+    "scores": [
+      1,
+      3,
+      1,
+      3,
+      4,
+      4,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-12",
+    "scores": [
+      0,
+      2,
+      5,
+      6,
+      4,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-13",
+    "scores": [
+      0,
+      4,
+      5,
+      7,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-15",
+    "scores": [
+      0,
+      2,
+      10,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-2",
+    "scores": [
+      0,
+      2,
+      4,
+      4,
+      2,
+      0,
+      3,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-3",
+    "scores": [
+      0,
+      3,
+      2,
+      4,
+      3,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-4",
+    "scores": [
+      1,
+      1,
+      8,
+      6,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-5",
+    "scores": [
+      0,
+      9,
+      2,
+      6,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-6",
+    "scores": [
+      2,
+      6,
+      4,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-7",
+    "scores": [
+      0,
+      2,
+      9,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-8",
+    "scores": [
+      0,
+      0,
+      10,
+      7,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VY200",
+    "lessonClassCode": "VY200SP2021-9",
+    "scores": [
+      0,
+      9,
+      5,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
     "courseCode": "VY201",
     "lessonClassCode": "VY201-Guess",
     "scores": [
@@ -26710,17 +30212,17 @@
     "courseCode": "VY223",
     "lessonClassCode": "VY223SU2020",
     "scores": [
+      3,
+      2,
+      4,
+      5,
+      1,
+      2,
+      0,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      19,
-      0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -26793,6 +30295,40 @@
   },
   {
     "courseCode": "VY240",
+    "lessonClassCode": "VY240SP2021",
+    "scores": [
+      2,
+      1,
+      1,
+      1,
+      4,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "courseCode": "VY240",
+    "lessonClassCode": "VY240SP2021-2",
+    "scores": [
+      0,
+      1,
+      2,
+      6,
+      4,
+      2,
+      0,
+      0,
+      1,
+      0,
+      6
+    ]
+  },
+  {
+    "courseCode": "VY240",
     "lessonClassCode": "VY240SU2019",
     "scores": [
       0,
@@ -26813,15 +30349,15 @@
     "lessonClassCode": "VY240SU2020",
     "scores": [
       0,
+      5,
+      9,
+      7,
+      3,
+      0,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      27,
-      0,
-      0,
+      1,
       0
     ]
   },
@@ -26864,14 +30400,14 @@
     "lessonClassCode": "VY298SU2020",
     "scores": [
       0,
+      7,
+      6,
+      7,
+      3,
+      3,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      27,
-      0,
+      1,
       0,
       0
     ]
@@ -26897,15 +30433,15 @@
     "courseCode": "VY324",
     "lessonClassCode": "VY324SU2020",
     "scores": [
+      1,
+      2,
+      2,
+      5,
+      3,
+      2,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      16,
-      0,
+      1,
       0,
       0
     ]
@@ -27201,6 +30737,23 @@
   },
   {
     "courseCode": "VZ011",
+    "lessonClassCode": "VZ011FA2020",
+    "scores": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ011",
     "lessonClassCode": "VZ011SU2019",
     "scores": [
       6,
@@ -27248,6 +30801,23 @@
       0,
       0,
       1
+    ]
+  },
+  {
+    "courseCode": "VZ012",
+    "lessonClassCode": "VZ012FA2020",
+    "scores": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -27336,6 +30906,23 @@
     ]
   },
   {
+    "courseCode": "VZ021",
+    "lessonClassCode": "VZ021SP2021",
+    "scores": [
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "courseCode": "VZ022",
     "lessonClassCode": "VZ022SU2019",
     "scores": [
@@ -27356,6 +30943,9 @@
     "courseCode": "VZ022",
     "lessonClassCode": "VZ022SU2020",
     "scores": [
+      5,
+      7,
+      1,
       0,
       0,
       0,
@@ -27363,10 +30953,7 @@
       0,
       0,
       0,
-      15,
-      0,
-      0,
-      0
+      2
     ]
   },
   {
@@ -27405,6 +30992,23 @@
   },
   {
     "courseCode": "VZ031",
+    "lessonClassCode": "VZ031FA2020",
+    "scores": [
+      8,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ031",
     "lessonClassCode": "VZ031SU2019",
     "scores": [
       3,
@@ -27424,6 +31028,8 @@
     "courseCode": "VZ031",
     "lessonClassCode": "VZ031SU2020",
     "scores": [
+      6,
+      3,
       0,
       0,
       0,
@@ -27431,10 +31037,8 @@
       0,
       0,
       0,
-      10,
       0,
-      0,
-      0
+      1
     ]
   },
   {
@@ -27462,6 +31066,40 @@
       2,
       1,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ032",
+    "lessonClassCode": "VZ032FA2020",
+    "scores": [
+      11,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "courseCode": "VZ041",
+    "lessonClassCode": "VZ041SP2021",
+    "scores": [
+      10,
+      4,
+      7,
+      0,
       0,
       0,
       0,
@@ -27987,7 +31625,7 @@
     "scores": [
       0,
       0,
-      298,
+      299,
       0,
       0,
       0,
