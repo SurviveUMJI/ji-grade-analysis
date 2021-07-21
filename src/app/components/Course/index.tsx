@@ -19,6 +19,7 @@ import {STORE_COURSES, STORE_GLOBAL_STATE} from 'app/constants';
 import CourseModel, {LessonModel} from 'app/models/CourseModel';
 import {CoursesStore, GlobalStateStore} from 'app/stores';
 import {Lesson, ScoreData} from 'app/components/Lesson';
+import {PatchedPagination} from 'app/components/PatchedPagination';
 
 // import {CurvePieChart} from 'app/components/CurvePieChart';
 
@@ -233,6 +234,7 @@ export class Course extends React.Component<CourseProps, CourseState> {
               style={{width: '100%'}}
               components={{
                 Container: props => (<Paper elevation={0} {...props}></Paper>),
+                Pagination: PatchedPagination,
               }}
               detailPanel={rowData => {
                 const lessonClassCode = rowData.lessonClassCode;

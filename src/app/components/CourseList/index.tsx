@@ -8,6 +8,8 @@ import {
 import MaterialTable, {Column} from 'material-table';
 
 import icons from 'app/components/icons';
+import {PatchedPagination} from 'app/components/PatchedPagination';
+
 import {STORE_COURSES, STORE_ROUTER, STORE_GLOBAL_STATE} from 'app/constants';
 import {CoursesStore, RouterStore, GlobalStateStore} from 'app/stores';
 import CourseModel from 'app/models/CourseModel';
@@ -69,6 +71,7 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
         style={{width: '100%'}}
         components={{
           Container: props => (<Paper elevation={0} {...props}></Paper>),
+          Pagination: PatchedPagination,
         }}
         onRowClick={(event, rowData) => {
           console.log(rowData.courseCode);

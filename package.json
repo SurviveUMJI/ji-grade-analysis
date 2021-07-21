@@ -1,8 +1,8 @@
 {
-  "name": "typescript-react-mobx-boilerplate",
-  "version": "0.2.0",
+  "name": "ji-grade-analysis",
+  "version": "0.2.1",
   "private": true,
-  "description": "A frontend boilerplate with React, MobX and Typescript",
+  "description": "Analysis of anonymous grades retrieved by all JI students.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
