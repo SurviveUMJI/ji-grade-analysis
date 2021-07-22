@@ -229,7 +229,7 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
           key="series"
           valueField="count"
           argumentField="grade"
-          color={colors[1]}
+          color={colors[0]}
         />,
         // @ts-ignore
         <ArgumentAxis key="argument"/>,
