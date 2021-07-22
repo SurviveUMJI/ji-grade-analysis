@@ -8,13 +8,13 @@ import {
   LineSeries,
   PieSeries,
   Title,
+  ArgumentAxis,
+  ValueAxis,
 } from '@devexpress/dx-react-chart-material-ui';
 import {
   Animation,
   EventTracker,
   HoverState,
-  ArgumentAxis,
-  ValueAxis,
   // Palette,
 } from '@devexpress/dx-react-chart';
 // import {schemePastel2} from 'd3-scale-chromatic';
