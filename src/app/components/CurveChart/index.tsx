@@ -210,6 +210,10 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
     };
 
     let series = [];
+    const tickFormat = (scale) => (tick) => {
+      return Number.isInteger(tick) ? tick : "";
+    }
+
     if (this.props.chartType === 'bar') {
       series = [
         <BarSeries
@@ -221,7 +225,7 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
         // @ts-ignore
         <ArgumentAxis key="argument"/>,
         // @ts-ignore
-        <ValueAxis key="value"/>,
+        <ValueAxis key="value" showGrid={false} tickFormat={tickFormat}/>,
       ];
     } else if (this.props.chartType === 'line') {
       series = [
@@ -234,7 +238,7 @@ export class CurveChart extends React.Component<CurveChartProps, CurveChartState
         // @ts-ignore
         <ArgumentAxis key="argument"/>,
         // @ts-ignore
-        <ValueAxis key="value"/>,
+        <ValueAxis key="value" tickFormat={tickFormat}/>,
       ];
     } else if (this.props.chartType === 'pie') {
       series = [
