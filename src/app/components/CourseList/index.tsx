@@ -1,18 +1,18 @@
-import * as React from 'react';
-import {inject} from 'mobx-react';
+import * as React from "react";
+import { inject } from "mobx-react";
 import {
   // Divider,
   // TableHead,
   Paper,
-} from '@material-ui/core';
-import MaterialTable, {Column} from 'material-table';
+} from "@material-ui/core";
+import MaterialTable, { Column } from "material-table";
 
-import icons from 'app/components/icons';
-import {PatchedPagination} from 'app/components/PatchedPagination';
+import icons from "app/components/icons";
+import { PatchedPagination } from "app/components/PatchedPagination";
 
-import {STORE_COURSES, STORE_ROUTER, STORE_GLOBAL_STATE} from 'app/constants';
-import {CoursesStore, RouterStore, GlobalStateStore} from 'app/stores';
-import CourseModel from 'app/models/CourseModel';
+import { STORE_COURSES, STORE_ROUTER, STORE_GLOBAL_STATE } from "app/constants";
+import { CoursesStore, RouterStore, GlobalStateStore } from "app/stores";
+import CourseModel from "app/models/CourseModel";
 
 export interface CourseListProps {
   /* empty */
@@ -24,9 +24,12 @@ export interface CourseListState {
 }
 
 @inject(STORE_COURSES, STORE_ROUTER, STORE_GLOBAL_STATE)
-export class CourseList extends React.Component<CourseListProps, CourseListState> {
+export class CourseList extends React.Component<
+  CourseListProps,
+  CourseListState
+> {
   columns: Array<Column<CourseModel>>;
-  searchText: string
+  searchText: string;
 
   constructor(props: CourseListProps, context: any) {
     super(props, context);
@@ -35,18 +38,21 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
     this.searchText = globalStateStore.courseListSearchText || "";
     this.columns = [
       {
-        title: 'Code', field: 'courseCode',
-        cellStyle: {width: '10%', maxWidth: '10%'},
+        title: "Code",
+        field: "courseCode",
+        cellStyle: { width: "10%", maxWidth: "10%" },
       },
       {
-        title: 'Name', field: 'courseNameEn',
-        cellStyle: {width: '35%', maxWidth: '35%'},
+        title: "Name",
+        field: "courseNameEn",
+        cellStyle: { width: "35%", maxWidth: "35%" },
       },
       {
-        title: 'Name (Chinese)', field: 'courseName',
-        cellStyle: {width: '35%', maxWidth: '35%'},
+        title: "Name (Chinese)",
+        field: "courseName",
+        cellStyle: { width: "35%", maxWidth: "35%" },
       },
-      {title: 'Terms', field: 'terms', sorting: false},
+      { title: "Terms", field: "terms", sorting: false },
     ];
     this.state = {
       data: coursesStore.courses,
@@ -66,11 +72,11 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
         options={{
           pageSize: 10,
           pageSizeOptions: [10, 25, 50, 100],
-          searchText: this.searchText
+          searchText: this.searchText,
         }}
-        style={{width: '100%'}}
+        style={{ width: "100%" }}
         components={{
-          Container: props => (<Paper elevation={0} {...props}></Paper>),
+          Container: (props) => <Paper elevation={0} {...props}></Paper>,
           Pagination: PatchedPagination,
         }}
         onRowClick={(event, rowData) => {
@@ -82,7 +88,7 @@ export class CourseList extends React.Component<CourseListProps, CourseListState
             router.push(nextHash);
           }
         }}
-        onSearchChange={(searchText)=>{
+        onSearchChange={(searchText) => {
           this.searchText = searchText;
           globalStateStore.setCourseListSearchText(searchText);
         }}

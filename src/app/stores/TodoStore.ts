@@ -1,5 +1,5 @@
-import { observable, computed, action } from 'mobx';
-import { TodoModel } from 'app/models';
+import { observable, computed, action } from "mobx";
+import { TodoModel } from "app/models";
 
 export class TodoStore {
   constructor(fixtures: TodoModel[]) {
@@ -27,10 +27,10 @@ export class TodoStore {
   editTodo = (id: number, data: Partial<TodoModel>): void => {
     this.todos = this.todos.map((todo) => {
       if (todo.id === id) {
-        if (typeof data.completed == 'boolean') {
+        if (typeof data.completed == "boolean") {
           todo.completed = data.completed;
         }
-        if (typeof data.text == 'string') {
+        if (typeof data.text == "string") {
           todo.text = data.text;
         }
       }

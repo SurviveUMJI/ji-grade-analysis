@@ -1,6 +1,6 @@
-import * as React from 'react';
-import { Grid, Link } from '@material-ui/core';
-import packageData from 'app/../../package.json';
+import * as React from "react";
+import { Grid, Link } from "@material-ui/core";
+import packageData from "app/../../package.json";
 
 export interface FooterProps {}
 

@@ -1,6 +1,6 @@
-import * as React from 'react';
-import {Grid} from '@material-ui/core';
-import {CurveChart} from 'app/components/CurveChart';
+import * as React from "react";
+import { Grid } from "@material-ui/core";
+import { CurveChart } from "app/components/CurveChart";
 
 export interface ScoreData {
   grade: string;
@@ -16,12 +16,9 @@ export interface LessonProps {
   hideZero: boolean;
 }
 
-export interface LessonState {
-
-}
+export interface LessonState {}
 
 export class Lesson extends React.Component<LessonProps, LessonState> {
-
   constructor(props: LessonProps, context: any) {
     super(props, context);
     // console.log(this.props.lessonClassCode)
@@ -38,13 +35,14 @@ export class Lesson extends React.Component<LessonProps, LessonState> {
   render() {
     return (
       <Grid>
-        <CurveChart data={this.props.scores} chartType={this.props.chartType}
-                    lessonClassCode={this.props.lessonClassCode}
-                    hideUnknown={this.props.hideUnknown}
-                    hideZero={this.props.hideZero}/>
+        <CurveChart
+          data={this.props.scores}
+          chartType={this.props.chartType}
+          lessonClassCode={this.props.lessonClassCode}
+          hideUnknown={this.props.hideUnknown}
+          hideZero={this.props.hideZero}
+        />
       </Grid>
     );
   }
-
 }
-

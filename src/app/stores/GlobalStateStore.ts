@@ -1,10 +1,9 @@
-import { observable, computed, action } from 'mobx';
-import {Dictionary} from 'lodash';
+import { observable, computed, action } from "mobx";
+import { Dictionary } from "lodash";
 
 export class GlobalStateStore {
-
-  @observable public courseListSearchText: string
-  @observable public courseSearchText: Dictionary<string>
+  @observable public courseListSearchText: string;
+  @observable public courseSearchText: Dictionary<string>;
 
   constructor() {
     this.courseListSearchText = "";
@@ -13,12 +12,11 @@ export class GlobalStateStore {
 
   @action
   setCourseListSearchText = (searchText: string): void => {
-    this.courseListSearchText = searchText
+    this.courseListSearchText = searchText;
   };
 
   @action
   setCourseSearchText = (course: string, searchText: string): void => {
-    this.courseSearchText[course] = searchText
+    this.courseSearchText[course] = searchText;
   };
-
 }

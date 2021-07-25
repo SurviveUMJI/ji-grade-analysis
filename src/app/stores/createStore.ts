@@ -1,16 +1,16 @@
-import {History} from 'history';
-import {TodoModel} from 'app/models';
-import {TodoStore} from './TodoStore';
-import {RouterStore} from './RouterStore';
-import {CoursesStore} from './CoursesStore';
-import {GlobalStateStore} from './GlobalStateStore';
+import { History } from "history";
+import { TodoModel } from "app/models";
+import { TodoStore } from "./TodoStore";
+import { RouterStore } from "./RouterStore";
+import { CoursesStore } from "./CoursesStore";
+import { GlobalStateStore } from "./GlobalStateStore";
 
 import {
   STORE_TODO,
   STORE_ROUTER,
   STORE_COURSES,
   STORE_GLOBAL_STATE,
-} from 'app/constants';
+} from "app/constants";
 
 export function createStores(history: History, defaultTodos?: TodoModel[]) {
   const todoStore = new TodoStore(defaultTodos);

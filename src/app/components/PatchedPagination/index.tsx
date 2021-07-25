@@ -1,7 +1,7 @@
 // @ts-nocheck
 
-import { TablePagination, TablePaginationProps } from '@material-ui/core';
-import React from 'react';
+import { TablePagination, TablePaginationProps } from "@material-ui/core";
+import React from "react";
 
 export function PatchedPagination(props: TablePaginationProps) {
   const {
@@ -31,4 +31,4 @@ export function PatchedPagination(props: TablePaginationProps) {
   );
 }
 
-export default PatchedPagination
+export default PatchedPagination;

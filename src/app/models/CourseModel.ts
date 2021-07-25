@@ -1,4 +1,4 @@
-import {observable} from 'mobx';
+import { observable } from "mobx";
 
 export class ScoreModel {
   readonly courseCode: string;
@@ -27,4 +27,3 @@ export class CourseModel {
 }
 
 export default CourseModel;
-

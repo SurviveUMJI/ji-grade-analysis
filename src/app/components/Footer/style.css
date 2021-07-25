@@ -7,7 +7,7 @@
 }
 
 .normal:before {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   bottom: 0;
@@ -72,7 +72,7 @@ html .clearCompleted:active {
 
 .clearCompleted::after {
   visibility: visible;
-  content: 'Clear completed';
+  content: "Clear completed";
   position: absolute;
   right: 0;
   white-space: nowrap;
