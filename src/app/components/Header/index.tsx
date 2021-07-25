@@ -1,7 +1,8 @@
-import * as React from "react";
-import { Grid, Typography } from "@material-ui/core";
-import { GitHubButton, GitHubButtonProvider } from "react-github-button";
-import "react-github-button/assets/style.less";
+import * as React from 'react';
+import { Grid, Typography } from '@material-ui/core';
+import { Link } from 'react-router-dom';
+import { GitHubButton, GitHubButtonProvider } from 'react-github-button';
+import 'react-github-button/assets/style.less';
 
 export interface HeaderProps {
   namespace: string;
@@ -23,9 +24,15 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
             variant="h3"
             color="inherit"
             gutterBottom
-            align={"center"}
+            align={'center'}
           >
-            UM-SJTU JI Grade Analysis
+            <Link
+              to="/courses"
+              style={{ textDecoration: 'none' }}
+              className="MuiTypography-colorInherit"
+            >
+              UM-SJTU JI Grade Analysis
+            </Link>
           </Typography>
         </Grid>
         <GitHubButtonProvider
