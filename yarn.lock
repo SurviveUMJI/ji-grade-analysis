@@ -1024,6 +1024,11 @@ buffer-indexof@^1.0.0:
   resolved "https://registry.yarnpkg.com/buffer-indexof/-/buffer-indexof-1.1.1.tgz#52fabcc6a606d1a00302802648ef68f639da268c"
   integrity sha512-4/rOEg86jivtPTeOUUT61jJO1Ya1TrR/OkqCSZDyq84WJh3LuuiphBYJN+fm5xufIk4XAFcEwte/8WzC8If/1g==
 
+busuanzi-statistics@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/busuanzi-statistics/-/busuanzi-statistics-0.0.2.tgz#f0bad014817512a200e71984a1d756d7351514a2"
+  integrity sha512-b9atWY7zGPUI+u5g9vD3YVWH4YIsYD4bApxu7L1I8nMXqx8cFbJYk2QuF52TitufMmDGteVqwz0tWSOxMfiJeA==
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"

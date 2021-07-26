@@ -14,7 +14,7 @@ export class Footer extends React.Component<FooterProps, FooterState> {
         <Grid container justifyContent="space-between">
           <div className="busuanzi">
             <span id="busuanzi_container_page_pv">
-              Visitor count:&nbsp;
+              page view:&nbsp;
               <span id="busuanzi_value_page_pv"></span>
             </span>
           </div>
