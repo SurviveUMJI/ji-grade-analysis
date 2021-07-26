@@ -28,8 +28,7 @@ export class Header extends React.Component<HeaderProps, HeaderState> {
           >
             <Link
               to="/courses"
-              style={{ textDecoration: 'none' }}
-              className="MuiTypography-colorInherit"
+              style={{ textDecoration: 'none', color: 'inherit' }}
             >
               UM-SJTU JI Grade Analysis
             </Link>

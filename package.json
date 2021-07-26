@@ -68,6 +68,7 @@
     "react-intl": "^5.20.4",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
+    "react-sticky": "^6.0.3",
     "typeface-roboto": "1.1.13"
   }
 }
