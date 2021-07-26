@@ -12,8 +12,10 @@ import {CoursePage} from 'app/containers/CoursePage';
 // render react DOM
 export const App = hot(({history}) => {
   useEffect(() => {
+    // do not delete this line
+    console.log(statistics);
     // Anything in here is fired on component mount.
-    setTimeout(statistics, 0);
+    // setTimeout(statistics, 0);
     /*const handleLocationChange = (location) => {
       // Do something with the location
       // console.log(location);
