@@ -5,7 +5,7 @@ import {
   // Legend,
   Tooltip,
   BarSeries,
-  LineSeries,
+  AreaSeries,
   PieSeries,
   Title,
   ArgumentAxis,
@@ -26,6 +26,10 @@ import { STORE_COURSES } from "app/constants";
 // import {ScoreModel} from 'app/models/CourseModel';
 // import {CoursesStore} from 'app/stores';
 import { ScoreData } from "app/components/Lesson";
+import {
+    curveCatmullRom,
+    area,
+  } from 'd3-shape';
 
 export interface CurveChartProps {
   lessonClassCode: string;
@@ -132,6 +136,17 @@ const LegendLabel = withStyles(legendLabelStyles, {name: 'LegendLabel'})(
 // @ts-ignore
 const LegendItem = withStyles(legendItemStyles, {name: 'LegendItem'})(
   LegendItemBase);*/
+
+const Area = props => (
+<AreaSeries.Path
+    {...props}
+    path={area()
+    .x(({ arg }) => arg)
+    .y1(({ val }) => val)
+    .y0(({ startVal }) => startVal)
+    .curve(curveCatmullRom)}
+/>
+);
 
 @inject(STORE_COURSES)
 export class CurveChart extends React.Component<
@@ -256,11 +271,12 @@ export class CurveChart extends React.Component<
       ];
     } else if (this.props.chartType === "line") {
       series = [
-        <LineSeries
+        <AreaSeries
           key="series"
           valueField="count"
           argumentField="grade"
           color={colors[0]}
+          seriesComponent={Area}
         />,
         // @ts-ignore
         <ArgumentAxis key="argument" />,
