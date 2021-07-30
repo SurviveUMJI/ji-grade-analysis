@@ -5,7 +5,6 @@ import {
   // Legend,
   Tooltip,
   BarSeries,
-  AreaSeries,
   PieSeries,
   Title,
   ArgumentAxis,
@@ -26,10 +25,6 @@ import { STORE_COURSES } from "app/constants";
 // import {ScoreModel} from 'app/models/CourseModel';
 // import {CoursesStore} from 'app/stores';
 import { ScoreData } from "app/components/Lesson";
-import {
-    curveCatmullRom,
-    area,
-  } from 'd3-shape';
 
 export interface CurveChartProps {
   lessonClassCode: string;
@@ -78,13 +73,6 @@ const BarSeriesPointBase = ({ index, color, ...restProps }) => {
   return <BarSeries.Point index={index} color={color} {...restProps} />;
 };
 
-/*const LineSeriesPathBase = ({coordinates, color, ...restProps}) => {
-  console.log(coordinates);
-  // color = colors[coordinates.arg % 2];
-  // @ts-ignore
-  return <LineSeries.Path coordinates={coordinates}
-                            color={color} {...restProps}/>;
-};*/
 
 const PieSeriesPointBase = ({ index, color, endAngle, ...restProps }) => {
   if (index >= 2 && index % 2 == 0 && Math.abs(endAngle - Math.PI * 2) < 1e-5) {
@@ -136,17 +124,6 @@ const LegendLabel = withStyles(legendLabelStyles, {name: 'LegendLabel'})(
 // @ts-ignore
 const LegendItem = withStyles(legendItemStyles, {name: 'LegendItem'})(
   LegendItemBase);*/
-
-const Area = props => (
-<AreaSeries.Path
-    {...props}
-    path={area()
-    .x(({ arg }) => arg)
-    .y1(({ val }) => val)
-    .y0(({ startVal }) => startVal)
-    .curve(curveCatmullRom)}
-/>
-);
 
 @inject(STORE_COURSES)
 export class CurveChart extends React.Component<
@@ -268,20 +245,6 @@ export class CurveChart extends React.Component<
         <ArgumentAxis key="argument" />,
         // @ts-ignore
         <ValueAxis key="value" showGrid={false} tickFormat={tickFormat} />,
-      ];
-    } else if (this.props.chartType === "line") {
-      series = [
-        <AreaSeries
-          key="series"
-          valueField="count"
-          argumentField="grade"
-          color={colors[0]}
-          seriesComponent={Area}
-        />,
-        // @ts-ignore
-        <ArgumentAxis key="argument" />,
-        // @ts-ignore
-        <ValueAxis key="value" tickFormat={tickFormat} />,
       ];
     } else if (this.props.chartType === "pie") {
       series = [

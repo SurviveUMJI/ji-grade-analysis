@@ -210,12 +210,6 @@ export class Course extends React.Component<CourseProps, CourseState> {
                       labelPlacement="bottom"
                     />
                     <FormControlLabel
-                      value="line"
-                      control={<Radio color="secondary" />}
-                      label="Line"
-                      labelPlacement="bottom"
-                    />
-                    <FormControlLabel
                       value="pie"
                       control={<Radio color="secondary" />}
                       label="Pie"
