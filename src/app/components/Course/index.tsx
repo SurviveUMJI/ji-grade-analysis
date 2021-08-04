@@ -1,5 +1,5 @@
-import * as React from 'react';
-import { inject } from 'mobx-react';
+import * as React from "react";
+import { inject } from "mobx-react";
 import {
   FormControlLabel,
   // Tab,
@@ -10,18 +10,18 @@ import {
   Switch,
   Grid,
   Paper,
-} from '@material-ui/core';
-import MaterialTable, { Column } from 'material-table';
-import icons from 'app/components/icons';
-import _, { Dictionary } from 'lodash';
+} from "@material-ui/core";
+import MaterialTable, { Column } from "material-table";
+import icons from "app/components/icons";
+import _, { Dictionary } from "lodash";
 
-import { STORE_COURSES, STORE_GLOBAL_STATE } from 'app/constants';
-import CourseModel, { LessonModel } from 'app/models/CourseModel';
-import { CoursesStore, GlobalStateStore } from 'app/stores';
-import { Lesson, ScoreData } from 'app/components/Lesson';
-import { PatchedPagination } from 'app/components/PatchedPagination';
-import { StickyContainer, Sticky } from 'react-sticky';
-import zIndex from '@material-ui/core/styles/zIndex';
+import { STORE_COURSES, STORE_GLOBAL_STATE } from "app/constants";
+import CourseModel, { LessonModel } from "app/models/CourseModel";
+import { CoursesStore, GlobalStateStore } from "app/stores";
+import { Lesson, ScoreData } from "app/components/Lesson";
+import { PatchedPagination } from "app/components/PatchedPagination";
+import { StickyContainer, Sticky } from "react-sticky";
+import zIndex from "@material-ui/core/styles/zIndex";
 
 // import {CurvePieChart} from 'app/components/CurvePieChart';
 
@@ -40,7 +40,7 @@ export interface CourseState {
   // lesson: LessonModel | null;
 }
 
-const grades = ['A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D', 'F'];
+const grades = ["A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D", "F"];
 
 @inject(STORE_COURSES, STORE_GLOBAL_STATE)
 export class Course extends React.Component<CourseProps, CourseState> {
@@ -51,44 +51,44 @@ export class Course extends React.Component<CourseProps, CourseState> {
   constructor(props: CourseProps, context: any) {
     super(props, context);
     const globalStateStore = this.props[STORE_GLOBAL_STATE] as GlobalStateStore;
-    this.searchText = globalStateStore.courseSearchText[props.courseCode] || '';
+    this.searchText = globalStateStore.courseSearchText[props.courseCode] || "";
     this.columns = [
       {
-        title: 'Code',
-        field: 'lessonClassCode',
-        cellStyle: { width: '20%', maxWidth: '20%' },
+        title: "Code",
+        field: "lessonClassCode",
+        cellStyle: { width: "20%", maxWidth: "20%" },
       },
       {
-        title: 'Term',
-        field: 'termName',
-        cellStyle: { width: '10%', maxWidth: '10%' },
+        title: "Term",
+        field: "termName",
+        cellStyle: { width: "10%", maxWidth: "10%" },
       },
       {
-        title: 'Name',
-        field: 'lessonClassName',
-        cellStyle: { width: '25%', maxWidth: '25%' },
+        title: "Name",
+        field: "lessonClassName",
+        cellStyle: { width: "25%", maxWidth: "25%" },
       },
       {
-        title: 'Found',
-        field: 'scoreNum',
-        cellStyle: { width: '10%', maxWidth: '10%' },
+        title: "Found",
+        field: "scoreNum",
+        cellStyle: { width: "10%", maxWidth: "10%" },
       },
       {
-        title: 'Elected',
-        field: 'studentNumStr',
-        cellStyle: { width: '10%', maxWidth: '10%' },
+        title: "Elected",
+        field: "studentNumStr",
+        cellStyle: { width: "10%", maxWidth: "10%" },
       },
       {
-        title: 'Lecturers',
-        field: 'lecturersStr',
+        title: "Lecturers",
+        field: "lecturersStr",
         sorting: false,
-        cellStyle: { width: '25%', maxWidth: '25%' },
+        cellStyle: { width: "25%", maxWidth: "25%" },
       },
     ];
     this.state = {
       course: null,
       lessons: [],
-      chartType: 'bar',
+      chartType: "bar",
       hideUnknown: false,
       hideZero: false,
     };
@@ -102,9 +102,9 @@ export class Course extends React.Component<CourseProps, CourseState> {
     course.lessons.forEach((a) => {
       if (coursesStore.lessonsMap.hasOwnProperty(a[0])) {
         let lesson = coursesStore.lessonsMap[a[0]];
-        lesson.lecturersStr = lesson.lecturers.join(', ');
+        lesson.lecturersStr = lesson.lecturers.join(", ");
         lesson.studentNumStr =
-          lesson.studentNum >= 0 ? lesson.studentNum.toString() : '-';
+          lesson.studentNum >= 0 ? lesson.studentNum.toString() : "-";
         lessons.push(lesson);
       }
     });
@@ -140,9 +140,9 @@ export class Course extends React.Component<CourseProps, CourseState> {
       });
     }
     if (studentNum > scoreNum) {
-      scoreData.push({ grade: 'Unknown', count: studentNum - scoreNum });
+      scoreData.push({ grade: "Unknown", count: studentNum - scoreNum });
     } else {
-      scoreData.push({ grade: 'Unknown', count: 0 });
+      scoreData.push({ grade: "Unknown", count: 0 });
     }
     this.scoreDataMap[lessonClassCode] = scoreData;
     return scoreData;
@@ -184,103 +184,101 @@ export class Course extends React.Component<CourseProps, CourseState> {
     let title = this.props.courseCode;
     if (this.state.course) {
       title +=
-        ' - ' +
+        " - " +
         this.state.course.courseNameEn +
-        ' - ' +
+        " - " +
         this.state.course.courseName;
     }
     const globalStateStore = this.props[STORE_GLOBAL_STATE] as GlobalStateStore;
     return (
-      <React.Fragment>
-        <StickyContainer>
-          <Sticky>
-            {({ style }) => (
-              // TODO: better way to make it opaque
-              <div className="MuiPaper-root" style={{ zIndex: 64, ...style }}>
-                <Grid container>
-                  <RadioGroup
-                    value={this.state.chartType}
-                    onChange={this.onChangeChartType.bind(this)}
-                    row
-                  >
-                    <FormControlLabel
-                      value="bar"
-                      control={<Radio color="secondary" />}
-                      label="Bar"
-                      labelPlacement="bottom"
-                    />
-                    <FormControlLabel
-                      value="pie"
-                      control={<Radio color="secondary" />}
-                      label="Pie"
-                      labelPlacement="bottom"
-                    />
-                  </RadioGroup>
+      <StickyContainer style={{ width: "100%" }}>
+        <Sticky>
+          {({ style }) => (
+            // TODO: better way to make it opaque
+            <div className="MuiPaper-root" style={{ zIndex: 64, ...style }}>
+              <Grid container>
+                <RadioGroup
+                  value={this.state.chartType}
+                  onChange={this.onChangeChartType.bind(this)}
+                  row
+                >
                   <FormControlLabel
-                    control={
-                      <Switch
-                        checked={this.state.hideUnknown}
-                        onChange={this.onChangeHideUnknown.bind(this)}
-                        color="secondary"
-                      />
-                    }
-                    label="Hide Unknown"
+                    value="bar"
+                    control={<Radio color="secondary" />}
+                    label="Bar"
+                    labelPlacement="bottom"
                   />
                   <FormControlLabel
-                    control={
-                      <Switch
-                        checked={this.state.hideZero}
-                        onChange={this.onChangeHideZero.bind(this)}
-                        color="secondary"
-                      />
-                    }
-                    label="Hide Zero"
+                    value="pie"
+                    control={<Radio color="secondary" />}
+                    label="Pie"
+                    labelPlacement="bottom"
                   />
-                </Grid>
-              </div>
-            )}
-          </Sticky>
-          <MaterialTable
-            title={title}
-            columns={this.columns}
-            data={this.state.lessons}
-            icons={icons}
-            options={{
-              pageSize: 10,
-              pageSizeOptions: [10, 25, 50, 100],
-              searchText: this.searchText,
-            }}
-            style={{ width: '100%' }}
-            components={{
-              Container: (props) => <Paper elevation={0} {...props}></Paper>,
-              Pagination: PatchedPagination,
-            }}
-            detailPanel={(rowData) => {
-              const lessonClassCode = rowData.lessonClassCode;
-              const scoreData = this.ensureScoreDataMap(lessonClassCode);
-              // console.log(lessonClassCode);
-              // console.log(scoreData);
-              return (
-                <Lesson
-                  scores={scoreData}
-                  lessonClassCode={lessonClassCode}
-                  chartType={this.state.chartType}
-                  hideUnknown={this.state.hideUnknown}
-                  hideZero={this.state.hideZero}
+                </RadioGroup>
+                <FormControlLabel
+                  control={
+                    <Switch
+                      checked={this.state.hideUnknown}
+                      onChange={this.onChangeHideUnknown.bind(this)}
+                      color="secondary"
+                    />
+                  }
+                  label="Hide Unknown"
                 />
-              );
-            }}
-            onRowClick={(event, rowData, togglePanel) => togglePanel()}
-            onSearchChange={(searchText) => {
-              this.searchText = searchText;
-              globalStateStore.setCourseSearchText(
-                this.props.courseCode,
-                searchText
-              );
-            }}
-          />
-        </StickyContainer>
-      </React.Fragment>
+                <FormControlLabel
+                  control={
+                    <Switch
+                      checked={this.state.hideZero}
+                      onChange={this.onChangeHideZero.bind(this)}
+                      color="secondary"
+                    />
+                  }
+                  label="Hide Zero"
+                />
+              </Grid>
+            </div>
+          )}
+        </Sticky>
+        <MaterialTable
+          title={title}
+          columns={this.columns}
+          data={this.state.lessons}
+          icons={icons}
+          options={{
+            pageSize: 10,
+            pageSizeOptions: [10, 25, 50, 100],
+            searchText: this.searchText,
+          }}
+          style={{ width: "100%" }}
+          components={{
+            Container: (props) => <Paper elevation={0} {...props}></Paper>,
+            Pagination: PatchedPagination,
+          }}
+          detailPanel={(rowData) => {
+            const lessonClassCode = rowData.lessonClassCode;
+            const scoreData = this.ensureScoreDataMap(lessonClassCode);
+            // console.log(lessonClassCode);
+            // console.log(scoreData);
+            return (
+              <Lesson
+                scores={scoreData}
+                lessonClassCode={lessonClassCode}
+                chartType={this.state.chartType}
+                hideUnknown={this.state.hideUnknown}
+                hideZero={this.state.hideZero}
+              />
+            );
+          }}
+          onRowClick={(event, rowData, togglePanel) => togglePanel()}
+          onSearchChange={(searchText) => {
+            this.searchText = searchText;
+            globalStateStore.setCourseSearchText(
+              this.props.courseCode,
+              searchText
+            );
+          }}
+        />
+      </StickyContainer>
     );
   }
 }

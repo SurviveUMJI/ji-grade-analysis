@@ -73,7 +73,6 @@ const BarSeriesPointBase = ({ index, color, ...restProps }) => {
   return <BarSeries.Point index={index} color={color} {...restProps} />;
 };
 
-
 const PieSeriesPointBase = ({ index, color, endAngle, ...restProps }) => {
   if (index >= 2 && index % 2 == 0 && Math.abs(endAngle - Math.PI * 2) < 1e-5) {
     color = colors[2];
