@@ -5,10 +5,9 @@ import {
   // TableHead,
   Paper,
 } from "@material-ui/core";
-import MaterialTable, { Column } from "material-table";
+import MaterialTable, { Column } from "@material-table/core";
 
 import icons from "app/components/icons";
-import { PatchedPagination } from "app/components/PatchedPagination";
 
 import { STORE_COURSES, STORE_ROUTER, STORE_GLOBAL_STATE } from "app/constants";
 import { CoursesStore, RouterStore, GlobalStateStore } from "app/stores";
@@ -40,17 +39,17 @@ export class CourseList extends React.Component<
       {
         title: "Code",
         field: "courseCode",
-        cellStyle: { width: "10%", maxWidth: "10%" },
+        width: "10%",
       },
       {
         title: "Name",
         field: "courseNameEn",
-        cellStyle: { width: "35%", maxWidth: "35%" },
+        width: "35%",
       },
       {
         title: "Name (Chinese)",
         field: "courseName",
-        cellStyle: { width: "35%", maxWidth: "35%" },
+        width: "35%",
       },
       { title: "Terms", field: "terms", sorting: false },
     ];
@@ -73,11 +72,11 @@ export class CourseList extends React.Component<
           pageSize: 10,
           pageSizeOptions: [10, 25, 50, 100],
           searchText: this.searchText,
+          columnsButton: true,
         }}
         style={{ width: "100%" }}
         components={{
           Container: (props) => <Paper elevation={0} {...props}></Paper>,
-          Pagination: PatchedPagination,
         }}
         onRowClick={(event, rowData) => {
           console.log(rowData.courseCode);

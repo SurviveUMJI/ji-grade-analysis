@@ -11,7 +11,7 @@ import {
   Grid,
   Paper,
 } from "@material-ui/core";
-import MaterialTable, { Column } from "material-table";
+import MaterialTable, { Column } from "@material-table/core";
 import icons from "app/components/icons";
 import _, { Dictionary } from "lodash";
 
@@ -19,7 +19,6 @@ import { STORE_COURSES, STORE_GLOBAL_STATE } from "app/constants";
 import CourseModel, { LessonModel } from "app/models/CourseModel";
 import { CoursesStore, GlobalStateStore } from "app/stores";
 import { Lesson, ScoreData } from "app/components/Lesson";
-import { PatchedPagination } from "app/components/PatchedPagination";
 import { StickyContainer, Sticky } from "react-sticky";
 import zIndex from "@material-ui/core/styles/zIndex";
 
@@ -56,33 +55,32 @@ export class Course extends React.Component<CourseProps, CourseState> {
       {
         title: "Code",
         field: "lessonClassCode",
-        cellStyle: { width: "20%", maxWidth: "20%" },
+        width: "20%",
       },
       {
         title: "Term",
         field: "termName",
-        cellStyle: { width: "10%", maxWidth: "10%" },
+        width: "10%",
       },
       {
         title: "Name",
         field: "lessonClassName",
-        cellStyle: { width: "25%", maxWidth: "25%" },
+        width: "25%",
       },
       {
         title: "Found",
         field: "scoreNum",
-        cellStyle: { width: "10%", maxWidth: "10%" },
+        width: "10%",
       },
       {
         title: "Elected",
         field: "studentNumStr",
-        cellStyle: { width: "10%", maxWidth: "10%" },
+        width: "10%",
       },
       {
         title: "Lecturers",
         field: "lecturersStr",
         sorting: false,
-        cellStyle: { width: "25%", maxWidth: "25%" },
       },
     ];
     this.state = {
@@ -248,13 +246,13 @@ export class Course extends React.Component<CourseProps, CourseState> {
             pageSize: 10,
             pageSizeOptions: [10, 25, 50, 100],
             searchText: this.searchText,
+            columnsButton: true,
           }}
           style={{ width: "100%" }}
           components={{
             Container: (props) => <Paper elevation={0} {...props}></Paper>,
-            Pagination: PatchedPagination,
           }}
-          detailPanel={(rowData) => {
+          detailPanel={({ rowData }) => {
             const lessonClassCode = rowData.lessonClassCode;
             const scoreData = this.ensureScoreDataMap(lessonClassCode);
             // console.log(lessonClassCode);
